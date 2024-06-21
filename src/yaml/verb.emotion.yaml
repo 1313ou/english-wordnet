@@ -48,7 +48,7 @@
   definition:
   - elicit responses, such as objections, criticism, applause, etc.
   example:
-  - The President's comments drew sharp criticism from the Republicans
+  - The President###s comments drew sharp criticism from the Republicans
   - The comedian drew a lot of laughter
   hypernym:
   - 01763170-v
@@ -98,7 +98,7 @@
   - arouse or excite feelings and passions
   example:
   - The ostentatious way of living of the rich ignites the hatred of the poor
-  - The refugees' fate stirred up compassion around the world
+  - The refugees### fate stirred up compassion around the world
   - Wake old feelings of hatred
   hypernym:
   - 01763170-v
@@ -189,7 +189,7 @@
   partOfSpeech: v
 01766815-v:
   definition:
-  - disturb (someone's) composure
+  - disturb (someone###s) composure
   example:
   - The audience was jolted by the play
   hypernym:
@@ -240,7 +240,7 @@
   definition:
   - calm by deception
   example:
-  - Don't let yourself be lulled into a false state of security
+  - Don###t let yourself be lulled into a false state of security
   hypernym:
   - 01768652-v
   ili: i30560
@@ -349,7 +349,7 @@
   definition:
   - disturb the peace of mind of; afflict with mental agitation or distress
   example:
-  - I cannot sleep — my daughter's health is worrying me
+  - I cannot sleep — my daughter###s health is worrying me
   hypernym:
   - 01768023-v
   ili: i30567
@@ -363,7 +363,7 @@
   definition:
   - worry or cause anxiety in a persistent way
   example:
-  - What's eating you?
+  - What###s eating you?
   hypernym:
   - 01769760-v
   ili: i30568
@@ -423,7 +423,7 @@
   definition:
   - be agitated or irritated
   example:
-  - don't fret over these small details
+  - don###t fret over these small details
   hypernym:
   - 01771015-v
   ili: i30574
@@ -488,7 +488,7 @@
   definition:
   - render speechless, as by surprising or shocking
   example:
-  - we were struck dumb by the candidate's announcement
+  - we were struck dumb by the candidate###s announcement
   hypernym:
   - 01771801-v
   ili: i30579
@@ -555,7 +555,7 @@
   partOfSpeech: v
 01773614-v:
   definition:
-  - move or affect (a person's emotions or bodily feelings) deeply or sharply
+  - move or affect (a person###s emotions or bodily feelings) deeply or sharply
   example:
   - The cold pierced her bones
   - Her words pierced the students
@@ -641,7 +641,7 @@
   definition:
   - evoke an emotional response
   example:
-  - Brahms's `Requiem' gets me every time
+  - Brahms###s <<<Requiem>>> gets me every time
   hypernym:
   - 01774723-v
   ili: i30592
@@ -661,7 +661,7 @@
   ili: i30593
   members:
   - get
-  - get under one's skin
+  - get under one###s skin
   partOfSpeech: v
   similar:
   - 01774960-v
@@ -864,7 +864,7 @@
   - look down on with disdain
   example:
   - He despises the people he has to work for
-  - The professor scorns the students who don't catch on immediately
+  - The professor scorns the students who don###t catch on immediately
   hypernym:
   - 01778057-v
   ili: i30610
@@ -952,7 +952,7 @@
   entails:
   - 01781131-v
   example:
-  - She fancied a necklace that she had seen in the jeweler's window
+  - She fancied a necklace that she had seen in the jeweler###s window
   hypernym:
   - 01829179-v
   ili: i30618
@@ -1160,7 +1160,7 @@
   definition:
   - be sorry; used to introduce an unpleasant statement
   example:
-  - I fear I won't make it to your wedding party
+  - I fear I won###t make it to your wedding party
   hypernym:
   - 00913515-v
   ili: i30637
@@ -1357,7 +1357,7 @@
   partOfSpeech: v
 01787844-v:
   definition:
-  - cause to lose one's nerve
+  - cause to lose one###s nerve
   example:
   - an unmanning experience
   hypernym:
@@ -1368,7 +1368,7 @@
   partOfSpeech: v
 01787967-v:
   definition:
-  - lose one's nerve
+  - lose one###s nerve
   example:
   - When he saw the accident, he freaked out
   hypernym:
@@ -1381,7 +1381,7 @@
   partOfSpeech: v
 01788114-v:
   definition:
-  - lose control of one's emotions
+  - lose control of one###s emotions
   example:
   - When she heard that she had not passed the exam, she lost it completely
   - When her baby died, she snapped
@@ -1608,7 +1608,7 @@
   partOfSpeech: v
 01791528-v:
   definition:
-  - drive up the wall; go on someone's nerves
+  - drive up the wall; go on someone###s nerves
   hypernym:
   - 01806967-v
   ili: i30673
@@ -1617,7 +1617,7 @@
   partOfSpeech: v
 01791641-v:
   definition:
-  - cause to go crazy; cause to lose one's mind
+  - cause to go crazy; cause to lose one###s mind
   ili: i30674
   members:
   - madden
@@ -1675,7 +1675,7 @@
   definition:
   - trouble or vex
   example:
-  - ruffle somebody's composure
+  - ruffle somebody###s composure
   hypernym:
   - 01791774-v
   ili: i30678
@@ -1731,7 +1731,7 @@
   partOfSpeech: v
 01793821-v:
   definition:
-  - cause to lose one's composure
+  - cause to lose one###s composure
   hypernym:
   - 01763170-v
   ili: i30682
@@ -1746,7 +1746,7 @@
   definition:
   - make (someone) self-conscious and as a result unable to act naturally
   example:
-  - his father's cold and distant demeanor inhibited him emotionally
+  - his father###s cold and distant demeanor inhibited him emotionally
   hypernym:
   - 01793821-v
   members:
@@ -1840,7 +1840,7 @@
   - 01795437-v
 01795785-v:
   definition:
-  - draw someone's attention away from something
+  - draw someone###s attention away from something
   example:
   - The thief distracted the bystanders
   - He deflected his competitors
@@ -1909,13 +1909,13 @@
   definition:
   - cause deep emotional pain and grief to somebody
   example:
-  - The young man broke the girl's heart when he told her was going to marry her best
+  - The young man broke the girl###s heart when he told her was going to marry her best
     friend
   hypernym:
   - 01796596-v
   ili: i30696
   members:
-  - break someone's heart
+  - break someone###s heart
   partOfSpeech: v
 01797206-v:
   definition:
@@ -1960,7 +1960,7 @@
   definition:
   - worry unnecessarily or excessively
   example:
-  - don't fuss too much over the grandchildren — they are quite big now
+  - don###t fuss too much over the grandchildren — they are quite big now
   hypernym:
   - 01771015-v
   ili: i30700
@@ -2050,14 +2050,14 @@
   definition:
   - get very angry and fly into a rage
   example:
-  - The professor combusted when the student didn't know the answer to a very elementary
+  - The professor combusted when the student didn###t know the answer to a very elementary
     question
   - Spam makes me go ballistic
   hypernym:
   - 01800044-v
   ili: i30708
   members:
-  - flip one's lid
+  - flip one###s lid
   - blow up
   - throw a fit
   - hit the roof
@@ -2065,10 +2065,10 @@
   - have kittens
   - have a fit
   - combust
-  - blow one's stack
+  - blow one###s stack
   - fly off the handle
-  - flip one's wig
-  - lose one's temper
+  - flip one###s wig
+  - lose one###s temper
   - blow a fuse
   - go ballistic
   partOfSpeech: v
@@ -2211,7 +2211,7 @@
   definition:
   - cause mental pain to
   example:
-  - The news of her child's illness distressed the mother
+  - The news of her child###s illness distressed the mother
   hypernym:
   - 01774422-v
   ili: i30722
@@ -2246,7 +2246,7 @@
   definition:
   - stretch to the limits
   example:
-  - rack one's brains
+  - rack one###s brains
   hypernym:
   - 01802463-v
   ili: i30725
@@ -2257,7 +2257,7 @@
   definition:
   - give pain or trouble to
   example:
-  - I've been sorely tried by these students
+  - I###ve been sorely tried by these students
   hypernym:
   - 01796596-v
   ili: i30726
@@ -2381,7 +2381,7 @@
   partOfSpeech: v
 01805062-v:
   definition:
-  - prove to be of unsound mind or demonstrate someone's incompetence
+  - prove to be of unsound mind or demonstrate someone###s incompetence
   domain_topic:
   - 08458195-n
   example:
@@ -2433,7 +2433,7 @@
   entails:
   - 01198570-v
   example:
-  - subdue one's appetites
+  - subdue one###s appetites
   - mortify the flesh
   hypernym:
   - 02516039-v
@@ -2445,7 +2445,7 @@
   partOfSpeech: v
 01806052-v:
   definition:
-  - practice self-denial of one's body and appetites
+  - practice self-denial of one###s body and appetites
   hypernym:
   - 01805829-v
   - 02559394-v
@@ -2469,7 +2469,7 @@
   partOfSpeech: v
 01806476-v:
   definition:
-  - give verbal or other expression to one's feelings
+  - give verbal or other expression to one###s feelings
   ili: i30743
   members:
   - express emotion
@@ -2535,10 +2535,10 @@
   partOfSpeech: v
 01807900-v:
   definition:
-  - maintain influence over (others or oneself) skillfully, usually to one's advantage
+  - maintain influence over (others or oneself) skillfully, usually to one###s advantage
   example:
   - She manipulates her boss
-  - She is a very controlling mother and doesn't let her children grow up
+  - She is a very controlling mother and doesn###t let her children grow up
   - The teacher knew how to keep the class in line
   - she keeps in line
   hypernym:
@@ -2701,7 +2701,7 @@
   definition:
   - attract; cause to be enamored
   example:
-  - She captured all the men's hearts
+  - She captured all the men###s hearts
   hypernym:
   - 01811849-v
   ili: i30762
@@ -2746,7 +2746,7 @@
   definition:
   - provoke the hostility of
   example:
-  - Don't antagonize your boss
+  - Don###t antagonize your boss
   hypernym:
   - 01791774-v
   ili: i30765
@@ -2840,7 +2840,7 @@
   partOfSpeech: v
 01813031-v:
   definition:
-  - surprise greatly; knock someone's socks off
+  - surprise greatly; knock someone###s socks off
   example:
   - I was floored when I heard that I was promoted
   hypernym:
@@ -2951,7 +2951,7 @@
   definition:
   - abandon hope; give up hope; lose heart
   example:
-  - Don't despair — help is on the way!
+  - Don###t despair — help is on the way!
   ili: i30782
   members:
   - despair
@@ -3149,10 +3149,10 @@
   partOfSpeech: v
 01818363-v:
   definition:
-  - lower someone's spirits; make downhearted
+  - lower someone###s spirits; make downhearted
   example:
   - These news depressed her
-  - The bad state of her child's health demoralizes her
+  - The bad state of her child###s health demoralizes her
   hypernym:
   - 01823114-v
   ili: i30799
@@ -3400,7 +3400,7 @@
   definition:
   - depress or discourage
   example:
-  - The news of the city's surrender chilled the soldiers
+  - The news of the city###s surrender chilled the soldiers
   hypernym:
   - 01818363-v
   ili: i30820
@@ -3498,7 +3498,7 @@
   - 01824240-v
   ili: i30829
   members:
-  - feast one's eyes
+  - feast one###s eyes
   partOfSpeech: v
 01824736-v:
   definition:
@@ -3593,7 +3593,7 @@
   partOfSpeech: v
 01826486-v:
   definition:
-  - express one's sympathetic grief, on the occasion of someone's death
+  - express one###s sympathetic grief, on the occasion of someone###s death
   example:
   - You must condole the widow
   hypernym:
@@ -3617,7 +3617,7 @@
   - feel concern or interest
   example:
   - I really care about my work
-  - I don't care
+  - I don###t care
   hypernym:
   - 01825946-v
   ili: i30840
@@ -3628,8 +3628,8 @@
   definition:
   - show no concern or interest; always used in the negative
   example:
-  - I don't give a hoot
-  - She doesn't give a damn about her job
+  - I don###t give a hoot
+  - She doesn###t give a damn about her job
   ili: i30841
   members:
   - care a hang
@@ -3767,7 +3767,7 @@
   definition:
   - want to have
   example:
-  - I'd like a beer now!
+  - I###d like a beer now!
   hypernym:
   - 01829179-v
   ili: i30854
@@ -3776,7 +3776,7 @@
   partOfSpeech: v
 01830002-v:
   definition:
-  - have as one's ambition
+  - have as one###s ambition
   hypernym:
   - 01829179-v
   ili: i30855
@@ -3830,7 +3830,7 @@
   partOfSpeech: v
 01831006-v:
   definition:
-  - be envious of; set one's heart on
+  - be envious of; set one###s heart on
   hypernym:
   - 01829179-v
   ili: i30860
@@ -3842,7 +3842,7 @@
   definition:
   - wish, long, or crave for (something, especially the property of another person)
   example:
-  - She covets her sister's house
+  - She covets her sister###s house
   hypernym:
   - 01831006-v
   ili: i30861
@@ -3959,7 +3959,7 @@
   partOfSpeech: v
 01833068-v:
   definition:
-  - lose one's emotional or mental composure
+  - lose one###s emotional or mental composure
   example:
   - She fell apart when her only child died
   hypernym:
@@ -4023,7 +4023,7 @@
   definition:
   - be exuberant or high-spirited
   example:
-  - Make the people's hearts glow
+  - Make the people###s hearts glow
   hypernym:
   - 01775456-v
   ili: i30877

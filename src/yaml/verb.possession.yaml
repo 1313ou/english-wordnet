@@ -17,7 +17,7 @@
   definition:
   - give reluctantly
   example:
-  - He coughed up some money for his children's tuition
+  - He coughed up some money for his children###s tuition
   hypernym:
   - 02204104-v
   ili: i32756
@@ -199,9 +199,9 @@
   example:
   - She has $1,000 in the bank
   - He has got two beautiful daughters
-  - She holds a Master's degree from Harvard
+  - She holds a Master###s degree from Harvard
   - I have two years left
-  - I don't have any money left
+  - I don###t have any money left
   - They have two more years before they retire
   ili: i32770
   members:
@@ -217,7 +217,7 @@
   example:
   - I always keep batteries in the freezer
   - keep food for a week in the pantry
-  - She keeps a sixpack and a week's worth of supplies in the refrigerator
+  - She keeps a sixpack and a week###s worth of supplies in the refrigerator
   hypernym:
   - 02208144-v
   ili: i32771
@@ -289,10 +289,10 @@
   partOfSpeech: v
 02210054-v:
   definition:
-  - take into one's possession
+  - take into one###s possession
   example:
   - We are taking an orphan from Romania
-  - I'll take three salmon steaks
+  - I###ll take three salmon steaks
   ili: i32778
   members:
   - take
@@ -433,7 +433,7 @@
   domain_topic:
   - 01092370-n
   example:
-  - I'll take a pound of that sausage
+  - I###ll take a pound of that sausage
   hypernym:
   - 02211988-v
   ili: i32790
@@ -471,7 +471,7 @@
   - engage for service under a term of contract
   example:
   - We took an apartment on a quiet street
-  - Let's rent a car
+  - Let###s rent a car
   - Shall we take a guide in Rome?
   hypernym:
   - 02215637-v
@@ -741,7 +741,7 @@
   definition:
   - refuse to grant, as of a petition or request
   example:
-  - The dean denied the students' request for more physics courses
+  - The dean denied the students### request for more physics courses
   - the prisoners were denied the right to exercise for more than 2 hours a day
   hypernym:
   - 02218472-v
@@ -796,7 +796,7 @@
   partOfSpeech: v
 02220048-v:
   definition:
-  - deduct from someone's wages
+  - deduct from someone###s wages
   hypernym:
   - 02219783-v
   ili: i32819
@@ -1577,7 +1577,7 @@
   partOfSpeech: v
 02233313-v:
   definition:
-  - transfer one's right to
+  - transfer one###s right to
   hypernym:
   - 02225243-v
   ili: i32887
@@ -1610,7 +1610,7 @@
   partOfSpeech: v
 02233837-v:
   definition:
-  - leave or give by will after one's death
+  - leave or give by will after one###s death
   example:
   - My aunt bequeathed me all her jewelry
   - My grandfather left me his entire estate
@@ -1772,7 +1772,7 @@
   partOfSpeech: v
 02236692-v:
   definition:
-  - transfer from a storage device to a computer's memory
+  - transfer from a storage device to a computer###s memory
   domain_topic:
   - 06138021-n
   hypernym:
@@ -1895,7 +1895,7 @@
   - distribute according to a plan or set apart for a special purpose
   example:
   - I am allocating a loaf of bread to everyone on a daily basis
-  - I'm allocating the rations for the camping trip
+  - I###m allocating the rations for the camping trip
   hypernym:
   - 02233480-v
   ili: i32913
@@ -1978,7 +1978,7 @@
   definition:
   - convey or reveal information
   example:
-  - Give one's name
+  - Give one###s name
   hypernym:
   - 01011267-v
   ili: i32920
@@ -2003,8 +2003,8 @@
   definition:
   - receive willingly something given or offered
   example:
-  - The only girl who would have him was the miller's daughter
-  - I won't have this dog in my house!
+  - The only girl who would have him was the miller###s daughter
+  - I won###t have this dog in my house!
   - Please accept my present
   hypernym:
   - 02215637-v
@@ -2021,7 +2021,7 @@
   - admit into a group or community
   example:
   - accept students for graduate study
-  - We'll have to vote on whether or not to admit a new member
+  - We###ll have to vote on whether or not to admit a new member
   hypernym:
   - 02240906-v
   ili: i32923
@@ -2506,7 +2506,7 @@
   partOfSpeech: v
 02249738-v:
   definition:
-  - do business; offer for sale as for one's livelihood
+  - do business; offer for sale as for one###s livelihood
   domain_topic:
   - 01092370-n
   example:
@@ -2592,7 +2592,7 @@
   domain_topic:
   - 00489236-n
   example:
-  - Who's dealing?
+  - Who###s dealing?
   hypernym:
   - 02299397-v
   ili: i32969
@@ -2667,7 +2667,7 @@
   partOfSpeech: v
 02252366-v:
   definition:
-  - sell or get rid of all one's merchandise
+  - sell or get rid of all one###s merchandise
   domain_topic:
   - 01092370-n
   entails:
@@ -2714,7 +2714,7 @@
   - get or regain something necessary, usually quickly or briefly
   example:
   - Catch some sleep
-  - catch one's breath
+  - catch one###s breath
   hypernym:
   - 02215637-v
   ili: i32978
@@ -2787,7 +2787,7 @@
   definition:
   - regain or make up for
   example:
-  - recuperate one's losses
+  - recuperate one###s losses
   hypernym:
   - 02215637-v
   ili: i32984
@@ -2924,7 +2924,7 @@
   partOfSpeech: v
 02257350-v:
   definition:
-  - pay a tenth of one's income; pay one tenth of, especially to the church
+  - pay a tenth of one###s income; pay one tenth of, especially to the church
   example:
   - Although she left the church officially, she still tithes
   hypernym:
@@ -3241,7 +3241,7 @@
   example:
   - the con artist replaced the original with a fake Rembrandt
   - substitute regular milk for fat-free milk
-  - synonyms can be interchanged without changing the context's meaning
+  - synonyms can be interchanged without changing the context###s meaning
   hypernym:
   - 00126072-v
   ili: i33025
@@ -3326,7 +3326,7 @@
   definition:
   - wrangle (over a price, terms of an agreement, etc.)
   example:
-  - Let's not haggle over a few dollars
+  - Let###s not haggle over a few dollars
   hypernym:
   - 02264636-v
   ili: i33032
@@ -3597,7 +3597,7 @@
   partOfSpeech: v
 02269205-v:
   definition:
-  - receive an academic degree upon completion of one's studies; completion of a course
+  - receive an academic degree upon completion of one###s studies; completion of a course
     or training
   example:
   - She graduated in 1990
@@ -3675,7 +3675,7 @@
   domain_topic:
   - 01092370-n
   example:
-  - don't trust my ex-wife; I won't pay her debts anymore
+  - don###t trust my ex-wife; I won###t pay her debts anymore
   exemplifies:
   - 07087487-n
   hypernym:
@@ -3730,7 +3730,7 @@
   definition:
   - spend wastefully
   example:
-  - wanton one's money away
+  - wanton one###s money away
   hypernym:
   - 02271905-v
   ili: i33067
@@ -3871,7 +3871,7 @@
   - 02362227-v
   ili: i33079
   members:
-  - tighten one's belt
+  - tighten one###s belt
   partOfSpeech: v
 02273726-v:
   definition:
@@ -3916,7 +3916,7 @@
   - structure and run according to rational or scientific principles in order to achieve
     desired results
   example:
-  - We rationalized the factory's production and raised profits
+  - We rationalized the factory###s production and raised profits
   hypernym:
   - 02437377-v
   ili: i33083
@@ -3926,7 +3926,7 @@
   partOfSpeech: v
 02274612-v:
   definition:
-  - tighten one's belt; use resources carefully
+  - tighten one###s belt; use resources carefully
   hypernym:
   - 02273988-v
   ili: i33084
@@ -3981,7 +3981,7 @@
   partOfSpeech: v
 02275493-v:
   definition:
-  - live off somebody's generosity
+  - live off somebody###s generosity
   example:
   - This young man refuses to work and is freeloading
   hypernym:
@@ -4176,7 +4176,7 @@
   - 02278138-v
 02278924-v:
   definition:
-  - take a debtor's wages on legal orders, such as for child support
+  - take a debtor###s wages on legal orders, such as for child support
   example:
   - His employer garnished his wages in order to pay his debt
   hypernym:
@@ -4199,7 +4199,7 @@
   partOfSpeech: v
 02279327-v:
   definition:
-  - seize and take control without authority and possibly with force; take as one's
+  - seize and take control without authority and possibly with force; take as one###s
     right or possession
   example:
   - He assumed to himself the right to fill all positions in the town
@@ -4239,7 +4239,7 @@
   partOfSpeech: v
 02280210-v:
   definition:
-  - demand as being one's due or property; assert one's right or title to
+  - demand as being one###s due or property; assert one###s right or title to
   example:
   - He claimed his suitcases at the airline counter
   - Mr. Smith claims special tax exemptions because he is a foreign resident
@@ -4407,7 +4407,7 @@
   partOfSpeech: v
 02282906-v:
   definition:
-  - take without referencing from someone else's writing or speech; of intellectual
+  - take without referencing from someone else###s writing or speech; of intellectual
     property
   domain_topic:
   - 00767761-n
@@ -4432,7 +4432,7 @@
   partOfSpeech: v
 02283437-v:
   definition:
-  - put in one's pocket
+  - put in one###s pocket
   example:
   - He pocketed the change
   hypernym:
@@ -4448,7 +4448,7 @@
   - 02283675-v
   ili: i33127
   members:
-  - line one's pockets
+  - line one###s pockets
   partOfSpeech: v
 02283675-v:
   definition:
@@ -4557,7 +4557,7 @@
   definition:
   - deplete
   example:
-  - exhaust one's savings
+  - exhaust one###s savings
   - We quickly played out our strength
   hypernym:
   - 01159815-v
@@ -4576,7 +4576,7 @@
   - keep or lay aside for future use
   example:
   - store grain for the winter
-  - The bear stores fat for the period of hibernation when he doesn't eat
+  - The bear stores fat for the period of hibernation when he doesn###t eat
   hypernym:
   - 02207166-v
   ili: i33138
@@ -4663,7 +4663,7 @@
   - find a place for and put away for storage
   example:
   - where should we stow the vegetables?
-  - I couldn't store all the books in the attic so I sold some
+  - I couldn###t store all the books in the attic so I sold some
   hypernym:
   - 02207166-v
   ili: i33146
@@ -4674,7 +4674,7 @@
   definition:
   - keep or store in a garage
   example:
-  - we don't garage our car
+  - we don###t garage our car
   hypernym:
   - 02287351-v
   ili: i33147
@@ -4770,7 +4770,7 @@
   - bribe
   - corrupt
   - buy
-  - grease one's palms
+  - grease one###s palms
   partOfSpeech: v
 02289274-v:
   definition:
@@ -4970,9 +4970,9 @@
   partOfSpeech: v
 02292463-v:
   definition:
-  - miss from one's possessions; lose sight of
+  - miss from one###s possessions; lose sight of
   example:
-  - I've lost my glasses again!
+  - I###ve lost my glasses again!
   ili: i33170
   members:
   - lose
@@ -5009,11 +5009,11 @@
   partOfSpeech: v
 02293158-v:
   definition:
-  - win something through one's efforts
+  - win something through one###s efforts
   example:
   - I acquired a passing knowledge of Chinese
   - Gain an understanding of international finance
-  - win someone's confidence and friendship
+  - win someone###s confidence and friendship
   hypernym:
   - 02215637-v
   ili: i33174
@@ -5105,9 +5105,9 @@
   partOfSpeech: v
 02295101-v:
   definition:
-  - acquire or deserve by one's efforts or actions
+  - acquire or deserve by one###s efforts or actions
   example:
-  - its beauty won Paris the name `City of Lights'
+  - its beauty won Paris the name <<<City of Lights>>>
   hypernym:
   - 02215637-v
   ili: i33181
@@ -5140,7 +5140,7 @@
   partOfSpeech: v
 02295717-v:
   definition:
-  - enlarge one's holdings on an exchange on a continued rise by using paper profits
+  - enlarge one###s holdings on an exchange on a continued rise by using paper profits
     as margin to buy additional amounts
   domain_topic:
   - 01101341-n
@@ -5166,7 +5166,7 @@
   definition:
   - be agreeable or suitable
   example:
-  - White wine doesn't agree with me
+  - White wine doesn###t agree with me
   hypernym:
   - 02741157-v
   ili: i33186
@@ -5244,7 +5244,7 @@
   definition:
   - obtain
   example:
-  - derive pleasure from one's garden
+  - derive pleasure from one###s garden
   hypernym:
   - 02242867-v
   ili: i33192
@@ -5278,7 +5278,7 @@
   partOfSpeech: v
 02297496-v:
   definition:
-  - appropriate (as property entrusted to one's care) fraudulently to one's own use
+  - appropriate (as property entrusted to one###s care) fraudulently to one###s own use
   example:
   - The accountant embezzled thousands of dollars while working for the wealthy family
   hypernym:
@@ -5293,7 +5293,7 @@
   partOfSpeech: v
 02297950-v:
   definition:
-  - commit fraud and steal from one's employer
+  - commit fraud and steal from one###s employer
   example:
   - We found out that she had been fiddling for years
   hypernym:
@@ -5368,7 +5368,7 @@
   partOfSpeech: v
 02299140-v:
   definition:
-  - give out as one's portion or share
+  - give out as one###s portion or share
   entails:
   - 01560556-v
   hypernym:
@@ -5409,7 +5409,7 @@
   partOfSpeech: v
 02300043-v:
   definition:
-  - determine the quantity of someone's share
+  - determine the quantity of someone###s share
   entails:
   - 02299140-v
   hypernym:
@@ -5766,7 +5766,7 @@
   partOfSpeech: v
 02305961-v:
   definition:
-  - bid over an opponent's bid when one's partner has not bid or doubled
+  - bid over an opponent###s bid when one###s partner has not bid or doubled
   domain_topic:
   - 00491580-n
   hypernym:
@@ -5820,9 +5820,9 @@
   partOfSpeech: v
 02306786-v:
   definition:
-  - take on as one's own the expenses or debts of another person
+  - take on as one###s own the expenses or debts of another person
   example:
-  - I'll accept the charges
+  - I###ll accept the charges
   - She agreed to bear the responsibility
   hypernym:
   - 02210054-v
@@ -5835,7 +5835,7 @@
   partOfSpeech: v
 02307042-v:
   definition:
-  - accept the unpleasant consequences of one's actions
+  - accept the unpleasant consequences of one###s actions
   hypernym:
   - 02306786-v
   ili: i33242
@@ -5902,7 +5902,7 @@
   definition:
   - lose (something) or lose the right to (something) by some error, offense, or crime
   example:
-  - you've forfeited your right to name your successor
+  - you###ve forfeited your right to name your successor
   - forfeited property
   hypernym:
   - 02232813-v
@@ -5990,7 +5990,7 @@
   partOfSpeech: v
 02309842-v:
   definition:
-  - take greedily; take more than one's share
+  - take greedily; take more than one###s share
   hypernym:
   - 02309628-v
   ili: i33255
@@ -6001,7 +6001,7 @@
   definition:
   - get or gather together
   example:
-  - I am accumulating evidence for the man's unfaithfulness to his wife
+  - I am accumulating evidence for the man###s unfaithfulness to his wife
   - She is amassing a lot of data for her thesis
   - She rolled up a small fortune
   hypernym:
@@ -6199,7 +6199,7 @@
   definition:
   - tax excessively
   example:
-  - Don't overtax my constituents!
+  - Don###t overtax my constituents!
   hypernym:
   - 02312527-v
   ili: i33272
@@ -6412,7 +6412,7 @@
   - remove (a commodity) from (a supply source)
   example:
   - She drew $2,000 from the account
-  - The doctors drew medical supplies from the hospital's emergency bank
+  - The doctors drew medical supplies from the hospital###s emergency bank
   hypernym:
   - 00173351-v
   ili: i33290
@@ -6461,7 +6461,7 @@
   definition:
   - draw from or dip into to get something
   example:
-  - tap one's memory
+  - tap one###s memory
   - tap a source of money
   hypernym:
   - 02316367-v
@@ -6796,7 +6796,7 @@
   definition:
   - lessen and make more modest
   example:
-  - reduce one's standard of living
+  - reduce one###s standard of living
   hypernym:
   - 02322641-v
   ili: i33324
@@ -6818,7 +6818,7 @@
   definition:
   - reduce to bankruptcy
   example:
-  - My daughter's fancy wedding is going to break me!
+  - My daughter###s fancy wedding is going to break me!
   - The slump in the financial markets smashed him
   hypernym:
   - 02322641-v
@@ -6852,14 +6852,14 @@
   partOfSpeech: v
 02323823-v:
   definition:
-  - enrich oneself by taking advantage of one's position
+  - enrich oneself by taking advantage of one###s position
   example:
   - The congressmen feathered his nest through his connection with big business
   hypernym:
   - 02323628-v
   ili: i33329
   members:
-  - feather one's nest
+  - feather one###s nest
   partOfSpeech: v
 02324030-v:
   definition:
@@ -7033,7 +7033,7 @@
   partOfSpeech: v
 02326737-v:
   definition:
-  - take without the owner's consent
+  - take without the owner###s consent
   example:
   - Someone stole my wallet on the train
   - This author stole entire paragraphs from my dissertation
@@ -7128,7 +7128,7 @@
   domain_topic:
   - 01092370-n
   example:
-  - let's stock coffee as long as prices are low
+  - let###s stock coffee as long as prices are low
   hypernym:
   - 02332196-v
   ili: i33352
@@ -7211,7 +7211,7 @@
   definition:
   - be a contributing factor
   example:
-  - make things factor into a company's profitability
+  - make things factor into a company###s profitability
   hypernym:
   - 02329474-v
   ili: i33359
@@ -7276,7 +7276,7 @@
   partOfSpeech: v
 02330964-v:
   definition:
-  - do one's shopping
+  - do one###s shopping
   domain_topic:
   - 01092370-n
   entails:
@@ -7308,7 +7308,7 @@
   domain_topic:
   - 01092370-n
   example:
-  - I don't need help, I'm just browsing
+  - I don###t need help, I###m just browsing
   hypernym:
   - 01318273-v
   ili: i33367
@@ -7627,7 +7627,7 @@
   definition:
   - provide funds complementary to
   example:
-  - The company matched the employees' contributions
+  - The company matched the employees### contributions
   hypernym:
   - 02332196-v
   ili: i33394
@@ -8056,7 +8056,7 @@
   partOfSpeech: v
 02343868-v:
   definition:
-  - fill (a ship's bunker) with coal or oil
+  - fill (a ship###s bunker) with coal or oil
   hypernym:
   - 02343382-v
   ili: i33434
@@ -8276,7 +8276,7 @@
   partOfSpeech: v
 02347796-v:
   definition:
-  - make steady progress; be at the high point in one's career or reach a high point
+  - make steady progress; be at the high point in one###s career or reach a high point
     in historical significance or importance
   example:
   - The new student is thriving
@@ -8384,7 +8384,7 @@
   - 01156413-v
 02349377-v:
   definition:
-  - act or give recompense in recognition of someone's behavior or actions
+  - act or give recompense in recognition of someone###s behavior or actions
   hypernym:
   - 02372362-v
   ili: i33463
@@ -8508,7 +8508,7 @@
   partOfSpeech: v
 02351720-v:
   definition:
-  - take up and practice as one's own
+  - take up and practice as one###s own
   hypernym:
   - 02240906-v
   ili: i33472
@@ -8540,7 +8540,7 @@
   domain_topic:
   - 01092370-n
   example:
-  - pawn your grandfather's gold watch
+  - pawn your grandfather###s gold watch
   hypernym:
   - 02352633-v
   ili: i33474
@@ -8659,7 +8659,7 @@
   definition:
   - confer a trust upon
   example:
-  - The messenger was entrusted with the general's secret
+  - The messenger was entrusted with the general###s secret
   - I commit my soul to God
   hypernym:
   - 02235554-v
@@ -8710,7 +8710,7 @@
   partOfSpeech: v
 02355061-v:
   definition:
-  - keep in one's possession; of animals
+  - keep in one###s possession; of animals
   hypernym:
   - 02207166-v
   ili: i33489
@@ -8804,7 +8804,7 @@
   partOfSpeech: v
 02356463-v:
   definition:
-  - sell cheaper than one's competition
+  - sell cheaper than one###s competition
   entails:
   - 02324408-v
   hypernym:
@@ -9063,7 +9063,7 @@
   definition:
   - give, sell, or transfer to another
   example:
-  - She disposed of her parents' possessions
+  - She disposed of her parents### possessions
   hypernym:
   - 02247246-v
   ili: i33522
@@ -9158,7 +9158,7 @@
   - put into the care or protection of someone
   example:
   - He left the decision to his deputy
-  - leave your child in the nurse's care
+  - leave your child in the nurse###s care
   hypernym:
   - 02235554-v
   ili: i33530
@@ -9310,7 +9310,7 @@
   definition:
   - deliver (a blow)
   example:
-  - He landed several blows on his opponent's head
+  - He landed several blows on his opponent###s head
   hypernym:
   - 02363326-v
   ili: i33543
@@ -9386,7 +9386,7 @@
   definition:
   - deliver in exchange or recompense
   example:
-  - I'll give you three books for four CDs
+  - I###ll give you three books for four CDs
   hypernym:
   - 02255433-v
   ili: i33549
@@ -9567,7 +9567,7 @@
   partOfSpeech: v
 02367459-v:
   definition:
-  - take or assume for one's own use
+  - take or assume for one###s own use
   example:
   - He co-opted the criticism and embraced it
   hypernym:
@@ -9932,7 +9932,7 @@
   partOfSpeech: v
 90000191-v:
   definition:
-  - to return someone's following of you on a social media platform
+  - to return someone###s following of you on a social media platform
   hypernym:
   - 90000231-v
   members:
@@ -9941,7 +9941,7 @@
   source: Colloquial WordNet
 90000201-v:
   definition:
-  - to subscribe to someone's updates on social media
+  - to subscribe to someone###s updates on social media
   domain_topic:
   - 90000431-n
   hypernym:

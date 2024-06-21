@@ -252,7 +252,7 @@
   members:
   - academic gown
   - academic robe
-  - judge's robe
+  - judge###s robe
   partOfSpeech: n
 02672515-n:
   definition:
@@ -1106,7 +1106,7 @@
   partOfSpeech: n
 02686650-n:
   definition:
-  - a fragrant lotion for a man's face after shaving
+  - a fragrant lotion for a man###s face after shaving
   hypernym:
   - 03696264-n
   ili: i49857
@@ -1127,7 +1127,7 @@
   partOfSpeech: n
 02686942-n:
   definition:
-  - a cord (usually of goat's hair) that Arabs (especially Bedouins) wind around their
+  - a cord (usually of goat###s hair) that Arabs (especially Bedouins) wind around their
     heads to hold down the kaffiyeh
   hypernym:
   - 03110761-n
@@ -1767,7 +1767,7 @@
   - 03641539-n
   ili: i49916
   members:
-  - Aladdin's lamp
+  - Aladdin###s lamp
   partOfSpeech: n
 02697285-n:
   definition:
@@ -1938,7 +1938,7 @@
   partOfSpeech: n
 02700080-n:
   definition:
-  - women's clothing that has a fitted top and a flared skirt that is widest at the
+  - women###s clothing that has a fitted top and a flared skirt that is widest at the
     hemline
   example:
   - it is called the A-line because the effect resembles the capital letter A
@@ -2101,7 +2101,7 @@
   members:
   - altar
   - communion table
-  - Lord's table
+  - Lord###s table
   partOfSpeech: n
 02702629-n:
   definition:
@@ -2213,7 +2213,7 @@
   partOfSpeech: n
 02704119-n:
   definition:
-  - area reserved for persons leading the responsive `amens'
+  - area reserved for persons leading the responsive <<<amens>>>
   hypernym:
   - 03114532-n
   ili: i49959
@@ -3735,7 +3735,7 @@
 02732289-n:
   definition:
   - (classical mythology) a golden apple thrown into a banquet of the gods by Eris
-    (goddess of discord — who had not been invited); the apple had `for the fairest'
+    (goddess of discord — who had not been invited); the apple had <<<for the fairest>>>
     written on it and Hera and Athena and Aphrodite all claimed it; when Paris (prince
     of Troy) awarded it to Aphrodite it began a chain of events that led to the Trojan
     War
@@ -4698,7 +4698,7 @@
 02749013-n:
   definition:
   - a machine that uses dialysis to remove impurities and waste products from the
-    bloodstream before returning the blood to the patient's body
+    bloodstream before returning the blood to the patient###s body
   hypernym:
   - 03192435-n
   ili: i50192
@@ -4740,13 +4740,13 @@
   partOfSpeech: n
 02749688-n:
   definition:
-  - a factory loft that has been converted into an artist's workroom and living area
+  - a factory loft that has been converted into an artist###s workroom and living area
   hypernym:
   - 03691796-n
   - 02749846-n
   ili: i50196
   members:
-  - artist's loft
+  - artist###s loft
   partOfSpeech: n
 02749846-n:
   definition:
@@ -4755,7 +4755,7 @@
   - 04351324-n
   ili: i50197
   members:
-  - artist's workroom
+  - artist###s workroom
   - atelier
   partOfSpeech: n
 02749983-n:
@@ -4826,7 +4826,7 @@
   partOfSpeech: n
 02750807-n:
   definition:
-  - a receptacle for the ash from smokers' cigars or cigarettes
+  - a receptacle for the ash from smokers### cigars or cigarettes
   hypernym:
   - 04068016-n
   ili: i50204
@@ -4997,7 +4997,7 @@
   partOfSpeech: n
 02753657-n:
   definition:
-  - has a moving magnet and astatic coils arranged to cancel the effect of the Earth's
+  - has a moving magnet and astatic coils arranged to cancel the effect of the Earth###s
     magnetic field
   hypernym:
   - 03418174-n
@@ -5058,7 +5058,7 @@
   partOfSpeech: n
 02754628-n:
   definition:
-  - one of the world's largest dams on the Nile River in southern Egypt
+  - one of the world###s largest dams on the Nile River in southern Egypt
   ili: i50226
   instance_hypernym:
   - 03164975-n
@@ -5402,7 +5402,7 @@
   partOfSpeech: n
 02760216-n:
   definition:
-  - a graphical representation of a person's auditory sensitivity to sound
+  - a graphical representation of a person###s auditory sensitivity to sound
   hypernym:
   - 04083958-n
   ili: i50257
@@ -5781,7 +5781,7 @@
   partOfSpeech: n
 02765730-n:
   definition:
-  - (nautical) an extra boiler (as a ship's boiler that is used while the ship is
+  - (nautical) an extra boiler (as a ship###s boiler that is used while the ship is
     in port)
   domain_topic:
   - 04201332-n
@@ -6014,7 +6014,7 @@
   partOfSpeech: n
 02769173-n:
   definition:
-  - a woman's headscarf folded into a triangle and tied under the chin; worn by Russian
+  - a woman###s headscarf folded into a triangle and tied under the chin; worn by Russian
     peasant women
   hypernym:
   - 03510648-n
@@ -6030,7 +6030,7 @@
   ili: i50314
   members:
   - baby bed
-  - baby's bed
+  - baby###s bed
   partOfSpeech: n
 02769539-n:
   definition:
@@ -6074,7 +6074,7 @@
   partOfSpeech: n
 02770043-n:
   definition:
-  - powder used to prevent a baby's diaper from chafing
+  - powder used to prevent a baby###s diaper from chafing
   hypernym:
   - 04000366-n
   ili: i50318
@@ -6116,7 +6116,7 @@
   definition:
   - the part of a garment that covers the back of your body
   example:
-  - they pinned a `kick me' sign on his back
+  - they pinned a <<<kick me>>> sign on his back
   hypernym:
   - 03054011-n
   ili: i50322
@@ -6586,7 +6586,7 @@
   partOfSpeech: n
 02778044-n:
   definition:
-  - a railway car where passengers' bags are carried
+  - a railway car where passengers### bags are carried
   hypernym:
   - 02963378-n
   ili: i50365
@@ -6994,7 +6994,7 @@
 02784540-n:
   definition:
   - a physical pendulum consisting of a large mass suspended from a rod; when it is
-    struck by a projectile its displacement is used to measure the projectile's velocity
+    struck by a projectile its displacement is used to measure the projectile###s velocity
   hypernym:
   - 03934030-n
   ili: i50404
@@ -7700,7 +7700,7 @@
   definition:
   - a long pole used to propel or guide a barge
   example:
-  - I wouldn't touch it with a barge pole
+  - I wouldn###t touch it with a barge pole
   hypernym:
   - 03983015-n
   ili: i50470
@@ -7739,7 +7739,7 @@
   partOfSpeech: n
 02796437-n:
   definition:
-  - a catcher's mask with bars
+  - a catcher###s mask with bars
   hypernym:
   - 02986644-n
   ili: i50474
@@ -7940,7 +7940,7 @@
   partOfSpeech: n
 02799477-n:
   definition:
-  - a pin for holding women's hair in place
+  - a pin for holding women###s hair in place
   hypernym:
   - 03946532-n
   ili: i50492
@@ -8450,7 +8450,7 @@
   partOfSpeech: n
 02807580-n:
   definition:
-  - a basket (usually hooded) used as a baby's bed
+  - a basket (usually hooded) used as a baby###s bed
   hypernym:
   - 02769325-n
   ili: i50537
@@ -8861,7 +8861,7 @@
   - 02887848-n
   ili: i50577
   members:
-  - batter's box
+  - batter###s box
   partOfSpeech: n
 02813606-n:
   definition:
@@ -9336,7 +9336,7 @@
   partOfSpeech: n
 02820386-n:
   definition:
-  - a rein designed to keep the horse's head in the desired position
+  - a rein designed to keep the horse###s head in the desired position
   hypernym:
   - 04079663-n
   ili: i50624
@@ -9387,7 +9387,7 @@
   partOfSpeech: n
 02821162-n:
   definition:
-  - a spot that is worn on a lady's face for adornment
+  - a spot that is worn on a lady###s face for adornment
   hypernym:
   - 02684372-n
   ili: i50629
@@ -9550,7 +9550,7 @@
   - Bedlam
   - booby hatch
   - crazy house
-  - cuckoo's nest
+  - cuckoo###s nest
   - funny farm
   - funny house
   - loony bin
@@ -9948,7 +9948,7 @@
   partOfSpeech: n
 02829643-n:
   definition:
-  - a handle or cord that is pulled to ring a doorbell or a servant's bell etc.
+  - a handle or cord that is pulled to ring a doorbell or a servant###s bell etc.
   hypernym:
   - 04026090-n
   ili: i50682
@@ -10374,7 +10374,7 @@
   partOfSpeech: n
 02836345-n:
   definition:
-  - a licensed bookmaker's shop that is not at the race track
+  - a licensed bookmaker###s shop that is not at the race track
   domain_region:
   - 08879115-n
   hypernym:
@@ -10539,7 +10539,7 @@
   partOfSpeech: n
 02838756-n:
   definition:
-  - a clip worn around a cyclist's ankles that keeps trousers from becoming caught
+  - a clip worn around a cyclist###s ankles that keeps trousers from becoming caught
     in the bicycle chain
   hypernym:
   - 03047943-n
@@ -10676,7 +10676,7 @@
   partOfSpeech: n
 02840523-n:
   definition:
-  - a child's tight-fitting cap; often ties under the chin
+  - a child###s tight-fitting cap; often ties under the chin
   hypernym:
   - 02957776-n
   ili: i50751
@@ -10720,7 +10720,7 @@
   partOfSpeech: n
 02841003-n:
   definition:
-  - a woman's very brief bathing suit
+  - a woman###s very brief bathing suit
   hypernym:
   - 04378650-n
   ili: i50755
@@ -10750,7 +10750,7 @@
   partOfSpeech: n
 02841413-n:
   definition:
-  - either of two lengthwise fins attached along the outside of a ship's bilge; reduces
+  - either of two lengthwise fins attached along the outside of a ship###s bilge; reduces
     rolling
   hypernym:
   - 03614755-n
@@ -10960,7 +10960,7 @@
   partOfSpeech: n
 02844416-n:
   definition:
-  - a nonmagnetic housing for a ship's compass (usually in front of the helm)
+  - a nonmagnetic housing for a ship###s compass (usually in front of the helm)
   hypernym:
   - 03551946-n
   ili: i50778
@@ -11120,7 +11120,7 @@
   partOfSpeech: n
 02846603-n:
   definition:
-  - a catcher's mask with a strong wire face
+  - a catcher###s mask with a strong wire face
   hypernym:
   - 02986644-n
   ili: i50793
@@ -11215,7 +11215,7 @@
   partOfSpeech: n
 02847952-n:
   definition:
-  - piece of metal held in horse's mouth by reins and used to control the horse while
+  - piece of metal held in horse###s mouth by reins and used to control the horse while
     riding
   example:
   - the horse was not accustomed to a bit
@@ -12152,8 +12152,8 @@
   - 04168419-n
   ili: i50890
   members:
-  - boatswain's chair
-  - bosun's chair
+  - boatswain###s chair
+  - bosun###s chair
   partOfSpeech: n
 02863069-n:
   definition:
@@ -12322,7 +12322,7 @@
   partOfSpeech: n
 02865388-n:
   definition:
-  - armor that protects the wearer's whole body
+  - armor that protects the wearer###s whole body
   hypernym:
   - 02742673-n
   ili: i50907
@@ -12703,7 +12703,7 @@
   definition:
   - an unexploded bomblet
   example:
-  - unexploded bomblets known in Laos as `bombies' caused farmers to fear cultivating
+  - unexploded bomblets known in Laos as <<<bombies>>> caused farmers to fear cultivating
     their fields
   hypernym:
   - 02871580-n
@@ -12879,7 +12879,7 @@
   partOfSpeech: n
 02874133-n:
   definition:
-  - a bookbinder's workshop; a place for binding books
+  - a bookbinder###s workshop; a place for binding books
   hypernym:
   - 04610439-n
   ili: i50956
@@ -12910,7 +12910,7 @@
 02874508-n:
   definition:
   - a marker (a piece of paper or ribbon) placed between the pages of a book to mark
-    the reader's place
+    the reader###s place
   hypernym:
   - 03727288-n
   ili: i50959
@@ -13391,7 +13391,7 @@
   partOfSpeech: n
 02881776-n:
   definition:
-  - a lady's bedroom or private sitting room
+  - a lady###s bedroom or private sitting room
   hypernym:
   - 02824762-n
   ili: i51005
@@ -13456,7 +13456,7 @@
   wikidata: Q2385849
 02882551-n:
   definition:
-  - a shop that sells women's clothes and jewelry
+  - a shop that sells women###s clothes and jewelry
   hypernym:
   - 04209460-n
   ili: i51011
@@ -13705,7 +13705,7 @@
   partOfSpeech: n
 02886342-n:
   definition:
-  - the string of an archer's bow
+  - the string of an archer###s bow
   hypernym:
   - 03110761-n
   ili: i51034
@@ -13714,7 +13714,7 @@
   partOfSpeech: n
 02886446-n:
   definition:
-  - a man's tie that ties in a bow
+  - a man###s tie that ties in a bow
   hypernym:
   - 03821155-n
   ili: i51035
@@ -13764,7 +13764,7 @@
   partOfSpeech: n
 02887691-n:
   definition:
-  - the driver's seat on a coach
+  - the driver###s seat on a coach
   example:
   - an armed guard sat in the box with the driver
   hypernym:
@@ -13779,7 +13779,7 @@
   - any one of several designated areas on a ball field where the batter or catcher
     or coaches are positioned
   example:
-  - the umpire warned the batter to stay in the batter's box
+  - the umpire warned the batter to stay in the batter###s box
   hypernym:
   - 02738693-n
   ili: i51040
@@ -13934,7 +13934,7 @@
   partOfSpeech: n
 02890148-n:
   definition:
-  - a carpenter's tool having a crank handle for turning and a socket to hold a bit
+  - a carpenter###s tool having a crank handle for turning and a socket to hold a bit
     for boring
   hypernym:
   - 04328942-n
@@ -14193,7 +14193,7 @@
 02894181-n:
   definition:
   - a restraint provided when the brake linings are moved hydraulically against the
-    brake drum to retard the wheel's rotation
+    brake drum to retard the wheel###s rotation
   hypernym:
   - 04088956-n
   ili: i51080
@@ -14495,7 +14495,7 @@
   partOfSpeech: n
 02898590-n:
   definition:
-  - a pocket inside of a man's coat
+  - a pocket inside of a man###s coat
   hypernym:
   - 03978882-n
   ili: i51107
@@ -14504,7 +14504,7 @@
   partOfSpeech: n
 02898700-n:
   definition:
-  - a device that measures chemicals (especially the alcohol content) in a person's
+  - a device that measures chemicals (especially the alcohol content) in a person###s
     expired breath
   hypernym:
   - 03187746-n
@@ -14691,7 +14691,7 @@
   - 03486255-n
   ili: i51124
   members:
-  - bricklayer's hammer
+  - bricklayer###s hammer
   partOfSpeech: n
 02901552-n:
   definition:
@@ -14701,7 +14701,7 @@
   ili: i51125
   members:
   - brick trowel
-  - mason's trowel
+  - mason###s trowel
   partOfSpeech: n
 02901652-n:
   definition:
@@ -15303,7 +15303,7 @@
   partOfSpeech: n
 02910519-n:
   definition:
-  - a sedan that has no roof over the driver's seat
+  - a sedan that has no roof over the driver###s seat
   hypernym:
   - 04173342-n
   ili: i51185
@@ -15363,7 +15363,7 @@
   partOfSpeech: n
 02911448-n:
   definition:
-  - a woman's short housecoat or wrapper
+  - a woman###s short housecoat or wrapper
   hypernym:
   - 03823187-n
   ili: i51191
@@ -15897,7 +15897,7 @@
   partOfSpeech: n
 02920953-n:
   definition:
-  - a small carpenter's plane with the cutting edge near the front
+  - a small carpenter###s plane with the cutting edge near the front
   hypernym:
   - 03961007-n
   ili: i51240
@@ -16119,7 +16119,7 @@
   definition:
   - a large container for storing fuel
   example:
-  - the ship's bunkers were full of coal
+  - the ship###s bunkers were full of coal
   hypernym:
   - 03099154-n
   ili: i51262
@@ -16350,7 +16350,7 @@
   partOfSpeech: n
 02927407-n:
   definition:
-  - a variant of `burden'
+  - a variant of <<<burden>>>
   hypernym:
   - 03685312-n
   ili: i51284
@@ -16530,7 +16530,7 @@
   partOfSpeech: n
 02929975-n:
   definition:
-  - a framework worn at the back below the waist for giving fullness to a woman's
+  - a framework worn at the back below the waist for giving fullness to a woman###s
     skirt
   hypernym:
   - 03396616-n
@@ -16777,13 +16777,13 @@
   partOfSpeech: n
 02933598-n:
   definition:
-  - trademark for men's underwear
+  - trademark for men###s underwear
   hypernym:
   - 04516244-n
   ili: i51325
   members:
   - BVD
-  - BVD's
+  - BVD###s
   partOfSpeech: n
 02933723-n:
   definition:
@@ -16863,7 +16863,7 @@
   - a spot that is open late at night and that provides entertainment (as singers
     or dancers) as well as dancing and food and drink
   example:
-  - don't expect a good meal at a cabaret
+  - don###t expect a good meal at a cabaret
   - the gossip columnist got his information by visiting nightclubs every night
   - he played the drums at a jazz club
   hypernym:
@@ -17182,7 +17182,7 @@
   partOfSpeech: n
 02939954-n:
   definition:
-  - a woman's dress style that imitates the caftan cloaks worn by men in the Near
+  - a woman###s dress style that imitates the caftan cloaks worn by men in the Near
     East
   hypernym:
   - 03241438-n
@@ -17298,7 +17298,7 @@
   partOfSpeech: n
 02941479-n:
   definition:
-  - a woman's large folded hooped hood; worn in the 18th century
+  - a woman###s large folded hooped hood; worn in the 18th century
   hypernym:
   - 03536461-n
   ili: i51373
@@ -17569,7 +17569,7 @@
   - 03314753-n
   ili: i51399
   members:
-  - camel's hair
+  - camel###s hair
   - camelhair
   partOfSpeech: n
 02946032-n:
@@ -17672,7 +17672,7 @@
   partOfSpeech: n
 02947711-n:
   definition:
-  - a fabric of Asian origin; originally made of silk and camel's hair
+  - a fabric of Asian origin; originally made of silk and camel###s hair
   hypernym:
   - 03314753-n
   ili: i51409
@@ -18528,7 +18528,7 @@
   - 02741540-n
   ili: i51493
   members:
-  - captain's chair
+  - captain###s chair
   partOfSpeech: n
 02961438-n:
   definition:
@@ -18679,7 +18679,7 @@
 02964661-n:
   definition:
   - a lead-acid storage battery in a motor vehicle; usually a 12-volt battery of six
-    cells; the heart of the car's electrical system
+    cells; the heart of the car###s electrical system
   hypernym:
   - 03656714-n
   ili: i51503
@@ -19065,18 +19065,18 @@
   - 03486255-n
   ili: i51539
   members:
-  - carpenter's hammer
+  - carpenter###s hammer
   - claw hammer
   - clawhammer
   partOfSpeech: n
 02970139-n:
   definition:
-  - a set of carpenter's tools
+  - a set of carpenter###s tools
   hypernym:
   - 03624605-n
   ili: i51540
   members:
-  - carpenter's kit
+  - carpenter###s kit
   - tool kit
   partOfSpeech: n
 02970238-n:
@@ -19086,7 +19086,7 @@
   - 02791712-n
   ili: i51541
   members:
-  - carpenter's level
+  - carpenter###s level
   mero_part:
   - 03664184-n
   partOfSpeech: n
@@ -19097,7 +19097,7 @@
   - 03720925-n
   ili: i51542
   members:
-  - carpenter's mallet
+  - carpenter###s mallet
   partOfSpeech: n
 02970533-n:
   definition:
@@ -19106,7 +19106,7 @@
   - 04125870-n
   ili: i51543
   members:
-  - carpenter's rule
+  - carpenter###s rule
   partOfSpeech: n
 02970622-n:
   definition:
@@ -19115,7 +19115,7 @@
   - 04298380-n
   ili: i51544
   members:
-  - carpenter's square
+  - carpenter###s square
   partOfSpeech: n
 02970746-n:
   definition:
@@ -19276,7 +19276,7 @@
   partOfSpeech: n
 02973213-n:
   definition:
-  - either of a pair of strong posts that support a windlass on a ship's deck
+  - either of a pair of strong posts that support a windlass on a ship###s deck
   hypernym:
   - 03994528-n
   ili: i51560
@@ -19640,8 +19640,8 @@
   ili: i51593
   members:
   - case
-  - compositor's case
-  - typesetter's case
+  - compositor###s case
+  - typesetter###s case
   partOfSpeech: n
 02979453-n:
   definition:
@@ -20131,7 +20131,7 @@
   - 02803056-n
   ili: i51640
   members:
-  - catcher's mask
+  - catcher###s mask
   partOfSpeech: n
 02986812-n:
   definition:
@@ -20171,7 +20171,7 @@
   ili: i51644
   members:
   - cathedra
-  - bishop's throne
+  - bishop###s throne
   partOfSpeech: n
 02987516-n:
   definition:
@@ -20186,7 +20186,7 @@
   partOfSpeech: n
 02987658-n:
   definition:
-  - the principal Christian church building of a bishop's diocese
+  - the principal Christian church building of a bishop###s diocese
   hypernym:
   - 03031762-n
   ili: i51646
@@ -20268,7 +20268,7 @@
   - 04585055-n
   ili: i51653
   members:
-  - cat-o'-nine-tails
+  - cat-o###-nine-tails
   - cat
   partOfSpeech: n
 02989213-n:
@@ -20287,7 +20287,7 @@
   - 03527797-n
   ili: i51655
   members:
-  - cat's-paw
+  - cat###s-paw
   partOfSpeech: n
 02989418-n:
   definition:
@@ -20488,7 +20488,7 @@
   partOfSpeech: n
 02992418-n:
   definition:
-  - a drive that is connected to a computer and on which a CD-ROM can be `played'
+  - a drive that is connected to a computer and on which a CD-ROM can be <<<played>>>
   hypernym:
   - 03247921-n
   ili: i51675
@@ -21522,7 +21522,7 @@
   partOfSpeech: n
 03009223-n:
   definition:
-  - medieval plate armor to protect a horse's head
+  - medieval plate armor to protect a horse###s head
   hypernym:
   - 02743769-n
   ili: i51771
@@ -21759,7 +21759,7 @@
   partOfSpeech: n
 03013131-n:
   definition:
-  - the navy yard in Boston where the frigate `Constitution' is anchored
+  - the navy yard in Boston where the frigate <<<Constitution>>> is anchored
   ili: i51793
   instance_hypernym:
   - 03819244-n
@@ -22037,7 +22037,7 @@
   partOfSpeech: n
 03017234-n:
   definition:
-  - a woman's sleeveless undergarment
+  - a woman###s sleeveless undergarment
   hypernym:
   - 04515458-n
   ili: i51821
@@ -22292,7 +22292,7 @@
   - 02824762-n
   ili: i51845
   members:
-  - child's room
+  - child###s room
   partOfSpeech: n
 03020822-n:
   definition:
@@ -22775,7 +22775,7 @@
   partOfSpeech: n
 03028565-n:
   definition:
-  - necklace that fits tightly around a woman's neck
+  - necklace that fits tightly around a woman###s neck
   hypernym:
   - 03820446-n
   ili: i51892
@@ -22797,7 +22797,7 @@
   partOfSpeech: n
 03028848-n:
   definition:
-  - a child's word for locomotive
+  - a child###s word for locomotive
   hypernym:
   - 03690149-n
   ili: i51894
@@ -22806,7 +22806,7 @@
   partOfSpeech: n
 03028933-n:
   definition:
-  - a woman's shoe with a very high thick sole
+  - a woman###s shoe with a very high thick sole
   hypernym:
   - 04206070-n
   ili: i51895
@@ -23111,7 +23111,7 @@
   - a chute through which supraglacial water enters a glacier, boring either to the
     bedrock or to the depth of common crevasse formation
   example:
-  - the icy river plunged, roaring, into the moulin's blue depths
+  - the icy river plunged, roaring, into the moulin###s blue depths
   hypernym:
   - 03033305-n
   members:
@@ -23265,7 +23265,7 @@
   partOfSpeech: n
 03035741-n:
   definition:
-  - stable gear consisting of a band around a horse's belly that holds the saddle
+  - stable gear consisting of a band around a horse###s belly that holds the saddle
     in place
   hypernym:
   - 04302219-n
@@ -23386,7 +23386,7 @@
 03037971-n:
   definition:
   - a printed circuit that can be inserted into expansion slots in a computer to increase
-    the computer's capabilities
+    the computer###s capabilities
   hypernym:
   - 04010586-n
   ili: i51947
@@ -23889,7 +23889,7 @@
   partOfSpeech: n
 03045617-n:
   definition:
-  - a butcher's knife having a large square blade
+  - a butcher###s knife having a large square blade
   hypernym:
   - 02930437-n
   ili: i51995
@@ -24170,7 +24170,7 @@
   partOfSpeech: n
 03050014-n:
   definition:
-  - a woman's close-fitting hat that resembles a helmet
+  - a woman###s close-fitting hat that resembles a helmet
   hypernym:
   - 03771857-n
   ili: i52023
@@ -24520,7 +24520,7 @@
   partOfSpeech: n
 03055525-n:
   definition:
-  - a covering designed to be worn on a person's body
+  - a covering designed to be worn on a person###s body
   hypernym:
   - 03127399-n
   - 03098030-n
@@ -24537,7 +24537,7 @@
   partOfSpeech: n
 03056449-n:
   definition:
-  - a store where men's clothes are sold
+  - a store where men###s clothes are sold
   hypernym:
   - 04209460-n
   ili: i52058
@@ -24688,7 +24688,7 @@
   - a coupling that connects or disconnects driving and driven parts of a driving
     mechanism
   example:
-  - this year's model has an improved clutch
+  - this year###s model has an improved clutch
   hypernym:
   - 03124161-n
   ili: i52071
@@ -24712,7 +24712,7 @@
   partOfSpeech: n
 03059403-n:
   definition:
-  - a woman's strapless purse that is carried in the hand
+  - a woman###s strapless purse that is carried in the hand
   hypernym:
   - 02777157-n
   ili: i52073
@@ -24891,7 +24891,7 @@
   partOfSpeech: n
 03061905-n:
   definition:
-  - a hanger that is shaped like a person's shoulders and used to hang garments on
+  - a hanger that is shaped like a person###s shoulders and used to hang garments on
   hypernym:
   - 03495985-n
   ili: i52091
@@ -25194,7 +25194,7 @@
   partOfSpeech: n
 03066654-n:
   definition:
-  - (15th-16th century) a flap for the crotch of men's tight-fitting breeches
+  - (15th-16th century) a flap for the crotch of men###s tight-fitting breeches
   hypernym:
   - 03362222-n
   ili: i52120
@@ -25424,7 +25424,7 @@
   partOfSpeech: n
 03070134-n:
   definition:
-  - a contraceptive device placed inside a woman's womb
+  - a contraceptive device placed inside a woman###s womb
   hypernym:
   - 03101244-n
   ili: i52143
@@ -25587,7 +25587,7 @@
   partOfSpeech: n
 03072490-n:
   definition:
-  - a band of leather or rope that is placed around an animal's neck as a harness
+  - a band of leather or rope that is placed around an animal###s neck as a harness
     or to identify it
   hypernym:
   - 02787241-n
@@ -25656,7 +25656,7 @@
   - 03154617-n
   ili: i52165
   members:
-  - collector's item
+  - collector###s item
   - showpiece
   - piece de resistance
   partOfSpeech: n
@@ -25764,7 +25764,7 @@
   partOfSpeech: n
 03075435-n:
   definition:
-  - a publisher's emblem printed in a book (usually on the title page)
+  - a publisher###s emblem printed in a book (usually on the title page)
   hypernym:
   - 03287502-n
   ili: i52176
@@ -26039,7 +26039,7 @@
   members:
   - comforter
   - pacifier
-  - baby's dummy
+  - baby###s dummy
   - teething ring
   partOfSpeech: n
 03079950-n:
@@ -26223,7 +26223,7 @@
   partOfSpeech: n
 03082999-n:
   definition:
-  - a small cosmetics case with a mirror; to be carried in a woman's purse
+  - a small cosmetics case with a mirror; to be carried in a woman###s purse
   hypernym:
   - 02978156-n
   ili: i52217
@@ -26319,7 +26319,7 @@
   ili: i52226
   members:
   - compass card
-  - mariner's compass
+  - mariner###s compass
   partOfSpeech: n
 03084908-n:
   definition:
@@ -26385,8 +26385,8 @@
   partOfSpeech: n
 03086284-n:
   definition:
-  - 'light microscope that has two converging lens systems: the objective and the
-    eyepiece'
+  - ###light microscope that has two converging lens systems: the objective and the
+    eyepiece###
   hypernym:
   - 03673155-n
   ili: i52233
@@ -26806,7 +26806,7 @@
   partOfSpeech: n
 03094080-n:
   definition:
-  - a confectioner's shop
+  - a confectioner###s shop
   hypernym:
   - 04209460-n
   ili: i52268
@@ -26901,7 +26901,7 @@
   partOfSpeech: n
 03095312-n:
   definition:
-  - a map projection of the globe onto a cone with its point over one of the earth's
+  - a map projection of the globe onto a cone with its point over one of the earth###s
     poles
   hypernym:
   - 03725934-n
@@ -26935,7 +26935,7 @@
   - an instrumentality that connects
   example:
   - he soldered the connection
-  - he didn't have the right connector between the amplifier and the speakers
+  - he didn###t have the right connector between the amplifier and the speakers
   hypernym:
   - 03580409-n
   ili: i52280
@@ -28130,7 +28130,7 @@
   wikidata: Q5173179
 03117520-n:
   definition:
-  - a woman's close-fitting foundation garment
+  - a woman###s close-fitting foundation garment
   hypernym:
   - 03392169-n
   ili: i52391
@@ -28648,7 +28648,7 @@
   definition:
   - the residence of a sovereign or nobleman
   example:
-  - the king will visit the duke's court
+  - the king will visit the duke###s court
   hypernym:
   - 04086356-n
   ili: i52439
@@ -28701,7 +28701,7 @@
   definition:
   - a recording of a song that was first recorded or made popular by somebody else
   example:
-  - they made a cover of a Beatles' song
+  - they made a cover of a Beatles### song
   hypernym:
   - 04070980-n
   ili: i52444
@@ -29151,7 +29151,7 @@
   partOfSpeech: n
 03134287-n:
   definition:
-  - a representation of Christ's nativity in the stable at Bethlehem
+  - a representation of Christ###s nativity in the stable at Bethlehem
   hypernym:
   - 04083958-n
   ili: i52488
@@ -29472,7 +29472,7 @@
   ili: i52519
   members:
   - crook
-  - shepherd's crook
+  - shepherd###s crook
   partOfSpeech: n
 03138883-n:
   definition:
@@ -29739,7 +29739,7 @@
   - 04057178-n
   ili: i52546
   members:
-  - croupier's rake
+  - croupier###s rake
   partOfSpeech: n
 03142995-n:
   definition:
@@ -29812,7 +29812,7 @@
   partOfSpeech: n
 03143992-n:
   definition:
-  - a precious stone that is a valuable part of a sovereign's regalia
+  - a precious stone that is a valuable part of a sovereign###s regalia
   hypernym:
   - 03601980-n
   ili: i52553
@@ -29865,7 +29865,7 @@
   - 03968233-n
   ili: i52558
   members:
-  - crow's nest
+  - crow###s nest
   partOfSpeech: n
 03144777-n:
   definition:
@@ -29963,7 +29963,7 @@
   partOfSpeech: n
 03146106-n:
   definition:
-  - a strap from the back of a saddle passing under the horse's tail; prevents saddle
+  - a strap from the back of a saddle passing under the horse###s tail; prevents saddle
     from slipping forward
   hypernym:
   - 04340267-n
@@ -30163,7 +30163,7 @@
   partOfSpeech: n
 03148928-n:
   definition:
-  - a broad heel of medium height on women's shoes
+  - a broad heel of medium height on women###s shoes
   hypernym:
   - 03516570-n
   ili: i52588
@@ -30340,7 +30340,7 @@
   partOfSpeech: n
 03151226-n:
   definition:
-  - a specialized endoscope for visually examining a woman's pelvic organs
+  - a specialized endoscope for visually examining a woman###s pelvic organs
   hypernym:
   - 03291483-n
   ili: i52605
@@ -30478,7 +30478,7 @@
   - 02882960-n
   ili: i52618
   members:
-  - Cupid's bow
+  - Cupid###s bow
   partOfSpeech: n
 03153393-n:
   definition:
@@ -30514,7 +30514,7 @@
   partOfSpeech: n
 03153801-n:
   definition:
-  - a horse's bit with an attached chain or strap to check the horse
+  - a horse###s bit with an attached chain or strap to check the horse
   hypernym:
   - 02847952-n
   ili: i52622
@@ -30717,7 +30717,7 @@
   partOfSpeech: n
 03157149-n:
   definition:
-  - an item made to the customer's specifications
+  - an item made to the customer###s specifications
   hypernym:
   - 03593583-n
   ili: i52641
@@ -30746,7 +30746,7 @@
   partOfSpeech: n
 03157496-n:
   definition:
-  - a man's coat cut diagonally from the waist to the back of the knees
+  - a man###s coat cut diagonally from the waist to the back of the knees
   hypernym:
   - 03061006-n
   ili: i52644
@@ -31344,7 +31344,7 @@
   ili: i52702
   members:
   - dark lantern
-  - bull's-eye
+  - bull###s-eye
   partOfSpeech: n
 03167126-n:
   definition:
@@ -31623,7 +31623,7 @@
   partOfSpeech: n
 03170879-n:
   definition:
-  - a strong shutter over a ship's porthole that is closed in stormy weather
+  - a strong shutter over a ship###s porthole that is closed in stormy weather
   hypernym:
   - 04218423-n
   ili: i52731
@@ -31829,7 +31829,7 @@
   partOfSpeech: n
 03173842-n:
   definition:
-  - a low-cut neckline on a woman's dress
+  - a low-cut neckline on a woman###s dress
   hypernym:
   - 03820818-n
   ili: i52752
@@ -32245,7 +32245,7 @@
   - 03244429-n
   ili: i52792
   members:
-  - dentist's drill
+  - dentist###s drill
   - burr drill
   mero_part:
   - 02924676-n
@@ -32761,7 +32761,7 @@
   definition:
   - (computer science) a small temporary window in a graphical user interface that
     appears in order to request information from the user; after the information has
-    been provided the user dismisses the box with `okay' or `cancel'
+    been provided the user dismisses the box with <<<okay>>> or <<<cancel>>>
   domain_topic:
   - 06138021-n
   hypernym:
@@ -33026,7 +33026,7 @@
   partOfSpeech: n
 03196245-n:
   definition:
-  - a man's detachable insert (usually starched) to simulate the front of a shirt
+  - a man###s detachable insert (usually starched) to simulate the front of a shirt
   hypernym:
   - 03578433-n
   ili: i52868
@@ -34023,7 +34023,7 @@
   partOfSpeech: n
 03211439-n:
   definition:
-  - any attire that modifies the appearance in order to conceal the wearer's identity
+  - any attire that modifies the appearance in order to conceal the wearer###s identity
   hypernym:
   - 02759103-n
   ili: i52962
@@ -34669,7 +34669,7 @@
   wikidata: Q1799919
 03222161-n:
   definition:
-  - anything serving as a representation of a person's thinking by means of symbolic
+  - anything serving as a representation of a person###s thinking by means of symbolic
     marks
   hypernym:
   - 04083958-n
@@ -34707,7 +34707,7 @@
 03222592-n:
   definition:
   - a bag for food that a customer did not eat at a restaurant; the transparent pretense
-    is that the food is taken home to feed the customer's dog
+    is that the food is taken home to feed the customer###s dog
   hypernym:
   - 04129919-n
   ili: i53025
@@ -34813,17 +34813,17 @@
   ili: i53033
   members:
   - dollhouse
-  - doll's house
+  - doll###s house
   partOfSpeech: n
 03224186-n:
   definition:
-  - a house so small that it is likened to a child's plaything
+  - a house so small that it is likened to a child###s plaything
   hypernym:
   - 03549540-n
   ili: i53034
   members:
   - dollhouse
-  - doll's house
+  - doll###s house
   partOfSpeech: n
 03224315-n:
   definition:
@@ -34845,7 +34845,7 @@
   partOfSpeech: n
 03224562-n:
   definition:
-  - a woman's cloak with dolman sleeves
+  - a woman###s cloak with dolman sleeves
   hypernym:
   - 03049322-n
   ili: i53037
@@ -34856,7 +34856,7 @@
   partOfSpeech: n
 03224669-n:
   definition:
-  - a hussar's jacket worn over the shoulders
+  - a hussar###s jacket worn over the shoulders
   hypernym:
   - 03594978-n
   ili: i53038
@@ -35051,7 +35051,7 @@
   partOfSpeech: n
 03227662-n:
   definition:
-  - a knob used to release the catch when opening a door (often called `doorhandle'
+  - a knob used to release the catch when opening a door (often called <<<doorhandle>>>
     in Great Britain)
   domain_region:
   - 08879115-n
@@ -35403,7 +35403,7 @@
   partOfSpeech: n
 03232957-n:
   definition:
-  - a man's close-fitting jacket; worn during the Renaissance
+  - a man###s close-fitting jacket; worn during the Renaissance
   hypernym:
   - 03594978-n
   ili: i53089
@@ -35449,7 +35449,7 @@
   - 04000366-n
   ili: i53093
   members:
-  - Dover's powder
+  - Dover###s powder
   partOfSpeech: n
 03233670-n:
   definition:
@@ -35620,7 +35620,7 @@
   partOfSpeech: n
 03236179-n:
   definition:
-  - clothing that is conventionally worn by the opposite sex (especially women's clothing
+  - clothing that is conventionally worn by the opposite sex (especially women###s clothing
     when worn by a man)
   example:
   - he went to the party dressed in drag
@@ -35719,7 +35719,7 @@
   partOfSpeech: n
 03237626-n:
   definition:
-  - a sterile covering arranged over a patient's body during a medical examination
+  - a sterile covering arranged over a patient###s body during a medical examination
     or during surgery in order to reduce the possibility of contamination
   hypernym:
   - 03127399-n
@@ -35860,7 +35860,7 @@
   partOfSpeech: n
 03240030-n:
   definition:
-  - a woodworker's knife to shave surfaces
+  - a woodworker###s knife to shave surfaces
   hypernym:
   - 03628765-n
   ili: i53133
@@ -35992,7 +35992,7 @@
   partOfSpeech: n
 03242119-n:
   definition:
-  - a man's hat with a tall crown; usually covered with silk or with beaver fur
+  - a man###s hat with a tall crown; usually covered with silk or with beaver fur
   hypernym:
   - 03502782-n
   - 03751821-n
@@ -36049,7 +36049,7 @@
   partOfSpeech: n
 03242989-n:
   definition:
-  - a woman's loose jacket; worn while dressing
+  - a woman###s loose jacket; worn while dressing
   hypernym:
   - 03594978-n
   ili: i53150
@@ -36092,7 +36092,7 @@
   partOfSpeech: n
 03243582-n:
   definition:
-  - a man's white shirt (with a starch front) for evening wear (usually with a tuxedo)
+  - a man###s white shirt (with a starch front) for evening wear (usually with a tuxedo)
   hypernym:
   - 04204434-n
   ili: i53154
@@ -36633,7 +36633,7 @@
   partOfSpeech: n
 03252198-n:
   definition:
-  - a stonemason's chisel with a broad edge for dressing stone
+  - a stonemason###s chisel with a broad edge for dressing stone
   hypernym:
   - 03024375-n
   ili: i53203
@@ -36696,9 +36696,9 @@
   ili: i53208
   members:
   - drugstore
-  - apothecary's shop
-  - chemist's
-  - chemist's shop
+  - apothecary###s shop
+  - chemist###s
+  - chemist###s shop
   - pharmacy
   mero_part:
   - 03927331-n
@@ -36840,7 +36840,7 @@
   partOfSpeech: n
 03256635-n:
   definition:
-  - a fly (fisherman's lure) that skims the surface of the water
+  - a fly (fisherman###s lure) that skims the surface of the water
   hypernym:
   - 03378083-n
   ili: i53221
@@ -37172,7 +37172,7 @@
   partOfSpeech: n
 03261175-n:
   definition:
-  - a surveyor's level having a short telescope fixed to a horizontally rotating table
+  - a surveyor###s level having a short telescope fixed to a horizontally rotating table
     and a spirit level
   hypernym:
   - 04372838-n
@@ -37188,8 +37188,8 @@
   ili: i53255
   members:
   - dunce cap
-  - dunce's cap
-  - fool's cap
+  - dunce###s cap
+  - fool###s cap
   partOfSpeech: n
 03261491-n:
   definition:
@@ -37573,7 +37573,7 @@
   partOfSpeech: n
 03267512-n:
   definition:
-  - an upright tripod for displaying something (usually an artist's canvas)
+  - an upright tripod for displaying something (usually an artist###s canvas)
   hypernym:
   - 04492338-n
   ili: i53291
@@ -37697,7 +37697,7 @@
   example:
   - the edge of the leaf is wavy
   - she sat on the edge of the bed
-  - the water's edge
+  - the water###s edge
   hypernym:
   - 08610212-n
   ili: i53302
@@ -37749,7 +37749,7 @@
   - a representation of a person (especially in the form of sculpture)
   example:
   - the coin bears an effigy of Lincoln
-  - the emperor's tomb had his image carved in stone
+  - the emperor###s tomb had his image carved in stone
   hypernym:
   - 04083958-n
   ili: i53307
@@ -37854,7 +37854,7 @@
   partOfSpeech: n
 03272379-n:
   definition:
-  - a pilot's seat in an airplane that can be forcibly ejected in the case of an emergency;
+  - a pilot###s seat in an airplane that can be forcibly ejected in the case of an emergency;
     then the pilot descends by parachute
   hypernym:
   - 04168419-n
@@ -38483,7 +38483,7 @@
   partOfSpeech: n
 03283825-n:
   definition:
-  - an electronic monitor that monitors fetal heartbeat and the mother's uterine contractions
+  - an electronic monitor that monitors fetal heartbeat and the mother###s uterine contractions
     during childbirth
   hypernym:
   - 03787320-n
@@ -39339,7 +39339,7 @@
   partOfSpeech: n
 03298774-n:
   definition:
-  - a telescope whose mounting has only two axes of motion, one parallel to the Earth's
+  - a telescope whose mounting has only two axes of motion, one parallel to the Earth###s
     axis and the other one at right angles to it
   hypernym:
   - 04410773-n
@@ -39486,7 +39486,7 @@
   partOfSpeech: n
 03301526-n:
   definition:
-  - (nautical) a plate on a ship's stern on which the name is inscribed
+  - (nautical) a plate on a ship###s stern on which the name is inscribed
   domain_topic:
   - 00315295-n
   hypernym:
@@ -39649,8 +39649,8 @@
   partOfSpeech: n
 03304208-n:
   definition:
-  - 'additional unspecified odds and ends; more of the same; entity, other pronoun;
-    pronoun, entity; quantifier: other'
+  - ###additional unspecified odds and ends; more of the same; entity, other pronoun;
+    pronoun, entity; quantifier: other###
   example:
   - his report was full of etceteras
   hypernym:
@@ -39785,7 +39785,7 @@
   partOfSpeech: n
 03306236-n:
   definition:
-  - small ornamental ladies' bag for small articles
+  - small ornamental ladies### bag for small articles
   hypernym:
   - 02777157-n
   ili: i53499
@@ -40025,7 +40025,7 @@
   partOfSpeech: n
 03310245-n:
   definition:
-  - a rapid automatic system to detect plastic explosives in passengers' luggage using
+  - a rapid automatic system to detect plastic explosives in passengers### luggage using
     X-ray technology and computers; designed for use in airports
   hypernym:
   - 04384144-n
@@ -40197,7 +40197,7 @@
   definition:
   - a small hole or loop (as in a needle)
   example:
-  - the thread wouldn't go through the eye
+  - the thread wouldn###t go through the eye
   hypernym:
   - 03531378-n
   ili: i53538
@@ -40594,7 +40594,7 @@
   partOfSpeech: n
 03323081-n:
   definition:
-  - a pulley-block used to guide a rope forming part of a ship's rigging to avoid
+  - a pulley-block used to guide a rope forming part of a ship###s rigging to avoid
     chafing
   hypernym:
   - 04026692-n
@@ -40895,7 +40895,7 @@
   - 03853343-n
   ili: i53603
   members:
-  - farmer's market
+  - farmer###s market
   - green market
   - greenmarket
   partOfSpeech: n
@@ -41191,13 +41191,13 @@
   partOfSpeech: n
 03332498-n:
   definition:
-  - a face mask made of fine mesh that is worn over a fencer's face
+  - a face mask made of fine mesh that is worn over a fencer###s face
   hypernym:
   - 03319323-n
   ili: i53633
   members:
   - fencing mask
-  - fencer's mask
+  - fencer###s mask
   partOfSpeech: n
 03332636-n:
   definition:
@@ -41321,7 +41321,7 @@
   partOfSpeech: n
 03334825-n:
   definition:
-  - a drug used to increase a woman's fertility
+  - a drug used to increase a woman###s fertility
   hypernym:
   - 03252323-n
   ili: i53645
@@ -41380,7 +41380,7 @@
   partOfSpeech: n
 03335737-n:
   definition:
-  - a stethoscope placed on the pregnant woman's abdomen to listen for the fetal heartbeat
+  - a stethoscope placed on the pregnant woman###s abdomen to listen for the fetal heartbeat
   hypernym:
   - 04324313-n
   ili: i53651
@@ -41880,7 +41880,7 @@
   - 06056961-n
   example:
   - when he yawned I could see the gold fillings in his teeth
-  - an informal British term for `filling' is `stopping'
+  - an informal British term for <<<filling>>> is <<<stopping>>>
   hypernym:
   - 03180270-n
   ili: i53698
@@ -42120,7 +42120,7 @@
   definition:
   - the final coating of (e.g., paint, plaster, varnish, etc.)
   example:
-  - we can't paint until they put on the finishing coat
+  - we can###t paint until they put on the finishing coat
   hypernym:
   - 03062092-n
   - 15016854-n
@@ -42358,8 +42358,8 @@
   - 02767049-n
   ili: i53745
   members:
-  - fireman's ax
-  - fireman's axe
+  - fireman###s ax
+  - fireman###s axe
   partOfSpeech: n
 03351301-n:
   definition:
@@ -42615,7 +42615,7 @@
   - 03632523-n
   ili: i53769
   members:
-  - fisherman's bend
+  - fisherman###s bend
   partOfSpeech: n
 03355302-n:
   definition:
@@ -42624,8 +42624,8 @@
   - 03632523-n
   ili: i53770
   members:
-  - fisherman's knot
-  - true lover's knot
+  - fisherman###s knot
+  - true lover###s knot
   - truelove knot
   partOfSpeech: n
 03355448-n:
@@ -42638,7 +42638,7 @@
   - 02779210-n
   ili: i53771
   members:
-  - fisherman's lure
+  - fisherman###s lure
   - fish lure
   partOfSpeech: n
 03355726-n:
@@ -42933,7 +42933,7 @@
   members:
   - flageolet
   - treble recorder
-  - shepherd's pipe
+  - shepherd###s pipe
   partOfSpeech: n
 03360487-n:
   definition:
@@ -43561,7 +43561,7 @@
   ili: i53859
   members:
   - float
-  - plasterer's float
+  - plasterer###s float
   partOfSpeech: n
 03369621-n:
   definition:
@@ -44136,7 +44136,7 @@
   partOfSpeech: n
 03378083-n:
   definition:
-  - fisherman's lure consisting of a fishhook decorated to look like an insect
+  - fisherman###s lure consisting of a fishhook decorated to look like an insect
   hypernym:
   - 03355448-n
   ili: i53915
@@ -44251,7 +44251,7 @@
   partOfSpeech: n
 03379684-n:
   definition:
-  - short chain or ribbon attaching a pocket watch to a man's vest
+  - short chain or ribbon attaching a pocket watch to a man###s vest
   hypernym:
   - 03003017-n
   ili: i53926
@@ -44300,7 +44300,7 @@
   partOfSpeech: n
 03380289-n:
   definition:
-  - the weaker part of a sword's blade from the forte to the tip
+  - the weaker part of a sword###s blade from the forte to the tip
   hypernym:
   - 03898588-n
   ili: i53931
@@ -44424,7 +44424,7 @@
   - a book (or manuscript) consisting of large sheets of paper folded in the middle
     to make two leaves or four pages
   example:
-  - the first folio of Shakespeare's plays
+  - the first folio of Shakespeare###s plays
   hypernym:
   - 02873453-n
   ili: i53942
@@ -44674,7 +44674,7 @@
   partOfSpeech: n
 03385713-n:
   definition:
-  - covering for a person's feet
+  - covering for a person###s feet
   hypernym:
   - 03127399-n
   ili: i53966
@@ -44688,7 +44688,7 @@
   partOfSpeech: n
 03385972-n:
   definition:
-  - clothing worn on a person's feet
+  - clothing worn on a person###s feet
   hypernym:
   - 03055525-n
   ili: i53967
@@ -44754,7 +44754,7 @@
   ili: i53973
   members:
   - forecastle
-  - fo'c'sle
+  - fo###c###sle
   partOfSpeech: n
 03387138-n:
   definition:
@@ -44808,7 +44808,7 @@
   wikidata: Q639250
 03387815-n:
   definition:
-  - a carpenter's plane intermediate between a jack plane and a jointer plane
+  - a carpenter###s plane intermediate between a jack plane and a jointer plane
   hypernym:
   - 03961007-n
   ili: i53979
@@ -45027,7 +45027,7 @@
 03391390-n:
   definition:
   - pendulum with a long wire; can swing in any direction; the change in the swing
-    plane demonstrates the earth's rotation
+    plane demonstrates the earth###s rotation
   hypernym:
   - 03915279-n
   ili: i54000
@@ -45074,7 +45074,7 @@
   partOfSpeech: n
 03392169-n:
   definition:
-  - a woman's undergarment worn to give shape to the contours of the body
+  - a woman###s undergarment worn to give shape to the contours of the body
   hypernym:
   - 04515458-n
   ili: i54004
@@ -45510,7 +45510,7 @@
   partOfSpeech: n
 03399652-n:
   definition:
-  - a fairly high narrow heel on women's shoes
+  - a fairly high narrow heel on women###s shoes
   hypernym:
   - 03516570-n
   ili: i54046
@@ -45739,7 +45739,7 @@
   partOfSpeech: n
 03403143-n:
   definition:
-  - a man's coat having knee-length skirts front and back; worn in the 19th century
+  - a man###s coat having knee-length skirts front and back; worn in the 19th century
   hypernym:
   - 03061006-n
   ili: i54068
@@ -45946,7 +45946,7 @@
   definition:
   - a pipe that carries gasoline from a tank to a gasoline engine
   example:
-  - the car wouldn't start because dirt clogged the gas line
+  - the car wouldn###t start because dirt clogged the gas line
   hypernym:
   - 03950948-n
   ili: i54088
@@ -46355,7 +46355,7 @@
   partOfSpeech: n
 03413531-n:
   definition:
-  - shroud that is part of a ship's rigging
+  - shroud that is part of a ship###s rigging
   hypernym:
   - 04195411-n
   ili: i54125
@@ -46501,7 +46501,7 @@
   partOfSpeech: n
 03415650-n:
   definition:
-  - restraint put into a person's mouth to prevent speaking or shouting
+  - restraint put into a person###s mouth to prevent speaking or shouting
   hypernym:
   - 04088956-n
   ili: i54139
@@ -46599,7 +46599,7 @@
   ili: i54148
   members:
   - galley
-  - ship's galley
+  - ship###s galley
   - caboose
   - cookhouse
   partOfSpeech: n
@@ -47016,7 +47016,7 @@
 03423659-n:
   definition:
   - a loose high-necked blouse with long sleeves; styled after the red flannel shirts
-    worn by Garibaldi's soldiers
+    worn by Garibaldi###s soldiers
   hypernym:
   - 02858206-n
   ili: i54188
@@ -47544,7 +47544,7 @@
   partOfSpeech: n
 03432112-n:
   definition:
-  - a gangster's pistol
+  - a gangster###s pistol
   exemplifies:
   - 07171981-n
   hypernym:
@@ -47588,7 +47588,7 @@
   partOfSpeech: n
 03433000-n:
   definition:
-  - a house built at a gateway; usually the gatekeeper's residence
+  - a house built at a gateway; usually the gatekeeper###s residence
   hypernym:
   - 03549540-n
   ili: i54241
@@ -48119,7 +48119,7 @@
   partOfSpeech: n
 03441682-n:
   definition:
-  - tender that is a light ship's boat; often for personal use of captain
+  - tender that is a light ship###s boat; often for personal use of captain
   hypernym:
   - 04416263-n
   ili: i54291
@@ -48177,7 +48177,7 @@
   partOfSpeech: n
 03442491-n:
   definition:
-  - an appliance that allows an object (such as a ship's compass) to remain horizontal
+  - an appliance that allows an object (such as a ship###s compass) to remain horizontal
     even as its support tips
   hypernym:
   - 02732963-n
@@ -48406,7 +48406,7 @@
   partOfSpeech: n
 03446036-n:
   definition:
-  - 'handwear: covers the hand and wrist'
+  - ###handwear: covers the hand and wrist###
   hypernym:
   - 03495425-n
   ili: i54319
@@ -49030,7 +49030,7 @@
   partOfSpeech: n
 03455174-n:
   definition:
-  - a woman's dress, usually with a close-fitting bodice and a long flared skirt,
+  - a woman###s dress, usually with a close-fitting bodice and a long flared skirt,
     often worn on formal occasions
   hypernym:
   - 03241438-n
@@ -49365,7 +49365,7 @@
   - a place for the burial of a corpse (especially beneath the ground and marked by
     a tombstone)
   example:
-  - he put flowers on his mother's grave
+  - he put flowers on his mother###s grave
   hypernym:
   - 08682181-n
   ili: i54410
@@ -49560,7 +49560,7 @@
   partOfSpeech: n
 03462628-n:
   definition:
-  - a greengrocer's grocery store
+  - a greengrocer###s grocery store
   domain_region:
   - 08879115-n
   hypernym:
@@ -49699,7 +49699,7 @@
   partOfSpeech: n
 03464707-n:
   definition:
-  - grating that admits cooling air to car's radiator
+  - grating that admits cooling air to car###s radiator
   hypernym:
   - 03459651-n
   ili: i54442
@@ -49782,7 +49782,7 @@
   partOfSpeech: n
 03465831-n:
   definition:
-  - a mill for grinding grain (especially the customer's own grain)
+  - a mill for grinding grain (especially the customer###s own grain)
   hypernym:
   - 03771096-n
   ili: i54450
@@ -49815,7 +49815,7 @@
   partOfSpeech: n
 03466220-n:
   definition:
-  - a sack for holding customer's groceries
+  - a sack for holding customer###s groceries
   hypernym:
   - 04129919-n
   ili: i54453
@@ -50098,7 +50098,7 @@
   - 02963378-n
   ili: i54480
   members:
-  - guard's van
+  - guard###s van
   partOfSpeech: n
 03470358-n:
   definition:
@@ -50236,7 +50236,7 @@
   partOfSpeech: n
 03472312-n:
   definition:
-  - a piece of starched cloth covering the shoulders of a nun's habit
+  - a piece of starched cloth covering the shoulders of a nun###s habit
   hypernym:
   - 03938946-n
   ili: i54495
@@ -50658,7 +50658,7 @@
   ili: i54533
   members:
   - haberdashery
-  - men's furnishings
+  - men###s furnishings
   partOfSpeech: n
 03478940-n:
   definition:
@@ -50684,7 +50684,7 @@
   partOfSpeech: n
 03479290-n:
   definition:
-  - attire that is typically worn by a horseback rider (especially a woman's attire)
+  - attire that is typically worn by a horseback rider (especially a woman###s attire)
   hypernym:
   - 02759103-n
   ili: i54536
@@ -50772,7 +50772,7 @@
   partOfSpeech: n
 03480704-n:
   definition:
-  - a brush used to groom a person's hair
+  - a brush used to groom a person###s hair
   hypernym:
   - 02911542-n
   ili: i54544
@@ -50826,7 +50826,7 @@
   partOfSpeech: n
 03481436-n:
   definition:
-  - a double pronged pin used to hold women's hair in place
+  - a double pronged pin used to hold women###s hair in place
   hypernym:
   - 03946532-n
   ili: i54549
@@ -51103,7 +51103,7 @@
   partOfSpeech: n
 03485269-n:
   definition:
-  - tranquilizer (trade name Haldol) used to treat some psychotic disorders and Tourette's
+  - tranquilizer (trade name Haldol) used to treat some psychotic disorders and Tourette###s
     syndrome
   hypernym:
   - 03719275-n
@@ -51125,7 +51125,7 @@
   partOfSpeech: n
 03485662-n:
   definition:
-  - a woman's top that fastens behind the back and neck leaving the back and arms
+  - a woman###s top that fastens behind the back and neck leaving the back and arms
     uncovered
   hypernym:
   - 04460937-n
@@ -51609,7 +51609,7 @@
   members:
   - handsaw
   - hand saw
-  - carpenter's saw
+  - carpenter###s saw
   partOfSpeech: n
 03493521-n:
   definition:
@@ -51663,7 +51663,7 @@
   partOfSpeech: n
 03494245-n:
   definition:
-  - a tool used with workers' hands
+  - a tool used with workers### hands
   hypernym:
   - 04459089-n
   ili: i54629
@@ -51780,8 +51780,8 @@
   - 04115362-n
   ili: i54640
   members:
-  - hangman's rope
-  - hangman's halter
+  - hangman###s rope
+  - hangman###s halter
   - halter
   - hemp
   - hempen necktie
@@ -51799,7 +51799,7 @@
   partOfSpeech: n
 03497188-n:
   definition:
-  - a two-wheeled horse-drawn covered carriage with the driver's seat above and behind
+  - a two-wheeled horse-drawn covered carriage with the driver###s seat above and behind
     the passengers
   hypernym:
   - 02971932-n
@@ -51919,14 +51919,14 @@
   definition:
   - a store selling hardware
   example:
-  - in Great Britain they used to call a hardware store an ironmonger's shop
+  - in Great Britain they used to call a hardware store an ironmonger###s shop
   hypernym:
   - 04209460-n
   ili: i54653
   members:
   - hardware store
   - ironmonger
-  - ironmonger's shop
+  - ironmonger###s shop
   partOfSpeech: n
 03499206-n:
   definition:
@@ -52037,7 +52037,7 @@
   partOfSpeech: n
 03501167-n:
   definition:
-  - a strong rope for making the catch fast to the harpooner's boat
+  - a strong rope for making the catch fast to the harpooner###s boat
   hypernym:
   - 04115362-n
   ili: i54663
@@ -52437,7 +52437,7 @@
 03506955-n:
   definition:
   - (usually plural) the obverse side of a coin that usually bears the representation
-    of a person's head
+    of a person###s head
   example:
   - call heads or tails!
   exemplifies:
@@ -52559,7 +52559,7 @@
   partOfSpeech: n
 03508862-n:
   definition:
-  - stable gear consisting of any part of a harness that fits about the horse's head
+  - stable gear consisting of any part of a harness that fits about the horse###s head
   hypernym:
   - 04302219-n
   ili: i54714
@@ -52612,7 +52612,7 @@
   domain_topic:
   - 08215965-n
   example:
-  - the general's headquarters were a couple of large tents
+  - the general###s headquarters were a couple of large tents
   exemplifies:
   - 06306016-n
   hypernym:
@@ -52660,7 +52660,7 @@
   partOfSpeech: n
 03510351-n:
   definition:
-  - a cushion attached to the top of the back of an automobile's seat to prevent whiplash
+  - a cushion attached to the top of the back of an automobile###s seat to prevent whiplash
   hypernym:
   - 03156166-n
   ili: i54723
@@ -52708,7 +52708,7 @@
   partOfSpeech: n
 03511086-n:
   definition:
-  - a photograph of a person's head
+  - a photograph of a person###s head
   hypernym:
   - 03931348-n
   ili: i54728
@@ -52717,7 +52717,7 @@
   partOfSpeech: n
 03511172-n:
   definition:
-  - the band that is the part of a bridle that fits around a horse's head
+  - the band that is the part of a bridle that fits around a horse###s head
   hypernym:
   - 02787241-n
   ili: i54729
@@ -52897,7 +52897,7 @@
   definition:
   - utility to warm a building
   example:
-  - the heating system wasn't working
+  - the heating system wasn###t working
   - they have radiant heating
   hypernym:
   - 04524169-n
@@ -53064,7 +53064,7 @@
   partOfSpeech: n
 03517093-n:
   definition:
-  - the lower end of a ship's mast
+  - the lower end of a ship###s mast
   hypernym:
   - 08583557-n
   ili: i54761
@@ -53100,7 +53100,7 @@
   partOfSpeech: n
 03517596-n:
   definition:
-  - an apparatus for sending telegraphic messages by using a mirror to turn the sun's
+  - an apparatus for sending telegraphic messages by using a mirror to turn the sun###s
     rays off and on
   hypernym:
   - 02730750-n
@@ -53166,7 +53166,7 @@
   example:
   - the hem of her dress was stained
   - let down the hem
-  - he stitched weights into the curtain's hem
+  - he stitched weights into the curtain###s hem
   - it seeped along the hem of his jacket
   hypernym:
   - 03269453-n
@@ -53352,7 +53352,7 @@
   partOfSpeech: n
 03522007-n:
   definition:
-  - (19th century) a man's high tasseled boot
+  - (19th century) a man###s high tasseled boot
   hypernym:
   - 02876113-n
   ili: i54788
@@ -53539,7 +53539,7 @@
   definition:
   - tower consisting of a multistoried building of offices or apartments
   example:
-  - '`tower block'' is the British term for `high-rise'''
+  - ###<<<tower block>>> is the British term for <<<high-rise>>>###
   hypernym:
   - 04467365-n
   ili: i54806
@@ -53819,7 +53819,7 @@
   wikidata: Q1637220
 03528796-n:
   definition:
-  - a child's plaything consisting of an imitation horse mounted on rockers; the child
+  - a child###s plaything consisting of an imitation horse mounted on rockers; the child
     straddles it and pretends to ride
   hypernym:
   - 03971038-n
@@ -54078,7 +54078,7 @@
   partOfSpeech: n
 03533110-n:
   definition:
-  - the sepulcher in which Christ's body lay between burial and resurrection
+  - the sepulcher in which Christ###s body lay between burial and resurrection
   ili: i54858
   instance_hypernym:
   - 02925268-n
@@ -54220,7 +54220,7 @@
   partOfSpeech: n
 03535369-n:
   definition:
-  - a torpedo that is guided to its target (as by the sound of a ship's engines)
+  - a torpedo that is guided to its target (as by the sound of a ship###s engines)
   hypernym:
   - 04463707-n
   ili: i54871
@@ -54270,7 +54270,7 @@
   - protective covering consisting of a metal part that covers the engine
   example:
   - there are powerful engines under the hoods of new cars
-  - the mechanic removed the cowling in order to repair the plane's engine
+  - the mechanic removed the cowling in order to repair the plane###s engine
   hypernym:
   - 04020673-n
   ili: i54876
@@ -54313,7 +54313,7 @@
   wikidata: Q1164342
 03536871-n:
   definition:
-  - (falconry) a leather covering for a hawk's head
+  - (falconry) a leather covering for a hawk###s head
   domain_topic:
   - 05643293-n
   hypernym:
@@ -54600,7 +54600,7 @@
   partOfSpeech: n
 03541302-n:
   definition:
-  - the horizontal airfoil of an aircraft's tail assembly that is fixed and to which
+  - the horizontal airfoil of an aircraft###s tail assembly that is fixed and to which
     the elevator is hinged
   hypernym:
   - 02691302-n
@@ -54822,7 +54822,7 @@
   partOfSpeech: n
 03544613-n:
   definition:
-  - U-shaped plate nailed to underside of horse's hoof
+  - U-shaped plate nailed to underside of horse###s hoof
   hypernym:
   - 03965995-n
   ili: i54928
@@ -54869,7 +54869,7 @@
   partOfSpeech: n
 03545270-n:
   definition:
-  - man's close-fitting garment of the 16th and 17th centuries covering the legs and
+  - man###s close-fitting garment of the 16th and 17th centuries covering the legs and
     reaching up to the waist; worn with a doublet
   hypernym:
   - 03423924-n
@@ -55126,10 +55126,10 @@
   ili: i54957
   members:
   - houndstooth check
-  - hound's-tooth check
+  - hound###s-tooth check
   - dogstooth check
   - dogs-tooth check
-  - dog's-tooth check
+  - dog###s-tooth check
   partOfSpeech: n
 03549323-n:
   definition:
@@ -55190,7 +55190,7 @@
   partOfSpeech: n
 03550765-n:
   definition:
-  - lights that illuminate the audience's part of a theater or other auditorium
+  - lights that illuminate the audience###s part of a theater or other auditorium
   exemplifies:
   - 06306016-n
   hypernym:
@@ -55349,7 +55349,7 @@
   partOfSpeech: n
 03553500-n:
   definition:
-  - a woman's fitted jacket
+  - a woman###s fitted jacket
   hypernym:
   - 03594978-n
   ili: i54978
@@ -55837,7 +55837,7 @@
   partOfSpeech: n
 03561353-n:
   definition:
-  - girder having a cross section resembling the letter `I'
+  - girder having a cross section resembling the letter <<<I>>>
   hypernym:
   - 03442851-n
   ili: i55023
@@ -55958,8 +55958,8 @@
   partOfSpeech: n
 03563020-n:
   definition:
-  - 'a waterproof bag filled with ice: applied to the body (especially the head) to
-    cool or reduce swelling'
+  - ###a waterproof bag filled with ice: applied to the body (especially the head) to
+    cool or reduce swelling###
   hypernym:
   - 02776042-n
   ili: i55034
@@ -56071,7 +56071,7 @@
   partOfSpeech: n
 03564711-n:
   definition:
-  - a likeness of a person's face constructed from descriptions given to police; uses
+  - a likeness of a person###s face constructed from descriptions given to police; uses
     a set of transparencies of various facial features that can be combined to build
     up a picture of the person sought
   hypernym:
@@ -56270,7 +56270,7 @@
   partOfSpeech: n
 03568138-n:
   definition:
-  - a drug that lowers the body's normal immune response
+  - a drug that lowers the body###s normal immune response
   hypernym:
   - 03745652-n
   ili: i55062
@@ -57390,7 +57390,7 @@
   partOfSpeech: n
 03588278-n:
   definition:
-  - drug used to treat certain fungal infection (as athlete's foot)
+  - drug used to treat certain fungal infection (as athlete###s foot)
   hypernym:
   - 02723112-n
   ili: i55170
@@ -57596,7 +57596,7 @@
 03591388-n:
   definition:
   - respirator that produces alternations in air pressure in a chamber surrounding
-    a patient's chest to force air into and out of the lungs thus providing artificial
+    a patient###s chest to force air into and out of the lungs thus providing artificial
     respiration
   hypernym:
   - 04087945-n
@@ -57616,7 +57616,7 @@
   partOfSpeech: n
 03591800-n:
   definition:
-  - the merchandise that is sold in an ironmonger's shop
+  - the merchandise that is sold in an ironmonger###s shop
   domain_region:
   - 08879115-n
   hypernym:
@@ -57763,7 +57763,7 @@
   partOfSpeech: n
 03594028-n:
   definition:
-  - a ruffle on the front of a woman's blouse or a man's shirt
+  - a ruffle on the front of a woman###s blouse or a man###s shirt
   hypernym:
   - 03402368-n
   ili: i55206
@@ -57791,7 +57791,7 @@
   partOfSpeech: n
 03594407-n:
   definition:
-  - small flag indicating a ship's nationality
+  - small flag indicating a ship###s nationality
   hypernym:
   - 03359749-n
   ili: i55209
@@ -57882,11 +57882,11 @@
   - 03646302-n
   ili: i55218
   members:
-  - jack-o'-lantern
+  - jack-o###-lantern
   partOfSpeech: n
 03596119-n:
   definition:
-  - a carpenter's plane for rough finishing
+  - a carpenter###s plane for rough finishing
   hypernym:
   - 03961007-n
   ili: i55219
@@ -57913,7 +57913,7 @@
   - 03637568-n
   ili: i55221
   members:
-  - Jacob's ladder
+  - Jacob###s ladder
   - jack ladder
   - pilot ladder
   partOfSpeech: n
@@ -58268,7 +58268,7 @@
   partOfSpeech: n
 03601832-n:
   definition:
-  - the part of a ship's equipment or cargo that is thrown overboard to lighten the
+  - the part of a ship###s equipment or cargo that is thrown overboard to lighten the
     load in a storm
   hypernym:
   - 03898588-n
@@ -58295,7 +58295,7 @@
   - 03857800-n
   ili: i55257
   members:
-  - jeweler's glass
+  - jeweler###s glass
   partOfSpeech: n
 03602510-n:
   definition:
@@ -58328,8 +58328,8 @@
   - 03806455-n
   ili: i55260
   members:
-  - jew's harp
-  - jews' harp
+  - jew###s harp
+  - jews### harp
   - mouth bow
   partOfSpeech: n
 03603344-n:
@@ -58362,7 +58362,7 @@
   partOfSpeech: n
 03603708-n:
   definition:
-  - a fisherman's lure with one or more hooks that is jerked up and down in the water
+  - a fisherman###s lure with one or more hooks that is jerked up and down in the water
   hypernym:
   - 03355448-n
   ili: i55264
@@ -58448,7 +58448,7 @@
   partOfSpeech: n
 03604821-n:
   definition:
-  - a workplace; as in the expression `on the job'
+  - a workplace; as in the expression <<<on the job>>>
   hypernym:
   - 04609402-n
   ili: i55272
@@ -58577,7 +58577,7 @@
   wikidata: Q903190
 03606851-n:
   definition:
-  - a long carpenter's plane used to shape the edges of boards so they will fit together
+  - a long carpenter###s plane used to shape the edges of boards so they will fit together
   hypernym:
   - 03961007-n
   ili: i55284
@@ -58608,7 +58608,7 @@
   partOfSpeech: n
 03607294-n:
   definition:
-  - a yawl used by a ship's sailors for general work
+  - a yawl used by a ship###s sailors for general work
   hypernym:
   - 04619861-n
   ili: i55287
@@ -58883,7 +58883,7 @@
   partOfSpeech: n
 03610811-n:
   definition:
-  - one-piece garment fashioned after a parachutist's uniform
+  - one-piece garment fashioned after a parachutist###s uniform
   hypernym:
   - 03423924-n
   ili: i55314
@@ -59369,7 +59369,7 @@
 03618503-n:
   definition:
   - metal device shaped in such a way that when it is inserted into the appropriate
-    lock the lock's mechanism can be rotated
+    lock the lock###s mechanism can be rotated
   hypernym:
   - 03187746-n
   ili: i55358
@@ -59656,7 +59656,7 @@
   partOfSpeech: n
 03623548-n:
   definition:
-  - a checker that has been moved to the opponent's first row where it is promoted
+  - a checker that has been moved to the opponent###s first row where it is promoted
     to a piece that is free to move either forward or backward
   domain_topic:
   - 00503963-n
@@ -59694,7 +59694,7 @@
   - 02730750-n
   ili: i55389
   members:
-  - Kipp's apparatus
+  - Kipp###s apparatus
   partOfSpeech: n
 03624191-n:
   definition:
@@ -60336,7 +60336,7 @@
   - 03739416-n
   ili: i55454
   members:
-  - Kundt's tube
+  - Kundt###s tube
   partOfSpeech: n
 03634391-n:
   definition:
@@ -60586,12 +60586,12 @@
   partOfSpeech: n
 03638254-n:
   definition:
-  - a woman's restroom in a public (or semipublic) building
+  - a woman###s restroom in a public (or semipublic) building
   hypernym:
   - 04025061-n
   ili: i55478
   members:
-  - ladies' room
+  - ladies### room
   - powder room
   partOfSpeech: n
 03638382-n:
@@ -60683,7 +60683,7 @@
   partOfSpeech: n
 03640014-n:
   definition:
-  - the Volta river in southeastern has been dammed to create one of the world's largest
+  - the Volta river in southeastern has been dammed to create one of the world###s largest
     man-made lakes
   ili: i55487
   instance_hypernym:
@@ -60721,7 +60721,7 @@
   partOfSpeech: n
 03640527-n:
   definition:
-  - a scarf that covers a knight's helmet
+  - a scarf that covers a knight###s helmet
   hypernym:
   - 04150962-n
   ili: i55491
@@ -61333,8 +61333,8 @@
   ili: i55550
   members:
   - last
-  - shoemaker's last
-  - cobbler's last
+  - shoemaker###s last
+  - cobbler###s last
   partOfSpeech: n
 03650012-n:
   definition:
@@ -61744,7 +61744,7 @@
   partOfSpeech: n
 03656008-n:
   definition:
-  - dummy in the form of an artist's jointed model of the human body
+  - dummy in the form of an artist###s jointed model of the human body
   hypernym:
   - 03260351-n
   ili: i55589
@@ -61825,7 +61825,7 @@
   partOfSpeech: n
 03657169-n:
   definition:
-  - rein to direct the horse's head left or right
+  - rein to direct the horse###s head left or right
   hypernym:
   - 04079663-n
   ili: i55597
@@ -62007,7 +62007,7 @@
   partOfSpeech: n
 03659700-n:
   definition:
-  - the piece of ground in the outfield on the catcher's left
+  - the piece of ground in the outfield on the catcher###s left
   example:
   - the batter flied out to left
   hypernym:
@@ -62020,7 +62020,7 @@
   partOfSpeech: n
 03659902-n:
   definition:
-  - a cloth covering consisting of the part of a pair of trousers that covers a person's
+  - a cloth covering consisting of the part of a pair of trousers that covers a person###s
     leg
   hypernym:
   - 03054011-n
@@ -62054,7 +62054,7 @@
   partOfSpeech: n
 03660621-n:
   definition:
-  - (trademark) a child's plastic construction set for making mechanical models
+  - (trademark) a child###s plastic construction set for making mechanical models
   hypernym:
   - 03971038-n
   ili: i55619
@@ -62347,7 +62347,7 @@
   - 03599921-n
   ili: i55646
   members:
-  - Levi's
+  - Levi###s
   - levis
   partOfSpeech: n
 03665554-n:
@@ -62415,7 +62415,7 @@
   partOfSpeech: n
 03666506-n:
   definition:
-  - a plate mounted on the front and back of car and bearing the car's registration
+  - a plate mounted on the front and back of car and bearing the car###s registration
     number
   hypernym:
   - 03966230-n
@@ -62486,8 +62486,8 @@
   partOfSpeech: n
 03667627-n:
   definition:
-  - 'a condenser: during distillation the vapor passes through a tube that is cooled
-    by water'
+  - ###a condenser: during distillation the vapor passes through a tube that is cooled
+    by water###
   hypernym:
   - 03092065-n
   ili: i55659
@@ -62923,7 +62923,7 @@
   partOfSpeech: n
 03674693-n:
   definition:
-  - a channel or gutter on either side of a ship's keelson; carries bilge water into
+  - a channel or gutter on either side of a ship###s keelson; carries bilge water into
     the pump well
   exemplifies:
   - 06306016-n
@@ -63163,7 +63163,7 @@
   partOfSpeech: n
 03678776-n:
   definition:
-  - women's underwear and nightclothes
+  - women###s underwear and nightclothes
   hypernym:
   - 04516244-n
   ili: i55721
@@ -63980,7 +63980,7 @@
 03691984-n:
   definition:
   - measuring instrument that consists of a float that trails from a ship by a knotted
-    line in order to measure the ship's speed through the water
+    line in order to measure the ship###s speed through the water
   hypernym:
   - 03739416-n
   ili: i55798
@@ -64047,7 +64047,7 @@
   partOfSpeech: n
 03693014-n:
   definition:
-  - an antineoplastic drug often used to treat brain tumors or Hodgkin's disease
+  - an antineoplastic drug often used to treat brain tumors or Hodgkin###s disease
   hypernym:
   - 02725383-n
   ili: i55805
@@ -64142,7 +64142,7 @@
   partOfSpeech: n
 03694158-n:
   definition:
-  - a mirror; usually a ladies' dressing mirror
+  - a mirror; usually a ladies### dressing mirror
   hypernym:
   - 03778568-n
   ili: i55815
@@ -64348,7 +64348,7 @@
   partOfSpeech: n
 03697462-n:
   definition:
-  - a man's soft jacket usually with a tie belt; worn at home
+  - a man###s soft jacket usually with a tie belt; worn at home
   hypernym:
   - 03697705-n
   ili: i55835
@@ -64384,7 +64384,7 @@
   ili: i55838
   members:
   - loupe
-  - jeweler's loupe
+  - jeweler###s loupe
   partOfSpeech: n
 03698002-n:
   definition:
@@ -64437,10 +64437,10 @@
   ili: i55843
   members:
   - love knot
-  - lovers' knot
-  - lover's knot
-  - true lovers' knot
-  - true lover's knot
+  - lovers### knot
+  - lover###s knot
+  - true lovers### knot
+  - true lover###s knot
   partOfSpeech: n
 03698800-n:
   definition:
@@ -64561,7 +64561,7 @@
   - 03531378-n
   ili: i55855
   members:
-  - lubber's hole
+  - lubber###s hole
   partOfSpeech: n
 03700448-n:
   definition:
@@ -65006,7 +65006,7 @@
   - 04545847-n
   ili: i55897
   members:
-  - machinist's vise
+  - machinist###s vise
   - metalworking vise
   partOfSpeech: n
 03708121-n:
@@ -65198,7 +65198,7 @@
   partOfSpeech: n
 03710673-n:
   definition:
-  - a fortification built before World War II to protect France's eastern border;
+  - a fortification built before World War II to protect France###s eastern border;
     initially considered to be impregnable, it was easily overrun by the German army
     in 1940
   ili: i55916
@@ -65308,7 +65308,7 @@
 03712911-n:
   definition:
   - a slender magnet suspended in a magnetic compass on a mounting with little friction;
-    used to indicate the direction of the earth's magnetic pole
+    used to indicate the direction of the earth###s magnetic pole
   hypernym:
   - 03710918-n
   ili: i55925
@@ -65363,7 +65363,7 @@
 03714211-n:
   definition:
   - a scientific instrument that registers magnetic variations (especially variations
-    of the earth's magnetic field)
+    of the earth###s magnetic field)
   hypernym:
   - 04154560-n
   ili: i55930
@@ -65439,7 +65439,7 @@
   partOfSpeech: n
 03715362-n:
   definition:
-  - letter carrier's shoulder bag
+  - letter carrier###s shoulder bag
   example:
   - in Britain they call a mailbag a postbag
   hypernym:
@@ -65519,7 +65519,7 @@
   partOfSpeech: n
 03716260-n:
   definition:
-  - a woman's one-piece bathing suit
+  - a woman###s one-piece bathing suit
   hypernym:
   - 04378650-n
   ili: i55946
@@ -66125,7 +66125,7 @@
   partOfSpeech: n
 03725234-n:
   definition:
-  - a woman's silk or lace scarf
+  - a woman###s silk or lace scarf
   hypernym:
   - 04150962-n
   ili: i56004
@@ -66162,7 +66162,7 @@
   partOfSpeech: n
 03725654-n:
   definition:
-  - a diagrammatic representation of the earth's surface (or part of it)
+  - a diagrammatic representation of the earth###s surface (or part of it)
   hypernym:
   - 04083958-n
   ili: i56008
@@ -66500,7 +66500,7 @@
   partOfSpeech: n
 03730689-n:
   definition:
-  - scenery used to block the audience's view of parts of the stage that should not
+  - scenery used to block the audience###s view of parts of the stage that should not
     be seen
   hypernym:
   - 04152121-n
@@ -66550,12 +66550,12 @@
   partOfSpeech: n
 03731360-n:
   definition:
-  - a level longer than a carpenter's level
+  - a level longer than a carpenter###s level
   hypernym:
   - 03664184-n
   ili: i56047
   members:
-  - mason's level
+  - mason###s level
   partOfSpeech: n
 03731459-n:
   definition:
@@ -66668,7 +66668,7 @@
   ili: i56058
   members:
   - masterpiece
-  - chef-d'oeuvre
+  - chef-d###oeuvre
   partOfSpeech: n
 03733229-n:
   definition:
@@ -66725,7 +66725,7 @@
     chemical; ignites with friction
   example:
   - he always carries matches to light his pipe
-  - as long you've a lucifer to light your fag
+  - as long you###ve a lucifer to light your fag
   hypernym:
   - 03671917-n
   ili: i56064
@@ -67169,7 +67169,7 @@
   wikidata: Q422194
 03742300-n:
   definition:
-  - a child's construction set for making mechanical models
+  - a child###s construction set for making mechanical models
   hypernym:
   - 03971038-n
   ili: i56109
@@ -67549,7 +67549,7 @@
   - 03055525-n
   ili: i56143
   members:
-  - man's clothing
+  - man###s clothing
   partOfSpeech: n
 03751977-n:
   definition:
@@ -67558,8 +67558,8 @@
   - 04025061-n
   ili: i56144
   members:
-  - men's room
-  - men's
+  - men###s room
+  - men###s
   partOfSpeech: n
 03752065-n:
   definition:
@@ -67692,7 +67692,7 @@
   ili: i56155
   members:
   - Mercator projection
-  - Mercator's projection
+  - Mercator###s projection
   partOfSpeech: n
 03754377-n:
   definition:
@@ -68150,8 +68150,8 @@
   definition:
   - an electric railway operating below the surface of the ground (usually in a city)
   example:
-  - in Paris the subway system is called the `metro' and in London it is called the
-    `tube' or the `underground'
+  - in Paris the subway system is called the <<<metro>>> and in London it is called the
+    <<<tube>>> or the <<<underground>>>
   hypernym:
   - 04055680-n
   ili: i56197
@@ -68543,7 +68543,7 @@
   - 08215965-n
   example:
   - this military post provides an important source of income for the town nearby
-  - there is an officer's club on the post
+  - there is an officer###s club on the post
   hypernym:
   - 03768668-n
   ili: i56233
@@ -68710,11 +68710,11 @@
   ili: i56248
   members:
   - millinery
-  - woman's hat
+  - woman###s hat
   partOfSpeech: n
 03772043-n:
   definition:
-  - shop selling women's hats
+  - shop selling women###s hats
   hypernym:
   - 04209460-n
   ili: i56249
@@ -69477,7 +69477,7 @@
   definition:
   - slightly modified copy; not an exact copy
   example:
-  - a modification of last year's model
+  - a modification of last year###s model
   hypernym:
   - 03109245-n
   ili: i56321
@@ -69769,7 +69769,7 @@
   - 03314753-n
   ili: i56348
   members:
-  - monk's cloth
+  - monk###s cloth
   partOfSpeech: n
 03788550-n:
   definition:
@@ -69984,7 +69984,7 @@
   partOfSpeech: n
 03791629-n:
   definition:
-  - a woman's informal dress for housework
+  - a woman###s informal dress for housework
   hypernym:
   - 03241438-n
   ili: i56370
@@ -70188,7 +70188,7 @@
   partOfSpeech: n
 03794447-n:
   definition:
-  - a woman's loose unbelted dress
+  - a woman###s loose unbelted dress
   hypernym:
   - 03241438-n
   ili: i56389
@@ -70244,7 +70244,7 @@
   partOfSpeech: n
 03795327-n:
   definition:
-  - a garment made of motley (especially a court jester's costume)
+  - a garment made of motley (especially a court jester###s costume)
   hypernym:
   - 03423924-n
   ili: i56394
@@ -70380,7 +70380,7 @@
   members:
   - mound
   - hill
-  - pitcher's mound
+  - pitcher###s mound
   partOfSpeech: n
   wikidata: Q8189187
 03798059-n:
@@ -70573,7 +70573,7 @@
   partOfSpeech: n
 03800791-n:
   definition:
-  - (especially boxing) equipment that protects an athlete's mouth
+  - (especially boxing) equipment that protects an athlete###s mouth
   domain_topic:
   - 00446787-n
   hypernym:
@@ -70725,7 +70725,7 @@
   partOfSpeech: n
 03803070-n:
   definition:
-  - a photograph of someone's face (especially one made for police records)
+  - a photograph of someone###s face (especially one made for police records)
   hypernym:
   - 03931348-n
   ili: i56437
@@ -70907,7 +70907,7 @@
   ili: i56454
   members:
   - musette
-  - shepherd's pipe
+  - shepherd###s pipe
   partOfSpeech: n
 03806007-n:
   definition:
@@ -71044,7 +71044,7 @@
   partOfSpeech: n
 03808183-n:
   definition:
-  - a drinking cup with a bar inside the rim to keep a man's mustache out of the drink
+  - a drinking cup with a bar inside the rim to keep a man###s mustache out of the drink
   hypernym:
   - 03152175-n
   ili: i56468
@@ -71083,7 +71083,7 @@
   partOfSpeech: n
 03808824-n:
   definition:
-  - a leather or wire restraint that fits over an animal's snout (especially a dog's
+  - a leather or wire restraint that fits over an animal###s snout (especially a dog###s
     nose and jaws) and prevents it from eating or biting
   hypernym:
   - 04088956-n
@@ -71190,7 +71190,7 @@
   partOfSpeech: n
 03810720-n:
   definition:
-  - a brush used to clean a person's fingernails
+  - a brush used to clean a person###s fingernails
   hypernym:
   - 02911542-n
   ili: i56482
@@ -71351,8 +71351,8 @@
   - 02942270-n
   ili: i56497
   members:
-  - Napier's bones
-  - Napier's rods
+  - Napier###s bones
+  - Napier###s rods
   partOfSpeech: n
 03813077-n:
   definition:
@@ -71370,7 +71370,7 @@
   partOfSpeech: n
 03813320-n:
   definition:
-  - a circular band used to hold a particular person's napkin
+  - a circular band used to hold a particular person###s napkin
   hypernym:
   - 03539152-n
   ili: i56499
@@ -71537,7 +71537,7 @@
   wikidata: Q809892
 03816281-n:
   definition:
-  - the world's largest medical library
+  - the world###s largest medical library
   ili: i56515
   instance_hypernym:
   - 03666369-n
@@ -71649,7 +71649,7 @@
   partOfSpeech: n
 03818081-n:
   definition:
-  - the United States Navy's defense laboratory that conducts basic and applied research
+  - the United States Navy###s defense laboratory that conducts basic and applied research
     for the Navy in a variety of scientific and technical disciplines
   ili: i56526
   instance_hypernym:
@@ -71697,7 +71697,7 @@
   partOfSpeech: n
 03818909-n:
   definition:
-  - light on an airplane that indicates the plane's position and orientation; red
+  - light on an airplane that indicates the plane###s position and orientation; red
     light on the left (port) wing tip and green light on the right (starboard) wing
     tip
   hypernym:
@@ -71751,7 +71751,7 @@
 03819652-n:
   definition:
   - an opening in a garment for the neck of the wearer; a part of the garment near
-    the wearer's neck
+    the wearer###s neck
   hypernym:
   - 03854249-n
   ili: i56536
@@ -72345,7 +72345,7 @@
   domain_region:
   - 08879115-n
   example:
-  - he's in the nick
+  - he###s in the nick
   exemplifies:
   - 07171981-n
   hypernym:
@@ -72510,7 +72510,7 @@
   partOfSpeech: n
 03831328-n:
   definition:
-  - a flexible cap on a baby's feeding bottle or pacifier
+  - a flexible cap on a baby###s feeding bottle or pacifier
   domain_topic:
   - 00845915-n
   hypernym:
@@ -72833,7 +72833,7 @@
   partOfSpeech: n
 03836922-n:
   definition:
-  - a strap that is the part of a bridle that goes over the animal's nose
+  - a strap that is the part of a bridle that goes over the animal###s nose
   hypernym:
   - 04340267-n
   ili: i56636
@@ -72882,7 +72882,7 @@
   partOfSpeech: n
 03837684-n:
   definition:
-  - a wheel located under the nose of an airplane that is part of the plane's landing
+  - a wheel located under the nose of an airplane that is part of the plane###s landing
     gear
   hypernym:
   - 04582285-n
@@ -73122,19 +73122,19 @@
   - 03479089-n
   ili: i56663
   members:
-  - nun's habit
+  - nun###s habit
   mero_part:
   - 03472312-n
   partOfSpeech: n
 03841582-n:
   definition:
-  - a child's room for a baby
+  - a child###s room for a baby
   hypernym:
   - 03020724-n
   ili: i56664
   members:
   - nursery
-  - baby's room
+  - baby###s room
   partOfSpeech: n
 03841711-n:
   definition:
@@ -73191,7 +73191,7 @@
   partOfSpeech: n
 03842496-n:
   definition:
-  - women's stockings made from a sheer material (nylon or rayon or silk)
+  - women###s stockings made from a sheer material (nylon or rayon or silk)
   hypernym:
   - 04330957-n
   ili: i56670
@@ -73292,13 +73292,13 @@
   definition:
   - a work of art of some artistic value
   example:
-  - this store sells only objets d'art
+  - this store sells only objets d###art
   - it is not known who created this piece
   hypernym:
   - 04609048-n
   ili: i56679
   members:
-  - objet d'art
+  - objet d###art
   - art object
   - piece
   partOfSpeech: n
@@ -73340,7 +73340,7 @@
   - 03844419-n
   ili: i56683
   members:
-  - oboe d'amore
+  - oboe d###amore
   partOfSpeech: n
   wikidata: Q8380
 03844944-n:
@@ -73468,7 +73468,7 @@
   - the total output of a writer or artist (or a substantial part of it)
   example:
   - he studied the entire Wagnerian oeuvre
-  - Picasso's work can be divided into periods
+  - Picasso###s work can be divided into periods
   hypernym:
   - 03292089-n
   ili: i56696
@@ -73517,7 +73517,7 @@
   - 03756556-n
   ili: i56700
   members:
-  - officer's mess
+  - officer###s mess
   partOfSpeech: n
 03847897-n:
   definition:
@@ -74220,7 +74220,7 @@
   partOfSpeech: n
 03859108-n:
   definition:
-  - a book in which customers' orders are entered; usually makes multiple copies of
+  - a book in which customers### orders are entered; usually makes multiple copies of
     the order
   hypernym:
   - 02873453-n
@@ -74389,7 +74389,7 @@
   ili: i56783
   members:
   - orphanage
-  - orphans' asylum
+  - orphans### asylum
   partOfSpeech: n
 03861668-n:
   definition:
@@ -74939,7 +74939,7 @@
   partOfSpeech: n
 03870230-n:
   definition:
-  - a projector operated by a speaker; projects the image over the speaker's head
+  - a projector operated by a speaker; projects the image over the speaker###s head
   hypernym:
   - 04015928-n
   ili: i56836
@@ -75661,7 +75661,7 @@
   - a substance used as a coating to protect or decorate a surface (especially a mixture
     of pigment suspended in a liquid); dries to form a hard coating
   example:
-  - artists use `paint' and `pigment' interchangeably
+  - artists use <<<paint>>> and <<<pigment>>> interchangeably
   hypernym:
   - 03062092-n
   - 15009532-n
@@ -75694,7 +75694,7 @@
   partOfSpeech: n
 03881789-n:
   definition:
-  - a box containing a collection of cubes or tubes of artists' paint
+  - a box containing a collection of cubes or tubes of artists### paint
   hypernym:
   - 02886585-n
   ili: i56908
@@ -75769,7 +75769,7 @@
   members:
   - pajama
   - pyjama
-  - pj's
+  - pj###s
   - jammies
   partOfSpeech: n
 03883371-n:
@@ -76058,7 +76058,7 @@
   instance_hypernym:
   - 03018359-n
   members:
-  - Pandora's box
+  - Pandora###s box
   partOfSpeech: n
 03887590-n:
   definition:
@@ -76268,7 +76268,7 @@
   partOfSpeech: n
 03890623-n:
   definition:
-  - a monument commemorating a nation's dead heroes
+  - a monument commemorating a nation###s dead heroes
   hypernym:
   - 03749393-n
   ili: i56963
@@ -76341,7 +76341,7 @@
   partOfSpeech: n
 03891485-n:
   definition:
-  - a woman's undergarment that combines a girdle and panties
+  - a woman###s undergarment that combines a girdle and panties
   hypernym:
   - 03117520-n
   ili: i56970
@@ -76350,7 +76350,7 @@
   partOfSpeech: n
 03891601-n:
   definition:
-  - a woman's tights consisting of underpants and stockings
+  - a woman###s tights consisting of underpants and stockings
   hypernym:
   - 04442066-n
   ili: i56971
@@ -77165,7 +77165,7 @@
   partOfSpeech: n
 03904484-n:
   definition:
-  - a cigar-shaped log with rotary fins that measure the ship's speed
+  - a cigar-shaped log with rotary fins that measure the ship###s speed
   hypernym:
   - 03691984-n
   ili: i57049
@@ -77176,7 +77176,7 @@
   partOfSpeech: n
 03904633-n:
   definition:
-  - medicine that is protected by a patent and available without a doctor's prescription
+  - medicine that is protected by a patent and available without a doctor###s prescription
   hypernym:
   - 03745652-n
   ili: i57050
@@ -77405,7 +77405,7 @@
   - 04209460-n
   ili: i57070
   members:
-  - pawnbroker's shop
+  - pawnbroker###s shop
   - pawnshop
   - loan office
   partOfSpeech: n
@@ -77459,7 +77459,7 @@
   partOfSpeech: n
 03908834-n:
   definition:
-  - a sailor's heavy woolen double-breasted jacket
+  - a sailor###s heavy woolen double-breasted jacket
   hypernym:
   - 03594978-n
   ili: i57076
@@ -77920,7 +77920,7 @@
   partOfSpeech: n
 03915954-n:
   definition:
-  - a drug (trade name Cuprimine) used to treat heavy metal poisoning and Wilson's
+  - a drug (trade name Cuprimine) used to treat heavy metal poisoning and Wilson###s
     disease and severe arthritis
   hypernym:
   - 03745652-n
@@ -78659,7 +78659,7 @@
 03927621-n:
   definition:
   - a drug used as an anesthetic by veterinarians; illicitly taken (originally in
-    the form of powder or `dust') for its effects as a hallucinogen
+    the form of powder or <<<dust>>>) for its effects as a hallucinogen
   hypernym:
   - 03484730-n
   ili: i57190
@@ -79280,7 +79280,7 @@
   partOfSpeech: n
 03938123-n:
   definition:
-  - a woman's dressy hat with a wide brim
+  - a woman###s dressy hat with a wide brim
   hypernym:
   - 03771857-n
   ili: i57246
@@ -79496,7 +79496,7 @@
   partOfSpeech: n
 03941611-n:
   definition:
-  - a child's coin bank (often shaped like a pig)
+  - a child###s coin bank (often shaped like a pig)
   hypernym:
   - 04146942-n
   ili: i57267
@@ -79661,7 +79661,7 @@
   partOfSpeech: n
 03944111-n:
   definition:
-  - a small round woman's hat
+  - a small round woman###s hat
   hypernym:
   - 03771857-n
   ili: i57282
@@ -79851,7 +79851,7 @@
   partOfSpeech: n
 03946989-n:
   definition:
-  - a piece of jewelry that is pinned onto the wearer's garment
+  - a piece of jewelry that is pinned onto the wearer###s garment
   hypernym:
   - 03602662-n
   ili: i57301
@@ -80041,7 +80041,7 @@
   partOfSpeech: n
 03949724-n:
   definition:
-  - a woman's cap with two long flaps pinned on
+  - a woman###s cap with two long flaps pinned on
   hypernym:
   - 02957776-n
   ili: i57320
@@ -80117,7 +80117,7 @@
   definition:
   - a wheel that has numerous pins that are set at right angles to its rim
   example:
-  - he spun the pinwheel and it stopped with the pointer on `Go'
+  - he spun the pinwheel and it stopped with the pointer on <<<Go>>>
   hypernym:
   - 04582285-n
   ili: i57328
@@ -80244,7 +80244,7 @@
   partOfSpeech: n
 03952999-n:
   definition:
-  - a rack for holding a smoker's pipes
+  - a rack for holding a smoker###s pipes
   hypernym:
   - 04044916-n
   ili: i57340
@@ -80426,7 +80426,7 @@
   definition:
   - a surface excavation for extracting stone or slate
   example:
-  - a British term for `quarry' is `stone pit'
+  - a British term for <<<quarry>>> is <<<stone pit>>>
   hypernym:
   - 03307066-n
   ili: i57357
@@ -80752,7 +80752,7 @@
   partOfSpeech: n
 03961007-n:
   definition:
-  - a carpenter's hand tool with an adjustable blade for smoothing or shaping wood
+  - a carpenter###s hand tool with an adjustable blade for smoothing or shaping wood
   example:
   - the cabinetmaker used a plane for the finish work
   hypernym:
@@ -80761,7 +80761,7 @@
   ili: i57387
   members:
   - plane
-  - carpenter's plane
+  - carpenter###s plane
   - woodworking plane
   partOfSpeech: n
 03961572-n:
@@ -81012,7 +81012,7 @@
   partOfSpeech: n
 03965417-n:
   definition:
-  - the front of man's dress shirt
+  - the front of man###s dress shirt
   hypernym:
   - 04205058-n
   ili: i57412
@@ -81021,7 +81021,7 @@
   partOfSpeech: n
 03965521-n:
   definition:
-  - the ornamental front of a woman's bodice or shirt
+  - the ornamental front of a woman###s bodice or shirt
   hypernym:
   - 04205058-n
   ili: i57413
@@ -81266,7 +81266,7 @@
   partOfSpeech: n
 03969777-n:
   definition:
-  - a box for a child's toys and personal things (especially at a boarding school)
+  - a box for a child###s toys and personal things (especially at a boarding school)
   domain_region:
   - 08879115-n
   hypernym:
@@ -81278,7 +81278,7 @@
   partOfSpeech: n
 03969939-n:
   definition:
-  - yard consisting of an outdoor area for children's play
+  - yard consisting of an outdoor area for children###s play
   hypernym:
   - 04618236-n
   ili: i57439
@@ -81539,7 +81539,7 @@
   - 03494245-n
   ili: i57461
   members:
-  - plumber's snake
+  - plumber###s snake
   - snake
   - auger
   partOfSpeech: n
@@ -81568,7 +81568,7 @@
   wikidata: Q2024731
 03975868-n:
   definition:
-  - a carpenter's level with a plumb line at right angles to it
+  - a carpenter###s level with a plumb line at right angles to it
   hypernym:
   - 02970238-n
   ili: i57464
@@ -81577,7 +81577,7 @@
   partOfSpeech: n
 03975985-n:
   definition:
-  - a cord from which a metal weight is suspended pointing directly to the earth's
+  - a cord from which a metal weight is suspended pointing directly to the earth###s
     center of gravity; used to determine the vertical from a given point
   hypernym:
   - 03110761-n
@@ -81615,11 +81615,11 @@
   ili: i57468
   members:
   - plunger
-  - plumber's helper
+  - plumber###s helper
   partOfSpeech: n
 03976721-n:
   definition:
-  - men's baggy knickers hanging below the knees; formerly worn for sports (especially
+  - men###s baggy knickers hanging below the knees; formerly worn for sports (especially
     golf)
   domain_topic:
   - 00465962-n
@@ -81892,7 +81892,7 @@
   partOfSpeech: n
 03981127-n:
   definition:
-  - the gun muzzle's direction
+  - the gun muzzle###s direction
   example:
   - he held me up at the point of a gun
   hypernym:
@@ -82141,7 +82141,7 @@
   partOfSpeech: n
 03985173-n:
   definition:
-  - a woman's dress with a tight bodice and an overskirt drawn back to reveal a colorful
+  - a woman###s dress with a tight bodice and an overskirt drawn back to reveal a colorful
     underskirt
   hypernym:
   - 03241438-n
@@ -82534,7 +82534,7 @@
   partOfSpeech: n
 03991001-n:
   definition:
-  - man's hat with a low, flat crown and a snap brim
+  - man###s hat with a low, flat crown and a snap brim
   hypernym:
   - 04255617-n
   ili: i57557
@@ -83059,12 +83059,12 @@
   definition:
   - a horizontal rotating wheel holding the clay being shaped by a potter
   example:
-  - the potter's wheel was invented in Asia Minor around 6500 BC
+  - the potter###s wheel was invented in Asia Minor around 6500 BC
   hypernym:
   - 04582285-n
   ili: i57607
   members:
-  - potter's wheel
+  - potter###s wheel
   partOfSpeech: n
 03999061-n:
   definition:
@@ -83457,7 +83457,7 @@
 04005225-n:
   definition:
   - a computer for controlling antiaircraft fire that computes the position of an
-    aircraft at the instant of a shell's arrival
+    aircraft at the instant of a shell###s arrival
   hypernym:
   - 03086983-n
   ili: i57644
@@ -83745,7 +83745,7 @@
   partOfSpeech: n
 04009717-n:
   definition:
-  - a man's double-breasted frock coat
+  - a man###s double-breasted frock coat
   hypernym:
   - 03403143-n
   ili: i57672
@@ -83969,7 +83969,7 @@
   partOfSpeech: n
 04013502-n:
   definition:
-  - an antineoplastic drug used to treat Hodgkin's disease
+  - an antineoplastic drug used to treat Hodgkin###s disease
   hypernym:
   - 02725383-n
   ili: i57694
@@ -84111,7 +84111,7 @@
   ili: i57707
   members:
   - prolonge knot
-  - sailor's breastplate
+  - sailor###s breastplate
   partOfSpeech: n
 04016581-n:
   definition:
@@ -84145,7 +84145,7 @@
   ili: i57710
   members:
   - prompt box
-  - prompter's box
+  - prompter###s box
   partOfSpeech: n
 04017155-n:
   definition:
@@ -84826,7 +84826,7 @@
   partOfSpeech: n
 04029513-n:
   definition:
-  - an enclosure in the middle of a ship's hold that protects the ship's pumps
+  - an enclosure in the middle of a ship###s hold that protects the ship###s pumps
   hypernym:
   - 04579845-n
   ili: i57772
@@ -85414,7 +85414,7 @@
   partOfSpeech: n
 04038246-n:
   definition:
-  - the stern area of a ship's upper deck
+  - the stern area of a ship###s upper deck
   hypernym:
   - 03172332-n
   ili: i57830
@@ -85569,7 +85569,7 @@
   partOfSpeech: n
 04040377-n:
   definition:
-  - pen made from a bird's feather
+  - pen made from a bird###s feather
   hypernym:
   - 03913116-n
   ili: i57846
@@ -86872,7 +86872,7 @@
   partOfSpeech: n
 04061678-n:
   definition:
-  - (plural) rare collector's items
+  - (plural) rare collector###s items
   exemplifies:
   - 06306016-n
   hypernym:
@@ -86905,7 +86905,7 @@
   partOfSpeech: n
 04062142-n:
   definition:
-  - a pad (usually made of hair) worn as part of a woman's coiffure
+  - a pad (usually made of hair) worn as part of a woman###s coiffure
   hypernym:
   - 03878173-n
   ili: i57966
@@ -86991,7 +86991,7 @@
   partOfSpeech: n
 04063401-n:
   definition:
-  - a baby's toy that makes percussive noises when shaken
+  - a baby###s toy that makes percussive noises when shaken
   hypernym:
   - 03971038-n
   ili: i57974
@@ -87186,7 +87186,7 @@
   definition:
   - ready-made clothing
   example:
-  - she couldn't find anything in ready-to-wear that she liked
+  - she couldn###t find anything in ready-to-wear that she liked
   hypernym:
   - 03055525-n
   ili: i57993
@@ -88145,7 +88145,7 @@
   partOfSpeech: n
 04082727-n:
   definition:
-  - perspective drawing of an architect's design
+  - perspective drawing of an architect###s design
   hypernym:
   - 03239009-n
   ili: i58084
@@ -88365,7 +88365,7 @@
   - the official house or establishment of an important person (as a sovereign or
     president)
   example:
-  - he refused to live in the governor's residence
+  - he refused to live in the governor###s residence
   hypernym:
   - 03549540-n
   ili: i58105
@@ -88491,7 +88491,7 @@
   partOfSpeech: n
 04088956-n:
   definition:
-  - a device that retards something's motion
+  - a device that retards something###s motion
   example:
   - the car did not have proper restraints fitted
   hypernym:
@@ -88560,7 +88560,7 @@
   partOfSpeech: n
 04090421-n:
   definition:
-  - a woman's drawstring handbag; usually made of net or beading or brocade; used
+  - a woman###s drawstring handbag; usually made of net or beading or brocade; used
     in 18th and 19th centuries
   hypernym:
   - 02777157-n
@@ -88659,7 +88659,7 @@
   partOfSpeech: n
 04092001-n:
   definition:
-  - a lapel on a woman's garment; turned back to show the reverse side
+  - a lapel on a woman###s garment; turned back to show the reverse side
   hypernym:
   - 03647758-n
   ili: i58133
@@ -88934,7 +88934,7 @@
   partOfSpeech: n
 04096094-n:
   definition:
-  - a horizontal beam (or plate) connected to the top of a ship's vertical keel or
+  - a horizontal beam (or plate) connected to the top of a ship###s vertical keel or
     to the keelson
   hypernym:
   - 02819085-n
@@ -89106,7 +89106,7 @@
   partOfSpeech: n
 04098805-n:
   definition:
-  - gear consisting of ropes etc. supporting a ship's masts and sails
+  - gear consisting of ropes etc. supporting a ship###s masts and sails
   hypernym:
   - 03435869-n
   ili: i58178
@@ -89116,7 +89116,7 @@
   partOfSpeech: n
 04098951-n:
   definition:
-  - the piece of ground in the outfield on the catcher's right
+  - the piece of ground in the outfield on the catcher###s right
   hypernym:
   - 08691133-n
   ili: i58179
@@ -89137,7 +89137,7 @@
   partOfSpeech: n
 04099280-n:
   definition:
-  - a person's costume (especially if bizarre)
+  - a person###s costume (especially if bizarre)
   example:
   - What a queer rigout!
   hypernym:
@@ -89869,7 +89869,7 @@
   partOfSpeech: n
 04110759-n:
   definition:
-  - a woman's foundation garment rolled on to the hips
+  - a woman###s foundation garment rolled on to the hips
   hypernym:
   - 03392169-n
   ili: i58251
@@ -90509,7 +90509,7 @@
   - 04386330-n
   members:
   - Round Table
-  - King Arthur's Round Table
+  - King Arthur###s Round Table
   partOfSpeech: n
 04121813-n:
   definition:
@@ -90794,7 +90794,7 @@
   partOfSpeech: n
 04126185-n:
   definition:
-  - a servant's seat (or luggage compartment) in the rear of a carriage
+  - a servant###s seat (or luggage compartment) in the rear of a carriage
   hypernym:
   - 04168419-n
   ili: i58341
@@ -90822,7 +90822,7 @@
   partOfSpeech: n
 04126572-n:
   definition:
-  - a recreation room for noisy activities (parties or children's play etc.)
+  - a recreation room for noisy activities (parties or children###s play etc.)
   hypernym:
   - 04072576-n
   ili: i58344
@@ -91024,14 +91024,14 @@
   partOfSpeech: n
 04129443-n:
   definition:
-  - an artist's brush made of sable hairs
+  - an artist###s brush made of sable hairs
   hypernym:
   - 02911542-n
   ili: i58364
   members:
   - sable
   - sable brush
-  - sable's hair pencil
+  - sable###s hair pencil
   partOfSpeech: n
 04129586-n:
   definition:
@@ -91064,7 +91064,7 @@
   partOfSpeech: n
 04129919-n:
   definition:
-  - a bag made of paper or plastic for holding customer's purchases
+  - a bag made of paper or plastic for holding customer###s purchases
   hypernym:
   - 02776042-n
   ili: i58368
@@ -91076,7 +91076,7 @@
   partOfSpeech: n
 04130120-n:
   definition:
-  - a woman's full loose hiplength jacket
+  - a woman###s full loose hiplength jacket
   hypernym:
   - 03594978-n
   ili: i58369
@@ -91113,7 +91113,7 @@
   partOfSpeech: n
 04130542-n:
   definition:
-  - man's hiplength coat with a straight back; the jacket of a suit
+  - man###s hiplength coat with a straight back; the jacket of a suit
   hypernym:
   - 03061006-n
   ili: i58373
@@ -91509,7 +91509,7 @@
   partOfSpeech: n
 04136849-n:
   definition:
-  - a boy's ensemble; copied from a sailor's uniform
+  - a boy###s ensemble; copied from a sailor###s uniform
   hypernym:
   - 03294896-n
   ili: i58410
@@ -92837,7 +92837,7 @@
   partOfSpeech: n
 04156439-n:
   definition:
-  - child's two-wheeled vehicle operated by foot
+  - child###s two-wheeled vehicle operated by foot
   hypernym:
   - 04583497-n
   ili: i58540
@@ -93395,7 +93395,7 @@
   partOfSpeech: n
 04166017-n:
   definition:
-  - a sailor's storage chest for personal property
+  - a sailor###s storage chest for personal property
   hypernym:
   - 03018359-n
   ili: i58594
@@ -93433,7 +93433,7 @@
   partOfSpeech: n
 04166737-n:
   definition:
-  - (nautical) ladder to be lowered over a ship's side for coming aboard
+  - (nautical) ladder to be lowered over a ship###s side for coming aboard
   domain_topic:
   - 00315295-n
   hypernym:
@@ -94401,7 +94401,7 @@
   members:
   - service door
   - service entrance
-  - servant's entrance
+  - servant###s entrance
   partOfSpeech: n
 04182920-n:
   definition:
@@ -94569,7 +94569,7 @@
   ili: i58706
   members:
   - seventy-eight
-  - '78'
+  - ###78###
   partOfSpeech: n
 04185390-n:
   definition:
@@ -95220,8 +95220,8 @@
   members:
   - sheet bend
   - becket bend
-  - weaver's knot
-  - weaver's hitch
+  - weaver###s knot
+  - weaver###s hitch
   partOfSpeech: n
 04196325-n:
   definition:
@@ -95689,7 +95689,7 @@
   partOfSpeech: n
 04205276-n:
   definition:
-  - any of various fabrics used to make men's shirts
+  - any of various fabrics used to make men###s shirts
   hypernym:
   - 03314753-n
   ili: i58811
@@ -95884,7 +95884,7 @@
   partOfSpeech: n
 04208478-n:
   definition:
-  - a child's rocking chair with the seat built between two flat sides that are shaped
+  - a child###s rocking chair with the seat built between two flat sides that are shaped
     to resemble an animal (such as a swan or duck)
   hypernym:
   - 04107063-n
@@ -96004,7 +96004,7 @@
   - the commodities purchased from stores
   example:
   - she loaded her shopping into the car
-  - women carrying home shopping didn't give me a second glance
+  - women carrying home shopping didn###t give me a second glance
   hypernym:
   - 03080712-n
   ili: i58839
@@ -96712,7 +96712,7 @@
   partOfSpeech: n
 04221716-n:
   definition:
-  - light carried by a boat that indicates the boat's direction; vessels at night
+  - light carried by a boat that indicates the boat###s direction; vessels at night
     carry a red light on the port bow and a green light on the starboard bow
   hypernym:
   - 03670692-n
@@ -96840,7 +96840,7 @@
   partOfSpeech: n
 04223369-n:
   definition:
-  - the legendary seat at King Arthur's Round Table reserved for the knight who would
+  - the legendary seat at King Arthur###s Round Table reserved for the knight who would
     find the Holy Grail; it was fatal for anyone else to sit in it
   ili: i58922
   instance_hypernym:
@@ -97283,7 +97283,7 @@
   partOfSpeech: n
 04230374-n:
   definition:
-  - a collarless men's undergarment for the upper part of the body
+  - a collarless men###s undergarment for the upper part of the body
   hypernym:
   - 04515458-n
   ili: i58966
@@ -97859,7 +97859,7 @@
   partOfSpeech: n
 04238967-n:
   definition:
-  - (used in the plural) men's underwear consisting of cotton undershirt and underpants
+  - (used in the plural) men###s underwear consisting of cotton undershirt and underpants
   exemplifies:
   - 06864792-n
   - 06306016-n
@@ -98355,7 +98355,7 @@
   partOfSpeech: n
 04246324-n:
   definition:
-  - rower's seat that slides fore and aft
+  - rower###s seat that slides fore and aft
   hypernym:
   - 04168419-n
   ili: i59071
@@ -98565,7 +98565,7 @@
   partOfSpeech: n
 04249536-n:
   definition:
-  - a sailing vessel with a single mast set about one third of the boat's length aft
+  - a sailing vessel with a single mast set about one third of the boat###s length aft
     of the bow
   hypernym:
   - 04135920-n
@@ -98630,7 +98630,7 @@
   ili: i59097
   members:
   - slopshop
-  - slopseller's shop
+  - slopseller###s shop
   partOfSpeech: n
 04250498-n:
   definition:
@@ -98773,7 +98773,7 @@
 04252636-n:
   definition:
   - personal items conforming to regulations that are sold aboard ship or at a naval
-    base and charged to the person's pay
+    base and charged to the person###s pay
   exemplifies:
   - 06306016-n
   hypernym:
@@ -98999,7 +98999,7 @@
   definition:
   - an informal photograph; usually made with a small hand-held camera
   example:
-  - my snapshots haven't been developed yet
+  - my snapshots haven###t been developed yet
   - he tried to get unposed shots of his friends
   hypernym:
   - 03931348-n
@@ -99135,7 +99135,7 @@
   partOfSpeech: n
 04257802-n:
   definition:
-  - an ornamental net in the shape of a bag that confines a woman's hair; pins or
+  - an ornamental net in the shape of a bag that confines a woman###s hair; pins or
     ties at the back of the head
   hypernym:
   - 03825135-n
@@ -99159,7 +99159,7 @@
   partOfSpeech: n
 04258254-n:
   definition:
-  - breathing device consisting of a bent tube fitting into a swimmer's mouth and
+  - breathing device consisting of a bent tube fitting into a swimmer###s mouth and
     extending above the surface; allows swimmer to breathe while face down in the
     water
   hypernym:
@@ -99173,7 +99173,7 @@
   - something that is extraordinary or remarkable or prominent
   example:
   - a snorter of a sermon
-  - the storm wasn't long but it was a snorter
+  - the storm wasn###t long but it was a snorter
   hypernym:
   - 04431353-n
   ili: i59147
@@ -99252,7 +99252,7 @@
   partOfSpeech: n
 04259670-n:
   definition:
-  - a child's overgarment for cold weather
+  - a child###s overgarment for cold weather
   hypernym:
   - 03869443-n
   ili: i59155
@@ -100059,7 +100059,7 @@
   - 03502782-n
   ili: i59236
   members:
-  - sou'wester
+  - sou###wester
   partOfSpeech: n
 04271595-n:
   definition:
@@ -100139,7 +100139,7 @@
   partOfSpeech: n
 04272778-n:
   definition:
-  - a rocket-propelled guided missile that can escape the earth's atmosphere; makes
+  - a rocket-propelled guided missile that can escape the earth###s atmosphere; makes
     observations of the solar system that cannot be made by terrestrial observation
   hypernym:
   - 03471094-n
@@ -100160,7 +100160,7 @@
   partOfSpeech: n
 04273124-n:
   definition:
-  - a reusable spacecraft with wings for a controlled descent through the Earth's
+  - a reusable spacecraft with wings for a controlled descent through the Earth###s
     atmosphere
   hypernym:
   - 04272024-n
@@ -100574,7 +100574,7 @@
   partOfSpeech: n
 04279508-n:
   definition:
-  - a woman's pump with medium heel; usually in contrasting colors for toe and heel
+  - a woman###s pump with medium heel; usually in contrasting colors for toe and heel
   hypernym:
   - 04028726-n
   ili: i59286
@@ -100802,7 +100802,7 @@
   ili: i59309
   members:
   - spider web
-  - spider's web
+  - spider###s web
   partOfSpeech: n
 04282667-n:
   definition:
@@ -100812,7 +100812,7 @@
   ili: i59310
   members:
   - spider web
-  - spider's web
+  - spider###s web
   partOfSpeech: n
 04282780-n:
   definition:
@@ -100874,7 +100874,7 @@
     the shoes themselves)
   example:
   - the second baseman sharpened his spikes before every game
-  - golfers' spikes damage the putting greens
+  - golfers### spikes damage the putting greens
   hypernym:
   - 03980573-n
   ili: i59316
@@ -100883,7 +100883,7 @@
   partOfSpeech: n
 04283927-n:
   definition:
-  - a very high narrow heel on women's shoes
+  - a very high narrow heel on women###s shoes
   hypernym:
   - 03516570-n
   ili: i59317
@@ -100969,7 +100969,7 @@
   partOfSpeech: n
 04285118-n:
   definition:
-  - the part of a book's cover that encloses the inner side of the book's pages and
+  - the part of a book###s cover that encloses the inner side of the book###s pages and
     that faces outward when the book is shelved
   example:
   - the title and author were printed on the spine of the book
@@ -101010,7 +101010,7 @@
   partOfSpeech: n
 04285743-n:
   definition:
-  - fisherman's lure; revolves when drawn through the water
+  - fisherman###s lure; revolves when drawn through the water
   hypernym:
   - 03355448-n
   ili: i59329
@@ -101748,7 +101748,7 @@
   partOfSpeech: n
 04297397-n:
   definition:
-  - a sharp prod fixed to a rider's heel and used to urge a horse onward
+  - a sharp prod fixed to a rider###s heel and used to urge a horse onward
   example:
   - cowboys know not to squat with their spurs on
   hypernym:
@@ -102543,7 +102543,7 @@
   - 03139803-n
   ili: i59477
   members:
-  - St. Andrew's cross
+  - St. Andrew###s cross
   - saltire
   partOfSpeech: n
 04309878-n:
@@ -102671,7 +102671,7 @@
   partOfSpeech: n
 04311695-n:
   definition:
-  - block providing bracing for a runner's feet at start of a race
+  - block providing bracing for a runner###s feet at start of a race
   hypernym:
   - 02855782-n
   ili: i59490
@@ -102785,7 +102785,7 @@
   partOfSpeech: n
 04313592-n:
   definition:
-  - a representation of any of the 14 stages in Christ's journey to Calvary
+  - a representation of any of the 14 stages in Christ###s journey to Calvary
   hypernym:
   - 04083958-n
   ili: i59501
@@ -102914,7 +102914,7 @@
   partOfSpeech: n
 04315721-n:
   definition:
-  - a room that can be filled with steam in which people bathe; `vapour bath' is a
+  - a room that can be filled with steam in which people bathe; <<<vapour bath>>> is a
     British term
   hypernym:
   - 04112987-n
@@ -103282,7 +103282,7 @@
   partOfSpeech: n
 04321124-n:
   definition:
-  - a miner's tamping bar for ramming packing in over a blasting charge
+  - a miner###s tamping bar for ramming packing in over a blasting charge
   hypernym:
   - 04394793-n
   ili: i59549
@@ -103357,7 +103357,7 @@
   partOfSpeech: n
 04322323-n:
   definition:
-  - a solid block joined to the beams in which the heel of a ship's mast or capstan
+  - a solid block joined to the beams in which the heel of a ship###s mast or capstan
     is fixed
   hypernym:
   - 02855782-n
@@ -103575,7 +103575,7 @@
   partOfSpeech: n
 04325689-n:
   definition:
-  - a child's plaything consisting on an imitation horse's head on one end of a stick
+  - a child###s plaything consisting on an imitation horse###s head on one end of a stick
   hypernym:
   - 03971038-n
   ili: i59576
@@ -103729,7 +103729,7 @@
   partOfSpeech: n
 04328111-n:
   definition:
-  - support consisting of metal loops into which rider's feet go
+  - support consisting of metal loops into which rider###s feet go
   hypernym:
   - 04366676-n
   ili: i59591
@@ -103844,7 +103844,7 @@
   partOfSpeech: n
 04330062-n:
   definition:
-  - a car kept in dealers' stock for regular sales
+  - a car kept in dealers### stock for regular sales
   hypernym:
   - 02961779-n
   ili: i59602
@@ -103864,7 +103864,7 @@
   partOfSpeech: n
 04330657-n:
   definition:
-  - knit used especially for infants' wear and undergarments
+  - knit used especially for infants### wear and undergarments
   hypernym:
   - 03630646-n
   ili: i59604
@@ -103900,7 +103900,7 @@
   definition:
   - any equipment constantly used as part of a profession or occupation
   example:
-  - friendliness is the salesman's stock in trade
+  - friendliness is the salesman###s stock in trade
   hypernym:
   - 03298959-n
   ili: i59607
@@ -104535,7 +104535,7 @@
   partOfSpeech: n
 04341243-n:
   definition:
-  - a woman's garment that exposes the shoulders and has no shoulder straps
+  - a woman###s garment that exposes the shoulders and has no shoulder straps
   hypernym:
   - 03241438-n
   ili: i59667
@@ -105044,7 +105044,7 @@
   example:
   - she ran a dance studio
   - the music department provided studios for their students
-  - you don't need a studio to make a passport photograph
+  - you don###t need a studio to make a passport photograph
   hypernym:
   - 04609402-n
   ili: i59716
@@ -105913,7 +105913,7 @@
   definition:
   - an automobile roof having a sliding or raisable panel
   example:
-  - '`sunshine-roof'' is a British term for `sunroof'''
+  - ###<<<sunshine-roof>>> is a British term for <<<sunroof>>>###
   hypernym:
   - 04112162-n
   ili: i59799
@@ -105937,7 +105937,7 @@
   partOfSpeech: n
 04364618-n:
   definition:
-  - a child's garment consisting of a brief top and shorts
+  - a child###s garment consisting of a brief top and shorts
   hypernym:
   - 03423924-n
   ili: i59801
@@ -106177,7 +106177,7 @@
   partOfSpeech: n
 04369024-n:
   definition:
-  - a tunic worn over a knight's armor
+  - a tunic worn over a knight###s armor
   hypernym:
   - 04504865-n
   ili: i59826
@@ -106292,7 +106292,7 @@
   - 03632523-n
   ili: i59837
   members:
-  - surgeon's knot
+  - surgeon###s knot
   partOfSpeech: n
   wikidata: Q1074806
 04371078-n:
@@ -106301,7 +106301,7 @@
   domain_region:
   - 08879115-n
   example:
-  - he read the warning in the doctor's surgery
+  - he read the warning in the doctor###s surgery
   hypernym:
   - 04112987-n
   ili: i59838
@@ -106373,7 +106373,7 @@
   partOfSpeech: n
 04372316-n:
   definition:
-  - a man's overcoat in the style of a frock coat
+  - a man###s overcoat in the style of a frock coat
   hypernym:
   - 03461607-n
   ili: i59845
@@ -106399,7 +106399,7 @@
   ili: i59847
   members:
   - surveying instrument
-  - surveyor's instrument
+  - surveyor###s instrument
   mero_part:
   - 04224030-n
   partOfSpeech: n
@@ -106412,7 +106412,7 @@
   - 04372571-n
   ili: i59848
   members:
-  - surveyor's level
+  - surveyor###s level
   mero_part:
   - 03664184-n
   partOfSpeech: n
@@ -106560,7 +106560,7 @@
   partOfSpeech: n
 04375583-n:
   definition:
-  - a man's full-dress jacket with two long tapering tails at the back
+  - a man###s full-dress jacket with two long tapering tails at the back
   hypernym:
   - 03594978-n
   ili: i59862
@@ -106586,7 +106586,7 @@
   - 03314753-n
   ili: i59864
   members:
-  - swan's down
+  - swan###s down
   partOfSpeech: n
 04376036-n:
   definition:
@@ -106757,7 +106757,7 @@
   definition:
   - pool that provides a facility for swimming
   example:
-  - '`swimming bath'' is a British term'
+  - ###<<<swimming bath>>> is a British term###
   hypernym:
   - 03988418-n
   - 02755316-n
@@ -107534,7 +107534,7 @@
 04391286-n:
   definition:
   - (usually plural) the reverse side of a coin that does not bear the representation
-    of a person's head
+    of a person###s head
   exemplifies:
   - 06306016-n
   hypernym:
@@ -107602,7 +107602,7 @@
   - 03006695-n
   ili: i59959
   members:
-  - tailor's chalk
+  - tailor###s chalk
   partOfSpeech: n
 04392359-n:
   definition:
@@ -107612,7 +107612,7 @@
   - 04187375-n
   ili: i59960
   members:
-  - tailor's tack
+  - tailor###s tack
   partOfSpeech: n
 04392518-n:
   definition:
@@ -107726,7 +107726,7 @@
   ili: i59971
   members:
   - tam
-  - tam-o'-shanter
+  - tam-o###-shanter
   - tammy
   partOfSpeech: n
 04394288-n:
@@ -108314,7 +108314,7 @@
   ili: i60027
   members:
   - tau cross
-  - St. Anthony's cross
+  - St. Anthony###s cross
   partOfSpeech: n
 04403010-n:
   definition:
@@ -108598,7 +108598,7 @@
   partOfSpeech: n
 04406517-n:
   definition:
-  - plaything consisting of a child's toy bear (usually plush and stuffed with soft
+  - plaything consisting of a child###s toy bear (usually plush and stuffed with soft
     materials)
   hypernym:
   - 03971038-n
@@ -109173,7 +109173,7 @@
   ili: i60105
   members:
   - tender
-  - ship's boat
+  - ship###s boat
   - pinnace
   - cutter
   partOfSpeech: n
@@ -110111,7 +110111,7 @@
   definition:
   - an entity that is not named specifically
   example:
-  - I couldn't tell what the thing was
+  - I couldn###t tell what the thing was
   hypernym:
   - 00001740-n
   ili: i60192
@@ -110209,7 +110209,7 @@
   definition:
   - the third from the lowest forward ratio gear in the gear box of a motor vehicle
   example:
-  - you shouldn't try to start in third gear
+  - you shouldn###t try to start in third gear
   hypernym:
   - 03436153-n
   ili: i60201
@@ -110502,7 +110502,7 @@
   partOfSpeech: n
 04437872-n:
   definition:
-  - a theater stage that extends out into the audience's part of a theater and has
+  - a theater stage that extends out into the audience###s part of a theater and has
     seats on three sides
   hypernym:
   - 04425953-n
@@ -110720,7 +110720,7 @@
   wikidata: Q220229
 04440934-n:
   definition:
-  - a piece of jewelry that holds a man's tie in place
+  - a piece of jewelry that holds a man###s tie in place
   hypernym:
   - 03602662-n
   ili: i60252
@@ -110948,7 +110948,7 @@
   partOfSpeech: n
 04444265-n:
   definition:
-  - a card used with a time clock to record an employee's starting and quitting times
+  - a card used with a time clock to record an employee###s starting and quitting times
     each day
   hypernym:
   - 14824204-n
@@ -111186,7 +111186,7 @@
   partOfSpeech: n
 04447731-n:
   definition:
-  - a woman's fur shoulder cape with hanging ends; often consisting of the whole fur
+  - a woman###s fur shoulder cape with hanging ends; often consisting of the whole fur
     of a fox or marten
   hypernym:
   - 02959203-n
@@ -111241,7 +111241,7 @@
   partOfSpeech: n
 04448662-n:
   definition:
-  - 'a hat (Cockney rhyming slang: `tit for tat'' rhymes with `hat'')'
+  - ###a hat (Cockney rhyming slang: <<<tit for tat>>> rhymes with <<<hat>>>)###
   domain_region:
   - 08879115-n
   hypernym:
@@ -112034,7 +112034,7 @@
   - covering for a hole (especially a hole in the top of a container)
   example:
   - he removed the top of the carton
-  - he couldn't get the top off of the bottle
+  - he couldn###t get the top off of the bottle
   - put the cover back on the kettle
   hypernym:
   - 03127399-n
@@ -112045,7 +112045,7 @@
   partOfSpeech: n
 04461511-n:
   definition:
-  - a conical child's plaything tapering to a steel point on which it can be made
+  - a conical child###s plaything tapering to a steel point on which it can be made
     to spin
   example:
   - he got a bright red top and string for his birthday
@@ -112135,7 +112135,7 @@
   partOfSpeech: n
 04462850-n:
   definition:
-  - a woman's short coat
+  - a woman###s short coat
   hypernym:
   - 03061006-n
   ili: i60386
@@ -112154,7 +112154,7 @@
   partOfSpeech: n
 04463106-n:
   definition:
-  - (usually plural) weather deck; the part of a ship's hull that is above the waterline
+  - (usually plural) weather deck; the part of a ship###s hull that is above the waterline
   exemplifies:
   - 06306016-n
   hypernym:
@@ -112434,7 +112434,7 @@
   partOfSpeech: n
 04467869-n:
   definition:
-  - (Genesis 11:1-11) a tower built by Noah's descendants (probably in Babylon) who
+  - (Genesis 11:1-11) a tower built by Noah###s descendants (probably in Babylon) who
     intended it to reach up to heaven; God foiled them by confusing their language
     so they could no longer understand one another
   domain_topic:
@@ -112515,7 +112515,7 @@
   definition:
   - a device regarded as providing amusement
   example:
-  - private airplanes are a rich man's toy
+  - private airplanes are a rich man###s toy
   hypernym:
   - 03187746-n
   ili: i60423
@@ -112563,7 +112563,7 @@
   partOfSpeech: n
 04469642-n:
   definition:
-  - either of two lines that connect a horse's harness to a wagon or other vehicle
+  - either of two lines that connect a horse###s harness to a wagon or other vehicle
     or to a whiffletree
   hypernym:
   - 03676175-n
@@ -112895,7 +112895,7 @@
   - public transport provided by a line of railway cars coupled together and drawn
     by a locomotive
   example:
-  - express trains don't stop at Princeton Junction
+  - express trains don###t stop at Princeton Junction
   hypernym:
   - 04025495-n
   ili: i60459
@@ -112911,7 +112911,7 @@
   - piece of cloth forming the long back section of a gown that is drawn along the
     floor
   example:
-  - the bride's train was carried by her two young nephews
+  - the bride###s train was carried by her two young nephews
   hypernym:
   - 03938946-n
   ili: i60460
@@ -113305,7 +113305,7 @@
   partOfSpeech: n
 04482430-n:
   definition:
-  - a plumber's snake for clearing a trap and drain
+  - a plumber###s snake for clearing a trap and drain
   hypernym:
   - 03975218-n
   ili: i60495
@@ -113739,7 +113739,7 @@
   partOfSpeech: n
 04488511-n:
   definition:
-  - the apse of a Christian church that contains the bishop's throne
+  - the apse of a Christian church that contains the bishop###s throne
   hypernym:
   - 02734403-n
   ili: i60539
@@ -114112,7 +114112,7 @@
   partOfSpeech: n
 04494190-n:
   definition:
-  - a fisherman's lure that is used in trolling
+  - a fisherman###s lure that is used in trolling
   example:
   - he used a spinner as his troll
   hypernym:
@@ -114164,7 +114164,7 @@
   - 03882197-n
   ili: i60579
   members:
-  - trompe l'oeil
+  - trompe l###oeil
   partOfSpeech: n
 04494980-n:
   definition:
@@ -114229,7 +114229,7 @@
   definition:
   - a garment (or part of a garment) designed for or relating to trousers
   example:
-  - in his trouser's pocket
+  - in his trouser###s pocket
   - he ripped his left trouser on the fence
   hypernym:
   - 03423924-n
@@ -114891,7 +114891,7 @@
   - 03632523-n
   ili: i60646
   members:
-  - Turk's head
+  - Turk###s head
   partOfSpeech: n
 04506955-n:
   definition:
@@ -115121,7 +115121,7 @@
   ili: i60669
   members:
   - twenty-two
-  - '.22'
+  - ###.22###
   partOfSpeech: n
 04510284-n:
   definition:
@@ -115208,7 +115208,7 @@
   - two-handed saw
   - whipsaw
   - two-man saw
-  - lumberman's saw
+  - lumberman###s saw
   partOfSpeech: n
 04511333-n:
   definition:
@@ -115538,7 +115538,7 @@
   partOfSpeech: n
 04516466-n:
   definition:
-  - women's underwear
+  - women###s underwear
   exemplifies:
   - 06306016-n
   hypernym:
@@ -115549,7 +115549,7 @@
   partOfSpeech: n
 04516555-n:
   definition:
-  - a pair of parallel bars set at different heights; used in women's gymnastics
+  - a pair of parallel bars set at different heights; used in women###s gymnastics
   hypernym:
   - 03894302-n
   ili: i60710
@@ -115600,7 +115600,7 @@
 04517385-n:
   definition:
   - a defense laboratory of the Criminal Investigation Command; the United States
-    Army's primary forensic laboratory in support of criminal intelligence
+    Army###s primary forensic laboratory in support of criminal intelligence
   ili: i60715
   instance_hypernym:
   - 08354251-n
@@ -116327,9 +116327,9 @@
   partOfSpeech: n
 04529716-n:
   definition:
-  - 'any agent that causes a narrowing of an opening of a blood vessel: cold or stress
+  - ###any agent that causes a narrowing of an opening of a blood vessel: cold or stress
     or nicotine or epinephrine or norepinephrine or angiotensin or vasopressin or
-    certain drugs; maintains or increases blood pressure'
+    certain drugs; maintains or increases blood pressure###
   hypernym:
   - 09213796-n
   ili: i60786
@@ -116545,7 +116545,7 @@
   ili: i60806
   members:
   - Venn diagram
-  - Venn's diagram
+  - Venn###s diagram
   partOfSpeech: n
 04533407-n:
   definition:
@@ -116622,7 +116622,7 @@
   - 03260351-n
   ili: i60813
   members:
-  - ventriloquist's dummy
+  - ventriloquist###s dummy
   partOfSpeech: n
 04534605-n:
   definition:
@@ -116859,7 +116859,7 @@
   partOfSpeech: n
 04539168-n:
   definition:
-  - a man's sleeveless garment worn underneath a coat
+  - a man###s sleeveless garment worn underneath a coat
   hypernym:
   - 03423924-n
   ili: i60835
@@ -116889,7 +116889,7 @@
   partOfSpeech: n
 04539693-n:
   definition:
-  - a small pocket in a man's vest
+  - a small pocket in a man###s vest
   hypernym:
   - 03978882-n
   ili: i60838
@@ -117200,7 +117200,7 @@
   - 04543448-n
   ili: i60868
   members:
-  - viola d'amore
+  - viola d###amore
   partOfSpeech: n
 04544161-n:
   definition:
@@ -117251,7 +117251,7 @@
   partOfSpeech: n
 04545111-n:
   definition:
-  - objet d'art collectively (especially fine antiques)
+  - objet d###art collectively (especially fine antiques)
   hypernym:
   - 03844055-n
   ili: i60873
@@ -117616,7 +117616,7 @@
   partOfSpeech: n
 04550795-n:
   definition:
-  - a child's four-wheeled toy cart sometimes used for coasting
+  - a child###s four-wheeled toy cart sometimes used for coasting
   hypernym:
   - 04583497-n
   ili: i60908
@@ -117882,7 +117882,7 @@
   - a layer of material that encloses space
   example:
   - the walls of the cylinder were perforated
-  - the container's walls were blue
+  - the container###s walls were blue
   hypernym:
   - 03655499-n
   ili: i60932
@@ -118075,8 +118075,8 @@
   partOfSpeech: n
 04558126-n:
   definition:
-  - 'articles of the same kind or material; usually used in combination: `silverware'',
-    `software'''
+  - ###articles of the same kind or material; usually used in combination: <<<silverware>>>,
+    <<<software>>>###
   hypernym:
   - 00023083-n
   ili: i60950
@@ -118349,8 +118349,8 @@
   partOfSpeech: n
 04562686-n:
   definition:
-  - 'furniture consisting of a table or stand to hold a basin and pitcher of water
-    for washing: `wash-hand stand'' is a British term'
+  - ###furniture consisting of a table or stand to hold a basin and pitcher of water
+    for washing: <<<wash-hand stand>>> is a British term###
   hypernym:
   - 03410635-n
   ili: i60975
@@ -118906,7 +118906,7 @@
 04570846-n:
   definition:
   - a life preserver consisting of a connected pair of inflatable bags that fit under
-    a person's arms and provide buoyancy; used by children learning to swim
+    a person###s arms and provide buoyancy; used by children learning to swim
   exemplifies:
   - 06306016-n
   hypernym:
@@ -119324,7 +119324,7 @@
   ili: i61065
   members:
   - weeds
-  - widow's weeds
+  - widow###s weeds
   partOfSpeech: n
 04577966-n:
   definition:
@@ -119419,7 +119419,7 @@
   - 03730526-n
   ili: i61075
   members:
-  - welder's mask
+  - welder###s mask
   partOfSpeech: n
 04579521-n:
   definition:
@@ -119442,7 +119442,7 @@
 04579845-n:
   definition:
   - an enclosed compartment in a ship or plane for holding something as e.g. fish
-    or a plane's landing gear or for protecting something as e.g. a ship's pumps
+    or a plane###s landing gear or for protecting something as e.g. a ship###s pumps
   hypernym:
   - 03083745-n
   ili: i61078
@@ -119537,7 +119537,7 @@
   partOfSpeech: n
 04581223-n:
   definition:
-  - fisherman's fly that floats under the surface of the water
+  - fisherman###s fly that floats under the surface of the water
   hypernym:
   - 03378083-n
   ili: i61088
@@ -119944,7 +119944,7 @@
   partOfSpeech: n
 04588280-n:
   definition:
-  - bow tie worn as part of a man's formal evening dress
+  - bow tie worn as part of a man###s formal evening dress
   hypernym:
   - 02886446-n
   ili: i61127
@@ -120160,7 +120160,7 @@
   - 03694269-n
   ili: i61146
   members:
-  - widow's walk
+  - widow###s walk
   partOfSpeech: n
 04591342-n:
   definition:
@@ -120691,7 +120691,7 @@
   partOfSpeech: n
 04599546-n:
   definition:
-  - a heel on a woman's shoe in the shape of a wineglass
+  - a heel on a woman###s shoe in the shape of a wineglass
   hypernym:
   - 03516570-n
   ili: i61197
@@ -121013,7 +121013,7 @@
   - 03055525-n
   ili: i61228
   members:
-  - woman's clothing
+  - woman###s clothing
   partOfSpeech: n
 04604393-n:
   definition:
@@ -121974,7 +121974,7 @@
   partOfSpeech: n
 04619861-n:
   definition:
-  - a ship's small boat (usually rowed by 4 or 6 oars)
+  - a ship###s small boat (usually rowed by 4 or 6 oars)
   hypernym:
   - 04252125-n
   ili: i61320
@@ -122241,7 +122241,7 @@
 81260722-n:
   definition:
   - a type of shoe in which the heel is tall or raised, resulting in the heel of
-    the wearer's foot being significantly off the ground than the wearer's toes
+    the wearer###s foot being significantly off the ground than the wearer###s toes
   hypernym:
   - 04206070-n
   members:
@@ -122371,8 +122371,8 @@
   partOfSpeech: n
 88571022-n:
   definition:
-  - 'a large rubber ball used in various playground games including four square, kickball,
-    and dodgeball '
+  - ###a large rubber ball used in various playground games including four square, kickball,
+    and dodgeball ###
   hypernym:
   - 02781674-n
   members:
@@ -122810,7 +122810,7 @@
     sounds.
   example:
   - source: https://en.wikipedia.org
-    text: Guitarists derive their signature sound or `tone' from their choice of instrument,
+    text: Guitarists derive their signature sound or <<<tone>>> from their choice of instrument,
       pickups, effects units, and guitar amp.
   hypernym:
   - 03282682-n
@@ -122823,7 +122823,7 @@
   - a chemical substance that dissolves water-insoluble substances, such as greases
     and oils.
   example:
-  - I'll need to buy a professional degreaser to clean this mess.
+  - I###ll need to buy a professional degreaser to clean this mess.
   hypernym:
   - 03044572-n
   members:
@@ -122912,7 +122912,7 @@
   definition:
   - an ingredient found in certain cosmetics that clogs pores.
   example:
-  - The efficiency of comedogenic ingredients is determined by one's skin type.
+  - The efficiency of comedogenic ingredients is determined by one###s skin type.
   hypernym:
   - 03575860-n
   members:
@@ -123041,7 +123041,7 @@
   - a type of art which relies on moving pictures and comprises video and/or audio
     data.
   example:
-  - The comparison of Andrea Pozzo's illusionistic painting with today's video art
+  - The comparison of Andrea Pozzo###s illusionistic painting with today###s video art
     aims above all at overcoming old barriers to thought and allows one to grasp the
     history of art as a coherent history of perception that cannot be reduced to historical
     classifications.
@@ -123113,8 +123113,8 @@
   - A foot joint is the last of the three sections of the Western concert flute.
   example:
   - source: https://en.wikipedia.org
-    text: 'Concert flutes have three parts: the headjoint, the body, and the foot
-      joint.'
+    text: ###Concert flutes have three parts: the headjoint, the body, and the foot
+      joint.###
   hypernym:
   - 03606190-n
   members:
@@ -123139,7 +123139,7 @@
     contrasting color, often black, but may be patterned or striped.
   example:
   - source: https://en.wikipedia.org
-    text: General officers' caps are similar to those of field-grade officers, but
+    text: General officers### caps are similar to those of field-grade officers, but
       the cap band is dark blue and embroidered with gold oak leaf motifs.
   hypernym:
   - 02787755-n
@@ -123153,7 +123153,7 @@
     and warfare during the Viking Age.
   example:
   - source: https://en.wikipedia.org
-    text: 'The longships had two methods of propulsion: oars and sail.'
+    text: ###The longships had two methods of propulsion: oars and sail.###
   hypernym:
   - 04201332-n
   members:
@@ -123165,7 +123165,7 @@
   - a Viking longship, described in historical sources as elegant and ornately decorated,
     and used by those who went raiding and plundering.
   example:
-  - The drekkar's prows carried carvings of menacing beasts, such as dragons and snakes,
+  - The drekkar###s prows carried carvings of menacing beasts, such as dragons and snakes,
     allegedly to protect the ship and crew, and to ward off the terrible sea monsters
     of Norse mythology.
   hypernym:
@@ -123186,7 +123186,7 @@
 92444179-n:
   definition:
   - a close combat weapon in which the main fighting part of the weapon is fitted
-    to the end of a long shaft, typically of wood, thereby extending the user's effective
+    to the end of a long shaft, typically of wood, thereby extending the user###s effective
     range.
   example:
   - Because they contain relatively little metal, polearms are cheap to make, which
@@ -123331,8 +123331,8 @@
   source: plWordNet 4.0
 92445822-n:
   definition:
-  - 'a type of small- or medium-sized warship that carried armor in the same way as
-    an armored cruiser: a protective belt and deck.'
+  - ###a type of small- or medium-sized warship that carried armor in the same way as
+    an armored cruiser: a protective belt and deck.###
   example:
   - source: https://en.wikipedia.org
     text: After 1930, most naval powers concentrated on building light cruisers since
@@ -123453,7 +123453,7 @@
   example:
   - source: https://en.wikipedia.org
     text: The car carrier Auriga Leader, built in 2008 with a capacity of 6,200 cars,
-      is the world's first partially solar powered ship.
+      is the world###s first partially solar powered ship.
   hypernym:
   - 02968752-n
   members:
@@ -123571,9 +123571,9 @@
     roads.
   example:
   - source: https://en.wikipedia.org
-    text: 'Some less visible distinctions amongst tank trucks have to do with their
+    text: ###Some less visible distinctions amongst tank trucks have to do with their
       intended use: compliance with human food regulations, refrigeration capability,
-      acid resistance, pressurization capability, and more.'
+      acid resistance, pressurization capability, and more.###
   hypernym:
   - 04497386-n
   members:
@@ -123853,7 +123853,7 @@
   definition:
   - A kitchen appliance that opens eggs and separates egg whites from yolks.
   example:
-  - Using an egg cracker is not really worth the trouble, it's just easier to do it
+  - Using an egg cracker is not really worth the trouble, it###s just easier to do it
     the traditional way.
   hypernym:
   - 03626258-n
@@ -123890,7 +123890,7 @@
     of tanned skin.
   example:
   - Sculpting your face with a bronzing powder will make it appear slimmer.
-  - If you don't like sunbathing, you can try a temporary tanner, like a bronzer.
+  - If you don###t like sunbathing, you can try a temporary tanner, like a bronzer.
   hypernym:
   - 03319725-n
   members:
@@ -124092,7 +124092,7 @@
     BCE.
   example:
   - The fountain of Horatianism in Spain was the imitation of _Epode II_, _Beatus
-    Ille_, by the Marquis de Santillana, one of Castile's two first sonneteers, in
+    Ille_, by the Marquis de Santillana, one of Castile###s two first sonneteers, in
     the first half of the fifteenth century.
   hypernym:
   - 03439853-n
@@ -124168,7 +124168,7 @@
 92449785-n:
   definition:
   - A car headlamp that provides a bright, centre-weighted distribution of light with
-    no particular control of light directed towards other road users' eyes; as such,
+    no particular control of light directed towards other road users### eyes; as such,
     it is only suitable for use when alone on the road, as the glare it produces will
     dazzle other drivers.
   example:
@@ -124259,7 +124259,7 @@
   example:
   - source: https://en.wikipedia.org
     text: It is best to work the hoof pick from heel to toe, so to avoid accidentally
-      jabbing the horse's leg, the frog of the hoof, or the person using the pick.
+      jabbing the horse###s leg, the frog of the hoof, or the person using the pick.
   hypernym:
   - 03494245-n
   members:
@@ -124342,8 +124342,8 @@
   source: plWordNet 4.0
 92449997-n:
   definition:
-  - 'a semiconductor diode that exhibits a sharp increase in reverse current at a
-    well-defined reverse voltage: used as a voltage regulator'
+  - ###a semiconductor diode that exhibits a sharp increase in reverse current at a
+    well-defined reverse voltage: used as a voltage regulator###
   hypernym:
   - 03207444-n
   members:
@@ -124446,7 +124446,7 @@
   source: plWordNet 4.0
 92450184-n:
   definition:
-  - An instrument that indicates small changes in an aircraft's altitude by recording
+  - An instrument that indicates small changes in an aircraft###s altitude by recording
     small variations in atmospheric pressure.
   hypernym:
   - 02797179-n
@@ -124536,7 +124536,7 @@
   definition:
   - A kitten heel is a type of low stiletto heel, popularized by Audrey Hepburn.
   example:
-  - Kitten heels are worth considering when you are too tall for stilettos, but don't
+  - Kitten heels are worth considering when you are too tall for stilettos, but don###t
     feel good in flats.
   hypernym:
   - 03516570-n
@@ -124638,8 +124638,8 @@
   hypernym:
   - 04545847-n
   members:
-  - jeweller's vise
-  - jeweler's vise
+  - jeweller###s vise
+  - jeweler###s vise
   partOfSpeech: n
   source: plWordNet 4.0
 92450588-n:
@@ -124676,7 +124676,7 @@
   - A thin curtain that allows light into a room but prevents people outside from
     seeing inside.
   example:
-  - My grandma gave me these lovely net curtains, but I'm afraid my room is too modern
+  - My grandma gave me these lovely net curtains, but I###m afraid my room is too modern
     for them.
   hypernym:
   - 03155743-n
@@ -124699,7 +124699,7 @@
   definition:
   - A scalpel used for arts and crafts.
   example:
-  - I can't finish this sculpture without my favourite hobby knife; I know it's just
+  - I can###t finish this sculpture without my favourite hobby knife; I know it###s just
     a scalpel, but it brings me luck.
   hypernym:
   - 04149499-n
@@ -124839,7 +124839,7 @@
   example:
   - The introduction of the tilt barrier seems to have originated in the south, as
     it only became a standard feature of jousting in Germany in the 16th century,
-    and was there called the Italian or `welsch' mode.
+    and was there called the Italian or <<<welsch>>> mode.
   hypernym:
   - 02799782-n
   members:
@@ -124849,7 +124849,7 @@
 92450817-n:
   definition:
   - a whip carried by a mounted rider; not intended to be used on the horse, but rather
-    the lash is there to remind the hounds to stay away from the horse's hooves, and
+    the lash is there to remind the hounds to stay away from the horse###s hooves, and
     it can also be used as a communication device to the hounds.
   hypernym:
   - 04585055-n
@@ -125024,7 +125024,7 @@
   source: plWordNet 4.0
 92459095-n:
   definition:
-  - A measuring equipment used to test concrete's strength.
+  - A measuring equipment used to test concrete###s strength.
   hypernym:
   - 03739416-n
   members:
@@ -125034,7 +125034,7 @@
   source: plWordNet 4.0
 92459112-n:
   definition:
-  - A measuring device that used Abbe's principle; used for dimensional measurements.
+  - A measuring device that used Abbe###s principle; used for dimensional measurements.
   hypernym:
   - 03739416-n
   members:
@@ -125074,11 +125074,11 @@
   source: plWordNet 4.0
 92459130-n:
   definition:
-  - a twilled silk fabric used mostly for lining parts of gentlemen's coats.
+  - a twilled silk fabric used mostly for lining parts of gentlemen###s coats.
   example:
   - source: https://en.wikipedia.org
     text: The early association of silk serge, Greece, and France is shown by the
-      discovery in Charlemagne's tomb of a piece of silk serge dyed with Byzantine
+      discovery in Charlemagne###s tomb of a piece of silk serge dyed with Byzantine
       motifs, evidently a gift from the Byzantine Imperial Court in the 8th or 9th
       century AD.
   hypernym:
@@ -125225,10 +125225,10 @@
     gases created by the ignition of the propellant charge.
   example:
   - source: https://en.wikipedia.org
-    text: 'In most actions that use blowback operation, the breech is not locked mechanically
+    text: ###In most actions that use blowback operation, the breech is not locked mechanically
       at the time of firing: the inertia of the bolt and recoil spring(s), relative
       to the weight of the bullet, delays opening of the breech until the bullet has
-      left the barrel'
+      left the barrel###
   hypernym:
   - 92459306-n
   members:
@@ -125248,11 +125248,11 @@
   source: plWordNet 4.0
 92459320-n:
   definition:
-  - a chain-link collar with blunted open ends turned towards the dog's neck.
+  - a chain-link collar with blunted open ends turned towards the dog###s neck.
   example:
   - source: https://en.wikipedia.org
     text: Prong collars must never be turned inside out (with the prongs facing away
-      from the dog's skin), as this may cause injury against the body and head.
+      from the dog###s skin), as this may cause injury against the body and head.
   hypernym:
   - 03222517-n
   members:
@@ -125284,11 +125284,11 @@
     in sonar technology.
   example:
   - source: https://en.wikipedia.org
-    text: 'Magnetostrictive speaker drivers have some special advantages: they can
+    text: ###Magnetostrictive speaker drivers have some special advantages: they can
       provide greater force (with smaller excursions) than other technologies; low
       excursion can avoid distortions from large excursion as in other designs; the
       magnetizing coil is stationary and therefore more easily cooled; they are robust
-      because delicate suspensions and voice coils are not required.'
+      because delicate suspensions and voice coils are not required.###
   hypernym:
   - 03696785-n
   members:
@@ -125430,13 +125430,13 @@
 92459552-n:
   definition:
   - A pulse oximeter is a medical device that indirectly monitors the oxygen saturation
-    of a patient's blood (as opposed to measuring oxygen saturation directly through
+    of a patient###s blood (as opposed to measuring oxygen saturation directly through
     a blood sample) and changes in blood volume in the skin, producing a photoplethysmogram.
   example:
   - source: https://en.wikipedia.org
     text: A typical pulse oximeter utilizes an electronic processor and a pair of
       small light-emitting diodes (LEDs) facing a photodiode through a translucent
-      part of the patient's body, usually a fingertip or an earlobe.
+      part of the patient###s body, usually a fingertip or an earlobe.
   hypernym:
   - 03187746-n
   members:
@@ -125458,8 +125458,8 @@
   - the yard of the royalmast, on which the royal is set, next above the topgallant.
   example:
   - source: https://en.wikipedia.org
-    text: Prince William's royal yards are the highest and smallest yards on the ship,
-      are made of wood, and are `lifting yards' that can be raised along a section
+    text: Prince William###s royal yards are the highest and smallest yards on the ship,
+      are made of wood, and are <<<lifting yards>>> that can be raised along a section
       of the mast.
   hypernym:
   - 04618033-n
@@ -125536,7 +125536,7 @@
   source: plWordNet 4.0
 92459616-n:
   definition:
-  - A repulsor is either one of two drives located in the gauntlets of Iron Man's
+  - A repulsor is either one of two drives located in the gauntlets of Iron Man###s
     armor; they have been referred to as being magnetic, a blast of charged particles,
     and as a force beam.
   domain_topic:
@@ -125560,7 +125560,7 @@
     out, or dug into a hillside.
   example:
   - Dugouts are one of the most ancient types of human housing known to archeologists,
-    and the same methods have evolved into modern `earth shelter' technology.
+    and the same methods have evolved into modern <<<earth shelter>>> technology.
   hypernym:
   - 04198638-n
   - 03264208-n
@@ -125778,7 +125778,7 @@
   - An axial flow turbine operates in the exactly reverse of an axial flow compressor,
   example:
   - source: https://en.wikipedia.org
-    text: Whereas for an axial turbine the rotor is `impacted' by the air flow, for
+    text: Whereas for an axial turbine the rotor is <<<impacted>>> by the air flow, for
       a radial turbine, the flow is smoothly orientated at 90 degrees by the compressor
       towards the combustion chamber and driving the turbine in the same way water
       drives a watermill.
@@ -126074,7 +126074,7 @@
   example:
   - source: https://en.wikipedia.org
     text: Vibratory hammers can either drive in or extract a pile; extraction is commonly
-      used to recover steel `H' piles used in temporary foundation shoring.
+      used to recover steel <<<H>>> piles used in temporary foundation shoring.
   hypernym:
   - 92460211-n
   members:
@@ -126182,7 +126182,7 @@
       electronic drum kit, consisting of a set of drum pads mounted on a stand or
       rack in a configuration similar to that of an acoustic drum kit layout, with
       rubberized (Roland, Yamaha, Alesis, for example) or specialized acoustic/electronic
-      cymbals (e.g. Zildjian's `Gen 16').
+      cymbals (e.g. Zildjian###s <<<Gen 16>>>).
   hypernym:
   - 03921556-n
   - 03284064-n
@@ -126307,7 +126307,7 @@
   source: plWordNet 4.0
 92460954-n:
   definition:
-  - a comb with razor sharp teeth used to remove mats and tangles from a pet's coat.
+  - a comb with razor sharp teeth used to remove mats and tangles from a pet###s coat.
   hypernym:
   - 03078859-n
   members:
@@ -126339,8 +126339,8 @@
     using chemical absorption.
   example:
   - source: https://en.wikipedia.org
-    text: 'There are 2 predominant types of carbon filters used in the filtration
-      industry: powdered block filters and granular activated filters.'
+    text: ###There are 2 predominant types of carbon filters used in the filtration
+      industry: powdered block filters and granular activated filters.###
   hypernym:
   - 03344588-n
   members:
@@ -126746,7 +126746,7 @@
 92461496-n:
   definition:
   - a sensitive photographic paper with pure silver bromide emulsions that produce
-    neutral black or `cold' blue-black image tones.
+    neutral black or <<<cold>>> blue-black image tones.
   hypernym:
   - 03932650-n
   members:
@@ -126760,7 +126760,7 @@
   example:
   - source: https://en.wikipedia.org
     text: Size and spacing of the capacitive sensor are both very important to the
-      sensor's performance.
+      sensor###s performance.
   hypernym:
   - 03185635-n
   members:
@@ -126854,7 +126854,7 @@
   hypernym:
   - 03671917-n
   members:
-  - Dobereiner's lamp
+  - Dobereiner###s lamp
   partOfSpeech: n
   source: plWordNet 4.0
 92461662-n:
@@ -126940,7 +126940,7 @@
 92461769-n:
   definition:
   - a printing press used for offset printing, in which the inked image is transferred
-    (or `offset') from a plate to a rubber blanket, then to the printing surface.
+    (or <<<offset>>>) from a plate to a rubber blanket, then to the printing surface.
   example:
   - source: https://en.wikipedia.org
     text: Many modern offset presses use computer-to-plate systems as opposed to the
@@ -127351,11 +127351,11 @@
 92462427-n:
   definition:
   - a sewing machine that binds fabric together using two threads, upper and lower,
-    and `locking' (entwining) them together in the hole in the fabric through which
+    and <<<locking>>> (entwining) them together in the hole in the fabric through which
     they pass.
   example:
   - source: https://en.wikipedia.org
-    text: Of a typical garment factory's sewing machines, half might be lockstitch
+    text: Of a typical garment factory###s sewing machines, half might be lockstitch
       machines and the other half divided between overlock machines, chain stitch
       machines, and various other specialized machines.
   hypernym:
@@ -127571,7 +127571,7 @@
   source: plWordNet 4.0
 92463011-n:
   definition:
-  - a small canister vacuum strapped onto the user's back, commonly used for commercial
+  - a small canister vacuum strapped onto the user###s back, commonly used for commercial
     cleaning.
   hypernym:
   - 04525118-n
@@ -127811,7 +127811,7 @@
     that may be present in the surface condenser.
   example:
   - source: https://en.wikipedia.org
-    text: The Venturi effect, which is a particular case of Bernoulli's principle,
+    text: The Venturi effect, which is a particular case of Bernoulli###s principle,
       applies to the operation of steam jet ejectors.
   hypernym:
   - 92459470-n
@@ -128227,7 +128227,7 @@
   example:
   - source: https://en.wikipedia.org
     text: There are many styles of woodworking benches, each reflecting the type of
-      work to be done or the craftsman's way of working.
+      work to be done or the craftsman###s way of working.
   hypernym:
   - 04607813-n
   members:
@@ -128338,7 +128338,7 @@
     or a ship and the shore to pull a heavier line or rope across.
   example:
   - source: https://en.wikipedia.org
-    text: The monkey's fist knot is most often used as the weight in a heaving line.
+    text: The monkey###s fist knot is most often used as the weight in a heaving line.
   hypernym:
   - 03676175-n
   members:
@@ -128368,7 +128368,7 @@
   - yarn made from silk waste.
   example:
   - source: https://en.wikipedia.org
-    text: It is the spinner's business to straighten out these fibres, with the aid
+    text: It is the spinner###s business to straighten out these fibres, with the aid
       of machinery, and then to so join them that they become a thread, which is known
       as spun silk.
   hypernym:
