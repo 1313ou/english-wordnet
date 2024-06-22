@@ -48,7 +48,7 @@
   - 01081873-v
 01076346-v:
   definition:
-  - take one###s position before a kick-off
+  - take one＇s position before a kick-off
   domain_topic:
   - 00469555-n
   hypernym:
@@ -70,7 +70,7 @@
   partOfSpeech: v
 01076599-v:
   definition:
-  - leave one###s opponent unable to take a direct shot
+  - leave one＇s opponent unable to take a direct shot
   domain_topic:
   - 00502315-n
   hypernym:
@@ -107,7 +107,7 @@
   - 01077094-v
 01077094-v:
   definition:
-  - move one###s pieces into strategically more advantageous positions
+  - move one＇s pieces into strategically more advantageous positions
   domain_topic:
   - 00504248-n
   example:
@@ -255,7 +255,7 @@
   partOfSpeech: v
 01079008-v:
   definition:
-  - have a turn; make one###s move in a game
+  - have a turn; make one＇s move in a game
   entails:
   - 01075360-v
   example:
@@ -309,7 +309,7 @@
   domain_topic:
   - 00480087-n
   example:
-  - It was Agassi###s turn to serve
+  - It was Agassi＇s turn to serve
   hypernym:
   - 01079008-v
   ili: i26977
@@ -852,7 +852,7 @@
   - compete in a race
   example:
   - he is running the Marathon this year
-  - let###s race and see who gets there first
+  - let＇s race and see who gets there first
   hypernym:
   - 01074673-v
   ili: i27023
@@ -1143,7 +1143,7 @@
   - fight against or resist strongly
   example:
   - The senator said he would oppose the bill
-  - Don###t fight it!
+  - Don＇t fight it!
   hypernym:
   - 01092746-v
   ili: i27050
@@ -1169,7 +1169,7 @@
   partOfSpeech: v
 01094539-v:
   definition:
-  - get one###s revenge for a wrong or an injury
+  - get one＇s revenge for a wrong or an injury
   example:
   - I finally settled with my old enemy
   hypernym:
@@ -1285,7 +1285,7 @@
   definition:
   - run, stand, or compete for an office or a position
   example:
-  - Who###s running for treasurer this year?
+  - Who＇s running for treasurer this year?
   hypernym:
   - 01088514-v
   ili: i27063
@@ -1387,7 +1387,7 @@
   partOfSpeech: v
 01098310-v:
   definition:
-  - discharge one###s duties
+  - discharge one＇s duties
   example:
   - She acts as the chair
   - In what capacity are you acting?
@@ -1676,7 +1676,7 @@
   partOfSpeech: v
 01103514-v:
   definition:
-  - score more points than one###s opponents
+  - score more points than one＇s opponents
   hypernym:
   - 01104324-v
   ili: i27097
@@ -1806,7 +1806,7 @@
   definition:
   - defeat soundly and utterly
   example:
-  - We###ll wallop them!
+  - We＇ll wallop them!
   hypernym:
   - 01110559-v
   ili: i27107
@@ -2545,7 +2545,7 @@
   partOfSpeech: v
 01116893-v:
   definition:
-  - place an opponent###s king under an attack from which it cannot escape and thus
+  - place an opponent＇s king under an attack from which it cannot escape and thus
     ending the game
   domain_topic:
   - 00504248-n
@@ -2798,7 +2798,7 @@
   - 01121587-v
 01121306-v:
   definition:
-  - place under attack with one###s own pieces, of two enemy pieces
+  - place under attack with one＇s own pieces, of two enemy pieces
   domain_topic:
   - 00504248-n
   hypernym:
@@ -2866,7 +2866,7 @@
   partOfSpeech: v
 01123030-v:
   definition:
-  - attack or hit on or from the side where the attacked person###s view is obstructed
+  - attack or hit on or from the side where the attacked person＇s view is obstructed
   hypernym:
   - 01122487-v
   ili: i27198
@@ -2964,7 +2964,7 @@
   partOfSpeech: v
 01124374-v:
   definition:
-  - fight a duel, as over one###s honor or a woman
+  - fight a duel, as over one＇s honor or a woman
   example:
   - In the 19th century, men often dueled over small matters
   hypernym:
@@ -2988,7 +2988,7 @@
   definition:
   - compete with successfully; approach or reach equality with
   example:
-  - This artist###s drawings cannot emulate his water colors
+  - This artist＇s drawings cannot emulate his water colors
   hypernym:
   - 01074673-v
   ili: i27209
@@ -3025,7 +3025,7 @@
   partOfSpeech: v
 01125456-v:
   definition:
-  - fight while sitting on somebody###s shoulders
+  - fight while sitting on somebody＇s shoulders
   hypernym:
   - 01092746-v
   ili: i27213
@@ -3095,7 +3095,7 @@
   - make a strategic, offensive, assault against an enemy, opponent, or a target
   example:
   - The Germans struck Poland on Sept. 1, 1939
-  - We must strike the enemy###s oil fields
+  - We must strike the enemy＇s oil fields
   - in the fifth inning, the Giants struck, sending three runners home to win the
     game 5 to 2
   hypernym:
@@ -3221,7 +3221,7 @@
   partOfSpeech: v
 01128308-v:
   definition:
-  - destroy enemy mines with one###s own mines
+  - destroy enemy mines with one＇s own mines
   example:
   - We countermined the banks of the river
   hypernym:
@@ -3253,7 +3253,7 @@
   partOfSpeech: v
 01128786-v:
   definition:
-  - march aggressively into another###s territory by military force for the purposes
+  - march aggressively into another＇s territory by military force for the purposes
     of conquest and occupation
   example:
   - Hitler invaded Poland on September 1, 1939
@@ -3385,7 +3385,7 @@
   definition:
   - protect excessively
   example:
-  - Don###t overprotect your son — he is an adult now!
+  - Don＇t overprotect your son — he is an adult now!
   hypernym:
   - 01130619-v
   ili: i27246
@@ -3394,9 +3394,9 @@
   partOfSpeech: v
 01131490-v:
   definition:
-  - to protect someone###s interests
+  - to protect someone＇s interests
   example:
-  - A man###s gotta look out for his family
+  - A man＇s gotta look out for his family
   hypernym:
   - 01130619-v
   ili: i27247
@@ -3418,7 +3418,7 @@
   definition:
   - watch over or shield from danger or harm; protect
   example:
-  - guard my possessions while I###m away
+  - guard my possessions while I＇m away
   hypernym:
   - 01130619-v
   ili: i27249
@@ -3453,7 +3453,7 @@
   - protect against a challenge or attack
   example:
   - Hold that position behind the trees!
-  - Hold the bridge against the enemy###s attacks
+  - Hold the bridge against the enemy＇s attacks
   hypernym:
   - 01130619-v
   ili: i27252
@@ -3835,7 +3835,7 @@
   definition:
   - attack with machine guns or cannon fire from a low-flying plane
   example:
-  - civilians were strafed in an effort to force the country###s surrender
+  - civilians were strafed in an effort to force the country＇s surrender
   hypernym:
   - 01121587-v
   ili: i27286
@@ -4039,7 +4039,7 @@
   - place a bet on
   example:
   - Which horse are you backing?
-  - I###m betting on the new horse
+  - I＇m betting on the new horse
   hypernym:
   - 01158153-v
   ili: i27306
@@ -4053,7 +4053,7 @@
   partOfSpeech: v
 01141806-v:
   definition:
-  - place one###s stake
+  - place one＇s stake
   domain_topic:
   - 00489236-n
   hypernym:
@@ -4696,7 +4696,7 @@
   - take sides with; align oneself with; show strong sympathy for
   example:
   - We all rooted for the home team
-  - I###m pulling for the underdog
+  - I＇m pulling for the underdog
   - Are you siding with the defender of the title?
   hypernym:
   - 01151427-v
@@ -4711,7 +4711,7 @@
   - take sides for or against
   example:
   - Who are you siding with?
-  - I###m siding against the current candidate
+  - I＇m siding against the current candidate
   hypernym:
   - 00735655-v
   ili: i27369
@@ -4795,7 +4795,7 @@
   definition:
   - intend (something) to move towards a certain goal
   example:
-  - He aimed his fists towards his opponent###s face
+  - He aimed his fists towards his opponent＇s face
   - criticism directed at her superior
   - direct your anger towards others, not towards yourself
   hypernym:
@@ -4822,10 +4822,10 @@
   - point or cause to go (blows, weapons, or objects such as photographic equipment)
     towards
   example:
-  - Please don###t aim at your little brother!
+  - Please don＇t aim at your little brother!
   - He trained his gun on the burglar
-  - Don###t train your camera on the women
-  - Take a swipe at one###s opponent
+  - Don＇t train your camera on the women
+  - Take a swipe at one＇s opponent
   hypernym:
   - 01991174-v
   ili: i27379
@@ -4999,8 +4999,8 @@
   definition:
   - take vengeance on or get even
   example:
-  - We###ll get them!
-  - That###ll fix him good!
+  - We＇ll get them!
+  - That＇ll fix him good!
   - This time I got him
   hypernym:
   - 01156228-v
@@ -5172,7 +5172,7 @@
   partOfSpeech: v
 01158872-v:
   definition:
-  - bid (one###s partner###s suit) at a higher level
+  - bid (one＇s partner＇s suit) at a higher level
   domain_topic:
   - 00491580-n
   hypernym:

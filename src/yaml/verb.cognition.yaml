@@ -20,7 +20,7 @@
   definition:
   - to try to avoid detection especially by police
   example:
-  - After we knock off that liquor store we###ll have to lay low for a while
+  - After we knock off that liquor store we＇ll have to lay low for a while
   hypernym:
   - 02150244-v
   ili: i24709
@@ -81,10 +81,10 @@
   example:
   - did you catch that allusion?
   - We caught something of his theory in the lecture
-  - don###t catch your meaning
+  - don＇t catch your meaning
   - did you get it?
-  - She didn###t get the joke
-  - I just don###t get him
+  - She didn＇t get the joke
+  - I just don＇t get him
   hypernym:
   - 00590283-v
   ili: i24714
@@ -99,7 +99,7 @@
   definition:
   - understand
   example:
-  - He didn###t figure her
+  - He didn＇t figure her
   exemplifies:
   - 07089193-n
   hypernym:
@@ -112,7 +112,7 @@
   definition:
   - understand, usually after some initial difficulty
   example:
-  - She didn###t know what her classmates were plotting but finally caught on
+  - She didn＇t know what her classmates were plotting but finally caught on
   hypernym:
   - 00589616-v
   ili: i24716
@@ -162,9 +162,9 @@
   - perceive (an idea or situation) mentally
   example:
   - Now I see!
-  - I just can###t see your point
+  - I just can＇t see your point
   - Does she realize how important this decision is?
-  - I don###t understand the idea
+  - I don＇t understand the idea
   ili: i24720
   members:
   - understand
@@ -190,7 +190,7 @@
   causes:
   - 00590283-v
   definition:
-  - become clear or enter one###s consciousness or emotions
+  - become clear or enter one＇s consciousness or emotions
   example:
   - It dawned on him that she had betrayed him
   - she was penetrated with sorrow
@@ -253,7 +253,7 @@
   definition:
   - consider reasonable or due
   example:
-  - I###m expecting a full explanation as to why these files were destroyed
+  - I＇m expecting a full explanation as to why these files were destroyed
   hypernym:
   - 00692380-v
   ili: i24727
@@ -277,7 +277,7 @@
   partOfSpeech: v
 00594595-v:
   definition:
-  - acknowledge a new land owner as one###s landlord
+  - acknowledge a new land owner as one＇s landlord
   domain_topic:
   - 08458195-n
   example:
@@ -341,7 +341,7 @@
   definition:
   - be understanding of
   example:
-  - You don###t need to explain — I understand!
+  - You don＇t need to explain — I understand!
   ili: i24734
   members:
   - sympathize
@@ -354,7 +354,7 @@
   definition:
   - be familiar or acquainted with a person or an object
   example:
-  - She doesn###t know this composer
+  - She doesn＇t know this composer
   - Do you know my sister?
   - We know this movie
   - I know him under a different name
@@ -372,7 +372,7 @@
   example:
   - I know that the President lied to the people
   - I want to know who is winning the game!
-  - I know it###s time
+  - I know it＇s time
   ili: i24736
   members:
   - know
@@ -560,7 +560,7 @@
   partOfSpeech: v
 00600024-v:
   definition:
-  - try to forget; put out of one###s memory or knowledge
+  - try to forget; put out of one＇s memory or knowledge
   hypernym:
   - 00611721-v
   ili: i24753
@@ -571,7 +571,7 @@
   definition:
   - learn belatedly; find out about something after it happened
   example:
-  - I###m trying to catch up with the latest developments in molecular biology
+  - I＇m trying to catch up with the latest developments in molecular biology
   hypernym:
   - 00599310-v
   ili: i24754
@@ -664,7 +664,7 @@
   partOfSpeech: v
 00601765-v:
   definition:
-  - consume all of one###s attention or time
+  - consume all of one＇s attention or time
   example:
   - Her interest in butterflies absorbs her completely
   hypernym:
@@ -753,7 +753,7 @@
   partOfSpeech: v
 00603217-v:
   definition:
-  - take up the cause, ideology, practice, method, of someone and use it as one###s
+  - take up the cause, ideology, practice, method, of someone and use it as one＇s
     own
   example:
   - She embraced Catholicism
@@ -1104,7 +1104,7 @@
   partOfSpeech: v
 00609022-v:
   definition:
-  - have as one###s principal field of study
+  - have as one＇s principal field of study
   example:
   - She is majoring in linguistics
   hypernym:
@@ -1115,7 +1115,7 @@
   partOfSpeech: v
 00609193-v:
   definition:
-  - have as one###s secondary field of study
+  - have as one＇s secondary field of study
   example:
   - in college she minored in mathematics
   hypernym:
@@ -1127,8 +1127,8 @@
   definition:
   - recall knowledge from memory; have a recollection
   example:
-  - I can###t remember saying any such thing
-  - I can###t think what her last name was
+  - I can＇t remember saying any such thing
+  - I can＇t think what her last name was
   - can you remember her phone number?
   - Do you remember that he once loved you?
   - call up memories
@@ -1188,7 +1188,7 @@
   partOfSpeech: v
 00610532-v:
   definition:
-  - pass out of one###s memory
+  - pass out of one＇s memory
   hypernym:
   - 00610654-v
   ili: i24804
@@ -1200,7 +1200,7 @@
   definition:
   - be unable to remember
   example:
-  - I###m drawing a blank
+  - I＇m drawing a blank
   - You are blocking the name of your first wife!
   ili: i24805
   members:
@@ -1245,7 +1245,7 @@
   partOfSpeech: v
 00611564-v:
   definition:
-  - keep in one###s mind
+  - keep in one＇s mind
   example:
   - I cannot retain so much information
   hypernym:
@@ -1393,7 +1393,7 @@
   partOfSpeech: v
 00614373-v:
   definition:
-  - put out of one###s consciousness
+  - put out of one＇s consciousness
   domain_topic:
   - 06065477-n
   exemplifies:
@@ -1447,7 +1447,7 @@
   - 01852407-v
 00615215-v:
   definition:
-  - abandon one###s principles for expedience or financial gain
+  - abandon one＇s principles for expedience or financial gain
   hypernym:
   - 00614907-v
   members:
@@ -1508,7 +1508,7 @@
   definition:
   - forget to do something
   example:
-  - Don###t forget to call the chairman of the board to the meeting!
+  - Don＇t forget to call the chairman of the board to the meeting!
   hypernym:
   - 00616690-v
   ili: i24830
@@ -1547,7 +1547,7 @@
   definition:
   - omit (a letter or syllable) in speaking or writing
   example:
-  - New Englanders drop their post-vocalic r###s
+  - New Englanders drop their post-vocalic r＇s
   hypernym:
   - 00617112-v
   ili: i24833
@@ -1699,7 +1699,7 @@
   definition:
   - identify incorrectly
   example:
-  - Don###t mistake her for her twin sister
+  - Don＇t mistake her for her twin sister
   hypernym:
   - 00620141-v
   ili: i24846
@@ -1781,7 +1781,7 @@
   definition:
   - interpret in the wrong way
   example:
-  - Don###t misinterpret my comments as criticism
+  - Don＇t misinterpret my comments as criticism
   - She misconstrued my remarks
   hypernym:
   - 00624823-v
@@ -1927,7 +1927,7 @@
   definition:
   - confuse or put into disorder
   example:
-  - the boss###s behavior demoralized everyone in the office
+  - the boss＇s behavior demoralized everyone in the office
   hypernym:
   - 00623406-v
   ili: i24863
@@ -1939,7 +1939,7 @@
   - be a mystery or bewildering to
   example:
   - This beats me!
-  - Got me — I don###t know the answer!
+  - Got me — I don＇t know the answer!
   - a vexing problem
   - This question really stuck me
   hypernym:
@@ -2205,7 +2205,7 @@
     of human behavior
   example:
   - She read the sky and predicted rain
-  - I can###t read his strange behavior
+  - I can＇t read his strange behavior
   - The fortune teller read his fate in the crystal ball
   hypernym:
   - 00919743-v
@@ -2295,10 +2295,10 @@
   partOfSpeech: v
 00630153-v:
   definition:
-  - use or exercise the mind or one###s power of reason in order to make inferences,
+  - use or exercise the mind or one＇s power of reason in order to make inferences,
     decisions, or arrive at a solution or judgments
   example:
-  - I###ve been thinking all day and getting nowhere
+  - I＇ve been thinking all day and getting nowhere
   ili: i24893
   members:
   - think
@@ -2418,7 +2418,7 @@
   partOfSpeech: v
 00633253-v:
   definition:
-  - reflect on one###s own thoughts and feelings
+  - reflect on one＇s own thoughts and feelings
   hypernym:
   - 00632042-v
   ili: i24903
@@ -2431,7 +2431,7 @@
   example:
   - I imagine she earned a lot of money with her new novel
   - I thought to find her in a bad state
-  - he didn###t think to find her in the kitchen
+  - he didn＇t think to find her in the kitchen
   - I guess she is angry at me for standing her up
   hypernym:
   - 00721658-v
@@ -2567,7 +2567,7 @@
   example:
   - did you solve the problem?
   - Work out your problems with the boss
-  - this unpleasant situation isn###t going to work itself out
+  - this unpleasant situation isn＇t going to work itself out
   - did you figure it out?
   - Did you puzzle out my meaning?
   - He could not work the math problem
@@ -2689,7 +2689,7 @@
   definition:
   - found or ground
   example:
-  - build a defense on nothing but the accused person###s reputation
+  - build a defense on nothing but the accused person＇s reputation
   hypernym:
   - 00638550-v
   ili: i24924
@@ -3555,7 +3555,7 @@
   definition:
   - examine and note the similarities or differences of
   example:
-  - John compared his haircut to his friend###s
+  - John compared his haircut to his friend＇s
   - We compared notes after we had both seen the movie
   hypernym:
   - 00646245-v
@@ -3603,7 +3603,7 @@
   definition:
   - consider again; give new consideration to; usually with a view to changing
   example:
-  - Won###t you reconsider your decision?
+  - Won＇t you reconsider your decision?
   hypernym:
   - 00692380-v
   ili: i24999
@@ -3628,7 +3628,7 @@
   - 00655686-v
 00656117-v:
   definition:
-  - change one###s position or opinion
+  - change one＇s position or opinion
   entails:
   - 00655686-v
   example:
@@ -3789,7 +3789,7 @@
   partOfSpeech: v
 00659399-v:
   definition:
-  - assign a grade or rank to, according to one###s evaluation
+  - assign a grade or rank to, according to one＇s evaluation
   example:
   - grade tests
   - score the SAT essays
@@ -3984,7 +3984,7 @@
   definition:
   - put in opposition to show or emphasize differences
   example:
-  - The middle school teacher contrasted her best student###s work with that of her
+  - The middle school teacher contrasted her best student＇s work with that of her
     weakest student
   hypernym:
   - 00652006-v
@@ -4222,7 +4222,7 @@
   partOfSpeech: v
 00667153-v:
   definition:
-  - show one###s ability or courage
+  - show one＇s ability or courage
   hypernym:
   - 00666706-v
   ili: i25050
@@ -4347,7 +4347,7 @@
   definition:
   - prove to be false
   example:
-  - The physicist disproved his colleagues### theories
+  - The physicist disproved his colleagues＇ theories
   hypernym:
   - 00668804-v
   ili: i25061
@@ -4410,7 +4410,7 @@
   example:
   - I shall have to accept these unpleasant working conditions
   - I swallowed the insult
-  - She has learned to live with her husband###s little idiosyncrasies
+  - She has learned to live with her husband＇s little idiosyncrasies
   hypernym:
   - 00670017-v
   ili: i25065
@@ -4423,7 +4423,7 @@
   definition:
   - tolerate or bear
   example:
-  - I won###t stand for this kind of behavior!
+  - I won＇t stand for this kind of behavior!
   hypernym:
   - 00670017-v
   ili: i25066
@@ -4446,7 +4446,7 @@
   definition:
   - suffer without protest; suffer or endure passively
   example:
-  - I won###t take this insult lying down
+  - I won＇t take this insult lying down
   hypernym:
   - 00670017-v
   ili: i25068
@@ -4464,9 +4464,9 @@
   partOfSpeech: v
 00671548-v:
   definition:
-  - listen to a joke at one###s own expense
+  - listen to a joke at one＇s own expense
   example:
-  - Can###t you take a joke?
+  - Can＇t you take a joke?
   hypernym:
   - 00670017-v
   ili: i25070
@@ -4491,7 +4491,7 @@
   definition:
   - undergo a test
   example:
-  - She doesn###t test well
+  - She doesn＇t test well
   hypernym:
   - 00671680-v
   ili: i25072
@@ -4516,7 +4516,7 @@
   example:
   - I cannot judge some works of modern art
   - How do you evaluate this grant proposal?
-  - We shouldn###t pass judgment on other people
+  - We shouldn＇t pass judgment on other people
   hypernym:
   - 00630153-v
   ili: i25074
@@ -4550,7 +4550,7 @@
   - make too low an estimate of
   example:
   - he underestimated the work that went into the renovation
-  - Don###t underestimate the danger of such a raft trip on this river
+  - Don＇t underestimate the danger of such a raft trip on this river
   hypernym:
   - 00673109-v
   ili: i25077
@@ -4562,7 +4562,7 @@
   definition:
   - underestimate the real value or ability of
   example:
-  - Don###t sell your students short — they are just shy and don###t show off their knowledge
+  - Don＇t sell your students short — they are just shy and don＇t show off their knowledge
   hypernym:
   - 00673254-v
   ili: i25078
@@ -4846,7 +4846,7 @@
   definition:
   - select desirable parts from a group or list
   example:
-  - cull out the interesting letters from the poet###s correspondence
+  - cull out the interesting letters from the poet＇s correspondence
   - winnow the finalists from the long list of applicants
   hypernym:
   - 00676526-v
@@ -4914,7 +4914,7 @@
   definition:
   - plan for an activity or event
   example:
-  - I###ve scheduled a concert next week
+  - I＇ve scheduled a concert next week
   hypernym:
   - 00706456-v
   ili: i25109
@@ -5013,7 +5013,7 @@
   partOfSpeech: v
 00682064-v:
   definition:
-  - influence (somebody###s) opinion in advance
+  - influence (somebody＇s) opinion in advance
   hypernym:
   - 02542223-v
   ili: i25118
@@ -5109,7 +5109,7 @@
   definition:
   - estimate the value of (property) for taxation
   example:
-  - Our house hasn###t been assessed in years
+  - Our house hasn＇t been assessed in years
   hypernym:
   - 00674352-v
   ili: i25126
@@ -5141,7 +5141,7 @@
   partOfSpeech: v
 00684700-v:
   definition:
-  - revise or renew one###s assessment
+  - revise or renew one＇s assessment
   hypernym:
   - 00683348-v
   ili: i25129
@@ -5176,7 +5176,7 @@
   - accept as true; take to be true
   example:
   - I believed his report
-  - We didn###t believe his stories from the War
+  - We didn＇t believe his stories from the War
   - She believes in spirits
   hypernym:
   - 00688348-v
@@ -5188,7 +5188,7 @@
   definition:
   - accept as true
   example:
-  - I can###t buy this story
+  - I can＇t buy this story
   hypernym:
   - 00685199-v
   ili: i25133
@@ -5199,7 +5199,7 @@
   definition:
   - assert or affirm
   example:
-  - Rousseau###s philosophy holds that people are inherently good
+  - Rousseau＇s philosophy holds that people are inherently good
   hypernym:
   - 01013058-v
   ili: i25134
@@ -5313,7 +5313,7 @@
   - not accept something given or offered
   example:
   - I reject the idea of starting a war
-  - The journal rejected the student###s paper
+  - The journal rejected the student＇s paper
   hypernym:
   - 00672179-v
   ili: i25144
@@ -5456,7 +5456,7 @@
   partOfSpeech: v
 00690510-v:
   definition:
-  - change one###s mind
+  - change one＇s mind
   example:
   - He rethought his decision to take a vacation
   hypernym:
@@ -5467,7 +5467,7 @@
   partOfSpeech: v
 00690702-v:
   definition:
-  - modify one###s opinion, make it less strong
+  - modify one＇s opinion, make it less strong
   hypernym:
   - 00690510-v
   ili: i25158
@@ -5476,7 +5476,7 @@
   partOfSpeech: v
 00690810-v:
   definition:
-  - change one###s mind and assume the opposite viewpoint
+  - change one＇s mind and assume the opposite viewpoint
   hypernym:
   - 00690510-v
   ili: i25159
@@ -5543,7 +5543,7 @@
   partOfSpeech: v
 00692071-v:
   definition:
-  - have a feeling or perception about oneself in reaction to someone###s behavior or
+  - have a feeling or perception about oneself in reaction to someone＇s behavior or
     attitude
   example:
   - She felt small and insignificant
@@ -5561,7 +5561,7 @@
   example:
   - She views this quite differently from me
   - I consider her to be shallow
-  - I don###t see the situation quite as negatively as you do
+  - I don＇t see the situation quite as negatively as you do
   hypernym:
   - 00691086-v
   ili: i25165
@@ -5602,7 +5602,7 @@
   definition:
   - feel about or towards; consider, evaluate, or regard
   example:
-  - How did you like the President###s speech last night?
+  - How did you like the President＇s speech last night?
   hypernym:
   - 00692380-v
   ili: i25168
@@ -5687,7 +5687,7 @@
   definition:
   - interpret romantically
   example:
-  - Don###t romanticize this uninteresting and hard work!
+  - Don＇t romanticize this uninteresting and hard work!
   hypernym:
   - 00694673-v
   ili: i25176
@@ -5829,7 +5829,7 @@
   definition:
   - assign too low a value to
   example:
-  - Don###t underestimate the value of this heirloom-you may sell it at a good price
+  - Don＇t underestimate the value of this heirloom-you may sell it at a good price
   hypernym:
   - 00696992-v
   ili: i25188
@@ -5852,7 +5852,7 @@
   definition:
   - look at again; examine again
   example:
-  - let###s review your situation
+  - let＇s review your situation
   hypernym:
   - 00646245-v
   ili: i25190
@@ -5886,7 +5886,7 @@
   partOfSpeech: v
 00698618-v:
   definition:
-  - refresh one###s memory
+  - refresh one＇s memory
   example:
   - I reviewed the material before the test
   hypernym:
@@ -5955,7 +5955,7 @@
   definition:
   - consider as being
   example:
-  - It wasn###t the problem some people made it
+  - It wasn＇t the problem some people made it
   hypernym:
   - 00692380-v
   ili: i25198
@@ -6252,7 +6252,7 @@
   partOfSpeech: v
 00705278-v:
   definition:
-  - consider carefully and deeply; reflect upon; turn over in one###s mind
+  - consider carefully and deeply; reflect upon; turn over in one＇s mind
   hypernym:
   - 00632042-v
   ili: i25224
@@ -6264,7 +6264,7 @@
   - deliberate or decide
   example:
   - See whether you can come tomorrow
-  - let###s see — which movie should we see tonight?
+  - let＇s see — which movie should we see tonight?
   hypernym:
   - 00814706-v
   ili: i25225
@@ -6530,7 +6530,7 @@
   example:
   - I mean no harm
   - I only meant to help you
-  - She didn###t think to harm me
+  - She didn＇t think to harm me
   - We thought to return early that night
   ili: i25248
   members:
@@ -6644,7 +6644,7 @@
   definition:
   - explore or survey for the purpose of making a map
   example:
-  - We haven###t even begun to map the many galaxies that we know exist
+  - We haven＇t even begun to map the many galaxies that we know exist
   hypernym:
   - 00651134-v
   ili: i25257
@@ -6697,7 +6697,7 @@
   partOfSpeech: v
 00713249-v:
   definition:
-  - lay out a full-scale working drawing of the lines of a vessel###s hull
+  - lay out a full-scale working drawing of the lines of a vessel＇s hull
   hypernym:
   - 00712869-v
   ili: i25262
@@ -6893,7 +6893,7 @@
   domain_topic:
   - 00701905-n
   example:
-  - Let###s associate freely to bring up old memories
+  - Let＇s associate freely to bring up old memories
   hypernym:
   - 00715072-v
   ili: i25276
@@ -6927,7 +6927,7 @@
   definition:
   - come to believe on the basis of emotion, intuitions, or indefinite grounds
   example:
-  - I feel that he doesn###t like me
+  - I feel that he doesn＇t like me
   - I find him to be obnoxious
   - I found the movie rather entertaining
   hypernym:
@@ -7077,7 +7077,7 @@
   definition:
   - show an exaggerated response to something
   example:
-  - Don###t overreact to the bad news — take it easy
+  - Don＇t overreact to the bad news — take it easy
   hypernym:
   - 00719282-v
   ili: i25291
@@ -7217,7 +7217,7 @@
   partOfSpeech: v
 00722541-v:
   definition:
-  - turn one###s interests or expectations towards
+  - turn one＇s interests or expectations towards
   example:
   - look to the future
   - this method looks to significant wavings
@@ -7301,7 +7301,7 @@
   partOfSpeech: v
 00724156-v:
   definition:
-  - direct one###s attention on something
+  - direct one＇s attention on something
   example:
   - Please focus on your studies and not on your hobbies
   hypernym:
@@ -7319,7 +7319,7 @@
   - 00724637-v
 00724637-v:
   definition:
-  - hold (someone###s attention)
+  - hold (someone＇s attention)
   example:
   - The discovery of the skull riveted the paleontologists
   hypernym:
@@ -7332,7 +7332,7 @@
   - 00724156-v
 00724810-v:
   definition:
-  - cause one###s (or someone else###s) thoughts or attention to return from a reverie
+  - cause one＇s (or someone else＇s) thoughts or attention to return from a reverie
     or digression
   example:
   - She was recalled by a loud laugh
@@ -7344,7 +7344,7 @@
   partOfSpeech: v
 00725018-v:
   definition:
-  - focus one###s attention on a certain state
+  - focus one＇s attention on a certain state
   example:
   - Think big
   - think thin
@@ -7356,7 +7356,7 @@
   partOfSpeech: v
 00725184-v:
   definition:
-  - choose in one###s mind
+  - choose in one＇s mind
   example:
   - Think of any integer between 1 and 25
   hypernym:
@@ -7367,7 +7367,7 @@
   partOfSpeech: v
 00725311-v:
   definition:
-  - come to one###s mind; suggest itself
+  - come to one＇s mind; suggest itself
   example:
   - It occurred to me that we should hire another secretary
   - A great idea then came to her
@@ -7438,7 +7438,7 @@
   partOfSpeech: v
 00726626-v:
   definition:
-  - be on one###s guard; be cautious or wary about; be alert to
+  - be on one＇s guard; be cautious or wary about; be alert to
   example:
   - Beware of telephone salesmen
   hypernym:
@@ -7557,7 +7557,7 @@
   definition:
   - attribute (responsibility or fault) to a cause or source
   example:
-  - The teacher imputed the student###s failure to his nervousness
+  - The teacher imputed the student＇s failure to his nervousness
   hypernym:
   - 00728262-v
   ili: i25332
@@ -7645,9 +7645,9 @@
   partOfSpeech: v
 00730186-v:
   definition:
-  - enter into someone###s consciousness
+  - enter into someone＇s consciousness
   example:
-  - Did this event register in your parents### minds?
+  - Did this event register in your parents＇ minds?
   hypernym:
   - 00019441-v
   ili: i25340
@@ -7712,8 +7712,8 @@
   - follow, discover, or ascertain the course of development of something
   example:
   - We must follow closely the economic development is Cuba
-  - trace the student###s progress
-  - trace one###s ancestry
+  - trace the student＇s progress
+  - trace one＇s ancestry
   hypernym:
   - 00646245-v
   ili: i25345
@@ -7770,7 +7770,7 @@
   definition:
   - intend to refer to
   example:
-  - I###m thinking of good food when I talk about France
+  - I＇m thinking of good food when I talk about France
   - Yes, I meant you when I complained about people who gossip!
   hypernym:
   - 00715072-v
@@ -8031,9 +8031,9 @@
   partOfSpeech: v
 00736371-v:
   definition:
-  - have on one###s mind, think about actively
+  - have on one＇s mind, think about actively
   example:
-  - I###m thinking about my friends abroad
+  - I＇m thinking about my friends abroad
   - She always thinks about her children first
   hypernym:
   - 00630153-v
@@ -8045,7 +8045,7 @@
   definition:
   - consider apart from a particular case or instance
   example:
-  - Let###s abstract away from this particular example
+  - Let＇s abstract away from this particular example
   hypernym:
   - 00736077-v
   ili: i25372
@@ -8056,7 +8056,7 @@
   definition:
   - put firmly in the mind
   example:
-  - Plant a thought in the students### minds
+  - Plant a thought in the students＇ minds
   hypernym:
   - 00744289-v
   ili: i25373
@@ -8107,7 +8107,7 @@
   - arrange thoughts, ideas, temporal events
   example:
   - arrange my schedule
-  - set up one###s life
+  - set up one＇s life
   - I put these memories with those of bygone times
   hypernym:
   - 02437377-v
@@ -8147,7 +8147,7 @@
   definition:
   - break down into components or essential features
   example:
-  - analyze today###s financial market
+  - analyze today＇s financial market
   ili: i25380
   members:
   - analyze
@@ -8202,7 +8202,7 @@
   partOfSpeech: v
 00739198-v:
   definition:
-  - maintain in the forefront of one###s awareness
+  - maintain in the forefront of one＇s awareness
   example:
   - He kept note of the location of the soldiers
   hypernym:
@@ -8254,9 +8254,9 @@
   definition:
   - bear (a cost or penalty), in recompense for some action
   example:
-  - You###ll pay for this!
+  - You＇ll pay for this!
   - She had to pay the penalty for speaking out rashly
-  - You###ll pay for this opinion later
+  - You＇ll pay for this opinion later
   hypernym:
   - 00670017-v
   ili: i25389
@@ -8265,7 +8265,7 @@
   partOfSpeech: v
 00740164-v:
   definition:
-  - suffer the results or consequences of one###s behavior or actions
+  - suffer the results or consequences of one＇s behavior or actions
   hypernym:
   - 00739889-v
   ili: i25390

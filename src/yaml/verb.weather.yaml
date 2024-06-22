@@ -91,7 +91,7 @@
   definition:
   - rain heavily
   example:
-  - Put on your rain coat — it###s pouring outside!
+  - Put on your rain coat — it＇s pouring outside!
   hypernym:
   - 02762516-v
   ili: i35471
@@ -510,7 +510,7 @@
   definition:
   - be sharply reflected
   example:
-  - The moon glared back at itself from the lake###s surface
+  - The moon glared back at itself from the lake＇s surface
   hypernym:
   - 02771882-v
   ili: i35506
@@ -804,7 +804,7 @@
   entails:
   - 02762516-v
   example:
-  - If it storms, we###ll need shelter
+  - If it storms, we＇ll need shelter
   ili: i35532
   members:
   - storm
