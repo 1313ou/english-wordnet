@@ -178,7 +178,7 @@
   - 05226571-n
   ili: i64393
   members:
-  - child###s body
+  - child's body
   mero_part:
   - 05314393-n
   - 05552845-n
@@ -231,7 +231,7 @@
   ili: i64397
   members:
   - adult female body
-  - woman###s body
+  - woman's body
   mero_part:
   - 05409919-n
   - 05562038-n
@@ -245,7 +245,7 @@
   ili: i64398
   members:
   - adult male body
-  - man###s body
+  - man's body
   mero_part:
   - 05269065-n
   partOfSpeech: n
@@ -392,7 +392,7 @@
   ili: i64411
   members:
   - fissure of Rolando
-  - Rolando###s fissure
+  - Rolando's fissure
   - central sulcus
   - sulcus centralis
   partOfSpeech: n
@@ -1370,7 +1370,7 @@
   - 00006484-n
   ili: i64505
   members:
-  - Kupffer###s cell
+  - Kupffer's cell
   partOfSpeech: n
 05250271-n:
   definition:
@@ -1655,7 +1655,7 @@
   - 05433820-n
   ili: i64532
   members:
-  - Bowman###s capsule
+  - Bowman's capsule
   - glomerular capsule
   - capsula glomeruli
   partOfSpeech: n
@@ -1868,7 +1868,7 @@
   ili: i64550
   members:
   - canal of Schlemm
-  - Schlemm###s canal
+  - Schlemm's canal
   - sinus venosus sclerae
   partOfSpeech: n
 05259480-n:
@@ -2151,7 +2151,7 @@
   - 13925175-n
   ili: i64576
   members:
-  - widow###s peak
+  - widow's peak
   partOfSpeech: n
 05264185-n:
   definition:
@@ -6385,7 +6385,7 @@
   - 05335780-n
   ili: i64962
   members:
-  - Montgomery###s tubercle
+  - Montgomery's tubercle
   partOfSpeech: n
 05336415-n:
   definition:
@@ -9876,7 +9876,7 @@
   - 05396148-n
   ili: i65295
   members:
-  - athlete###s heart
+  - athlete's heart
   partOfSpeech: n
 05396653-n:
   definition:
@@ -9995,8 +9995,8 @@
   ili: i65306
   members:
   - Purkinje network
-  - Purkinje###s tissue
-  - Purkinje###s system
+  - Purkinje's tissue
+  - Purkinje's system
   mero_part:
   - 05398461-n
   partOfSpeech: n
@@ -10434,7 +10434,7 @@
   - 05406377-n
   ili: i65345
   members:
-  - mother###s milk
+  - mother's milk
   partOfSpeech: n
 05406699-n:
   definition:
@@ -12040,8 +12040,8 @@
   - 05437672-n
   ili: i65488
   members:
-  - Peyer###s patch
-  - Peter###s gland
+  - Peyer's patch
+  - Peter's gland
   partOfSpeech: n
 05438205-n:
   definition:
@@ -13749,7 +13749,7 @@
   ili: i65648
   members:
   - Leydig cell
-  - Leydig###s cell
+  - Leydig's cell
   partOfSpeech: n
 05467166-n:
   definition:
@@ -13760,7 +13760,7 @@
   ili: i65649
   members:
   - Sertoli cell
-  - Sertoli###s cell
+  - Sertoli's cell
   partOfSpeech: n
 05467345-n:
   definition:
@@ -14008,7 +14008,7 @@
   - 09402023-n
   ili: i65669
   members:
-  - Ranvier###s nodes
+  - Ranvier's nodes
   - nodes of Ranvier
   partOfSpeech: n
 05472337-n:
@@ -14099,7 +14099,7 @@
   - 05473520-n
   ili: i65677
   members:
-  - Golgi###s cell
+  - Golgi's cell
   - Golgi cell
   partOfSpeech: n
 05473896-n:
@@ -15328,10 +15328,10 @@
   - 05471109-n
   ili: i65784
   members:
-  - Broca###s area
-  - Broca###s center
-  - Broca###s gyrus
-  - Broca###s convolution
+  - Broca's area
+  - Broca's center
+  - Broca's gyrus
+  - Broca's convolution
   - convolution of Broca
   partOfSpeech: n
 05496267-n:
@@ -15341,7 +15341,7 @@
   - 05494572-n
   ili: i65785
   members:
-  - Brodmann###s area
+  - Brodmann's area
   partOfSpeech: n
 05496402-n:
   definition:
@@ -15403,7 +15403,7 @@
   - motor area
   - motor region
   - motor cortex
-  - Rolando###s area
+  - Rolando's area
   - excitable area
   partOfSpeech: n
 05497462-n:
@@ -15446,8 +15446,8 @@
   - 05471109-n
   ili: i65795
   members:
-  - Wernicke###s area
-  - Wernicke###s center
+  - Wernicke's area
+  - Wernicke's center
   partOfSpeech: n
 05498230-n:
   definition:
@@ -15684,7 +15684,7 @@
   - striate area
   - first visual area
   - area 17 of Brodmann
-  - Brodmann###s area 17
+  - Brodmann's area 17
   partOfSpeech: n
 05502585-n:
   definition:
@@ -17337,7 +17337,7 @@
   - 05336415-n
   ili: i65952
   members:
-  - Cowper###s gland
+  - Cowper's gland
   - bulbourethral gland
   partOfSpeech: n
   wikidata: Q120463
@@ -17349,7 +17349,7 @@
   - 05562927-n
   ili: i65953
   members:
-  - Bartholin###s gland
+  - Bartholin's gland
   partOfSpeech: n
 05531713-n:
   definition:
@@ -17683,7 +17683,7 @@
   members:
   - pharyngeal tonsil
   - adenoid
-  - Luschka###s tonsil
+  - Luschka's tonsil
   - third tonsil
   - tonsilla pharyngealis
   - tonsilla adenoidea
@@ -17727,7 +17727,7 @@
   ili: i65984
   members:
   - thyroid cartilage
-  - Adam###s apple
+  - Adam's apple
   partOfSpeech: n
 05538062-n:
   definition:
@@ -18642,7 +18642,7 @@
   members:
   - interventricular foramen
   - foramen of Monro
-  - Monro###s foramen
+  - Monro's foramen
   partOfSpeech: n
 05553512-n:
   definition:
@@ -19677,10 +19677,10 @@
   - 05568420-n
   ili: i66142
   members:
-  - shank###s mare
-  - shanks### mare
-  - shank###s pony
-  - shanks### pony
+  - shank's mare
+  - shanks' mare
+  - shank's pony
+  - shanks' pony
   partOfSpeech: n
 05569794-n:
   definition:
@@ -22450,7 +22450,7 @@
   - 08637636-n
   ili: i66383
   members:
-  - McBurney###s point
+  - McBurney's point
   partOfSpeech: n
 05616370-n:
   definition:

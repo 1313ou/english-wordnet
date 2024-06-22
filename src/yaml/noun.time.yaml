@@ -2717,8 +2717,8 @@
   partOfSpeech: n
 15183149-n:
   definition:
-  - ###in some states of the United States: a legal holiday commemorating the day the
-    state was admitted to the Union###
+  - "in some states of the United States: a legal holiday commemorating the day the
+    state was admitted to the Union"
   hypernym:
   - 15182185-n
   ili: i116869
@@ -3052,7 +3052,7 @@
   ili: i116899
   members:
   - Sunday
-  - Lord###s Day
+  - Lord's Day
   - Dominicus
   - Sun
   partOfSpeech: n
@@ -3122,8 +3122,8 @@
   partOfSpeech: n
 15189797-n:
   definition:
-  - ###a day of rest and worship: Sunday for most Christians; Saturday for the Jews
-    and a few Christians; Friday for Muslims###
+  - "a day of rest and worship: Sunday for most Christians; Saturday for the Jews
+    and a few Christians; Friday for Muslims"
   hypernym:
   - 15161999-n
   ili: i116906
@@ -3752,8 +3752,8 @@
   wikidata: Q200966
 15199021-n:
   definition:
-  - ###in the Roman calendar: the 15th of March or May or July or October or the 13th
-    of any other month###
+  - "in the Roman calendar: the 15th of March or May or July or October or the 13th
+    of any other month"
   hypernym:
   - 15182185-n
   ili: i116958
@@ -4193,7 +4193,7 @@
   - 15182185-n
   ili: i116994
   members:
-  - New Year###s Eve
+  - New Year's Eve
   - December 31
   partOfSpeech: n
 15207024-n:
@@ -4203,8 +4203,8 @@
   - 15224427-n
   ili: i116995
   members:
-  - New Year###s Day
-  - New Year###s
+  - New Year's Day
+  - New Year's
   - January 1
   partOfSpeech: n
 15207154-n:
@@ -4223,7 +4223,7 @@
   - 15224427-n
   ili: i116997
   members:
-  - Martin Luther King Jr###s Birthday
+  - Martin Luther King Jr's Birthday
   - Martin Luther King Day
   partOfSpeech: n
 15207404-n:
@@ -4234,9 +4234,9 @@
   - 15182185-n
   ili: i116998
   members:
-  - Robert E Lee###s Birthday
+  - Robert E Lee's Birthday
   - Robert E Lee Day
-  - Lee###s Birthday
+  - Lee's Birthday
   - January 19
   partOfSpeech: n
 15207559-n:
@@ -4381,7 +4381,7 @@
   - 15209005-n
   ili: i117011
   members:
-  - Saint Agnes###s Eve
+  - Saint Agnes's Eve
   - January 20
   partOfSpeech: n
 15210672-n:
@@ -4392,7 +4392,7 @@
   ili: i117012
   members:
   - Martinmas
-  - St Martin###s Day
+  - St Martin's Day
   - 11 November
   partOfSpeech: n
 15210831-n:
@@ -4403,7 +4403,7 @@
   ili: i117013
   members:
   - Indian summer
-  - Saint Martin###s summer
+  - Saint Martin's summer
   partOfSpeech: n
 15210982-n:
   definition:
@@ -4472,7 +4472,7 @@
   - 15182185-n
   ili: i117019
   members:
-  - Lincoln###s Birthday
+  - Lincoln's Birthday
   - February 12
   partOfSpeech: n
 15212085-n:
@@ -4483,9 +4483,9 @@
   ili: i117020
   members:
   - Valentine Day
-  - Valentine###s Day
-  - Saint Valentine###s Day
-  - St Valentine###s Day
+  - Valentine's Day
+  - Saint Valentine's Day
+  - St Valentine's Day
   - February 14
   partOfSpeech: n
 15212286-n:
@@ -4497,7 +4497,7 @@
   - 15182185-n
   ili: i117021
   members:
-  - Washington###s Birthday
+  - Washington's Birthday
   - February 22
   partOfSpeech: n
 15212454-n:
@@ -4509,7 +4509,7 @@
   - 15224427-n
   ili: i117022
   members:
-  - Presidents### Day
+  - Presidents' Day
   partOfSpeech: n
 15212635-n:
   definition:
@@ -4529,8 +4529,8 @@
   - 15182185-n
   ili: i117024
   members:
-  - St Patrick###s Day
-  - Saint Patrick###s Day
+  - St Patrick's Day
+  - Saint Patrick's Day
   - March 17
   partOfSpeech: n
 15212989-n:
@@ -4560,9 +4560,9 @@
   - 15182185-n
   ili: i117027
   members:
-  - April Fools###
-  - April Fools### day
-  - All Fools### day
+  - April Fools'
+  - April Fools' day
+  - All Fools' day
   partOfSpeech: n
   wikidata: Q80949
 15213523-n:
@@ -4583,7 +4583,7 @@
   - 15182185-n
   ili: i117029
   members:
-  - Patriot###s Day
+  - Patriot's Day
   partOfSpeech: n
 15213868-n:
   definition:
@@ -4604,7 +4604,7 @@
   - 15182185-n
   ili: i117031
   members:
-  - Mother###s Day
+  - Mother's Day
   partOfSpeech: n
 15214182-n:
   definition:
@@ -4634,8 +4634,8 @@
   - 15182185-n
   ili: i117034
   members:
-  - Jefferson Davis### Birthday
-  - Davis### Birthday
+  - Jefferson Davis' Birthday
+  - Davis' Birthday
   - June 3
   partOfSpeech: n
 15214673-n:
@@ -4650,12 +4650,12 @@
   partOfSpeech: n
 15214817-n:
   definition:
-  - ###US: third Sunday in June###
+  - "US: third Sunday in June"
   hypernym:
   - 15182185-n
   ili: i117036
   members:
-  - Father###s Day
+  - Father's Day
   partOfSpeech: n
 15214919-n:
   definition:
@@ -4712,7 +4712,7 @@
   partOfSpeech: n
 15215614-n:
   definition:
-  - ###US: the 4th Friday in September###
+  - "US: the 4th Friday in September"
   hypernym:
   - 15182185-n
   ili: i117042
@@ -4748,7 +4748,7 @@
   ili: i117045
   members:
   - Halloween
-  - Hallowe###en
+  - Hallowe'en
   - Allhallows Eve
   partOfSpeech: n
 15216236-n:
@@ -4833,8 +4833,8 @@
   - 15209005-n
   ili: i117054
   members:
-  - Holy Innocents### Day
-  - Innocents### Day
+  - Holy Innocents' Day
+  - Innocents' Day
   partOfSpeech: n
 15217107-n:
   definition:
@@ -4991,7 +4991,7 @@
   - Epiphany
   - Epiphany of Our Lord
   - Twelfth day
-  - Three Kings### Day
+  - Three Kings' Day
   - January 6
   partOfSpeech: n
 15219574-n:
@@ -5031,7 +5031,7 @@
   - 15209842-n
   ili: i117072
   members:
-  - All Saints### Day
+  - All Saints' Day
   - Allhallows
   - November 1
   - Hallowmas
@@ -5063,7 +5063,7 @@
   - 15209005-n
   ili: i117075
   members:
-  - All Souls### Day
+  - All Souls' Day
   - November 2
   partOfSpeech: n
 15220457-n:
@@ -5212,10 +5212,10 @@
   - 15186331-n
   ili: i117086
   members:
-  - Tishah b###Av
-  - Tishah b###Ab
-  - Tisha b###Av
-  - Tisha b###Ab
+  - Tishah b'Av
+  - Tishah b'Ab
+  - Tisha b'Av
+  - Tisha b'Ab
   - Ninth of Av
   - Ninth of Ab
   - Fast of Av
@@ -5314,7 +5314,7 @@
   - 15209590-n
   ili: i117093
   members:
-  - Lag b###Omer
+  - Lag b'Omer
   partOfSpeech: n
 15224427-n:
   definition:
@@ -5386,14 +5386,14 @@
   partOfSpeech: n
 15225731-n:
   definition:
-  - a legal holiday in the United States; formerly Armistice Day but called Veterans###
+  - a legal holiday in the United States; formerly Armistice Day but called Veterans"
     Day since 1954
   hypernym:
   - 15224427-n
   ili: i117100
   members:
   - Veterans Day
-  - Veterans### Day
+  - Veterans' Day
   - Armistice Day
   - November 11
   partOfSpeech: n
@@ -6320,8 +6320,8 @@
   wikidata: Q217185
 15240066-n:
   definition:
-  - ###the fifth month of the civil year: the eleventh month of the ecclesiastical year
-    in the Jewish calendar (in January and February)###
+  - "the fifth month of the civil year: the eleventh month of the ecclesiastical year
+    in the Jewish calendar (in January and February)"
   hypernym:
   - 15238864-n
   ili: i117181
@@ -6504,7 +6504,7 @@
   - 15241762-n
   ili: i117198
   members:
-  - Sha###ban
+  - Sha'ban
   - Shaaban
   partOfSpeech: n
 15243068-n:
@@ -6543,7 +6543,7 @@
   - 15241762-n
   ili: i117202
   members:
-  - Dhu###l-Qa###dah
+  - Dhu'l-Qa'dah
   - Dhu al-Qadah
   partOfSpeech: n
 15243594-n:
@@ -6554,8 +6554,8 @@
   - 15241762-n
   ili: i117203
   members:
-  - Dhu###l-Hijja
-  - Dhu###l-Hijjah
+  - Dhu'l-Hijja
+  - Dhu'l-Hijjah
   - Dhu al-Hijja
   - Dhu al-Hijjah
   partOfSpeech: n
@@ -6733,7 +6733,7 @@
   - 15182185-n
   ili: i117220
   members:
-  - saint###s day
+  - saint's day
   partOfSpeech: n
 15246514-n:
   definition:
@@ -6773,8 +6773,8 @@
   ili: i117224
   members:
   - Midsummer Day
-  - Midsummer###s Day
-  - St John###s Day
+  - Midsummer's Day
+  - St John's Day
   - June 24
   partOfSpeech: n
 15247165-n:
@@ -6786,8 +6786,8 @@
   members:
   - Midsummer Eve
   - Midsummer Night
-  - St John###s Eve
-  - St John###s Night
+  - St John's Eve
+  - St John's Night
   - June 23
   partOfSpeech: n
 15247336-n:
@@ -7129,7 +7129,7 @@
   ili: i117256
   members:
   - bell
-  - ship###s bell
+  - ship's bell
   partOfSpeech: n
 15252642-n:
   definition:
@@ -9006,8 +9006,8 @@
   partOfSpeech: n
 15282640-n:
   definition:
-  - ###one of two divisions into which some games or performances are divided: the two
-    divisions are separated by an interval###
+  - "one of two divisions into which some games or performances are divided: the two
+    divisions are separated by an interval"
   hypernym:
   - 05876035-n
   ili: i117425
@@ -9922,7 +9922,7 @@
   - 15297671-n
   ili: i117505
   members:
-  - entr###acte
+  - entr'acte
   partOfSpeech: n
 15297873-n:
   definition:
@@ -11132,7 +11132,7 @@
   partOfSpeech: n
 15317860-n:
   definition:
-  - ###either of two short watches: from 4-6 pm or 6-8 pm###
+  - "either of two short watches: from 4-6 pm or 6-8 pm"
   hypernym:
   - 15317579-n
   ili: i117614
@@ -11913,8 +11913,8 @@
   source: plWordNet 4.0
 92443571-n:
   definition:
-  - ###the vector difference between the velocities of two bodies : the velocity of
-    a body with respect to another regarded as being at rest.###
+  - "the vector difference between the velocities of two bodies : the velocity of
+    a body with respect to another regarded as being at rest."
   example:
   - The motion may have a different appearance as viewed from a different reference
     frame, but this can be explained by including the relative velocity of the reference

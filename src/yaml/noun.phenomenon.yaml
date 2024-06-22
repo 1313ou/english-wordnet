@@ -1748,11 +1748,11 @@
   - corona discharge
   - corona
   - corposant
-  - St. Elmo###s fire
-  - Saint Elmo###s fire
-  - Saint Elmo###s light
-  - Saint Ulmo###s fire
-  - Saint Ulmo###s light
+  - St. Elmo's fire
+  - Saint Elmo's fire
+  - Saint Elmo's light
+  - Saint Ulmo's fire
+  - Saint Ulmo's light
   - electric glow
   partOfSpeech: n
 11461173-n:
@@ -2238,7 +2238,7 @@
   ili: i97755
   members:
   - southwester
-  - sou###wester
+  - sou'wester
   partOfSpeech: n
 11469051-n:
   definition:
@@ -2248,7 +2248,7 @@
   ili: i97756
   members:
   - southeaster
-  - sou###easter
+  - sou'easter
   partOfSpeech: n
 11469172-n:
   definition:
@@ -2587,7 +2587,7 @@
   - 11475008-n
   ili: i97785
   members:
-  - Noah###s flood
+  - Noah's flood
   - Noachian deluge
   - Noah and the Flood
   - the Flood
@@ -2800,10 +2800,10 @@
   - 11494354-n
   ili: i97805
   members:
-  - friar###s lantern
+  - friar's lantern
   - ignis fatuus
-  - jack-o###-lantern
-  - will-o###-the-wisp
+  - jack-o'-lantern
+  - will-o'-the-wisp
   partOfSpeech: n
 11479937-n:
   definition:
@@ -6551,7 +6551,7 @@
   - 11446644-n
   ili: i98159
   members:
-  - van der Waal###s forces
+  - van der Waal's forces
   partOfSpeech: n
 11543464-n:
   definition:

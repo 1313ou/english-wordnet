@@ -2074,9 +2074,9 @@
   definition:
   - a new word formed by joining two others and combining their meanings
   example:
-  - ###<<<smog>>> is a blend of <<<smoke>>> and <<<fog>>>###
-  - ###<<<motel>>> is a portmanteau word made by combining <<<motor>>> and <<<hotel>>>###
-  - ###<<<brunch>>> is a well-known portmanteau###
+  - "<<<smog>>> is a blend of <<<smoke>>> and <<<fog>>>"
+  - "<<<motel>>> is a portmanteau word made by combining <<<motor>>> and <<<hotel>>>"
+  - "<<<brunch>>> is a well-known portmanteau"
   hypernym:
   - 06305222-n
   ili: i69549
@@ -2121,8 +2121,8 @@
   definition:
   - a word formed from two or more words by omitting or combining some sounds
   example:
-  - ###<<<won######t>>> is a contraction of <<<will not>>>###
-  - ###<<<o######clock>>> is a contraction of <<<of the clock>>>###
+  - "<<<won######t>>> is a contraction of <<<will not>>>"
+  - "<<<o######clock>>> is a contraction of <<<of the clock>>>"
   hypernym:
   - 06297048-n
   ili: i69553
@@ -2150,7 +2150,7 @@
   domain_topic:
   - 06182505-n
   example:
-  - ###<<<electricity>>> is a derivative of <<<electric>>>###
+  - "<<<electricity>>> is a derivative of <<<electric>>>"
   hypernym:
   - 06297048-n
   ili: i69555
@@ -2170,7 +2170,7 @@
   definition:
   - a word that is considered to be unmentionable
   example:
-  - ###<<<failure>>> is a dirty word to him###
+  - "<<<failure>>> is a dirty word to him"
   hypernym:
   - 06297048-n
   ili: i69557
@@ -2288,7 +2288,7 @@
   definition:
   - a word that names the whole of which a given word is a part
   example:
-  - ###<<<hat>>> is a holonym for <<<brim>>> and <<<crown>>>###
+  - "<<<hat>>> is a holonym for <<<brim>>> and <<<crown>>>"
   hypernym:
   - 06297048-n
   ili: i69567
@@ -2378,7 +2378,7 @@
   definition:
   - a word that names a part of a larger whole
   example:
-  - ###<<<brim>>> and <<<crown>>> are meronyms of <<<hat>>>###
+  - "<<<brim>>> and <<<crown>>> are meronyms of <<<hat>>>"
   hypernym:
   - 06297048-n
   ili: i69575
@@ -2402,7 +2402,7 @@
   definition:
   - an anagram that means the opposite of the original word or phrase
   example:
-  - ###<<<restful>>> is the antigram of <<<fluster>>>###
+  - "<<<restful>>> is the antigram of <<<fluster>>>"
   hypernym:
   - 06298291-n
   ili: i69577
@@ -2463,7 +2463,7 @@
   definition:
   - a word serving as the basis for inflected or derived forms
   example:
-  - ###<<<pick>>> is the primitive from which <<<picket>>> is derived###
+  - "<<<pick>>> is the primitive from which <<<picket>>> is derived"
   hypernym:
   - 06297048-n
   ili: i69583
@@ -2593,7 +2593,7 @@
   definition:
   - an expression introduced into one language by translating it from another language
   example:
-  - ###<<<superman>>> is a calque for the German <<<Ubermensch>>>###
+  - "<<<superman>>> is a calque for the German <<<Ubermensch>>>"
   hypernym:
   - 07166088-n
   ili: i69594
@@ -2777,7 +2777,7 @@
   definition:
   - a word that denotes a manner of doing something
   example:
-  - ###<<<march>>> is a troponym of <<<walk>>>###
+  - "<<<march>>> is a troponym of <<<walk>>>"
   hypernym:
   - 06297048-n
   ili: i69611
@@ -2951,7 +2951,7 @@
   definition:
   - a bound form used only in compounds
   example:
-  - ###<<<hemato->>> is a combining form in words like <<<hematology>>>###
+  - "<<<hemato->>> is a combining form in words like <<<hematology>>>"
   hypernym:
   - 06317935-n
   ili: i69628
@@ -3273,8 +3273,8 @@
   partOfSpeech: n
 06324290-n:
   definition:
-  - ###a constituent of a sentence at the first step in an analysis: e.g., subject and
-    predicate###
+  - "a constituent of a sentence at the first step in an analysis: e.g., subject and
+    predicate"
   hypernym:
   - 06323956-n
   ili: i69658
@@ -3361,8 +3361,8 @@
   definition:
   - a clause introduced by a relative pronoun
   example:
-  - ###<<<who visits frequently>>> is a relative clause in the sentence <<<John, who visits
-    frequently, is ill>>>###
+  - "<<<who visits frequently>>> is a relative clause in the sentence <<<John, who visits
+    frequently, is ill>>>"
   hypernym:
   - 06325134-n
   ili: i69666
@@ -3472,7 +3472,7 @@
   domain_topic:
   - 06173467-n
   example:
-  - ###<<<Socrates is a man>>> predicates manhood of Socrates###
+  - "<<<Socrates is a man>>> predicates manhood of Socrates"
   hypernym:
   - 06764688-n
   ili: i69676
@@ -3688,7 +3688,7 @@
   definition:
   - an adjective used as a noun
   example:
-  - ###<<<meek>>> in <<<blessed are the meek>>> is an adnoun###
+  - "<<<meek>>> in <<<blessed are the meek>>> is an adnoun"
   hypernym:
   - 06331146-n
   ili: i69698
@@ -3720,8 +3720,8 @@
   definition:
   - a modifier that has little meaning except to intensify the meaning it modifies
   example:
-  - ###<<<up>>> in <<<finished up>>> is an intensifier###
-  - ###<<<honestly>>> in <<<I honestly don######t know>>> is an intensifier###
+  - "<<<up>>> in <<<finished up>>> is an intensifier"
+  - "<<<honestly>>> in <<<I honestly don######t know>>> is an intensifier"
   hypernym:
   - 06331794-n
   ili: i69701
@@ -3789,9 +3789,9 @@
   definition:
   - the comparative form of an adjective or adverb
   example:
-  - ###<<<faster>>> is the comparative of the adjective <<<fast>>>###
-  - ###<<<less famous>>> is the comparative degree of the adjective <<<famous>>>###
-  - ###<<<more surely>>> is the comparative of the adverb <<<surely>>>###
+  - "<<<faster>>> is the comparative of the adjective <<<fast>>>"
+  - "<<<less famous>>> is the comparative degree of the adjective <<<famous>>>"
+  - "<<<more surely>>> is the comparative of the adverb <<<surely>>>"
   hypernym:
   - 06332695-n
   - 06334605-n
@@ -3804,9 +3804,9 @@
   definition:
   - the superlative form of an adjective or adverb
   example:
-  - ###<<<fastest>>> is the superlative of the adjective <<<fast>>>###
-  - ###<<<least famous>>> is the superlative degree of the adjective <<<famous>>>###
-  - ###<<<most surely>>> is the superlative of the adverb <<<surely>>>###
+  - "<<<fastest>>> is the superlative of the adjective <<<fast>>>"
+  - "<<<least famous>>> is the superlative degree of the adjective <<<famous>>>"
+  - "<<<most surely>>> is the superlative of the adverb <<<surely>>>"
   hypernym:
   - 06332695-n
   - 06334605-n
@@ -3828,8 +3828,8 @@
   partOfSpeech: n
 06334815-n:
   definition:
-  - ###a word or phrase apparently modifying an unintended word because of its placement
-    in a sentence: e.g., <<<when young>>> in <<<when young, circuses appeal to all of us>>>###
+  - "a word or phrase apparently modifying an unintended word because of its placement
+    in a sentence: e.g., <<<when young>>> in <<<when young, circuses appeal to all of us>>>"
   hypernym:
   - 06331794-n
   ili: i69710
@@ -3840,9 +3840,9 @@
   wikidata: Q2135518
 06335079-n:
   definition:
-  - ###a participle (usually at the beginning of a sentence) apparently modifying a
+  - "a participle (usually at the beginning of a sentence) apparently modifying a
     word other than the word intended: e.g., <<<flying across the country>>> in <<<flying
-    across the country the Rockies came into view>>>###
+    across the country the Rockies came into view>>>"
   hypernym:
   - 06334815-n
   ili: i69711
@@ -4083,7 +4083,7 @@
   - a verb whose agent performs an action that is directed at the agent
   example:
   - the sentence <<<he washed>>> has a reflexive verb
-  - ###<<<perjure>>> is a reflexive verb because you cannot perjure anyone but yourself###
+  - "<<<perjure>>> is a reflexive verb because you cannot perjure anyone but yourself"
   hypernym:
   - 06331562-n
   ili: i69734
@@ -4206,7 +4206,7 @@
   - an English verb followed by one or more particles where the combination behaves
     as a syntactic and semantic unit
   example:
-  - ###<<<turn out>>> is a phrasal verb in the question <<<how many turned out to vote?>>>###
+  - "<<<turn out>>> is a phrasal verb in the question <<<how many turned out to vote?>>>"
   hypernym:
   - 06329055-n
   ili: i69746
@@ -4528,7 +4528,7 @@
   definition:
   - slang for something (especially for an illegal drug)
   example:
-  - ###<<<smack>>> is a street name for heroin###
+  - "<<<smack>>> is a street name for heroin"
   hypernym:
   - 06344646-n
   - 07171981-n
@@ -4696,8 +4696,8 @@
   - 06344646-n
   ili: i69787
   members:
-  - writer###s name
-  - author###s name
+  - writer's name
+  - author's name
   partOfSpeech: n
 06350278-n:
   definition:
@@ -4716,7 +4716,7 @@
   definition:
   - a name of endearment (especially one using a diminutive suffix)
   example:
-  - ###<<<Billy>>> is a hypocorism for <<<William>>>###
+  - "<<<Billy>>> is a hypocorism for <<<William>>>"
   hypernym:
   - 06344646-n
   ili: i69789
@@ -4726,7 +4726,7 @@
   partOfSpeech: n
 06350786-n:
   definition:
-  - ###an identifying appellation signifying status or function: e.g. <<<Mr.>>> or <<<General>>>###
+  - "an identifying appellation signifying status or function: e.g. <<<Mr.>>> or <<<General>>>"
   example:
   - the professor didn###t like his friends to use his formal title
   hypernym:
@@ -4989,7 +4989,7 @@
   definition:
   - an appellation signifying nobility
   example:
-  - ###<<<your majesty>>> is the appropriate title to use in addressing a king###
+  - "<<<your majesty>>> is the appropriate title to use in addressing a king"
   hypernym:
   - 06350278-n
   ili: i69813
@@ -6051,8 +6051,8 @@
   partOfSpeech: n
 06372853-n:
   definition:
-  - ###an ancient writing system: having alternate lines written in opposite directions;
-    literally <<<as the ox ploughs>>>###
+  - "an ancient writing system: having alternate lines written in opposite directions;
+    literally <<<as the ox ploughs>>>"
   hypernym:
   - 06362609-n
   ili: i69909
@@ -6631,7 +6631,7 @@
   - 06383718-n
   ili: i69964
   members:
-  - Aesop###s fables
+  - Aesop's fables
   partOfSpeech: n
 06384195-n:
   definition:
@@ -6640,7 +6640,7 @@
   instance_hypernym:
   - 06383718-n
   members:
-  - Pilgrim###s Progress
+  - Pilgrim's Progress
   partOfSpeech: n
 06384303-n:
   definition:
@@ -6974,8 +6974,8 @@
   definition:
   - a witty satiric verse containing two rhymed couplets and mentioning a famous person
   example:
-  - ###<<<The president is George W. Bush, Who is happy to sit on his tush, While sending
-    his armies to fight, For anything he thinks is right>>> is a clerihew###
+  - "<<<The president is George W. Bush, Who is happy to sit on his tush, While sending
+    his armies to fight, For anything he thinks is right>>> is a clerihew"
   hypernym:
   - 06393492-n
   ili: i69998
@@ -7166,7 +7166,7 @@
   partOfSpeech: n
 06393384-n:
   definition:
-  - ###a verse form with a rhyme scheme: aba bcb cdc, etc.###
+  - "a verse form with a rhyme scheme: aba bcb cdc, etc."
   hypernym:
   - 06389065-n
   ili: i70016
@@ -9419,7 +9419,7 @@
   - 06430544-n
   ili: i70231
   members:
-  - learner###s dictionary
+  - learner's dictionary
   - school dictionary
   partOfSpeech: n
 06431555-n:
@@ -9830,7 +9830,7 @@
   ili: i70269
   members:
   - almanac
-  - farmer###s calendar
+  - farmer's calendar
   partOfSpeech: n
 06438535-n:
   definition:
@@ -10123,9 +10123,9 @@
   partOfSpeech: n
 06444046-n:
   definition:
-  - ###the first book of the Old Testament: tells of Creation; Adam and Eve; the Fall
+  - "the first book of the Old Testament: tells of Creation; Adam and Eve; the Fall
     of Man; Cain and Abel; Noah and the flood; God######s covenant with Abraham; Abraham
-    and Isaac; Jacob and Esau; Joseph and his brothers###
+    and Isaac; Jacob and Esau; Joseph and his brothers"
   ili: i70294
   instance_hypernym:
   - 06406508-n
@@ -10135,9 +10135,9 @@
   partOfSpeech: n
 06444385-n:
   definition:
-  - ###the second book of the Old Testament: tells of the departure of the Israelites
+  - "the second book of the Old Testament: tells of the departure of the Israelites
     out of slavery in Egypt led by Moses; God gave them the Ten Commandments and the
-    rest of Mosaic law on Mount Sinai during the Exodus###
+    rest of Mosaic law on Mount Sinai during the Exodus"
   ili: i70295
   instance_hypernym:
   - 06406508-n
@@ -11110,7 +11110,7 @@
   instance_hypernym:
   - 06441260-n
   members:
-  - Nevi###im
+  - Nevi'im
   - Prophets
   - Nebiim
   mero_part:
@@ -11379,7 +11379,7 @@
   instance_hypernym:
   - 06467660-n
   members:
-  - Lord###s Prayer
+  - Lord's Prayer
   partOfSpeech: n
 06469466-n:
   definition:
@@ -11566,7 +11566,7 @@
   partOfSpeech: n
 06472596-n:
   definition:
-  - an Apocryphal book describing the life of Judas Maccabaeus, tells about the Jews###
+  - an Apocryphal book describing the life of Judas Maccabaeus, tells about the Jews"
     revolt against Antiochus IV Epiphanes and concludes with the defeat of the Syrian
     general Nicanor in 161 BC by Judas Maccabeus
   ili: i70411
@@ -11614,7 +11614,7 @@
   members:
   - Koran
   - Quran
-  - al-Qur###an
+  - al-Qur'an
   - Book
   mero_part:
   - 06473500-n
@@ -12536,7 +12536,7 @@
   ili: i70499
   members:
   - library card
-  - borrower###s card
+  - borrower's card
   partOfSpeech: n
 06490002-n:
   definition:
@@ -12619,7 +12619,7 @@
   ili: i70507
   members:
   - teaching certificate
-  - teacher###s certificate
+  - teacher's certificate
   partOfSpeech: n
 06491336-n:
   definition:
@@ -12800,8 +12800,8 @@
   domain_topic:
   - 06182505-n
   example:
-  - ###<<<Those girls, they giggle when they see me>>> and <<<Cigarettes, you couldn######t pay
-    me to smoke them>>> are examples of topicalization###
+  - "<<<Those girls, they giggle when they see me>>> and <<<Cigarettes, you couldn######t pay
+    me to smoke them>>> are examples of topicalization"
   hypernym:
   - 07117611-n
   ili: i70523
@@ -13689,7 +13689,7 @@
   - 06504930-n
   ili: i70606
   members:
-  - table d###hote
+  - table d'hote
   partOfSpeech: n
 06509450-n:
   definition:
@@ -13701,7 +13701,7 @@
   members:
   - alphabet
   - ABC
-  - ABC###s
+  - ABC's
   - ABCs
   mero_member:
   - 06841868-n
@@ -13941,7 +13941,7 @@
   - 06491336-n
   ili: i70621
   members:
-  - ship###s papers
+  - ship's papers
   partOfSpeech: n
 06513909-n:
   definition:
@@ -14928,7 +14928,7 @@
   ili: i70713
   members:
   - medical bill
-  - doctor###s bill
+  - doctor's bill
   partOfSpeech: n
 06529654-n:
   definition:
@@ -15567,7 +15567,7 @@
   - 06539842-n
   ili: i70775
   members:
-  - sheriff###s sale
+  - sheriff's sale
   - execution sale
   - judicial sale
   - forced sale
@@ -16872,8 +16872,8 @@
   - 06561652-n
   ili: i70885
   members:
-  - driver###s license
-  - driver###s licence
+  - driver's license
+  - driver's licence
   - driving license
   - driving licence
   partOfSpeech: n
@@ -16908,7 +16908,7 @@
   - 06561652-n
   ili: i70888
   members:
-  - learner###s permit
+  - learner's permit
   partOfSpeech: n
 06562882-n:
   definition:
@@ -20819,7 +20819,7 @@
   - 06626039-n
   ili: i71236
   members:
-  - shoot-###em-up
+  - shoot-'em-up
   partOfSpeech: n
 06628667-n:
   definition:
@@ -22348,8 +22348,8 @@
   instance_hypernym:
   - 06654573-n
   members:
-  - Standard and Poor###s
-  - Standard and Poor###s Index
+  - Standard and Poor's
+  - Standard and Poor's Index
   partOfSpeech: n
 06653626-n:
   definition:
@@ -24099,7 +24099,7 @@
   - 06683266-n
   ili: i71540
   members:
-  - Maxwell###s equations
+  - Maxwell's equations
   partOfSpeech: n
 06683611-n:
   definition:
@@ -25703,7 +25703,7 @@
   - 06710094-n
   ili: i71686
   members:
-  - bachelor###s degree
+  - bachelor's degree
   - baccalaureate
   partOfSpeech: n
 06711403-n:
@@ -25875,7 +25875,7 @@
   - 06710094-n
   ili: i71702
   members:
-  - master###s degree
+  - master's degree
   partOfSpeech: n
 06713607-n:
   definition:
@@ -26031,7 +26031,7 @@
   - 06710094-n
   ili: i71717
   members:
-  - doctor###s degree
+  - doctor's degree
   - doctorate
   partOfSpeech: n
 06715651-n:
@@ -27368,7 +27368,7 @@
   domain_topic:
   - 06173467-n
   example:
-  - ###<<<I always lie>>> is a paradox because if it is true it must be false###
+  - "<<<I always lie>>> is a paradox because if it is true it must be false"
   hypernym:
   - 07221547-n
   ili: i71840
@@ -28017,7 +28017,7 @@
   - 06746688-n
   ili: i71897
   members:
-  - state###s evidence
+  - state's evidence
   partOfSpeech: n
 06748966-n:
   definition:
@@ -29748,7 +29748,7 @@
   instance_hypernym:
   - 06779826-n
   members:
-  - Parkinson###s law
+  - Parkinson's law
   partOfSpeech: n
 06780303-n:
   definition:
@@ -29758,7 +29758,7 @@
   instance_hypernym:
   - 06779826-n
   members:
-  - Parkinson###s law
+  - Parkinson's law
   partOfSpeech: n
 06780484-n:
   definition:
@@ -29996,7 +29996,7 @@
   - 06783066-n
   ili: i72072
   members:
-  - gentlemen###s agreement
+  - gentlemen's agreement
   partOfSpeech: n
 06784454-n:
   definition:
@@ -30278,7 +30278,7 @@
   - 06788939-n
   ili: i72099
   members:
-  - jeu d###esprit
+  - jeu d'esprit
   partOfSpeech: n
 06789622-n:
   definition:
@@ -30299,7 +30299,7 @@
   - 06788939-n
   ili: i72101
   members:
-  - esprit de l###escalier
+  - esprit de l'escalier
   partOfSpeech: n
 06789825-n:
   definition:
@@ -31077,9 +31077,9 @@
   partOfSpeech: n
 06803092-n:
   definition:
-  - ###(Christianity) the doctrine of the ecumenical movement that promotes cooperation
+  - "(Christianity) the doctrine of the ecumenical movement that promotes cooperation
     and better understanding among different religious denominations: aimed at universal
-    Christian unity###
+    Christian unity"
   domain_topic:
   - 06236188-n
   hypernym:
@@ -32161,7 +32161,7 @@
   - 05773412-n
   ili: i72269
   members:
-  - death###s head
+  - death's head
   partOfSpeech: n
 06821266-n:
   definition:
@@ -33396,8 +33396,8 @@
   partOfSpeech: n
 06843888-n:
   definition:
-  - ###two successive letters (especially two letters used to represent a single sound:
-    <<<sh>>> in <<<shoe>>>)###
+  - "two successive letters (especially two letters used to represent a single sound:
+    <<<sh>>> in <<<shoe>>>)"
   hypernym:
   - 06841868-n
   ili: i72384
@@ -34126,8 +34126,8 @@
   definition:
   - a letter that has two or more pronunciations
   example:
-  - ###<<<c>>> is a polyphone because it is pronounced like <<<k>>> in <<<car>>> but like <<<s>>>
-    in <<<cell>>>###
+  - "<<<c>>> is a polyphone because it is pronounced like <<<k>>> in <<<car>>> but like <<<s>>>
+    in <<<cell>>>"
   hypernym:
   - 06841868-n
   ili: i72460
@@ -35359,7 +35359,7 @@
   partOfSpeech: n
 06880930-n:
   definition:
-  - ###a system of solmization using the solfa syllables: do, re, mi, fa, sol, la, ti###
+  - "a system of solmization using the solfa syllables: do, re, mi, fa, sol, la, ti"
   hypernym:
   - 06880725-n
   ili: i72575
@@ -36302,7 +36302,7 @@
   - Shield of David
   - Magen David
   - Mogen David
-  - Solomon###s seal
+  - Solomon's seal
   partOfSpeech: n
 06895611-n:
   definition:
@@ -39018,8 +39018,8 @@
   - 06934822-n
   ili: i72929
   members:
-  - Akwa###ala
-  - Akwa###ala language
+  - Akwa'ala
+  - Akwa'ala language
   partOfSpeech: n
 06935262-n:
   definition:
@@ -40116,10 +40116,10 @@
   partOfSpeech: n
 06948091-n:
   definition:
-  - ###a branch of the Tai languages, spoken in Southern Yunnan Province, Xishuangbanna
+  - "a branch of the Tai languages, spoken in Southern Yunnan Province, Xishuangbanna
     Dai autonomous prefecture, 3 counties: Jinghong (Chiang Hung, Chien Rung), Menghai,
     and Mengla, also a few in Simao municipal prefecture, Jiangcheng Hani and Yi Autonomous
-    counties###
+    counties"
   hypernym:
   - 06947166-n
   ili: i73025
@@ -40965,8 +40965,8 @@
   partOfSpeech: n
 06959259-n:
   definition:
-  - ###a branch of the Indo-European family of languages; members that are spoken currently
-    fall into two major groups: Scandinavian and West Germanic###
+  - "a branch of the Indo-European family of languages; members that are spoken currently
+    fall into two major groups: Scandinavian and West Germanic"
   hypernym:
   - 06954406-n
   ili: i73102
@@ -41048,8 +41048,8 @@
   - 82423757-n
   ili: i73109
   members:
-  - King###s English
-  - Queen###s English
+  - King's English
+  - Queen's English
   partOfSpeech: n
 06961158-n:
   definition:
@@ -42195,8 +42195,8 @@
   - 06977643-n
   ili: i73212
   members:
-  - Langue d###oil
-  - Langue d###oil French
+  - Langue d'oil
+  - Langue d'oil French
   partOfSpeech: n
 06978186-n:
   definition:
@@ -42205,8 +42205,8 @@
   - 06977643-n
   ili: i73213
   members:
-  - Langue d###oc
-  - Langue d###oc French
+  - Langue d'oc
+  - Langue d'oc French
   partOfSpeech: n
 06978360-n:
   definition:
@@ -45405,7 +45405,7 @@
   - 07025650-n
   ili: i73503
   members:
-  - actor###s line
+  - actor's line
   - speech
   - words
   partOfSpeech: n
@@ -45519,7 +45519,7 @@
   definition:
   - persuasive but insincere talk that is usually intended to deceive or impress
   example:
-  - ###<<<let me show you my etchings>>> is a rather worn line###
+  - "<<<let me show you my etchings>>> is a rather worn line"
   - he has a smooth line but I didn###t fall for it
   - that salesman must have practiced his fast line of talk
   hypernym:
@@ -45712,7 +45712,7 @@
   - 07028624-n
   ili: i73533
   members:
-  - commedia dell###arte
+  - commedia dell'arte
   partOfSpeech: n
   wikidata: Q191890
 07029212-n:
@@ -48602,7 +48602,7 @@
   ili: i73810
   members:
   - rock ###n### roll
-  - rock###n###roll
+  - rock'n'roll
   - rock-and-roll
   - rock and roll
   - rock
@@ -48739,8 +48739,8 @@
   partOfSpeech: n
 07081916-n:
   definition:
-  - ###the use of closed-class words instead of inflections: e.g., <<<the father of the
-    bride>>> instead of <<<the bride######s father>>>###
+  - "the use of closed-class words instead of inflections: e.g., <<<the father of the
+    bride>>> instead of <<<the bride######s father>>>"
   hypernym:
   - 07080699-n
   ili: i73822
@@ -48987,8 +48987,8 @@
   partOfSpeech: n
 07086235-n:
   definition:
-  - ###the style of writing characteristic of some government officials: formal and
-    obscure###
+  - "the style of writing characteristic of some government officials: formal and
+    obscure"
   hypernym:
   - 07080699-n
   ili: i73845
@@ -49819,7 +49819,7 @@
   - a word formed from the initial letters of the several words in the name and pronounced
     as one word
   example:
-  - ###<<<NATO>>> is an initialism for North Atlantic Treaty Organization###
+  - "<<<NATO>>> is an initialism for North Atlantic Treaty Organization"
   - the word <<<scuba>>> is an acronym for s(elf)-c(ontained) u(nderwater) b(reathing)
     a(pparatus)
   hypernym:
@@ -50172,7 +50172,7 @@
   definition:
   - a two-syllable rhyme
   example:
-  - ###<<<ended>>> and <<<blended>>> form a double rhyme###
+  - "<<<ended>>> and <<<blended>>> form a double rhyme"
   hypernym:
   - 07111327-n
   ili: i73955
@@ -50425,8 +50425,8 @@
   partOfSpeech: n
 07116700-n:
   definition:
-  - ###strained or paradoxical use of words either in error (as <<<blatant>>> to mean <<<flagrant>>>)
-    or deliberately (as in a mixed metaphor: <<<blind mouths>>>)###
+  - "strained or paradoxical use of words either in error (as <<<blatant>>> to mean <<<flagrant>>>)
+    or deliberately (as in a mixed metaphor: <<<blind mouths>>>)"
   hypernym:
   - 07112859-n
   ili: i73981
@@ -50816,7 +50816,7 @@
   - use of a verb with two or more complements, playing on the verb###s polysemy, for
     humorous effect
   example:
-  - ###<<<Mr. Pickwick took his hat and his leave>>> is an example of zeugma###
+  - "<<<Mr. Pickwick took his hat and his leave>>> is an example of zeugma"
   hypernym:
   - 07120141-n
   ili: i74020
@@ -52234,7 +52234,7 @@
   definition:
   - an expression that is difficult to articulate clearly
   example:
-  - ###<<<rubber baby buggy bumper>>> is a tongue twister###
+  - "<<<rubber baby buggy bumper>>> is a tongue twister"
   hypernym:
   - 07166088-n
   ili: i74149
@@ -53393,8 +53393,8 @@
   - 07168093-n
   ili: i74255
   members:
-  - Murphy###s Law
-  - Sod###s Law
+  - Murphy's Law
+  - Sod's Law
   partOfSpeech: n
 07168349-n:
   definition:
@@ -56203,11 +56203,11 @@
   - 07218356-n
   ili: i74511
   members:
-  - ###yes###
+  - "yes"
   partOfSpeech: n
 07218668-n:
   definition:
-  - ###yes###
+  - "yes"
   example:
   - The yeas have it
   hypernym:
@@ -56286,7 +56286,7 @@
   - 07219571-n
   ili: i74519
   members:
-  - ###no###
+  - "no"
   partOfSpeech: n
 07219870-n:
   definition:
@@ -57306,7 +57306,7 @@
   - 07236710-n
   members:
   - One Thousand and One Nights
-  - Arabian Nights### Entertainment
+  - Arabian Nights' Entertainment
   - Arabian Nights
   - Thousand and One Nights
   partOfSpeech: n
@@ -59551,10 +59551,10 @@
   - 07273000-n
   ili: i74821
   members:
-  - lubber###s line
+  - lubber's line
   - lubber line
-  - lubber###s mark
-  - lubber###s point
+  - lubber's mark
+  - lubber's point
   partOfSpeech: n
 07274440-n:
   definition:
@@ -60062,7 +60062,7 @@
   - 06886621-n
   ili: i74870
   members:
-  - barber###s pole
+  - barber's pole
   partOfSpeech: n
 07281865-n:
   definition:
@@ -60988,7 +60988,7 @@
   - 07034009-n
   ili: i74958
   members:
-  - Ta###ziyeh
+  - Ta'ziyeh
   partOfSpeech: n
 07296576-n:
   definition:
@@ -61063,7 +61063,7 @@
   instance_hypernym:
   - 06422547-n
   members:
-  - ###Capital: Critique of Political Economy###
+  - "Capital: Critique of Political Economy"
   - Das Kapital
   - Capital
   partOfSpeech: n
@@ -61478,7 +61478,7 @@
   hypernym:
   - 06645018-n
   members:
-  - m###lady
+  - m'lady
   partOfSpeech: n
   source: Colloquial WordNet
 91000761-n:
@@ -62034,8 +62034,8 @@
   wikidata: Q1325245
 92442082-n:
   definition:
-  - ###the bijective base-1 numeral system: in order to represent a number N, an arbitrarily
-    chosen symbol representing 1 is repeated N times.###
+  - "the bijective base-1 numeral system: in order to represent a number N, an arbitrarily
+    chosen symbol representing 1 is repeated N times."
   hypernym:
   - 06821932-n
   members:
@@ -62926,7 +62926,7 @@
   hypernym:
   - 06420728-n
   members:
-  - master###s thesis
+  - master's thesis
   partOfSpeech: n
   source: plWordNet 4.0
 92461244-n:
@@ -63091,17 +63091,17 @@
   hypernym:
   - 06999554-n
   members:
-  - Ge###ez
+  - Ge'ez
   partOfSpeech: n
   source: plWordNet 4.0
 92461614-n:
   definition:
   - a diacritic mark of the Latin script, used primarily in written Hungarian.
   example:
-  - ###Standard Hungarian has 14 vowels in a symmetrical system: seven short vowels
+  - "Standard Hungarian has 14 vowels in a symmetrical system: seven short vowels
     (a, e, i, o, ö, u, ü) and seven long ones, which are written with an acute accent
     in the case of á, é, í, ó, ú, and with the double acute in the case of ő,
-    ű.###
+    ű."
   hypernym:
   - 06835082-n
   members:
@@ -63850,9 +63850,9 @@
   - (linguistics) A vowel that is pronounced with the lips drawn together and forming
     a circular opening.
   example:
-  - ###Thus rounded vowels and labialized consonants affect each other through phonetic
+  - "Thus rounded vowels and labialized consonants affect each other through phonetic
     assimilation: Rounded vowels labialize consonants, and labialized consonants round
-    vowels.###
+    vowels."
   hypernym:
   - 07127258-n
   members:
@@ -64827,8 +64827,8 @@
   definition:
   - a short play consisting of one act.
   example:
-  - ###The origin of the one-act play may be traced to the very beginning of drama:
-    in ancient Greece, Cyclops, a satyr play by Euripides, is an early example.###
+  - "The origin of the one-act play may be traced to the very beginning of drama:
+    in ancient Greece, Cyclops, a satyr play by Euripides, is an early example."
   hypernym:
   - 07022654-n
   members:

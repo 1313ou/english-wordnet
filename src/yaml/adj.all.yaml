@@ -1417,7 +1417,7 @@
   - he was dead on target
   ili: i109
   members:
-  - ###true###
+  - "true"
   - dead on target
   partOfSpeech: s
   similar:
@@ -1529,7 +1529,7 @@
   - in the habit of doing something
   example:
   - source: Henry David Thoreau
-    text: ### … was wont to complain that this is a cold world###
+    text: " … was wont to complain that this is a cold world"
   ili: i117
   members:
   - used to
@@ -2248,7 +2248,7 @@
   - He###s off every Tuesday
   ili: i173
   members:
-  - ###off###
+  - "off"
   partOfSpeech: s
   similar:
   - 00035187-a
@@ -2753,7 +2753,7 @@
   partOfSpeech: a
 00042258-a:
   definition:
-  - ###expressing that the subject of the sentence has the semantic function of actor:###
+  - "expressing that the subject of the sentence has the semantic function of actor:"
   domain_topic:
   - 06184139-n
   ili: i213
@@ -3229,8 +3229,8 @@
   - 00048349-a
 00049689-s:
   definition:
-  - ###having a day or month inserted to make the calendar year correspond to the solar
-    year:###
+  - "having a day or month inserted to make the calendar year correspond to the solar
+    year:"
   example:
   - a leap year is an intercalary year
   ili: i255
@@ -7431,7 +7431,7 @@
   domain_topic:
   - 06173467-n
   example:
-  - ###<<<all spinsters are unmarried>>> is an analytic proposition###
+  - "<<<all spinsters are unmarried>>> is an analytic proposition"
   ili: i589
   members:
   - analytic
@@ -7447,7 +7447,7 @@
   domain_topic:
   - 06173467-n
   example:
-  - ###<<<all men are arrogant>>> is a synthetic proposition###
+  - "<<<all men are arrogant>>> is a synthetic proposition"
   ili: i590
   members:
   - synthetic
@@ -11011,8 +11011,8 @@
   ili: i883
   members:
   - on guard
-  - on one###s guard
-  - upon one###s guard
+  - on one's guard
+  - upon one's guard
   - on your guard
   partOfSpeech: s
   similar:
@@ -11668,7 +11668,7 @@
   domain_topic:
   - 06184139-n
   example:
-  - ###<<<red>>> is an attributive adjective in <<<a red apple>>>###
+  - "<<<red>>> is an attributive adjective in <<<a red apple>>>"
   ili: i931
   members:
   - attributive
@@ -11695,7 +11695,7 @@
   domain_topic:
   - 06184139-n
   example:
-  - ###<<<red>>> is a predicative adjective in <<<the apple is red>>>###
+  - "<<<red>>> is a predicative adjective in <<<the apple is red>>>"
   ili: i933
   members:
   - predicative
@@ -12846,7 +12846,7 @@
   - inclined to or marked by drowsiness
   example:
   - slumberous (or slumbrous) eyes
-  - ###<<<slumbery>>> is archaic###
+  - "<<<slumbery>>> is archaic"
   - the sound had a somnolent effect
   ili: i1022
   members:
@@ -13891,7 +13891,7 @@
   example:
   - they considered themselves a tough outfit and weren###t bashful about letting anybody
     know it
-  - ###<<<blate>>> is a Scottish term for bashful###
+  - "<<<blate>>> is a Scottish term for bashful"
   ili: i1100
   members:
   - bashful
@@ -17055,7 +17055,7 @@
   - a dark-skinned beauty
   - gold earrings gleamed against her dusky cheeks
   - a smile on his swarthy face
-  - ###<<<swart>>> is archaic###
+  - "<<<swart>>> is archaic"
   exemplifies:
   - 07087487-n
   ili: i1369
@@ -19225,7 +19225,7 @@
   example:
   - the gloomy forest
   - the glooming interior of an old inn
-  - ###<<<gloomful>>> is archaic###
+  - "<<<gloomful>>> is archaic"
   ili: i1541
   members:
   - glooming
@@ -19489,7 +19489,7 @@
   - scintillant mica
   - the scintillating stars
   - a dress with sparkly sequins
-  - ###<<<glistering>>> is an archaic term###
+  - "<<<glistering>>> is an archaic term"
   ili: i1560
   members:
   - aglitter
@@ -23800,7 +23800,7 @@
   - 00343148-a
 00343524-s:
   definition:
-  - ###furnished with or authorized by a certificate:###
+  - "furnished with or authorized by a certificate:"
   ili: i1899
   members:
   - certificated
@@ -28722,7 +28722,7 @@
   example:
   - girls decked out in brave new dresses
   - brave banners flying
-  - ###<<<braw>>> is a Scottish word###
+  - "<<<braw>>> is a Scottish word"
   - a dress a bit too gay for her years
   - birds with gay plumage
   ili: i2307
@@ -30808,7 +30808,7 @@
   definition:
   - stupefied or dizzied by something overpowering
   example:
-  - source: ###<<<Chanticler>>> by Rostand###
+  - source: ###<<<Chanticler>>> by Rostand"
     text: I fall back dazzled at beholding myself all rosy red, / At having, I myself,
       caused the sun to rise.
   ili: i2463
@@ -32490,7 +32490,7 @@
   - mother-naked
   - naked as the day one was born
   - naked as the day you were born
-  - in one###s birthday suit
+  - in one's birthday suit
   - in your birthday suit
   partOfSpeech: s
   similar:
@@ -34795,7 +34795,7 @@
   - affecting the people or community as a whole
   example:
   - the public welfare
-  - ###Public interests ###
+  - "Public interests "
   - Public leaders
   ili: i2773
   members:
@@ -38643,7 +38643,7 @@
   definition:
   - repetition of same and identical sense with different and non-identical words
   example:
-  - ###<<<a true fact>>> and <<<a free gift>>> are pleonastic expressions###
+  - "<<<a true fact>>> and <<<a free gift>>> are pleonastic expressions"
   - the phrase <<<a beginner who has just started>>> is tautological
   - source: J.B.Conant
     text: at the risk of being redundant I return to my original proposition
@@ -38798,8 +38798,8 @@
   domain_topic:
   - 06184139-n
   example:
-  - ###<<<and>>> in <<<John and Mary>>> or in <<<John walked and Mary rode>>> is a coordinating
-    conjunction; and so is <<<or>>> in <<<will you go or stay?>>>
+  - "<<<and>>> in <<<John and Mary>>> or in <<<John walked and Mary rode>>> is a coordinating
+    conjunction; and so is <<<or>>> in <<<will you go or stay?>>>"
   ili: i3083
   members:
   - coordinating
@@ -38811,7 +38811,7 @@
   domain_topic:
   - 06184139-n
   example:
-  - ###<<<when>>> in <<<I will come when I can>>> is a subordinating conjunction###
+  - "<<<when>>> in <<<I will come when I can>>> is a subordinating conjunction"
   ili: i3084
   members:
   - subordinating
@@ -39560,7 +39560,7 @@
   domain_topic:
   - 06184139-n
   example:
-  - ###<<<and>>> is a copulative conjunction###
+  - "<<<and>>> is a copulative conjunction"
   ili: i3146
   members:
   - copulative
@@ -40146,7 +40146,7 @@
   members:
   - knocked out
   - kayoed
-  - KO###d
+  - KO'd
   - out
   - stunned
   partOfSpeech: s
@@ -40918,7 +40918,7 @@
   - when lovers prove untrue
   ili: i3249
   members:
-  - ###false###
+  - "false"
   - untrue
   partOfSpeech: s
   similar:
@@ -41680,7 +41680,7 @@
   definition:
   - having no interruptions
   example:
-  - ###<<<continual>>> is often used interchangeably with <<<continuous>>>###
+  - "<<<continual>>> is often used interchangeably with <<<continuous>>>"
   ili: i3306
   members:
   - continual
@@ -44143,7 +44143,7 @@
   - source: Shakespeare
     text: what seemed corporal melted as breath into the wind
   - an incarnate spirit
-  - ###<<<corporate>>> is an archaic term###
+  - "<<<corporate>>> is an archaic term"
   ili: i3508
   members:
   - bodied
@@ -44326,7 +44326,7 @@
   - a mistaken view of the situation
   ili: i3520
   members:
-  - ###false###
+  - "false"
   - mistaken
   partOfSpeech: s
   similar:
@@ -48997,7 +48997,7 @@
   domain_topic:
   - 06182505-n
   example:
-  - ###<<<boys>>> and <<<swam>>> are inflected English words###
+  - "<<<boys>>> and <<<swam>>> are inflected English words"
   - German is an inflected language
   ili: i3892
   members:
@@ -49009,7 +49009,7 @@
   domain_topic:
   - 06182505-n
   example:
-  - ###<<<boy>>> and <<<swim>>> are uninflected English words###
+  - "<<<boy>>> and <<<swim>>> are uninflected English words"
   ili: i3893
   members:
   - uninflected
@@ -49570,7 +49570,7 @@
   example:
   - brittle bones
   - glass is brittle
-  - ###<<<brickle>>> and <<<brickly>>> are dialectal###
+  - "<<<brickle>>> and <<<brickly>>> are dialectal"
   ili: i3933
   members:
   - brittle
@@ -56737,8 +56737,8 @@
   definition:
   - indicating the first or earliest or original
   example:
-  - ###<<<proto>>> is a combining form in a word like <<<protolanguage>>> that refers to the
-    hypothetical ancestor of another language or group of languages###
+  - "<<<proto>>> is a combining form in a word like <<<protolanguage>>> that refers to the
+    hypothetical ancestor of another language or group of languages"
   exemplifies:
   - 06318142-n
   ili: i4490
@@ -62900,7 +62900,7 @@
   definition:
   - of or the nature of euphemism
   example:
-  - ###<<<peepee>>> is a common euphemistic term###
+  - "<<<peepee>>> is a common euphemistic term"
   ili: i4973
   members:
   - euphemistic
@@ -62909,7 +62909,7 @@
   definition:
   - of or the nature of dysphemism
   example:
-  - ###<<<kick the bucket>>> is a dysphemistic term for <<<die>>>###
+  - "<<<kick the bucket>>> is a dysphemistic term for <<<die>>>"
   ili: i4974
   members:
   - dysphemistic
@@ -63078,7 +63078,7 @@
   - the window frame isn###t quite true
   ili: i4987
   members:
-  - ###true###
+  - "true"
   - straight
   partOfSpeech: s
   similar:
@@ -66561,7 +66561,7 @@
   - true believers bonded together against all who disagreed with them
   ili: i5260
   members:
-  - ###true###
+  - "true"
   partOfSpeech: s
   similar:
   - 00962069-a
@@ -74521,7 +74521,7 @@
   - touched by rot or decay
   example:
   - tainted bacon
-  - ###<<<corrupt>>> is archaic###
+  - "<<<corrupt>>> is archaic"
   ili: i5871
   members:
   - corrupt
@@ -74809,7 +74809,7 @@
   definition:
   - containing salt
   example:
-  - ###a saline substance ###
+  - "a saline substance "
   - salty tears
   ili: i5895
   members:
@@ -75651,7 +75651,7 @@
   example:
   - a tray loaded with dishes
   - table laden with food
-  - ###<<<ladened>>> is not current usage###
+  - "<<<ladened>>> is not current usage"
   ili: i5960
   members:
   - laden
@@ -77301,7 +77301,7 @@
   domain_topic:
   - 03252323-n
   example:
-  - ###<<<Acetaminophen>>> is the generic form of the proprietary drug <<<Tylenol>>>###
+  - "<<<Acetaminophen>>> is the generic form of the proprietary drug <<<Tylenol>>>"
   ili: i6095
   members:
   - generic
@@ -77324,7 +77324,7 @@
   - protected by trademark or patent or copyright; made or produced or distributed
     by one having exclusive rights
   example:
-  - ###<<<Tylenol>>> is a proprietary drug of which <<<acetaminophen>>> is the generic form###
+  - "<<<Tylenol>>> is a proprietary drug of which <<<acetaminophen>>> is the generic form"
   ili: i6097
   members:
   - proprietary
@@ -77766,7 +77766,7 @@
   ili: i6125
   members:
   - assumed
-  - ###false###
+  - "false"
   - fictitious
   - fictive
   - pretended
@@ -81002,7 +81002,7 @@
   ili: i6364
   members:
   - on-key
-  - ###true###
+  - "true"
   partOfSpeech: s
   similar:
   - 01166627-a
@@ -81061,7 +81061,7 @@
   - her singing was off key
   ili: i6369
   members:
-  - ###false###
+  - "false"
   - off-key
   - sour
   partOfSpeech: s
@@ -82124,7 +82124,7 @@
   - the divine will
   - the divine capacity for love
   - source: J.G.Saxe
-    text: #########Tis wise to learn; ######tis God-like to create###
+    text: "###Tis wise to learn; ###tis God-like to create"
   ili: i6452
   members:
   - divine
@@ -85161,7 +85161,7 @@
   - a suitcase with a false bottom
   ili: i6702
   members:
-  - ###false###
+  - "false"
   partOfSpeech: s
   similar:
   - 01225555-a
@@ -85230,7 +85230,7 @@
   ili: i6706
   members:
   - truthful
-  - ###true###
+  - "true"
   partOfSpeech: a
   similar:
   - 01228645-s
@@ -90090,7 +90090,7 @@
   domain_topic:
   - 06184139-n
   example:
-  - ###<<<therefore>>> is an illative word###
+  - "<<<therefore>>> is an illative word"
   ili: i7070
   members:
   - illative
@@ -93272,7 +93272,7 @@
   example:
   - a dismissive shrug
   - the firm is dismissive of the competitor###s product
-  - ###<<<chronic fatigue syndrome>>> was known by the dismissive term <<<housewife syndrome>>>
+  - <<<chronic fatigue syndrome>>> was known by the dismissive term <<<housewife syndrome>>>
   ili: i7322
   members:
   - dismissive
@@ -97872,7 +97872,7 @@
   - the rightful heir
   ili: i7678
   members:
-  - ###true###
+  - "true"
   - lawful
   - rightful
   partOfSpeech: s
@@ -98712,7 +98712,7 @@
   definition:
   - beyond the literal or primary sense
   example:
-  - ###<<<hot off the press>>> shows an extended sense of <<<hot>>>###
+  - "<<<hot off the press>>> shows an extended sense of <<<hot>>>"
   ili: i7747
   members:
   - extended
@@ -102492,7 +102492,7 @@
   - true north is geographic north
   ili: i8051
   members:
-  - ###true###
+  - "true"
   partOfSpeech: s
   similar:
   - 01473411-a
@@ -103671,7 +103671,7 @@
   definition:
   - neither male nor female (of grammatical gender)
   example:
-  - ###<<<it>>> is the third-person singular neuter pronoun###
+  - "<<<it>>> is the third-person singular neuter pronoun"
   ili: i8150
   members:
   - neuter
@@ -106617,7 +106617,7 @@
   example:
   - takeout pizza
   - the takeout counter
-  - ###<<<take-away>>> is chiefly British###
+  - "<<<take-away>>> is chiefly British"
   ili: i8380
   members:
   - takeout
@@ -107301,7 +107301,7 @@
   definition:
   - (used as a combining form) recent or new
   example:
-  - ###<<<neo>>> is a combining form in words like <<<neocolonialism>>>###
+  - "<<<neo>>> is a combining form in words like <<<neocolonialism>>>"
   exemplifies:
   - 06318142-n
   ili: i8433
@@ -109849,7 +109849,7 @@
   ili: i8632
   members:
   - fake
-  - ###false###
+  - "false"
   - faux
   - imitation
   - simulated
@@ -110016,7 +110016,7 @@
   - magic signs that protect against adverse influence
   - a magical spell
   - source: Shakespeare
-    text: #########tis now the very witching time of night###
+    text: "###tis now the very witching time of night"
   - wizard wands
   - wizardly powers
   ili: i8643
@@ -115161,7 +115161,7 @@
   - the switch is in the on position
   ili: i9045
   members:
-  - ###on###
+  - "on"
   partOfSpeech: a
   similar:
   - 01655788-s
@@ -115184,7 +115184,7 @@
   - the lights are off
   ili: i9047
   members:
-  - ###off###
+  - "off"
   partOfSpeech: a
   similar:
   - 01656051-s
@@ -115207,7 +115207,7 @@
   - we have nothing on for Friday night
   ili: i9049
   members:
-  - ###on###
+  - "on"
   partOfSpeech: a
 01656338-a:
   definition:
@@ -115216,7 +115216,7 @@
   - the wedding is definitely off
   ili: i9050
   members:
-  - ###off###
+  - "off"
   - cancelled
   partOfSpeech: a
 01656475-a:
@@ -118657,7 +118657,7 @@
   domain_topic:
   - 06076105-n
   example:
-  - ###<<<foliate>>> is combined with the prefix <<<tri>>> to form the word <<<trifoliate>>>
+  - <<<foliate>>> is combined with the prefix <<<tri>>> to form the word <<<trifoliate>>>
   ili: i9320
   members:
   - foliate
@@ -118671,7 +118671,7 @@
   domain_topic:
   - 06076105-n
   example:
-  - ###<<<foliolate>>> is combined with the prefix <<<bi>>> to form the word <<<bifoliolate>>>###
+  - "<<<foliolate>>> is combined with the prefix <<<bi>>> to form the word <<<bifoliolate>>>"
   ili: i9321
   members:
   - foliolate
@@ -120696,7 +120696,7 @@
   - gone by; or in the past
   example:
   - two years ago
-  - ###<<<agone>>> is an archaic word for <<<ago>>>###
+  - "<<<agone>>> is an archaic word for <<<ago>>>"
   ili: i9484
   members:
   - ago
@@ -123529,7 +123529,7 @@
   - for your own use
   - do your own thing
   - she makes her own clothes
-  - ###<<<ain>>> is Scottish###
+  - "<<<ain>>> is Scottish"
   ili: i9704
   members:
   - own
@@ -131066,7 +131066,7 @@
   - 01879374-a
 01881536-s:
   definition:
-  - ###penetrating no deeper than the skin:###
+  - "penetrating no deeper than the skin:"
   ili: i10290
   members:
   - skin-deep
@@ -132098,7 +132098,7 @@
   - snot-nosed
   - snotty
   - stuck-up
-  - too big for one###s breeches
+  - too big for one's breeches
   - uppish
   partOfSpeech: s
   similar:
@@ -133625,7 +133625,7 @@
   - (of pets) trained to urinate and defecate outside or in a special place
   example:
   - housebroken pets
-  - ###<<<house-trained>>> is chiefly British###
+  - "<<<house-trained>>> is chiefly British"
   ili: i10486
   members:
   - housebroken
@@ -135054,7 +135054,7 @@
   - napping
   - off-guard
   - off guard
-  - off one###s guard
+  - off one's guard
   - off his guard
   - off her guard
   - off your guard
@@ -135227,7 +135227,7 @@
   ili: i10606
   members:
   - eye-deceiving
-  - trompe-l###oeil
+  - trompe-l'oeil
   partOfSpeech: s
   similar:
   - 01941146-a
@@ -135397,7 +135397,7 @@
   - a true friend
   ili: i10618
   members:
-  - ###true###
+  - "true"
   partOfSpeech: s
   similar:
   - 01944611-a
@@ -135643,7 +135643,7 @@
   ili: i10635
   members:
   - delusive
-  - ###false###
+  - "false"
   partOfSpeech: s
   similar:
   - 01948616-a
@@ -137031,7 +137031,7 @@
   domain_topic:
   - 06184139-n
   example:
-  - ###<<<sing>>> is a strong verb###
+  - "<<<sing>>> is a strong verb"
   ili: i10742
   members:
   - strong
@@ -140600,7 +140600,7 @@
   - brought back
   example:
   - the Victorian era redux
-  - ###<<<Rabbit Redux>>> by John Updike###
+  - "<<<Rabbit Redux>>> by John Updike"
   ili: i11028
   members:
   - redux
@@ -141299,7 +141299,7 @@
   definition:
   - lacking funds
   example:
-  - ###<<<skint>>> is a British slang term###
+  - "<<<skint>>> is a British slang term"
   ili: i11084
   members:
   - broke
@@ -142333,7 +142333,7 @@
   - had a tall burly frame
   - clothing sizes for husky boys
   - a strapping boy of eighteen
-  - ###<<<buirdly>>> is a Scottish term###
+  - "<<<buirdly>>> is a Scottish term"
   ili: i11165
   members:
   - beefy
@@ -144543,7 +144543,7 @@
   - 02075880-a
 02076350-s:
   definition:
-  - ###being the exact same one; not any other:###
+  - "being the exact same one; not any other:"
   example:
   - this is the identical room we stayed in before
   - saw the selfsame quotation in two newspapers
@@ -145492,7 +145492,7 @@
   - his performance was off
   ili: i11411
   members:
-  - ###off###
+  - "off"
   partOfSpeech: s
   similar:
   - 02089364-a
@@ -152561,7 +152561,7 @@
   ili: i11987
   members:
   - genuine
-  - ###true###
+  - "true"
   - unfeigned
   partOfSpeech: s
   similar:
@@ -152663,7 +152663,7 @@
   - false pretenses
   ili: i11993
   members:
-  - ###false###
+  - "false"
   partOfSpeech: s
   similar:
   - 02188427-a
@@ -152910,7 +152910,7 @@
   ili: i12004
   members:
   - zero
-  - ###0###
+  - "0"
   partOfSpeech: s
   similar:
   - 02191250-a
@@ -152927,11 +152927,11 @@
   definition:
   - used of a single unit or thing; not two or more
   example:
-  - ###<<<ane>>> is Scottish###
+  - "<<<ane>>> is Scottish"
   ili: i12006
   members:
   - one
-  - ###1###
+  - "1"
   - i
   - ane
   partOfSpeech: s
@@ -152945,7 +152945,7 @@
   ili: i12007
   members:
   - two
-  - ###2###
+  - "2"
   - ii
   partOfSpeech: s
   similar:
@@ -152956,7 +152956,7 @@
   ili: i12008
   members:
   - three
-  - ###3###
+  - "3"
   - iii
   partOfSpeech: s
   similar:
@@ -152967,7 +152967,7 @@
   ili: i12009
   members:
   - four
-  - ###4###
+  - "4"
   - iv
   partOfSpeech: s
   similar:
@@ -152978,7 +152978,7 @@
   ili: i12010
   members:
   - five
-  - ###5###
+  - "5"
   - v
   partOfSpeech: s
   similar:
@@ -152989,7 +152989,7 @@
   ili: i12011
   members:
   - six
-  - ###6###
+  - "6"
   - vi
   - half dozen
   - half-dozen
@@ -153002,7 +153002,7 @@
   ili: i12012
   members:
   - seven
-  - ###7###
+  - "7"
   - vii
   partOfSpeech: s
   similar:
@@ -153013,7 +153013,7 @@
   ili: i12013
   members:
   - eight
-  - ###8###
+  - "8"
   - viii
   partOfSpeech: s
   similar:
@@ -153024,7 +153024,7 @@
   ili: i12014
   members:
   - nine
-  - ###9###
+  - "9"
   - ix
   partOfSpeech: s
   similar:
@@ -153035,7 +153035,7 @@
   ili: i12015
   members:
   - ten
-  - ###10###
+  - "10"
   - x
   partOfSpeech: s
   similar:
@@ -153046,7 +153046,7 @@
   ili: i12016
   members:
   - eleven
-  - ###11###
+  - "11"
   - xi
   partOfSpeech: s
   similar:
@@ -153057,7 +153057,7 @@
   ili: i12017
   members:
   - twelve
-  - ###12###
+  - "12"
   - xii
   - dozen
   partOfSpeech: s
@@ -153069,7 +153069,7 @@
   ili: i12018
   members:
   - thirteen
-  - ###13###
+  - "13"
   - xiii
   partOfSpeech: s
   similar:
@@ -153080,7 +153080,7 @@
   ili: i12019
   members:
   - fourteen
-  - ###14###
+  - "14"
   - xiv
   partOfSpeech: s
   similar:
@@ -153091,7 +153091,7 @@
   ili: i12020
   members:
   - fifteen
-  - ###15###
+  - "15"
   - xv
   partOfSpeech: s
   similar:
@@ -153102,7 +153102,7 @@
   ili: i12021
   members:
   - sixteen
-  - ###16###
+  - "16"
   - xvi
   partOfSpeech: s
   similar:
@@ -153113,7 +153113,7 @@
   ili: i12022
   members:
   - seventeen
-  - ###17###
+  - "17"
   - xvii
   partOfSpeech: s
   similar:
@@ -153124,7 +153124,7 @@
   ili: i12023
   members:
   - eighteen
-  - ###18###
+  - "18"
   - xviii
   partOfSpeech: s
   similar:
@@ -153135,7 +153135,7 @@
   ili: i12024
   members:
   - nineteen
-  - ###19###
+  - "19"
   - xix
   partOfSpeech: s
   similar:
@@ -153146,7 +153146,7 @@
   ili: i12025
   members:
   - twenty
-  - ###20###
+  - "20"
   - xx
   partOfSpeech: s
   similar:
@@ -153157,7 +153157,7 @@
   ili: i12026
   members:
   - twenty-one
-  - ###21###
+  - "21"
   - xxi
   partOfSpeech: s
   similar:
@@ -153168,7 +153168,7 @@
   ili: i12027
   members:
   - twenty-two
-  - ###22###
+  - "22"
   - xxii
   partOfSpeech: s
   similar:
@@ -153179,7 +153179,7 @@
   ili: i12028
   members:
   - twenty-three
-  - ###23###
+  - "23"
   - xxiii
   partOfSpeech: s
   similar:
@@ -153190,7 +153190,7 @@
   ili: i12029
   members:
   - twenty-four
-  - ###24###
+  - "24"
   - xxiv
   partOfSpeech: s
   similar:
@@ -153201,7 +153201,7 @@
   ili: i12030
   members:
   - twenty-five
-  - ###25###
+  - "25"
   - xxv
   partOfSpeech: s
   similar:
@@ -153212,7 +153212,7 @@
   ili: i12031
   members:
   - twenty-six
-  - ###26###
+  - "26"
   - xxvi
   partOfSpeech: s
   similar:
@@ -153223,7 +153223,7 @@
   ili: i12032
   members:
   - twenty-seven
-  - ###27###
+  - "27"
   - xxvii
   partOfSpeech: s
   similar:
@@ -153234,7 +153234,7 @@
   ili: i12033
   members:
   - twenty-eight
-  - ###28###
+  - "28"
   - xxviii
   partOfSpeech: s
   similar:
@@ -153245,7 +153245,7 @@
   ili: i12034
   members:
   - twenty-nine
-  - ###29###
+  - "29"
   - xxix
   partOfSpeech: s
   similar:
@@ -153256,7 +153256,7 @@
   ili: i12035
   members:
   - thirty
-  - ###30###
+  - "30"
   - xxx
   partOfSpeech: s
   similar:
@@ -153267,7 +153267,7 @@
   ili: i12036
   members:
   - thirty-one
-  - ###31###
+  - "31"
   - xxxi
   partOfSpeech: s
   similar:
@@ -153278,7 +153278,7 @@
   ili: i12037
   members:
   - thirty-two
-  - ###32###
+  - "32"
   - xxxii
   partOfSpeech: s
   similar:
@@ -153289,7 +153289,7 @@
   ili: i12038
   members:
   - thirty-three
-  - ###33###
+  - "33"
   - xxxiii
   partOfSpeech: s
   similar:
@@ -153300,7 +153300,7 @@
   ili: i12039
   members:
   - thirty-four
-  - ###34###
+  - "34"
   - xxxiv
   partOfSpeech: s
   similar:
@@ -153311,7 +153311,7 @@
   ili: i12040
   members:
   - thirty-five
-  - ###35###
+  - "35"
   - xxxv
   partOfSpeech: s
   similar:
@@ -153322,7 +153322,7 @@
   ili: i12041
   members:
   - thirty-six
-  - ###36###
+  - "36"
   - xxxvi
   partOfSpeech: s
   similar:
@@ -153333,7 +153333,7 @@
   ili: i12042
   members:
   - thirty-seven
-  - ###37###
+  - "37"
   - xxxvii
   partOfSpeech: s
   similar:
@@ -153344,7 +153344,7 @@
   ili: i12043
   members:
   - thirty-eight
-  - ###38###
+  - "38"
   - xxxviii
   partOfSpeech: s
   similar:
@@ -153355,7 +153355,7 @@
   ili: i12044
   members:
   - thirty-nine
-  - ###39###
+  - "39"
   - ixl
   partOfSpeech: s
   similar:
@@ -153366,7 +153366,7 @@
   ili: i12045
   members:
   - forty
-  - ###40###
+  - "40"
   - xl
   - twoscore
   partOfSpeech: s
@@ -153378,7 +153378,7 @@
   ili: i12046
   members:
   - forty-one
-  - ###41###
+  - "41"
   - xli
   partOfSpeech: s
   similar:
@@ -153389,7 +153389,7 @@
   ili: i12047
   members:
   - forty-two
-  - ###42###
+  - "42"
   - xlii
   partOfSpeech: s
   similar:
@@ -153400,7 +153400,7 @@
   ili: i12048
   members:
   - forty-three
-  - ###43###
+  - "43"
   - xliii
   partOfSpeech: s
   similar:
@@ -153411,7 +153411,7 @@
   ili: i12049
   members:
   - forty-four
-  - ###44###
+  - "44"
   - xliv
   partOfSpeech: s
   similar:
@@ -153422,7 +153422,7 @@
   ili: i12050
   members:
   - forty-five
-  - ###45###
+  - "45"
   - xlv
   partOfSpeech: s
   similar:
@@ -153433,7 +153433,7 @@
   ili: i12051
   members:
   - forty-six
-  - ###46###
+  - "46"
   - xlvi
   partOfSpeech: s
   similar:
@@ -153444,7 +153444,7 @@
   ili: i12052
   members:
   - forty-seven
-  - ###47###
+  - "47"
   - xlvii
   partOfSpeech: s
   similar:
@@ -153455,7 +153455,7 @@
   ili: i12053
   members:
   - forty-eight
-  - ###48###
+  - "48"
   - xlviii
   partOfSpeech: s
   similar:
@@ -153466,7 +153466,7 @@
   ili: i12054
   members:
   - forty-nine
-  - ###49###
+  - "49"
   - il
   partOfSpeech: s
   similar:
@@ -153477,7 +153477,7 @@
   ili: i12055
   members:
   - fifty
-  - ###50###
+  - "50"
   - l
   partOfSpeech: s
   similar:
@@ -153488,7 +153488,7 @@
   ili: i12056
   members:
   - fifty-one
-  - ###51###
+  - "51"
   - li
   partOfSpeech: s
   similar:
@@ -153499,7 +153499,7 @@
   ili: i12057
   members:
   - fifty-two
-  - ###52###
+  - "52"
   - lii
   partOfSpeech: s
   similar:
@@ -153510,7 +153510,7 @@
   ili: i12058
   members:
   - fifty-three
-  - ###53###
+  - "53"
   - liii
   partOfSpeech: s
   similar:
@@ -153521,7 +153521,7 @@
   ili: i12059
   members:
   - fifty-four
-  - ###54###
+  - "54"
   - liv
   partOfSpeech: s
   similar:
@@ -153532,7 +153532,7 @@
   ili: i12060
   members:
   - fifty-five
-  - ###55###
+  - "55"
   - lv
   partOfSpeech: s
   similar:
@@ -153543,7 +153543,7 @@
   ili: i12061
   members:
   - fifty-six
-  - ###56###
+  - "56"
   - lvi
   partOfSpeech: s
   similar:
@@ -153554,7 +153554,7 @@
   ili: i12062
   members:
   - fifty-seven
-  - ###57###
+  - "57"
   - lvii
   partOfSpeech: s
   similar:
@@ -153565,7 +153565,7 @@
   ili: i12063
   members:
   - fifty-eight
-  - ###58###
+  - "58"
   - lviii
   partOfSpeech: s
   similar:
@@ -153576,7 +153576,7 @@
   ili: i12064
   members:
   - fifty-nine
-  - ###59###
+  - "59"
   - ilx
   partOfSpeech: s
   similar:
@@ -153587,7 +153587,7 @@
   ili: i12065
   members:
   - sixty
-  - ###60###
+  - "60"
   - lx
   - threescore
   partOfSpeech: s
@@ -153599,7 +153599,7 @@
   ili: i12066
   members:
   - sixty-one
-  - ###61###
+  - "61"
   - lxi
   partOfSpeech: s
   similar:
@@ -153610,7 +153610,7 @@
   ili: i12067
   members:
   - sixty-two
-  - ###62###
+  - "62"
   - lxii
   partOfSpeech: s
   similar:
@@ -153621,7 +153621,7 @@
   ili: i12068
   members:
   - sixty-three
-  - ###63###
+  - "63"
   - lxiii
   partOfSpeech: s
   similar:
@@ -153632,7 +153632,7 @@
   ili: i12069
   members:
   - sixty-four
-  - ###64###
+  - "64"
   - lxiv
   partOfSpeech: s
   similar:
@@ -153643,7 +153643,7 @@
   ili: i12070
   members:
   - sixty-five
-  - ###65###
+  - "65"
   - lxv
   partOfSpeech: s
   similar:
@@ -153654,7 +153654,7 @@
   ili: i12071
   members:
   - sixty-six
-  - ###66###
+  - "66"
   - lxvi
   partOfSpeech: s
   similar:
@@ -153665,7 +153665,7 @@
   ili: i12072
   members:
   - sixty-seven
-  - ###67###
+  - "67"
   - lxvii
   partOfSpeech: s
   similar:
@@ -153676,7 +153676,7 @@
   ili: i12073
   members:
   - sixty-eight
-  - ###68###
+  - "68"
   - lxviii
   partOfSpeech: s
   similar:
@@ -153689,7 +153689,7 @@
   ili: i12074
   members:
   - sixty-nine
-  - ###69###
+  - "69"
   - ilxx
   partOfSpeech: s
   similar:
@@ -153700,7 +153700,7 @@
   ili: i12075
   members:
   - seventy
-  - ###70###
+  - "70"
   - lxx
   partOfSpeech: s
   similar:
@@ -153711,7 +153711,7 @@
   ili: i12076
   members:
   - seventy-one
-  - ###71###
+  - "71"
   - lxxi
   partOfSpeech: s
   similar:
@@ -153722,7 +153722,7 @@
   ili: i12077
   members:
   - seventy-two
-  - ###72###
+  - "72"
   - lxxii
   partOfSpeech: s
   similar:
@@ -153733,7 +153733,7 @@
   ili: i12078
   members:
   - seventy-three
-  - ###73###
+  - "73"
   - lxxiii
   partOfSpeech: s
   similar:
@@ -153744,7 +153744,7 @@
   ili: i12079
   members:
   - seventy-four
-  - ###74###
+  - "74"
   - lxxiv
   partOfSpeech: s
   similar:
@@ -153755,7 +153755,7 @@
   ili: i12080
   members:
   - seventy-five
-  - ###75###
+  - "75"
   - lxxv
   partOfSpeech: s
   similar:
@@ -153766,7 +153766,7 @@
   ili: i12081
   members:
   - seventy-six
-  - ###76###
+  - "76"
   - lxxvi
   partOfSpeech: s
   similar:
@@ -153777,7 +153777,7 @@
   ili: i12082
   members:
   - seventy-seven
-  - ###77###
+  - "77"
   - lxxvii
   partOfSpeech: s
   similar:
@@ -153788,7 +153788,7 @@
   ili: i12083
   members:
   - seventy-eight
-  - ###78###
+  - "78"
   - lxxviii
   partOfSpeech: s
   similar:
@@ -153799,7 +153799,7 @@
   ili: i12084
   members:
   - seventy-nine
-  - ###79###
+  - "79"
   - ilxxx
   partOfSpeech: s
   similar:
@@ -153810,7 +153810,7 @@
   ili: i12085
   members:
   - eighty
-  - ###80###
+  - "80"
   - lxxx
   - fourscore
   partOfSpeech: s
@@ -153822,7 +153822,7 @@
   ili: i12086
   members:
   - eighty-one
-  - ###81###
+  - "81"
   - lxxxi
   partOfSpeech: s
   similar:
@@ -153833,7 +153833,7 @@
   ili: i12087
   members:
   - eighty-two
-  - ###82###
+  - "82"
   - lxxxii
   partOfSpeech: s
   similar:
@@ -153844,7 +153844,7 @@
   ili: i12088
   members:
   - eighty-three
-  - ###83###
+  - "83"
   - lxxxiii
   partOfSpeech: s
   similar:
@@ -153855,7 +153855,7 @@
   ili: i12089
   members:
   - eighty-four
-  - ###84###
+  - "84"
   - lxxxiv
   partOfSpeech: s
   similar:
@@ -153866,7 +153866,7 @@
   ili: i12090
   members:
   - eighty-five
-  - ###85###
+  - "85"
   - lxxxv
   partOfSpeech: s
   similar:
@@ -153877,7 +153877,7 @@
   ili: i12091
   members:
   - eighty-six
-  - ###86###
+  - "86"
   - lxxxvi
   partOfSpeech: s
   similar:
@@ -153888,7 +153888,7 @@
   ili: i12092
   members:
   - eighty-seven
-  - ###87###
+  - "87"
   - lxxxvii
   partOfSpeech: s
   similar:
@@ -153899,7 +153899,7 @@
   ili: i12093
   members:
   - eighty-eight
-  - ###88###
+  - "88"
   - lxxxviii
   partOfSpeech: s
   similar:
@@ -153910,7 +153910,7 @@
   ili: i12094
   members:
   - eighty-nine
-  - ###89###
+  - "89"
   - ixc
   partOfSpeech: s
   similar:
@@ -153921,7 +153921,7 @@
   ili: i12095
   members:
   - ninety
-  - ###90###
+  - "90"
   - xc
   partOfSpeech: s
   similar:
@@ -153932,7 +153932,7 @@
   ili: i12096
   members:
   - ninety-one
-  - ###91###
+  - "91"
   - xci
   partOfSpeech: s
   similar:
@@ -153943,7 +153943,7 @@
   ili: i12097
   members:
   - ninety-two
-  - ###92###
+  - "92"
   - xcii
   partOfSpeech: s
   similar:
@@ -153954,7 +153954,7 @@
   ili: i12098
   members:
   - ninety-three
-  - ###93###
+  - "93"
   - xciii
   partOfSpeech: s
   similar:
@@ -153965,7 +153965,7 @@
   ili: i12099
   members:
   - ninety-four
-  - ###94###
+  - "94"
   - xciv
   partOfSpeech: s
   similar:
@@ -153976,7 +153976,7 @@
   ili: i12100
   members:
   - ninety-five
-  - ###95###
+  - "95"
   - xcv
   partOfSpeech: s
   similar:
@@ -153987,7 +153987,7 @@
   ili: i12101
   members:
   - ninety-six
-  - ###96###
+  - "96"
   - xcvi
   partOfSpeech: s
   similar:
@@ -153998,7 +153998,7 @@
   ili: i12102
   members:
   - ninety-seven
-  - ###97###
+  - "97"
   - xcvii
   partOfSpeech: s
   similar:
@@ -154009,7 +154009,7 @@
   ili: i12103
   members:
   - ninety-eight
-  - ###98###
+  - "98"
   - xcviii
   partOfSpeech: s
   similar:
@@ -154020,7 +154020,7 @@
   ili: i12104
   members:
   - ninety-nine
-  - ###99###
+  - "99"
   - ic
   partOfSpeech: s
   similar:
@@ -154032,7 +154032,7 @@
   members:
   - hundred
   - one hundred
-  - ###100###
+  - "100"
   - c
   partOfSpeech: s
   similar:
@@ -154044,7 +154044,7 @@
   members:
   - hundred and one
   - one hundred one
-  - ###101###
+  - "101"
   - ci
   partOfSpeech: s
   similar:
@@ -154055,7 +154055,7 @@
   ili: i12107
   members:
   - one hundred five
-  - ###105###
+  - "105"
   - cv
   partOfSpeech: s
   similar:
@@ -154066,7 +154066,7 @@
   ili: i12108
   members:
   - one hundred ten
-  - ###110###
+  - "110"
   - cx
   partOfSpeech: s
   similar:
@@ -154077,7 +154077,7 @@
   ili: i12109
   members:
   - one hundred fifteen
-  - ###115###
+  - "115"
   - cxv
   partOfSpeech: s
   similar:
@@ -154088,7 +154088,7 @@
   ili: i12110
   members:
   - one hundred twenty
-  - ###120###
+  - "120"
   - cxx
   partOfSpeech: s
   similar:
@@ -154099,7 +154099,7 @@
   ili: i12111
   members:
   - one hundred twenty-five
-  - ###125###
+  - "125"
   - cxxv
   partOfSpeech: s
   similar:
@@ -154110,7 +154110,7 @@
   ili: i12112
   members:
   - one hundred thirty
-  - ###130###
+  - "130"
   - cxxx
   partOfSpeech: s
   similar:
@@ -154121,7 +154121,7 @@
   ili: i12113
   members:
   - one hundred thirty-five
-  - ###135###
+  - "135"
   - cxxxv
   partOfSpeech: s
   similar:
@@ -154132,7 +154132,7 @@
   ili: i12114
   members:
   - one hundred forty
-  - ###140###
+  - "140"
   - cxl
   partOfSpeech: s
   similar:
@@ -154143,7 +154143,7 @@
   ili: i12115
   members:
   - one hundred forty-five
-  - ###145###
+  - "145"
   - cxlv
   partOfSpeech: s
   similar:
@@ -154154,7 +154154,7 @@
   ili: i12116
   members:
   - one hundred fifty
-  - ###150###
+  - "150"
   - cl
   partOfSpeech: s
   similar:
@@ -154165,7 +154165,7 @@
   ili: i12117
   members:
   - one hundred fifty-five
-  - ###155###
+  - "155"
   - clv
   partOfSpeech: s
   similar:
@@ -154176,7 +154176,7 @@
   ili: i12118
   members:
   - one hundred sixty
-  - ###160###
+  - "160"
   - clx
   partOfSpeech: s
   similar:
@@ -154187,7 +154187,7 @@
   ili: i12119
   members:
   - one hundred sixty-five
-  - ###165###
+  - "165"
   - clxv
   partOfSpeech: s
   similar:
@@ -154198,7 +154198,7 @@
   ili: i12120
   members:
   - one hundred seventy
-  - ###170###
+  - "170"
   - clxx
   partOfSpeech: s
   similar:
@@ -154209,7 +154209,7 @@
   ili: i12121
   members:
   - one hundred seventy-five
-  - ###175###
+  - "175"
   - clxxv
   partOfSpeech: s
   similar:
@@ -154220,7 +154220,7 @@
   ili: i12122
   members:
   - one hundred eighty
-  - ###180###
+  - "180"
   - clxxx
   partOfSpeech: s
   similar:
@@ -154231,7 +154231,7 @@
   ili: i12123
   members:
   - one hundred ninety
-  - ###190###
+  - "190"
   - xcl
   partOfSpeech: s
   similar:
@@ -154242,7 +154242,7 @@
   ili: i12124
   members:
   - two hundred
-  - ###200###
+  - "200"
   - cc
   partOfSpeech: s
   similar:
@@ -154253,7 +154253,7 @@
   ili: i12125
   members:
   - three hundred
-  - ###300###
+  - "300"
   - ccc
   partOfSpeech: s
   similar:
@@ -154264,7 +154264,7 @@
   ili: i12126
   members:
   - four hundred
-  - ###400###
+  - "400"
   - cd
   partOfSpeech: s
   similar:
@@ -154275,7 +154275,7 @@
   ili: i12127
   members:
   - five hundred
-  - ###500###
+  - "500"
   - d
   partOfSpeech: s
   similar:
@@ -154287,7 +154287,7 @@
   members:
   - thousand
   - one thousand
-  - ###1000###
+  - "1000"
   - m
   - k
   partOfSpeech: s
@@ -159443,7 +159443,7 @@
   - I###ll get you there in no time
   ili: i12557
   members:
-  - ###no###
+  - "no"
   partOfSpeech: a
   similar:
   - 02276640-s
@@ -164913,7 +164913,7 @@
   - considered of the highest quality and lasting significance or worth
   example:
   - a classic car
-  - ###<<<War and Peace>>> is a classic novel###
+  - "<<<War and Peace>>> is a classic novel"
   members:
   - classic
   partOfSpeech: s
@@ -166759,7 +166759,7 @@
   - sour milk
   ili: i13127
   members:
-  - ###off###
+  - "off"
   - sour
   - turned
   partOfSpeech: s
@@ -167510,7 +167510,7 @@
   - 02389870-a
 02390332-a:
   definition:
-  - ###of words: having opposite meanings###
+  - "of words: having opposite meanings"
   ili: i13189
   members:
   - antonymous
@@ -167525,7 +167525,7 @@
   definition:
   - of words or propositions so related that each is the negation of the other
   example:
-  - ###<<<male>>> and <<<female>>> are complementary terms###
+  - "<<<male>>> and <<<female>>> are complementary terms"
   ili: i13190
   members:
   - complementary
@@ -167537,7 +167537,7 @@
   - of words or propositions so related that both cannot be true and both cannot be
     false
   example:
-  - ###<<<perfect>>> and <<<imperfect>>> are contradictory terms###
+  - "<<<perfect>>> and <<<imperfect>>> are contradictory terms"
   ili: i13191
   members:
   - contradictory
@@ -167548,7 +167548,7 @@
   definition:
   - of words or propositions so related that both cannot be true but both may be false
   example:
-  - ###<<<hot>>> and <<<cold>>> are contrary terms###
+  - "<<<hot>>> and <<<cold>>> are contrary terms"
   ili: i13192
   members:
   - contrary
@@ -167559,7 +167559,7 @@
   definition:
   - of words so related that one contrasts with the other
   example:
-  - ###<<<rich>>> and <<<hard-up>>> are contrastive terms###
+  - "<<<rich>>> and <<<hard-up>>> are contrastive terms"
   ili: i13193
   members:
   - contrastive
@@ -167571,7 +167571,7 @@
   definition:
   - of words so related that one reverses the relation denoted by the other
   example:
-  - ###<<<parental>>> and <<<filial>>> are converse terms###
+  - "<<<parental>>> and <<<filial>>> are converse terms"
   ili: i13194
   members:
   - converse
@@ -170357,7 +170357,7 @@
   - a sparing father and a spending son
   - sparing in their use of heat and light
   - stinting in bestowing gifts
-  - ###<<<scotch>>> is used only informally###
+  - "<<<scotch>>> is used only informally"
   exemplifies:
   - 07089193-n
   ili: i13402
@@ -171171,7 +171171,7 @@
   definition:
   - physically and mentally fatigued
   example:
-  - ###<<<aweary>>> is archaic###
+  - "<<<aweary>>> is archaic"
   ili: i13465
   members:
   - aweary
@@ -172786,7 +172786,7 @@
   - (of a restaurant meal) complete but with limited choices and at a fixed price
   ili: i13597
   members:
-  - table d###hote
+  - table d'hote
   - prix fixe
   partOfSpeech: a
 02462237-a:
@@ -173334,7 +173334,7 @@
   - the true meaning of the statement
   ili: i13638
   members:
-  - ###true###
+  - "true"
   partOfSpeech: a
   similar:
   - 02470192-s
@@ -173407,7 +173407,7 @@
   - false tales of bravery
   ili: i13643
   members:
-  - ###false###
+  - "false"
   partOfSpeech: a
   similar:
   - 02471317-s
@@ -173654,7 +173654,7 @@
   - dependable
   - honest
   - reliable
-  - ###true###
+  - "true"
   partOfSpeech: s
   similar:
   - 02473921-a
@@ -173942,7 +173942,7 @@
   - Pythagoras was the first true mathematician
   ili: i13685
   members:
-  - ###true###
+  - "true"
   partOfSpeech: s
   similar:
   - 02477858-a
@@ -176241,7 +176241,7 @@
   - a false alarm
   ili: i13867
   members:
-  - ###false###
+  - "false"
   partOfSpeech: s
   similar:
   - 02509563-a
@@ -176274,7 +176274,7 @@
   - null and void
   ili: i13869
   members:
-  - ###null###
+  - "null"
   - void
   partOfSpeech: s
   similar:
@@ -178480,7 +178480,7 @@
   definition:
   - providing coolness
   example:
-  - ###<<<caller>>> is a Scottish term as in <<<a caller breeze>>>###
+  - "<<<caller>>> is a Scottish term as in <<<a caller breeze>>>"
   ili: i14035
   members:
   - caller
@@ -178831,7 +178831,7 @@
   definition:
   - increasing or having the power to increase especially in size or amount or degree
   example:
-  - ###<<<up>>> is an augmentative word in <<<hurry up>>>###
+  - "<<<up>>> is an augmentative word in <<<hurry up>>>"
   ili: i14065
   members:
   - augmentative
@@ -180650,7 +180650,7 @@
   - a panoramic view
   ili: i14206
   members:
-  - bird###s-eye
+  - bird's-eye
   - panoramic
   partOfSpeech: s
   similar:
@@ -181557,7 +181557,7 @@
   - covered with or consisting of bushes or thickets
   example:
   - brushy undergrowth
-  - ###<<<bosky>>> is a literary term###
+  - "<<<bosky>>> is a literary term"
   - source: Jack Beatty
     text: a bosky park leading to a modest yet majestic plaza
   ili: i14278
@@ -182950,7 +182950,7 @@
   domain_topic:
   - 06173467-n
   example:
-  - ###<<<or>>> is a syncategorematic term###
+  - "<<<or>>> is a syncategorematic term"
   ili: i14396
   members:
   - syncategorematic
@@ -183399,7 +183399,7 @@
   - performing gestures or possessing qualities or features that suggest a certain
     state of being or emotion
   example:
-  - source: ###The Brontes: Life and Letters (George Smith, 1908)###
+  - source: ###The Brontes: Life and Letters (George Smith, 1908)"
     text: Her manner was curiously expressive of a wish for protection and encouragement
   members:
   - expressive

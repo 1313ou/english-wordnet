@@ -766,8 +766,8 @@
   - 14434647-n
   ili: i110174
   members:
-  - hornet###s nest
-  - hornets### nest
+  - hornet's nest
+  - hornets' nest
   partOfSpeech: n
 13958786-n:
   definition:
@@ -801,7 +801,7 @@
   ili: i110177
   members:
   - how-do-you-do
-  - how-d###ye-do
+  - how-d'ye-do
   partOfSpeech: n
 13959186-n:
   definition:
@@ -1082,7 +1082,7 @@
   - at the height of her career
   - the peak of perfection
   - summer was at its peak
-  - ### … catapulted Einstein to the pinnacle of fame###
+  - " … catapulted Einstein to the pinnacle of fame"
   - the summit of his ambition
   - so many highest superlatives achieved by man
   - at the top of his profession
@@ -1615,7 +1615,7 @@
   definition:
   - status established in order of importance or urgency
   example:
-  - ### … its precedence as the world######s leading manufacturer of pharmaceuticals###
+  - " … its precedence as the world######s leading manufacturer of pharmaceuticals"
   - national independence takes priority over class struggle
   hypernym:
   - 13971621-n
@@ -4076,7 +4076,7 @@
   partOfSpeech: n
 14015999-n:
   definition:
-  - ###immunity from arbitrary exercise of authority: political independence###
+  - "immunity from arbitrary exercise of authority: political independence"
   hypernym:
   - 14017633-n
   ili: i110466
@@ -4323,7 +4323,7 @@
   partOfSpeech: n
 14020204-n:
   definition:
-  - ###the state of being kept down by unjust use of force or authority:###
+  - "the state of being kept down by unjust use of force or authority:"
   hypernym:
   - 14019785-n
   ili: i110489
@@ -6695,8 +6695,8 @@
   partOfSpeech: n
 14061746-n:
   definition:
-  - ###applies to nonhuman mammals: a state or period of heightened sexual arousal and
-    activity###
+  - "applies to nonhuman mammals: a state or period of heightened sexual arousal and
+    activity"
   hypernym:
   - 14057659-n
   ili: i110702
@@ -6708,8 +6708,8 @@
   partOfSpeech: n
 14061964-n:
   definition:
-  - ###applies to nonhuman mammals: a state or interval of sexual inactivity between
-    two periods of estrus###
+  - "applies to nonhuman mammals: a state or interval of sexual inactivity between
+    two periods of estrus"
   hypernym:
   - 14057659-n
   ili: i110703
@@ -7424,7 +7424,7 @@
   members:
   - qi
   - chi
-  - ch###i
+  - ch'i
   - ki
   partOfSpeech: n
 14074353-n:
@@ -8514,7 +8514,7 @@
   ili: i110872
   members:
   - lead colic
-  - painter###s colic
+  - painter's colic
   partOfSpeech: n
 14093688-n:
   definition:
@@ -8605,8 +8605,8 @@
   - 14212686-n
   ili: i110881
   members:
-  - Banti###s disease
-  - Banti###s syndrome
+  - Banti's disease
+  - Banti's syndrome
   partOfSpeech: n
 14095905-n:
   definition:
@@ -8642,10 +8642,10 @@
   - pulmonary anthrax
   - inhalation anthrax
   - anthrax pneumonia
-  - ragpicker###s disease
-  - ragsorter###s disease
-  - woolsorter###s pneumonia
-  - woolsorter###s disease
+  - ragpicker's disease
+  - ragsorter's disease
+  - woolsorter's pneumonia
+  - woolsorter's disease
   partOfSpeech: n
 14096813-n:
   definition:
@@ -8798,7 +8798,7 @@
   - 14098840-n
   ili: i110899
   members:
-  - Kallman###s syndrome
+  - Kallman's syndrome
   partOfSpeech: n
 14099493-n:
   definition:
@@ -8940,7 +8940,7 @@
   - 14093842-n
   ili: i110912
   members:
-  - Meniere###s disease
+  - Meniere's disease
   partOfSpeech: n
 14102095-n:
   definition:
@@ -9024,7 +9024,7 @@
   - 14374726-n
   ili: i110920
   members:
-  - Paget###s disease
+  - Paget's disease
   - osteitis deformans
   partOfSpeech: n
 14103692-n:
@@ -9069,7 +9069,7 @@
   - pyorrhea
   - pyorrhoea
   - pyorrhea alveolaris
-  - Riggs### disease
+  - Riggs' disease
   partOfSpeech: n
 14104507-n:
   definition:
@@ -9281,7 +9281,7 @@
   - 14107272-n
   ili: i110943
   members:
-  - Asperger###s syndrome
+  - Asperger's syndrome
   partOfSpeech: n
 14107984-n:
   definition:
@@ -9471,7 +9471,7 @@
   ili: i110961
   members:
   - myoclonus epilepsy
-  - Lafora###s disease
+  - Lafora's disease
   partOfSpeech: n
 14111609-n:
   definition:
@@ -9639,7 +9639,7 @@
   - 14581818-n
   ili: i110977
   members:
-  - Erb###s palsy
+  - Erb's palsy
   - Erb-Duchenne paralysis
   partOfSpeech: n
 14114500-n:
@@ -9681,7 +9681,7 @@
   - 14114736-n
   ili: i110981
   members:
-  - Friedreich###s ataxia
+  - Friedreich's ataxia
   - herediatry spinal ataxia
   partOfSpeech: n
 14115239-n:
@@ -9855,9 +9855,9 @@
   members:
   - paralysis agitans
   - Parkinsonism
-  - Parkinson###s disease
-  - Parkinson###s syndrome
-  - Parkinson###s
+  - Parkinson's disease
+  - Parkinson's syndrome
+  - Parkinson's
   - shaking palsy
   mero_part:
   - 14028622-n
@@ -9919,7 +9919,7 @@
   - 14118363-n
   ili: i111003
   members:
-  - Sydenham###s chorea
+  - Sydenham's chorea
   - Saint Vitus dance
   - St. Vitus dance
   partOfSpeech: n
@@ -10088,7 +10088,7 @@
   ili: i111019
   members:
   - motor aphasia
-  - Broca###s aphasia
+  - Broca's aphasia
   - ataxic aphasia
   - expressive aphasia
   - nonfluent aphasia
@@ -10136,7 +10136,7 @@
   - 14121056-n
   ili: i111023
   members:
-  - Wernicke###s aphasia
+  - Wernicke's aphasia
   - fluent aphasia
   - receptive aphasia
   - sensory aphasia
@@ -10530,7 +10530,7 @@
   members:
   - amyotrophic lateral sclerosis
   - ALS
-  - Lou Gehrig###s disease
+  - Lou Gehrig's disease
   partOfSpeech: n
 14129507-n:
   definition:
@@ -10985,7 +10985,7 @@
   ili: i111105
   members:
   - nephritis
-  - Bright###s disease
+  - Bright's disease
   partOfSpeech: n
 14137420-n:
   definition:
@@ -11171,8 +11171,8 @@
   - 14083410-n
   ili: i111123
   members:
-  - Addison###s disease
-  - Addison###s syndrome
+  - Addison's disease
+  - Addison's syndrome
   - hypoadrenalism
   - hypoadrenocorticism
   partOfSpeech: n
@@ -11204,7 +11204,7 @@
   - 14083410-n
   ili: i111126
   members:
-  - Cushing###s disease
+  - Cushing's disease
   - hyperadrenalism
   partOfSpeech: n
 14141150-n:
@@ -11214,7 +11214,7 @@
   - 14083410-n
   ili: i111127
   members:
-  - Cushing###s syndrome
+  - Cushing's syndrome
   - hyperadrenocorticism
   partOfSpeech: n
 14141287-n:
@@ -11334,7 +11334,7 @@
   - atrophedema
   - giant hives
   - periodic edema
-  - Quincke###s edema
+  - Quincke's edema
   partOfSpeech: n
 14144096-n:
   definition:
@@ -11367,7 +11367,7 @@
   - 14210860-n
   ili: i111138
   members:
-  - Graves### disease
+  - Graves' disease
   - exophthalmic goiter
   partOfSpeech: n
 14144758-n:
@@ -11578,8 +11578,8 @@
   - 14197107-n
   ili: i111156
   members:
-  - Vincent###s angina
-  - Vincent###s infection
+  - Vincent's angina
+  - Vincent's infection
   - trench mouth
   partOfSpeech: n
 14148641-n:
@@ -11640,7 +11640,7 @@
   ili: i111162
   members:
   - tinea pedis
-  - athlete###s foot
+  - athlete's foot
   partOfSpeech: n
   wikidata: Q5609817
 14149663-n:
@@ -11651,7 +11651,7 @@
   ili: i111163
   members:
   - tinea barbae
-  - barber###s itch
+  - barber's itch
   partOfSpeech: n
 14149775-n:
   definition:
@@ -12012,9 +12012,9 @@
   - VD
   - venereal infection
   - social disease
-  - Cupid###s itch
-  - Cupid###s disease
-  - Venus###s curse
+  - Cupid's itch
+  - Cupid's disease
+  - Venus's curse
   - dose
   - sexually transmitted disease
   - STD
@@ -12167,7 +12167,7 @@
   ili: i111209
   members:
   - leprosy
-  - Hansen###s disease
+  - Hansen's disease
   mero_part:
   - 14250497-n
   partOfSpeech: n
@@ -12376,7 +12376,7 @@
   - 14166897-n
   ili: i111227
   members:
-  - Pott###s disease
+  - Pott's disease
   partOfSpeech: n
 14164015-n:
   definition:
@@ -12577,7 +12577,7 @@
   members:
   - scrofula
   - struma
-  - king###s evil
+  - king's evil
   partOfSpeech: n
 14167898-n:
   definition:
@@ -12832,7 +12832,7 @@
   - 14172128-n
   ili: i111268
   members:
-  - Legionnaires### disease
+  - Legionnaires' disease
   partOfSpeech: n
 14172649-n:
   definition:
@@ -12903,7 +12903,7 @@
   - anthracosis
   - black lung
   - black lung disease
-  - coal miner###s lung
+  - coal miner's lung
   partOfSpeech: n
   wikidata: Q574329
 14173845-n:
@@ -13213,7 +13213,7 @@
   - 14098359-n
   ili: i111301
   members:
-  - Gaucher###s disease
+  - Gaucher's disease
   partOfSpeech: n
 14179970-n:
   definition:
@@ -13223,7 +13223,7 @@
   - 14174621-n
   ili: i111302
   members:
-  - Hirschsprung###s disease
+  - Hirschsprung's disease
   - congenital megacolon
   partOfSpeech: n
 14180222-n:
@@ -13235,7 +13235,7 @@
   - 14327487-n
   ili: i111303
   members:
-  - Horner###s syndrome
+  - Horner's syndrome
   partOfSpeech: n
   wikidata: Q1126839
 14180458-n:
@@ -13247,8 +13247,8 @@
   - 14098359-n
   ili: i111304
   members:
-  - Huntington###s chorea
-  - Huntington###s disease
+  - Huntington's chorea
+  - Huntington's disease
   partOfSpeech: n
 14180645-n:
   definition:
@@ -13260,8 +13260,8 @@
   - 14098359-n
   ili: i111305
   members:
-  - Hurler###s syndrome
-  - Hurler###s disease
+  - Hurler's syndrome
+  - Hurler's disease
   - gargoylism
   - dysostosis multiplex
   - lipochondrodystrophy
@@ -13294,7 +13294,7 @@
   - 14185507-n
   ili: i111308
   members:
-  - Marfan###s syndrome
+  - Marfan's syndrome
   partOfSpeech: n
 14181661-n:
   definition:
@@ -13306,7 +13306,7 @@
   ili: i111309
   members:
   - neurofibromatosis
-  - von Recklinghausen###s disease
+  - von Recklinghausen's disease
   partOfSpeech: n
 14181906-n:
   definition:
@@ -13390,7 +13390,7 @@
   members:
   - mongolism
   - mongolianism
-  - Down###s syndrome
+  - Down's syndrome
   - Down syndrome
   - trisomy 21
   partOfSpeech: n
@@ -13416,7 +13416,7 @@
   - 14174621-n
   ili: i111319
   members:
-  - McArdle###s disease
+  - McArdle's disease
   partOfSpeech: n
 14183847-n:
   definition:
@@ -13490,7 +13490,7 @@
   - 14183847-n
   ili: i111326
   members:
-  - Duchenne###s muscular dystrophy
+  - Duchenne's muscular dystrophy
   - pseudohypertrophic dystrophy
   partOfSpeech: n
 14185507-n:
@@ -13551,7 +13551,7 @@
   - myotonic muscular dystrophy
   - myotonic dystrophy
   - myotonia atrophica
-  - Steinert###s disease
+  - Steinert's disease
   partOfSpeech: n
 14187158-n:
   definition:
@@ -13619,8 +13619,8 @@
   - 14174621-n
   ili: i111337
   members:
-  - Fanconi###s anemia
-  - Fanconi###s anaemia
+  - Fanconi's anemia
+  - Fanconi's anaemia
   - congenital pancytopenia
   partOfSpeech: n
 14188563-n:
@@ -13921,7 +13921,7 @@
   members:
   - hemophilia
   - haemophilia
-  - bleeder###s disease
+  - bleeder's disease
   partOfSpeech: n
 14194105-n:
   definition:
@@ -13967,7 +13967,7 @@
   - 14193819-n
   ili: i111367
   members:
-  - von Willebrand###s disease
+  - von Willebrand's disease
   - angiohemophilia
   - vascular hemophilia
   partOfSpeech: n
@@ -14909,7 +14909,7 @@
   - 14210220-n
   ili: i111456
   members:
-  - Still###s disease
+  - Still's disease
   - juvenile rheumatoid arthritis
   partOfSpeech: n
 14211720-n:
@@ -14941,7 +14941,7 @@
   - 14284886-n
   ili: i111459
   members:
-  - housemaid###s knee
+  - housemaid's knee
   partOfSpeech: n
 14212184-n:
   definition:
@@ -15330,8 +15330,8 @@
   - 14219197-n
   ili: i111495
   members:
-  - Cooley###s anemia
-  - Cooley###s anaemia
+  - Cooley's anemia
+  - Cooley's anaemia
   - thalassemia major
   - thalassaemia major
   partOfSpeech: n
@@ -15632,7 +15632,7 @@
   - mal rosso
   - maidism
   - mayidism
-  - Saint Ignatius### itch
+  - Saint Ignatius' itch
   partOfSpeech: n
 14224793-n:
   definition:
@@ -16804,7 +16804,7 @@
   - 14210860-n
   ili: i111641
   members:
-  - Hashimoto###s disease
+  - Hashimoto's disease
   partOfSpeech: n
 14244620-n:
   definition:
@@ -17019,7 +17019,7 @@
   ili: i111662
   members:
   - schistosome dermatitis
-  - swimmer###s itch
+  - swimmer's itch
   partOfSpeech: n
 14248239-n:
   definition:
@@ -17047,7 +17047,7 @@
   - 14248828-n
   ili: i111665
   members:
-  - baker###s eczema
+  - baker's eczema
   partOfSpeech: n
 14248828-n:
   definition:
@@ -17079,7 +17079,7 @@
   ili: i111668
   members:
   - eczema vaccinatum
-  - Kaposi###s varicelliform eruption
+  - Kaposi's varicelliform eruption
   partOfSpeech: n
 14249359-n:
   definition:
@@ -17257,7 +17257,7 @@
   ili: i111686
   members:
   - keratosis follicularis
-  - Darier###s disease
+  - Darier's disease
   partOfSpeech: n
 14252367-n:
   definition:
@@ -17459,7 +17459,7 @@
   - 14243143-n
   ili: i111706
   members:
-  - Saint Anthony###s fire
+  - Saint Anthony's fire
   partOfSpeech: n
 14255781-n:
   definition:
@@ -17949,9 +17949,9 @@
   - 14269841-n
   ili: i111753
   members:
-  - Ewing###s sarcoma
-  - Ewing###s tumor
-  - Ewing###s tumour
+  - Ewing's sarcoma
+  - Ewing's tumor
+  - Ewing's tumour
   - endothelial myeloma
   partOfSpeech: n
 14264257-n:
@@ -17965,7 +17965,7 @@
   - 14269841-n
   ili: i111754
   members:
-  - Kaposi###s sarcoma
+  - Kaposi's sarcoma
   partOfSpeech: n
 14264570-n:
   definition:
@@ -18052,7 +18052,7 @@
   - 14265450-n
   ili: i111763
   members:
-  - Hodgkin###s disease
+  - Hodgkin's disease
   partOfSpeech: n
 14265819-n:
   definition:
@@ -18255,7 +18255,7 @@
   - 14269841-n
   ili: i111782
   members:
-  - Wilms### tumor
+  - Wilms' tumor
   - Wilms tumour
   - adenomyosarcoma
   - nephroblastoma
@@ -19027,7 +19027,7 @@
   - 14282111-n
   ili: i111859
   members:
-  - Takayasu###s arteritis
+  - Takayasu's arteritis
   - pulseless disease
   partOfSpeech: n
 14282635-n:
@@ -19086,8 +19086,8 @@
   - 14281281-n
   ili: i111865
   members:
-  - farmer###s lung
-  - thresher###s lung
+  - farmer's lung
+  - thresher's lung
   partOfSpeech: n
 14283546-n:
   definition:
@@ -19196,7 +19196,7 @@
   members:
   - brucellosis
   - contagious abortion
-  - Bang###s disease
+  - Bang's disease
   partOfSpeech: n
 14285219-n:
   definition:
@@ -19516,7 +19516,7 @@
   - 14323139-n
   ili: i111907
   members:
-  - Jacquemier###s sign
+  - Jacquemier's sign
   partOfSpeech: n
 14290179-n:
   definition:
@@ -19546,7 +19546,7 @@
   - 14323139-n
   ili: i111910
   members:
-  - Kernig###s sign
+  - Kernig's sign
   partOfSpeech: n
 14290707-n:
   definition:
@@ -19568,7 +19568,7 @@
   - 14323139-n
   ili: i111912
   members:
-  - Koplik###s spots
+  - Koplik's spots
   partOfSpeech: n
 14291090-n:
   definition:
@@ -19943,7 +19943,7 @@
   - 14296867-n
   ili: i111949
   members:
-  - Weil###s disease
+  - Weil's disease
   partOfSpeech: n
 14297362-n:
   definition:
@@ -21302,7 +21302,7 @@
   - 14319331-n
   ili: i112088
   members:
-  - Meckel###s diverticulum
+  - Meckel's diverticulum
   partOfSpeech: n
 14319644-n:
   definition:
@@ -21625,7 +21625,7 @@
   ili: i112118
   members:
   - acrocyanosis
-  - Raynaud###s sign
+  - Raynaud's sign
   partOfSpeech: n
 14327074-n:
   definition:
@@ -21694,7 +21694,7 @@
   - 14327487-n
   ili: i112125
   members:
-  - Conn###s syndrome
+  - Conn's syndrome
   partOfSpeech: n
 14328885-n:
   definition:
@@ -21729,7 +21729,7 @@
   members:
   - regional enteritis
   - regional ileitis
-  - Crohn###s disease
+  - Crohn's disease
   partOfSpeech: n
 14329672-n:
   definition:
@@ -21752,7 +21752,7 @@
   - 14327487-n
   ili: i112130
   members:
-  - Klinefelter###s syndrome
+  - Klinefelter's syndrome
   - Klinefelter syndrome
   - XXY-syndrome
   partOfSpeech: n
@@ -21785,7 +21785,7 @@
   - 14327487-n
   ili: i112133
   members:
-  - Munchausen###s syndrome
+  - Munchausen's syndrome
   - Munchausen syndrome
   partOfSpeech: n
 14330895-n:
@@ -21820,7 +21820,7 @@
   - 14327487-n
   ili: i112136
   members:
-  - Noonan###s syndrome
+  - Noonan's syndrome
   partOfSpeech: n
 14331595-n:
   definition:
@@ -21877,8 +21877,8 @@
   - 14327487-n
   ili: i112141
   members:
-  - Reiter###s syndrome
-  - Reiter###s disease
+  - Reiter's syndrome
+  - Reiter's disease
   partOfSpeech: n
 14332821-n:
   definition:
@@ -21902,7 +21902,7 @@
   - 14327487-n
   ili: i112143
   members:
-  - Reye###s syndrome
+  - Reye's syndrome
   partOfSpeech: n
 14333365-n:
   definition:
@@ -21970,7 +21970,7 @@
   - 14327487-n
   ili: i112149
   members:
-  - Tietze###s syndrome
+  - Tietze's syndrome
   partOfSpeech: n
 14334544-n:
   definition:
@@ -21980,7 +21980,7 @@
   - 14327487-n
   ili: i112150
   members:
-  - Tourette###s syndrome
+  - Tourette's syndrome
   - Gilles de la Tourette syndrome
   partOfSpeech: n
 14334775-n:
@@ -23977,8 +23977,8 @@
   - subacute inclusion body encephalitis
   - sclerosing leukoencephalitis
   - subacute sclerosing leukoencephalitis
-  - Bosin###s disease
-  - Dawson###s encephalitis
+  - Bosin's disease
+  - Dawson's encephalitis
   - Van Bogaert encephalitis
   partOfSpeech: n
 14368125-n:
@@ -24171,7 +24171,7 @@
   - 14370314-n
   ili: i112363
   members:
-  - Moeller###s glossitis
+  - Moeller's glossitis
   - glossodynia exfoliativa
   partOfSpeech: n
 14370945-n:
@@ -24651,7 +24651,7 @@
   members:
   - Guillain-Barre syndrome
   - infectious polyneuritis
-  - Landry###s paralysis
+  - Landry's paralysis
   partOfSpeech: n
 14377267-n:
   definition:
@@ -25155,7 +25155,7 @@
   - 14383864-n
   ili: i112463
   members:
-  - writer###s cramp
+  - writer's cramp
   - graphospasm
   partOfSpeech: n
 14384469-n:
@@ -25488,7 +25488,7 @@
   - 14389630-n
   ili: i112495
   members:
-  - Albright###s disease
+  - Albright's disease
   - polyostotic fibrous dysplasia
   partOfSpeech: n
 14390038-n:
@@ -25855,7 +25855,7 @@
   - 14395318-n
   ili: i112531
   members:
-  - Montezuma###s revenge
+  - Montezuma's revenge
   partOfSpeech: n
 14395918-n:
   definition:
@@ -27215,10 +27215,10 @@
   members:
   - alcoholic dementia
   - alcohol amnestic disorder
-  - Korsakoff###s psychosis
-  - Korsakoff###s syndrome
-  - Korsakov###s psychosis
-  - Korsakov###s syndrome
+  - Korsakoff's psychosis
+  - Korsakoff's syndrome
+  - Korsakov's psychosis
+  - Korsakov's syndrome
   - polyneuritic psychosis
   partOfSpeech: n
 14419359-n:
@@ -27239,8 +27239,8 @@
   - 14419359-n
   ili: i112663
   members:
-  - Alzheimer###s disease
-  - Alzheimer###s
+  - Alzheimer's disease
+  - Alzheimer's
   - Alzheimers
   partOfSpeech: n
 14419835-n:
@@ -27252,7 +27252,7 @@
   - 14419359-n
   ili: i112664
   members:
-  - Pick###s disease
+  - Pick's disease
   partOfSpeech: n
 14420111-n:
   definition:
@@ -27284,7 +27284,7 @@
   members:
   - rhinophyma
   - hypertrophic rosacea
-  - toper###s nose
+  - toper's nose
   - brandy nose
   - rum nose
   - rum-blossom
@@ -27300,7 +27300,7 @@
   - 14109190-n
   ili: i112668
   members:
-  - Wernicke###s encephalopathy
+  - Wernicke's encephalopathy
   partOfSpeech: n
 14420967-n:
   definition:
@@ -28018,13 +28018,13 @@
   domain_region:
   - 08879115-n
   example:
-  - they made a real dog###s breakfast of that job
+  - they made a real dog's breakfast of that job
   hypernym:
   - 14432893-n
   ili: i112732
   members:
-  - dog###s breakfast
-  - dog###s dinner
+  - dog's breakfast
+  - dog's dinner
   partOfSpeech: n
 14433284-n:
   definition:
@@ -29379,7 +29379,7 @@
   partOfSpeech: n
 14457053-n:
   definition:
-  - ###the state of being prominent: widely known or eminent###
+  - "the state of being prominent: widely known or eminent"
   hypernym:
   - 13971316-n
   ili: i112857
@@ -30244,7 +30244,7 @@
   - 14470991-n
   ili: i112932
   members:
-  - fool###s paradise
+  - fool's paradise
   partOfSpeech: n
 14471374-n:
   attribute:
@@ -30698,7 +30698,7 @@
   partOfSpeech: n
 14479000-n:
   definition:
-  - ###the state of being hollow: having an empty space within###
+  - "the state of being hollow: having an empty space within"
   hypernym:
   - 14478672-n
   ili: i112975
@@ -30940,7 +30940,7 @@
   - 14482391-n
   ili: i112996
   members:
-  - God###s Wisdom
+  - God's Wisdom
   partOfSpeech: n
 14482633-n:
   definition:
@@ -30959,7 +30959,7 @@
   - 14482633-n
   ili: i112998
   members:
-  - God###s Will
+  - God's Will
   partOfSpeech: n
 14482870-n:
   attribute:
@@ -31530,17 +31530,17 @@
   partOfSpeech: n
 14493350-n:
   definition:
-  - ###a congenital heart defect producing cyanosis; characterized by four symptoms:
+  - "a congenital heart defect producing cyanosis; characterized by four symptoms:
     pulmonary stenosis and ventricular septal defect and malposition of the aorta
-    over both ventricles and hypertrophy of the right ventricle###
+    over both ventricles and hypertrophy of the right ventricle"
   hypernym:
   - 14492598-n
   - 14327487-n
   ili: i113048
   members:
   - tetralogy of Fallot
-  - Fallot###s tetralogy
-  - Fallot###s syndrome
+  - Fallot's tetralogy
+  - Fallot's syndrome
   mero_part:
   - 14130399-n
   - 14493050-n
@@ -32165,10 +32165,10 @@
   partOfSpeech: n
 14504664-n:
   definition:
-  - ###the state of matter distinguished from the solid and liquid states by: relatively
+  - "the state of matter distinguished from the solid and liquid states by: relatively
     low density and viscosity; relatively great expansion and contraction with changes
     in pressure and temperature; the ability to diffuse readily; and the spontaneous
-    tendency to become distributed uniformly throughout any container###
+    tendency to become distributed uniformly throughout any container"
   hypernym:
   - 14503199-n
   ili: i113101
@@ -33347,7 +33347,7 @@
   - jumble
   - muddle
   - fuddle
-  - mare###s nest
+  - mare's nest
   - welter
   - smother
   partOfSpeech: n
@@ -33578,7 +33578,7 @@
   - 14233836-n
   ili: i113229
   members:
-  - dowager###s hump
+  - dowager's hump
   partOfSpeech: n
 14529269-n:
   definition:
@@ -35875,7 +35875,7 @@
   ili: i113441
   members:
   - myotonia congenita
-  - Thomsen###s disease
+  - Thomsen's disease
   partOfSpeech: n
 14569447-n:
   definition:
@@ -37088,7 +37088,7 @@
   - thrombocytopenic purpura
   - idiopathic thrombocytopenic purpura
   - purpura hemorrhagica
-  - Werlhof###s disease
+  - Werlhof's disease
   partOfSpeech: n
 14589277-n:
   definition:
@@ -37109,7 +37109,7 @@
   - 14589277-n
   ili: i113557
   members:
-  - Turner###s syndrome
+  - Turner's syndrome
   partOfSpeech: n
 14589710-n:
   definition:
@@ -37308,7 +37308,7 @@
   ili: i113577
   members:
   - hepatolenticular degeneration
-  - Wilson###s disease
+  - Wilson's disease
   partOfSpeech: n
 14592918-n:
   definition:

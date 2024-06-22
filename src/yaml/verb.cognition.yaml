@@ -450,8 +450,8 @@
   - know the score
   - be with it
   - be on the ball
-  - know what###s going on
-  - know what###s what
+  - know what's going on
+  - know what's what
   partOfSpeech: v
 00598039-v:
   definition:
@@ -1194,7 +1194,7 @@
   ili: i24804
   members:
   - slip
-  - slip one###s mind
+  - slip one's mind
   partOfSpeech: v
 00610654-v:
   definition:
@@ -2961,8 +2961,8 @@
   partOfSpeech: v
 00643591-v:
   definition:
-  - ###multiply (a number) by itself a specified number of times: 8 is 2 raised to the
-    power 3###
+  - "multiply (a number) by itself a specified number of times: 8 is 2 raised to the
+    power 3"
   domain_topic:
   - 06013397-n
   hypernym:
@@ -5934,7 +5934,7 @@
   ili: i25196
   members:
   - decide
-  - make up one###s mind
+  - make up one's mind
   - determine
   partOfSpeech: v
 00699870-v:
@@ -8270,8 +8270,8 @@
   - 00739889-v
   ili: i25390
   members:
-  - take one###s lumps
-  - get one###s lumps
+  - take one's lumps
+  - get one's lumps
   partOfSpeech: v
 00740319-v:
   definition:

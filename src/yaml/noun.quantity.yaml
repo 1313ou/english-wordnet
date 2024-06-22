@@ -103,7 +103,7 @@
   - 13599137-n
   ili: i108061
   members:
-  - Systeme International d###Unites
+  - Systeme International d'Unites
   - Systeme International
   - SI system
   - SI
@@ -449,7 +449,7 @@
   - 13606632-n
   ili: i108092
   members:
-  - Avogadro###s number
+  - Avogadro's number
   - Avogadro number
   partOfSpeech: n
 13607200-n:
@@ -459,7 +459,7 @@
   - 13606632-n
   ili: i108093
   members:
-  - Boltzmann###s constant
+  - Boltzmann's constant
   partOfSpeech: n
 13607325-n:
   definition:
@@ -582,7 +582,7 @@
   - 13609166-n
   ili: i108104
   members:
-  - Young###s modulus
+  - Young's modulus
   partOfSpeech: n
   wikidata: Q2091584
 13609828-n:
@@ -675,8 +675,8 @@
   partOfSpeech: n
 13611282-n:
   definition:
-  - ###(physics) the universal constant in the gas equation: pressure times volume =
-    R times temperature; equal to 8.3143 joules per kelvin per mole###
+  - "(physics) the universal constant in the gas equation: pressure times volume =
+    R times temperature; equal to 8.3143 joules per kelvin per mole"
   domain_topic:
   - 06100457-n
   hypernym:
@@ -714,9 +714,9 @@
   - 13606632-n
   ili: i108115
   members:
-  - Hubble###s constant
+  - Hubble's constant
   - Hubble constant
-  - Hubble###s parameter
+  - Hubble's parameter
   - Hubble parameter
   partOfSpeech: n
   wikidata: Q2031181
@@ -738,7 +738,7 @@
   - 13614837-n
   ili: i108117
   members:
-  - Planck###s constant
+  - Planck's constant
   - h
   partOfSpeech: n
 13612517-n:
@@ -905,8 +905,8 @@
   wikidata: Q47577
 13615208-n:
   definition:
-  - ###a natural number that has exactly two distinct natural number divisors: 1 and
-    itself###
+  - "a natural number that has exactly two distinct natural number divisors: 1 and
+    itself"
   hypernym:
   - 13603216-n
   ili: i108133
@@ -1025,7 +1025,7 @@
   ili: i108143
   members:
   - duck
-  - duck###s egg
+  - duck's egg
   partOfSpeech: n
 13617211-n:
   definition:
@@ -1241,8 +1241,8 @@
   partOfSpeech: n
 13620203-n:
   definition:
-  - ###the atomic number of an extra stable strongly bound atomic nucleus: 2, 8, 20,
-    28, 50, 82 or 126###
+  - "the atomic number of an extra stable strongly bound atomic nucleus: 2, 8, 20,
+    28, 50, 82 or 126"
   hypernym:
   - 13619958-n
   ili: i108163
@@ -4534,7 +4534,7 @@
   members:
   - cable
   - cable length
-  - cable###s length
+  - cable's length
   partOfSpeech: n
 13674612-n:
   definition:
@@ -4555,7 +4555,7 @@
   - 13674612-n
   ili: i108457
   members:
-  - Gunter###s chain
+  - Gunter's chain
   partOfSpeech: n
 13674879-n:
   definition:
@@ -4564,7 +4564,7 @@
   - 13674612-n
   ili: i108458
   members:
-  - engineer###s chain
+  - engineer's chain
   partOfSpeech: n
 13674967-n:
   definition:
@@ -4584,7 +4584,7 @@
   members:
   - finger
   - fingerbreadth
-  - finger###s breadth
+  - finger's breadth
   - digit
   partOfSpeech: n
 13675233-n:
@@ -5098,7 +5098,7 @@
   ili: i108504
   members:
   - halfpennyworth
-  - ha###p###orth
+  - ha'p'orth
   partOfSpeech: n
 13683268-n:
   definition:
@@ -5108,7 +5108,7 @@
   ili: i108505
   members:
   - pennyworth
-  - penn###orth
+  - penn'orth
   partOfSpeech: n
 13683378-n:
   definition:
@@ -5286,8 +5286,8 @@
   partOfSpeech: n
 13686913-n:
   definition:
-  - ###a fractional monetary unit of several countries: Panama and Italy and Uruguay
-    and Chile###
+  - "a fractional monetary unit of several countries: Panama and Italy and Uruguay
+    and Chile"
   hypernym:
   - 13684808-n
   ili: i108523
@@ -5307,10 +5307,10 @@
   partOfSpeech: n
 13687361-n:
   definition:
-  - ###a fractional monetary unit of several countries: El Salvador and Sao Tome and
+  - "a fractional monetary unit of several countries: El Salvador and Sao Tome and
     Principe and Brazil and Argentina and Bolivia and Colombia and Cuba and the Dominican
     Republic and Ecuador and El Salvador and Guatemala and Honduras and Mexico and
-    Nicaragua and Peru and the Philippines and Portugal###
+    Nicaragua and Peru and the Philippines and Portugal"
   hypernym:
   - 13684808-n
   ili: i108525
@@ -5320,10 +5320,10 @@
   wikidata: Q1553039
 13688070-n:
   definition:
-  - ###a fractional monetary unit of several countries: France and Algeria and Belgium
+  - "a fractional monetary unit of several countries: France and Algeria and Belgium
     and Burkina Faso and Burundi and Cameroon and Chad and the Congo and Gabon and
     Haiti and the Ivory Coast and Luxembourg and Mali and Morocco and Niger and Rwanda
-    and Senegal and Switzerland and Togo###
+    and Senegal and Switzerland and Togo"
   hypernym:
   - 13684808-n
   ili: i108526
@@ -6276,7 +6276,7 @@
   ili: i108620
   members:
   - Ivory Coast franc
-  - Cote d###Ivoire franc
+  - Cote d'Ivoire franc
   mero_part:
   - 13688070-n
   partOfSpeech: n
@@ -7297,7 +7297,7 @@
   - 13712089-n
   ili: i108720
   members:
-  - pa###anga
+  - pa'anga
   mero_part:
   - 13712319-n
   partOfSpeech: n
@@ -9037,8 +9037,8 @@
   partOfSpeech: n
 13733165-n:
   definition:
-  - ###a unit of pressure: the pressure that will support a column of mercury 760 mm
-    high at sea level and 0 degrees centigrade###
+  - "a unit of pressure: the pressure that will support a column of mercury 760 mm
+    high at sea level and 0 degrees centigrade"
   hypernym:
   - 13629228-n
   ili: i108896
@@ -9438,8 +9438,8 @@
   - 13630031-n
   ili: i108933
   members:
-  - apothecaries### unit
-  - apothecaries### weight
+  - apothecaries' unit
+  - apothecaries' weight
   partOfSpeech: n
 13739260-n:
   definition:
@@ -9836,7 +9836,7 @@
   members:
   - ounce
   - troy ounce
-  - apothecaries### ounce
+  - apothecaries' ounce
   mero_part:
   - 13744303-n
   - 13744445-n
@@ -9851,7 +9851,7 @@
   ili: i108970
   members:
   - troy pound
-  - apothecaries### pound
+  - apothecaries' pound
   mero_part:
   - 13744627-n
   partOfSpeech: n
@@ -9892,7 +9892,7 @@
   partOfSpeech: n
 13745414-n:
   definition:
-  - ###a weight unit used for pearls or diamonds: 50 mg or 1/4 carat###
+  - "a weight unit used for pearls or diamonds: 50 mg or 1/4 carat"
   hypernym:
   - 13739260-n
   ili: i108974
@@ -10032,7 +10032,7 @@
   partOfSpeech: n
 13747218-n:
   definition:
-  - ###in some European countries: a unit of weight equivalent to 50 kilograms###
+  - "in some European countries: a unit of weight equivalent to 50 kilograms"
   hypernym:
   - 13739260-n
   ili: i108985
@@ -10141,7 +10141,7 @@
   - kilogram calorie
   - kilocalorie
   - large calorie
-  - nutritionist###s calorie
+  - nutritionist's calorie
   mero_part:
   - 13748406-n
   partOfSpeech: n
@@ -11072,8 +11072,8 @@
   partOfSpeech: n
 13762308-n:
   definition:
-  - ###a quantity of no importance; thing (object:), singular, negative pronoun; pronoun,
-    thing, singular; quantifier: negative existential###
+  - "a quantity of no importance; thing (object:), singular, negative pronoun; pronoun,
+    thing, singular; quantifier: negative existential"
   example:
   - it looked like nothing I had ever seen before
   - reduced to nil all the work we had done
@@ -11088,7 +11088,7 @@
   - nil
   - nix
   - nada
-  - ###null###
+  - "null"
   - aught
   - cipher
   - cypher
@@ -11211,7 +11211,7 @@
   ili: i109092
   members:
   - zero
-  - ###0###
+  - "0"
   - nought
   - cipher
   - cypher
@@ -11227,7 +11227,7 @@
   ili: i109093
   members:
   - one
-  - ###1###
+  - "1"
   - I
   - ace
   - single
@@ -11274,7 +11274,7 @@
   ili: i109097
   members:
   - two
-  - ###2###
+  - "2"
   - II
   - deuce
   partOfSpeech: n
@@ -11331,7 +11331,7 @@
   ili: i109101
   members:
   - three
-  - ###3###
+  - "3"
   - III
   - trio
   - threesome
@@ -11357,7 +11357,7 @@
   ili: i109102
   members:
   - four
-  - ###4###
+  - "4"
   - IV
   - tetrad
   - quatern
@@ -11377,7 +11377,7 @@
   ili: i109103
   members:
   - five
-  - ###5###
+  - "5"
   - V
   - cinque
   - quint
@@ -11397,7 +11397,7 @@
   ili: i109104
   members:
   - six
-  - ###6###
+  - "6"
   - VI
   - sixer
   - sise
@@ -11416,7 +11416,7 @@
   ili: i109105
   members:
   - seven
-  - ###7###
+  - "7"
   - VII
   - sevener
   - heptad
@@ -11431,7 +11431,7 @@
   ili: i109106
   members:
   - eight
-  - ###8###
+  - "8"
   - VIII
   - eighter
   - eighter from Decatur
@@ -11448,7 +11448,7 @@
   ili: i109107
   members:
   - nine
-  - ###9###
+  - "9"
   - IX
   - niner
   - Nina from Carolina
@@ -11480,7 +11480,7 @@
   ili: i109110
   members:
   - ten
-  - ###10###
+  - "10"
   - X
   - tenner
   - decade
@@ -11493,7 +11493,7 @@
   ili: i109111
   members:
   - eleven
-  - ###11###
+  - "11"
   - XI
   partOfSpeech: n
 13768925-n:
@@ -11504,7 +11504,7 @@
   ili: i109112
   members:
   - twelve
-  - ###12###
+  - "12"
   - XII
   - dozen
   partOfSpeech: n
@@ -11537,9 +11537,9 @@
   ili: i109115
   members:
   - thirteen
-  - ###13###
+  - "13"
   - XIII
-  - baker###s dozen
+  - baker's dozen
   - long dozen
   partOfSpeech: n
 13769488-n:
@@ -11550,7 +11550,7 @@
   ili: i109116
   members:
   - fourteen
-  - ###14###
+  - "14"
   - XIV
   partOfSpeech: n
 13769609-n:
@@ -11561,7 +11561,7 @@
   ili: i109117
   members:
   - fifteen
-  - ###15###
+  - "15"
   - XV
   partOfSpeech: n
 13769746-n:
@@ -11572,7 +11572,7 @@
   ili: i109118
   members:
   - sixteen
-  - ###16###
+  - "16"
   - XVI
   partOfSpeech: n
 13769865-n:
@@ -11583,7 +11583,7 @@
   ili: i109119
   members:
   - seventeen
-  - ###17###
+  - "17"
   - XVII
   partOfSpeech: n
 13770005-n:
@@ -11594,7 +11594,7 @@
   ili: i109120
   members:
   - eighteen
-  - ###18###
+  - "18"
   - XVIII
   partOfSpeech: n
 13770129-n:
@@ -11605,7 +11605,7 @@
   ili: i109121
   members:
   - nineteen
-  - ###19###
+  - "19"
   - XIX
   partOfSpeech: n
 13770268-n:
@@ -11616,7 +11616,7 @@
   ili: i109122
   members:
   - twenty
-  - ###20###
+  - "20"
   - XX
   partOfSpeech: n
 13770386-n:
@@ -11627,7 +11627,7 @@
   ili: i109123
   members:
   - twenty-one
-  - ###21###
+  - "21"
   - XXI
   partOfSpeech: n
 13770507-n:
@@ -11638,7 +11638,7 @@
   ili: i109124
   members:
   - twenty-two
-  - ###22###
+  - "22"
   - XXII
   partOfSpeech: n
 13770633-n:
@@ -11649,7 +11649,7 @@
   ili: i109125
   members:
   - twenty-three
-  - ###23###
+  - "23"
   - XXIII
   partOfSpeech: n
 13770762-n:
@@ -11660,7 +11660,7 @@
   ili: i109126
   members:
   - twenty-four
-  - ###24###
+  - "24"
   - XXIV
   - two dozen
   partOfSpeech: n
@@ -11672,7 +11672,7 @@
   ili: i109127
   members:
   - twenty-five
-  - ###25###
+  - "25"
   - XXV
   partOfSpeech: n
 13771030-n:
@@ -11683,7 +11683,7 @@
   ili: i109128
   members:
   - twenty-six
-  - ###26###
+  - "26"
   - XXVI
   partOfSpeech: n
 13771157-n:
@@ -11694,7 +11694,7 @@
   ili: i109129
   members:
   - twenty-seven
-  - ###27###
+  - "27"
   - XXVII
   partOfSpeech: n
 13771286-n:
@@ -11705,7 +11705,7 @@
   ili: i109130
   members:
   - twenty-eight
-  - ###28###
+  - "28"
   - XXVIII
   partOfSpeech: n
 13771418-n:
@@ -11716,7 +11716,7 @@
   ili: i109131
   members:
   - twenty-nine
-  - ###29###
+  - "29"
   - XXIX
   partOfSpeech: n
 13771547-n:
@@ -11727,7 +11727,7 @@
   ili: i109132
   members:
   - thirty
-  - ###30###
+  - "30"
   - XXX
   partOfSpeech: n
 13771667-n:
@@ -11738,7 +11738,7 @@
   ili: i109133
   members:
   - forty
-  - ###40###
+  - "40"
   - XL
   partOfSpeech: n
 13771784-n:
@@ -11749,7 +11749,7 @@
   ili: i109134
   members:
   - fifty
-  - ###50###
+  - "50"
   - L
   partOfSpeech: n
 13771918-n:
@@ -11760,7 +11760,7 @@
   ili: i109135
   members:
   - sixty
-  - ###60###
+  - "60"
   - LX
   partOfSpeech: n
 13772034-n:
@@ -11771,7 +11771,7 @@
   ili: i109136
   members:
   - seventy
-  - ###70###
+  - "70"
   - LXX
   partOfSpeech: n
 13772173-n:
@@ -11782,7 +11782,7 @@
   ili: i109137
   members:
   - seventy-eight
-  - ###78###
+  - "78"
   - LXXVIII
   partOfSpeech: n
 13772304-n:
@@ -11793,7 +11793,7 @@
   ili: i109138
   members:
   - eighty
-  - ###80###
+  - "80"
   - LXXX
   - fourscore
   partOfSpeech: n
@@ -11805,7 +11805,7 @@
   ili: i109139
   members:
   - ninety
-  - ###90###
+  - "90"
   - XC
   partOfSpeech: n
 13772555-n:
@@ -11816,7 +11816,7 @@
   ili: i109140
   members:
   - hundred
-  - ###100###
+  - "100"
   - C
   - century
   - one C
@@ -11829,7 +11829,7 @@
   ili: i109141
   members:
   - gross
-  - ###144###
+  - "144"
   partOfSpeech: n
 13772714-n:
   definition:
@@ -11840,7 +11840,7 @@
   members:
   - long hundred
   - great hundred
-  - ###120###
+  - "120"
   partOfSpeech: n
 13772852-n:
   definition:
@@ -11850,7 +11850,7 @@
   ili: i109143
   members:
   - five hundred
-  - ###500###
+  - "500"
   - D
   partOfSpeech: n
 13772984-n:
@@ -11862,7 +11862,7 @@
   members:
   - thousand
   - one thousand
-  - ###1000###
+  - "1000"
   - M
   - K
   - chiliad
@@ -11888,7 +11888,7 @@
   ili: i109146
   members:
   - great gross
-  - ###1728###
+  - "1728"
   partOfSpeech: n
   wikidata: Q1520867
 13773405-n:
@@ -11899,7 +11899,7 @@
   ili: i109147
   members:
   - ten thousand
-  - ###10000###
+  - "10000"
   - myriad
   partOfSpeech: n
 13773544-n:
@@ -11910,7 +11910,7 @@
   ili: i109148
   members:
   - hundred thousand
-  - ###100000###
+  - "100000"
   - lakh
   partOfSpeech: n
 13773673-n:
@@ -11921,7 +11921,7 @@
   ili: i109149
   members:
   - million
-  - ###1000000###
+  - "1000000"
   - one thousand thousand
   - meg
   partOfSpeech: n
@@ -11948,7 +11948,7 @@
   members:
   - billion
   - one thousand million
-  - ###1000000000###
+  - "1000000000"
   partOfSpeech: n
 13774173-n:
   definition:
@@ -11975,7 +11975,7 @@
   members:
   - billion
   - one million million
-  - ###1000000000000###
+  - "1000000000000"
   partOfSpeech: n
 13774583-n:
   definition:
@@ -11991,7 +11991,7 @@
   members:
   - trillion
   - one million million
-  - ###1000000000000###
+  - "1000000000000"
   partOfSpeech: n
 13774819-n:
   definition:
@@ -12455,7 +12455,7 @@
   - 13782456-n
   ili: i109193
   members:
-  - hair###s-breadth
+  - hair's-breadth
   - hairsbreadth
   - hair
   - whisker
@@ -12530,7 +12530,7 @@
   ili: i109199
   members:
   - step
-  - stone###s throw
+  - stone's throw
   partOfSpeech: n
 13784857-n:
   definition:
@@ -14286,7 +14286,7 @@
   source: plWordNet 4.0
 92422897-n:
   definition:
-  - ###a 6-point printing type: a size smaller than minion.###
+  - "a 6-point printing type: a size smaller than minion."
   hypernym:
   - 92467094-n
   members:
@@ -14295,7 +14295,7 @@
   source: plWordNet 4.0
 92423001-n:
   definition:
-  - ###a 36-point printing type: a size smaller than meridian.###
+  - "a 36-point printing type: a size smaller than meridian."
   hypernym:
   - 92467094-n
   members:
@@ -14305,7 +14305,7 @@
   source: plWordNet 4.0
 92423003-n:
   definition:
-  - ###a 32-point printing type: a size smaller than double great primer.###
+  - "a 32-point printing type: a size smaller than double great primer."
   hypernym:
   - 92467094-n
   members:
@@ -14468,8 +14468,8 @@
   source: plWordNet 4.0
 92439490-n:
   definition:
-  - ###the currency of eight independent states in West Africa: Benin, Burkina Faso,
-    Guinea-Bissau, Ivory Coast, Mali, Niger, Senegal and Togo.###
+  - "the currency of eight independent states in West Africa: Benin, Burkina Faso,
+    Guinea-Bissau, Ivory Coast, Mali, Niger, Senegal and Togo."
   example:
   - source: https://en.wikipedia.org
     text: The Central African CFA franc is of equal value to the West African CFA
@@ -14483,8 +14483,8 @@
   wikidata: Q861690
 92439491-n:
   definition:
-  - ###the currency of six independent states in central Africa: Cameroon, Central African
-    Republic, Chad, Republic of the Congo, Equatorial Guinea and Gabon.###
+  - "the currency of six independent states in central Africa: Cameroon, Central African
+    Republic, Chad, Republic of the Congo, Equatorial Guinea and Gabon."
   example:
   - source: https://en.wikipedia.org
     text: In several west African states, the West African CFA franc, which is of

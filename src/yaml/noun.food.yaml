@@ -1205,7 +1205,7 @@
   - 07589261-n
   ili: i76584
   members:
-  - ploughman###s lunch
+  - ploughman's lunch
   partOfSpeech: n
 07593483-n:
   definition:
@@ -1393,7 +1393,7 @@
   members:
   - chicken cacciatore
   - chicken cacciatora
-  - hunter###s chicken
+  - hunter's chicken
   partOfSpeech: n
 07596347-n:
   definition:
@@ -1493,7 +1493,7 @@
   - 07596911-n
   ili: i76610
   members:
-  - hors d###oeuvre
+  - hors d'oeuvre
   partOfSpeech: n
 07598006-n:
   definition:
@@ -1988,8 +1988,8 @@
   partOfSpeech: n
 07605114-n:
   definition:
-  - ###spicy southern specialty: chicken (or small game) with corn and tomatoes and
-    lima beans and okra and onions and potatoes###
+  - "spicy southern specialty: chicken (or small game) with corn and tomatoes and
+    lima beans and okra and onions and potatoes"
   hypernym:
   - 07604518-n
   ili: i76662
@@ -2406,7 +2406,7 @@
   - 07659590-n
   ili: i76704
   members:
-  - calf###s-foot jelly
+  - calf's-foot jelly
   partOfSpeech: n
 07610751-n:
   definition:
@@ -2591,7 +2591,7 @@
   members:
   - carob
   - carob powder
-  - Saint-John###s-bread
+  - Saint-John's-bread
   mero_substance:
   - 12513931-n
   partOfSpeech: n
@@ -4925,8 +4925,8 @@
   - 07645903-n
   ili: i76963
   members:
-  - devil###s food
-  - devil###s food cake
+  - devil's food
+  - devil's food cake
   partOfSpeech: n
 07646821-n:
   definition:
@@ -6279,8 +6279,8 @@
   - 07593928-n
   ili: i77098
   members:
-  - parson###s nose
-  - pope###s nose
+  - parson's nose
+  - pope's nose
   partOfSpeech: n
 07665191-n:
   definition:
@@ -6429,8 +6429,8 @@
   - 07667661-n
   ili: i77113
   members:
-  - calves### liver
-  - calf###s liver
+  - calves' liver
+  - calf's liver
   partOfSpeech: n
 07667919-n:
   definition:
@@ -6477,7 +6477,7 @@
   - 07668194-n
   ili: i77118
   members:
-  - calf###s brain
+  - calf's brain
   partOfSpeech: n
 07668397-n:
   definition:
@@ -6523,7 +6523,7 @@
   - 07668604-n
   ili: i77123
   members:
-  - calf###s tongue
+  - calf's tongue
   partOfSpeech: n
 07668920-n:
   definition:
@@ -7475,7 +7475,7 @@
   - 07681053-n
   ili: i77218
   members:
-  - calves### feet
+  - calves' feet
   partOfSpeech: n
 07682151-n:
   definition:
@@ -7563,7 +7563,7 @@
   ili: i77227
   members:
   - breast of lamb
-  - poitrine d###agneau
+  - poitrine d'agneau
   partOfSpeech: n
 07683381-n:
   definition:
@@ -7887,8 +7887,8 @@
   - 07684447-n
   ili: i77260
   members:
-  - pigs### feet
-  - pigs### knuckles
+  - pigs' feet
+  - pigs' knuckles
   partOfSpeech: n
 07687467-n:
   definition:
@@ -8833,8 +8833,8 @@
   partOfSpeech: n
 07701291-n:
   definition:
-  - ###usually cooked in a skillet over an open fire: especially cornbread with ham
-    bits and sometimes Irish soda bread###
+  - "usually cooked in a skillet over an open fire: especially cornbread with ham
+    bits and sometimes Irish soda bread"
   hypernym:
   - 07700345-n
   ili: i77353
@@ -9733,7 +9733,7 @@
   partOfSpeech: n
 07713995-n:
   definition:
-  - ###a Greek sandwich: sliced roast lamb with onion and tomato stuffed into pita bread###
+  - "a Greek sandwich: sliced roast lamb with onion and tomato stuffed into pita bread"
   hypernym:
   - 07711710-n
   ili: i77440
@@ -10670,8 +10670,8 @@
   partOfSpeech: n
 07729140-n:
   definition:
-  - ###a vegetable of the mustard family: especially mustard greens, various cabbages,
-    broccoli, cauliflower, brussels sprouts###
+  - "a vegetable of the mustard family: especially mustard greens, various cabbages,
+    broccoli, cauliflower, brussels sprouts"
   hypernym:
   - 07723196-n
   ili: i77534
@@ -11051,7 +11051,7 @@
   partOfSpeech: n
 07735361-n:
   definition:
-  - ###any of various sprouted beans: especially mung beans or lentils or edible soybeans###
+  - "any of various sprouted beans: especially mung beans or lentils or edible soybeans"
   hypernym:
   - 07735182-n
   ili: i77573
@@ -12052,7 +12052,7 @@
   - 07725078-n
   ili: i77673
   members:
-  - lamb###s-quarter
+  - lamb's-quarter
   - pigweed
   - wild spinach
   partOfSpeech: n
@@ -12455,7 +12455,7 @@
   - 07757437-n
   ili: i77713
   members:
-  - Cox###s Orange Pippin
+  - Cox's Orange Pippin
   partOfSpeech: n
 07756196-n:
   definition:
@@ -12503,7 +12503,7 @@
   - 07755482-n
   ili: i77718
   members:
-  - Grimes### golden
+  - Grimes' golden
   partOfSpeech: n
 07756831-n:
   definition:
@@ -12614,7 +12614,7 @@
   - 07757988-n
   ili: i77730
   members:
-  - Bramley###s Seedling
+  - Bramley's Seedling
   partOfSpeech: n
 07758289-n:
   definition:
@@ -12632,7 +12632,7 @@
   - 07757988-n
   ili: i77732
   members:
-  - Lane###s Prince Albert
+  - Lane's Prince Albert
   partOfSpeech: n
 07758489-n:
   definition:
@@ -13832,7 +13832,7 @@
   - 07776835-n
   ili: i77853
   members:
-  - bullock###s heart
+  - bullock's heart
   - Jamaica apple
   partOfSpeech: n
 07777587-n:
@@ -14150,7 +14150,7 @@
   ili: i77883
   members:
   - longanberry
-  - dragon###s eye
+  - dragon's eye
   partOfSpeech: n
 07782506-n:
   definition:
@@ -16772,7 +16772,7 @@
   - 07823293-n
   ili: i78147
   members:
-  - chef###s salad
+  - chef's salad
   partOfSpeech: n
 07823570-n:
   definition:
@@ -17543,8 +17543,8 @@
   partOfSpeech: n
 07836273-n:
   definition:
-  - ###leaves sometimes used for flavoring fruit or claret cup but should be used with
-    great caution: can cause irritation like poison ivy###
+  - "leaves sometimes used for flavoring fruit or claret cup but should be used with
+    great caution: can cause irritation like poison ivy"
   hypernym:
   - 07827392-n
   ili: i78225
@@ -18293,7 +18293,7 @@
   partOfSpeech: n
 07848075-n:
   definition:
-  - ###for Chinese dishes: plum preserves and chutney###
+  - "for Chinese dishes: plum preserves and chutney"
   hypernym:
   - 07845388-n
   ili: i78300
@@ -18302,7 +18302,7 @@
   partOfSpeech: n
 07848178-n:
   definition:
-  - ###for Chinese dishes: peach preserves and chutney###
+  - "for Chinese dishes: peach preserves and chutney"
   hypernym:
   - 07845388-n
   ili: i78301
@@ -18311,7 +18311,7 @@
   partOfSpeech: n
 07848283-n:
   definition:
-  - ###for Chinese dishes: apricot preserves and chutney###
+  - "for Chinese dishes: apricot preserves and chutney"
   hypernym:
   - 07845388-n
   ili: i78302
@@ -18350,8 +18350,8 @@
   partOfSpeech: n
 07848878-n:
   definition:
-  - ###savory dressings for salads; basically of two kinds: either the thin French or
-    vinaigrette type or the creamy mayonnaise type###
+  - "savory dressings for salads; basically of two kinds: either the thin French or
+    vinaigrette type or the creamy mayonnaise type"
   hypernym:
   - 07845388-n
   ili: i78306
@@ -18420,7 +18420,7 @@
   partOfSpeech: n
 07850136-n:
   definition:
-  - ###a vinaigrette with garlic and herbs: oregano and basil and dill###
+  - "a vinaigrette with garlic and herbs: oregano and basil and dill"
   hypernym:
   - 07848878-n
   ili: i78313
@@ -18751,7 +18751,7 @@
   - 07845388-n
   ili: i78345
   members:
-  - hunter###s sauce
+  - hunter's sauce
   - sauce chausseur
   partOfSpeech: n
 07854787-n:
@@ -18795,8 +18795,8 @@
   partOfSpeech: n
 07855288-n:
   definition:
-  - ###for venison: brown sauce with sauteed vegetables and trimmings and marinade and
-    plenty of pepper###
+  - "for venison: brown sauce with sauteed vegetables and trimmings and marinade and
+    plenty of pepper"
   hypernym:
   - 07845388-n
   ili: i78350
@@ -19200,7 +19200,7 @@
   - 07860018-n
   ili: i78389
   members:
-  - cows### milk
+  - cows' milk
   partOfSpeech: n
 07861397-n:
   definition:
@@ -19209,7 +19209,7 @@
   - 07860018-n
   ili: i78390
   members:
-  - yak###s milk
+  - yak's milk
   partOfSpeech: n
 07861471-n:
   definition:
@@ -19218,7 +19218,7 @@
   - 07860018-n
   ili: i78391
   members:
-  - goats### milk
+  - goats' milk
   partOfSpeech: n
 07861547-n:
   definition:
@@ -19655,7 +19655,7 @@
   - cottage cheese
   - pot cheese
   - farm cheese
-  - farmer###s cheese
+  - farmer's cheese
   partOfSpeech: n
 07867902-n:
   definition:
@@ -20109,7 +20109,7 @@
   partOfSpeech: n
 07873574-n:
   definition:
-  - ###for preparing snails: butter seasoned with shallots and garlic and parsley###
+  - "for preparing snails: butter seasoned with shallots and garlic and parsley"
   hypernym:
   - 07845388-n
   ili: i78482
@@ -21496,7 +21496,7 @@
   - 07887916-n
   ili: i78622
   members:
-  - shepherd###s pie
+  - shepherd's pie
   partOfSpeech: n
 07893163-n:
   definition:
@@ -22343,7 +22343,7 @@
   ili: i78703
   members:
   - porter
-  - porter###s beer
+  - porter's beer
   partOfSpeech: n
 07906327-n:
   definition:
@@ -25225,7 +25225,7 @@
   ili: i78985
   members:
   - mimosa
-  - buck###s fizz
+  - buck's fizz
   partOfSpeech: n
 07946673-n:
   definition:
@@ -25293,7 +25293,7 @@
   - 07927917-n
   ili: i78992
   members:
-  - planter###s punch
+  - planter's punch
   mero_substance:
   - 07921278-n
   partOfSpeech: n
@@ -26548,7 +26548,7 @@
   hypernym:
   - 07766425-n
   members:
-  - Buddha###s hand
+  - Buddha's hand
   partOfSpeech: n
   source: plWordNet 4.0
 92414551-n:
@@ -26680,7 +26680,7 @@
   hypernym:
   - 07783823-n
   members:
-  - Clapp###s Favourite
+  - Clapp's Favourite
   partOfSpeech: n
   source: plWordNet 4.0
   wikidata: Q1095094

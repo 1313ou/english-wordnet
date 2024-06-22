@@ -2243,8 +2243,8 @@
   partOfSpeech: n
 01360348-n:
   definition:
-  - ###prokaryotic organisms sometimes considered a class or phylum or subkingdom; coextensive
-    with the Cyanophyceae: cyanobacteria (blue-green algae)###
+  - "prokaryotic organisms sometimes considered a class or phylum or subkingdom; coextensive
+    with the Cyanophyceae: cyanobacteria (blue-green algae)"
   hypernym:
   - 08238269-n
   ili: i42453
@@ -2279,8 +2279,8 @@
   partOfSpeech: n
 01360900-n:
   definition:
-  - ###photosynthetic bacteria found in fresh and salt water, having chlorophyll a and
-    phycobilins; once thought to be algae: blue-green algae###
+  - "photosynthetic bacteria found in fresh and salt water, having chlorophyll a and
+    phycobilins; once thought to be algae: blue-green algae"
   hypernym:
   - 08120743-n
   ili: i42456
@@ -2331,7 +2331,7 @@
   partOfSpeech: n
 01361844-n:
   definition:
-  - ###type genus of the family Nostocaceae: freshwater blue-green algae###
+  - "type genus of the family Nostocaceae: freshwater blue-green algae"
   hypernym:
   - 01355215-n
   ili: i42460
@@ -2501,7 +2501,7 @@
   partOfSpeech: n
 01364614-n:
   definition:
-  - ###usually rod-shaped bacteria that oxidize ammonia or nitrites: nitrobacteria###
+  - "usually rod-shaped bacteria that oxidize ammonia or nitrites: nitrobacteria"
   hypernym:
   - 01355215-n
   ili: i42475
@@ -2966,7 +2966,7 @@
   ili: i42515
   members:
   - Salmonella enteritidis
-  - Gartner###s bacillus
+  - Gartner's bacillus
   partOfSpeech: n
 01371999-n:
   definition:
@@ -3180,7 +3180,7 @@
   partOfSpeech: n
 01375185-n:
   definition:
-  - ###type genus of the family Chlamydiaceae: disease-causing parasites###
+  - "type genus of the family Chlamydiaceae: disease-causing parasites"
   hypernym:
   - 01355215-n
   ili: i42535
@@ -3562,8 +3562,8 @@
   partOfSpeech: n
 01380987-n:
   definition:
-  - ###type genus of the family Polyangiaceae: myxobacteria with rounded fruiting bodies
-    enclosed in a membrane###
+  - "type genus of the family Polyangiaceae: myxobacteria with rounded fruiting bodies
+    enclosed in a membrane"
   hypernym:
   - 01355215-n
   ili: i42570
@@ -3818,8 +3818,8 @@
   partOfSpeech: n
 01385123-n:
   definition:
-  - ###type genus of Treponemataceae: anaerobic spirochetes with an undulating rigid
-    body; parasitic in warm-blooded animals###
+  - "type genus of Treponemataceae: anaerobic spirochetes with an undulating rigid
+    body; parasitic in warm-blooded animals"
   hypernym:
   - 01355215-n
   ili: i42591
@@ -4053,10 +4053,10 @@
   partOfSpeech: n
 01389135-n:
   definition:
-  - ###in most modern classifications, replacement for the Protista; includes: Protozoa,
+  - "in most modern classifications, replacement for the Protista; includes: Protozoa,
     Euglenophyta, Chlorophyta, Cryptophyta, Heterokontophyta, Rhodophyta, unicellular
     protists and their descendant multicellular organisms: regarded as distinct from
-    plants and animals###
+    plants and animals"
   hypernym:
   - 07956792-n
   ili: i42613
@@ -4088,8 +4088,8 @@
   partOfSpeech: n
 01389849-n:
   definition:
-  - ###eukaryotic one-celled living organisms distinct from multicellular plants and
-    animals: protozoa, slime molds, and eukaryotic algae###
+  - "eukaryotic one-celled living organisms distinct from multicellular plants and
+    animals: protozoa, slime molds, and eukaryotic algae"
   hypernym:
   - 08237812-n
   ili: i42615
@@ -4169,8 +4169,8 @@
   partOfSpeech: n
 01392516-n:
   definition:
-  - ###characterized by the formation of pseudopods for locomotion and taking food:
-    Actinopoda; Rhizopoda###
+  - "characterized by the formation of pseudopods for locomotion and taking food:
+    Actinopoda; Rhizopoda"
   hypernym:
   - 08120743-n
   ili: i42622
@@ -4259,7 +4259,7 @@
   partOfSpeech: n
 01393815-n:
   definition:
-  - ###creeping protozoans: amoebas and foraminifers###
+  - "creeping protozoans: amoebas and foraminifers"
   hypernym:
   - 08120743-n
   ili: i42630
@@ -4547,8 +4547,8 @@
   partOfSpeech: n
 01398172-n:
   definition:
-  - ###in some recent classifications, coextensive with the Ciliata: minute organisms
-    found in decomposing infusions of organic matter###
+  - "in some recent classifications, coextensive with the Ciliata: minute organisms
+    found in decomposing infusions of organic matter"
   hypernym:
   - 08120743-n
   ili: i42655
@@ -4813,10 +4813,10 @@
   partOfSpeech: n
 01402413-n:
   definition:
-  - ###mostly freshwater eukaryotic algae having the chlorophyll masked by brown or
+  - "mostly freshwater eukaryotic algae having the chlorophyll masked by brown or
     yellow pigment; yellow-green and golden-brown algae and diatoms: Xanthophyceae,
     Chrysophyceae, Bacillariophyceae; some classification systems superseded or subsumed
-    by Heterokontophyta###
+    by Heterokontophyta"
   hypernym:
   - 08238269-n
   ili: i42681
@@ -4873,7 +4873,7 @@
   partOfSpeech: n
 01403532-n:
   definition:
-  - ###marine and freshwater eukaryotic algae: diatoms###
+  - "marine and freshwater eukaryotic algae: diatoms"
   hypernym:
   - 08120743-n
   ili: i42686
@@ -4994,8 +4994,8 @@
   partOfSpeech: n
 01405472-n:
   definition:
-  - ###in some classifications coextensive with family Laminariaceae: marine brown algae
-    of cold or polar seas###
+  - "in some classifications coextensive with family Laminariaceae: marine brown algae
+    of cold or polar seas"
   hypernym:
   - 01349840-n
   ili: i42696
@@ -5022,7 +5022,7 @@
   wikidata: Q2561624
 01405925-n:
   definition:
-  - ###type genus of the family Laminariaceae: perennial brown kelps###
+  - "type genus of the family Laminariaceae: perennial brown kelps"
   hypernym:
   - 01390771-n
   ili: i42698
@@ -5088,7 +5088,7 @@
   partOfSpeech: n
 01406770-n:
   definition:
-  - ###small family of brown algae: gulfweeds; rockweeds###
+  - "small family of brown algae: gulfweeds; rockweeds"
   hypernym:
   - 01390258-n
   ili: i42704
@@ -5133,7 +5133,7 @@
   partOfSpeech: n
 01407454-n:
   definition:
-  - ###type genus of the family Fucaceae: cartilaginous brown algae###
+  - "type genus of the family Fucaceae: cartilaginous brown algae"
   hypernym:
   - 01390771-n
   ili: i42708
@@ -5262,7 +5262,7 @@
   partOfSpeech: n
 01409206-n:
   definition:
-  - ###type genus of the family Euglenaceae: green algae with a single flagellum###
+  - "type genus of the family Euglenaceae: green algae with a single flagellum"
   hypernym:
   - 01390771-n
   ili: i42719
@@ -5376,8 +5376,8 @@
   wikidata: Q1202732
 01411188-n:
   definition:
-  - ###type genus of the family Ulvaceae; green seaweed having a thallus two cells thick:
-    sea lettuce###
+  - "type genus of the family Ulvaceae; green seaweed having a thallus two cells thick:
+    sea lettuce"
   hypernym:
   - 01390771-n
   ili: i42728
@@ -5475,7 +5475,7 @@
   partOfSpeech: n
 01412750-n:
   definition:
-  - ###pond scums: common freshwater algae forming green slimy masses###
+  - "pond scums: common freshwater algae forming green slimy masses"
   hypernym:
   - 01390258-n
   ili: i42736
@@ -5613,7 +5613,7 @@
   wikidata: Q290016
 01414726-n:
   definition:
-  - ###in some classifications: contains only the order Charales###
+  - "in some classifications: contains only the order Charales"
   hypernym:
   - 08120743-n
   ili: i42748
@@ -5626,8 +5626,8 @@
   partOfSpeech: n
 01414920-n:
   definition:
-  - ###small order of macroscopic fresh and brackish water algae with a distinct axis:
-    stoneworts###
+  - "small order of macroscopic fresh and brackish water algae with a distinct axis:
+    stoneworts"
   hypernym:
   - 01349840-n
   ili: i42749
@@ -5639,7 +5639,7 @@
   partOfSpeech: n
 01415120-n:
   definition:
-  - ###green algae superficially resembling horsetail ferns: stoneworts###
+  - "green algae superficially resembling horsetail ferns: stoneworts"
   hypernym:
   - 01390258-n
   ili: i42750
@@ -5730,7 +5730,7 @@
   partOfSpeech: n
 01416385-n:
   definition:
-  - ###coextensive with the Rhodophyta: red algae###
+  - "coextensive with the Rhodophyta: red algae"
   hypernym:
   - 08120743-n
   ili: i42758
@@ -6759,8 +6759,8 @@
   partOfSpeech: n
 01440446-n:
   definition:
-  - ###an order of animals including almost entirely freshwater fishes: characins, loaches,
-    carp, suckers; sometimes classified as a suborder of Ostariophysi###
+  - "an order of animals including almost entirely freshwater fishes: characins, loaches,
+    carp, suckers; sometimes classified as a suborder of Ostariophysi"
   hypernym:
   - 01345170-n
   ili: i42847
@@ -6811,7 +6811,7 @@
   partOfSpeech: n
 01441361-n:
   definition:
-  - ###a family of fish including: carp, tench, roach, rudd, dace###
+  - "a family of fish including: carp, tench, roach, rudd, dace"
   hypernym:
   - 01431990-n
   ili: i42851
@@ -6855,7 +6855,7 @@
   partOfSpeech: n
 01442298-n:
   definition:
-  - ###type genus of the family Cyprinidae: carp###
+  - "type genus of the family Cyprinidae: carp"
   hypernym:
   - 01435158-n
   ili: i42854
@@ -6946,7 +6946,7 @@
   partOfSpeech: n
 01443590-n:
   definition:
-  - ###a genus of fish including: dace, chub###
+  - "a genus of fish including: dace, chub"
   hypernym:
   - 01435158-n
   ili: i42862
@@ -7339,8 +7339,8 @@
   partOfSpeech: n
 01448924-n:
   definition:
-  - ###large family of small soft-finned fishes: killifishes, flagfishes, swordtails,
-    guppies###
+  - "large family of small soft-finned fishes: killifishes, flagfishes, swordtails,
+    guppies"
   hypernym:
   - 01431990-n
   ili: i42897
@@ -7693,7 +7693,7 @@
   partOfSpeech: n
 01454165-n:
   definition:
-  - ###a family of fish including: flashlight fishes###
+  - "a family of fish including: flashlight fishes"
   hypernym:
   - 01431990-n
   ili: i42927
@@ -8779,7 +8779,7 @@
   partOfSpeech: n
 01471173-n:
   definition:
-  - ###sometimes classified as an order: sea squirts###
+  - "sometimes classified as an order: sea squirts"
   hypernym:
   - 08120743-n
   ili: i43023
@@ -9109,8 +9109,8 @@
   partOfSpeech: n
 01476631-n:
   definition:
-  - ###superclass of eel-shaped chordates lacking jaws and pelvic fins: lampreys; hagfishes;
-    some extinct forms###
+  - "superclass of eel-shaped chordates lacking jaws and pelvic fins: lampreys; hagfishes;
+    some extinct forms"
   hypernym:
   - 08120743-n
   ili: i43049
@@ -9269,7 +9269,7 @@
   partOfSpeech: n
 01479470-n:
   definition:
-  - ###primitive jawless aquatic vertebrate: lampreys; hagfishes###
+  - "primitive jawless aquatic vertebrate: lampreys; hagfishes"
   hypernym:
   - 01345170-n
   ili: i43062
@@ -9371,7 +9371,7 @@
   wikidata: Q3093104
 01480941-n:
   definition:
-  - ###slime-producing marine animals: hagfishes###
+  - "slime-producing marine animals: hagfishes"
   hypernym:
   - 01431990-n
   ili: i43070
@@ -9626,8 +9626,8 @@
   wikidata: Q194257
 01484712-n:
   definition:
-  - ###any of numerous fishes of the class Chondrichthyes characterized by a cartilaginous
-    skeleton and placoid scales: sharks, rays, skates###
+  - "any of numerous fishes of the class Chondrichthyes characterized by a cartilaginous
+    skeleton and placoid scales: sharks, rays, skates"
   hypernym:
   - 01483157-n
   ili: i43091
@@ -9971,7 +9971,7 @@
   wikidata: Q259297
 01489953-n:
   definition:
-  - ###type and sole genus of Carchariidae: sand sharks###
+  - "type and sole genus of Carchariidae: sand sharks"
   hypernym:
   - 01435158-n
   ili: i43120
@@ -10056,8 +10056,8 @@
   partOfSpeech: n
 01491180-n:
   definition:
-  - ###largest family of living sharks; found worldwide especially in tropical waters;
-    dorsal fin lacks spines: requiem sharks including tiger sharks and soupfin sharks###
+  - "largest family of living sharks; found worldwide especially in tropical waters;
+    dorsal fin lacks spines: requiem sharks including tiger sharks and soupfin sharks"
   hypernym:
   - 01431990-n
   ili: i43127
@@ -10492,7 +10492,7 @@
   partOfSpeech: n
 01497981-n:
   definition:
-  - ###type genus of the Squatinidae: angel sharks###
+  - "type genus of the Squatinidae: angel sharks"
   hypernym:
   - 01435158-n
   ili: i43164
@@ -10568,8 +10568,8 @@
   wikidata: Q41317
 01499258-n:
   definition:
-  - ###fish with dorsoventrally flattened bodies: rays, skates, guitarfishes, sawfishes,
-    etc.###
+  - "fish with dorsoventrally flattened bodies: rays, skates, guitarfishes, sawfishes,
+    etc."
   hypernym:
   - 01345170-n
   ili: i43170
@@ -10795,7 +10795,7 @@
   partOfSpeech: n
 01502539-n:
   definition:
-  - ###large rays lacking venomous spines: mantas###
+  - "large rays lacking venomous spines: mantas"
   hypernym:
   - 01431990-n
   ili: i43189
@@ -10866,7 +10866,7 @@
   partOfSpeech: n
 01503636-n:
   definition:
-  - ###bottom-dwelling tropical rays: skates###
+  - "bottom-dwelling tropical rays: skates"
   hypernym:
   - 01431990-n
   ili: i43195
@@ -11130,7 +11130,7 @@
   partOfSpeech: n
 01517719-n:
   definition:
-  - ###any bird associated with night: owl, nightingale, nighthawk, etc.###
+  - "any bird associated with night: owl, nightingale, nighthawk, etc."
   hypernym:
   - 01505702-n
   ili: i43215
@@ -11282,8 +11282,8 @@
   partOfSpeech: n
 01520206-n:
   definition:
-  - ###flightless birds having flat breastbones lacking a keel for attachment of flight
-    muscles: ostriches, cassowaries, emus, moas, rheas, kiwis, elephant birds###
+  - "flightless birds having flat breastbones lacking a keel for attachment of flight
+    muscles: ostriches, cassowaries, emus, moas, rheas, kiwis, elephant birds"
   hypernym:
   - 01505702-n
   ili: i43229
@@ -11319,8 +11319,8 @@
   partOfSpeech: n
 01520988-n:
   definition:
-  - ###a ratite bird order: ostriches and related extinct birds; known from the Pleistocene
-    onward###
+  - "a ratite bird order: ostriches and related extinct birds; known from the Pleistocene
+    onward"
   hypernym:
   - 01345170-n
   ili: i43232
@@ -11332,7 +11332,7 @@
   partOfSpeech: n
 01521205-n:
   definition:
-  - ###tall terrestrial birds: ostriches###
+  - "tall terrestrial birds: ostriches"
   hypernym:
   - 01507078-n
   ili: i43233
@@ -11344,7 +11344,7 @@
   partOfSpeech: n
 01521359-n:
   definition:
-  - ###type genus of the Struthionidae: African ostriches###
+  - "type genus of the Struthionidae: African ostriches"
   hypernym:
   - 01509816-n
   ili: i43234
@@ -11366,7 +11366,7 @@
   partOfSpeech: n
 01521687-n:
   definition:
-  - ###a ratite bird order: cassowaries and emus###
+  - "a ratite bird order: cassowaries and emus"
   hypernym:
   - 01345170-n
   ili: i43236
@@ -11391,7 +11391,7 @@
   partOfSpeech: n
 01522042-n:
   definition:
-  - ###type and sole genus of the Casuaridae: cassowaries###
+  - "type and sole genus of the Casuaridae: cassowaries"
   hypernym:
   - 01509816-n
   ili: i43238
@@ -11435,8 +11435,8 @@
   partOfSpeech: n
 01522699-n:
   definition:
-  - ###a ratite bird order: flightless ground birds having vestigial wings and long
-    bills and small eyes: kiwis###
+  - "a ratite bird order: flightless ground birds having vestigial wings and long
+    bills and small eyes: kiwis"
   hypernym:
   - 01345170-n
   ili: i43242
@@ -11460,7 +11460,7 @@
   partOfSpeech: n
 01523083-n:
   definition:
-  - ###type genus of the Apterygidae: kiwis###
+  - "type genus of the Apterygidae: kiwis"
   hypernym:
   - 01509816-n
   ili: i43244
@@ -11482,8 +11482,8 @@
   partOfSpeech: n
 01523430-n:
   definition:
-  - ###a ratite bird order: birds intermediate in characteristics between ostriches
-    and emus: recent and extinct rheas###
+  - "a ratite bird order: birds intermediate in characteristics between ostriches
+    and emus: recent and extinct rheas"
   hypernym:
   - 01345170-n
   ili: i43246
@@ -11556,7 +11556,7 @@
   partOfSpeech: n
 01524621-n:
   definition:
-  - ###huge extinct flightless birds: elephant birds###
+  - "huge extinct flightless birds: elephant birds"
   hypernym:
   - 01345170-n
   ili: i43252
@@ -11580,7 +11580,7 @@
   partOfSpeech: n
 01524946-n:
   definition:
-  - ###type genus of the Aepyornidae: elephant birds###
+  - "type genus of the Aepyornidae: elephant birds"
   hypernym:
   - 01509816-n
   ili: i43254
@@ -11601,7 +11601,7 @@
   partOfSpeech: n
 01525235-n:
   definition:
-  - ###a ratite bird order: recently extinct flightless birds of New Zealand###
+  - "a ratite bird order: recently extinct flightless birds of New Zealand"
   hypernym:
   - 01345170-n
   ili: i43256
@@ -11628,7 +11628,7 @@
   partOfSpeech: n
 01525593-n:
   definition:
-  - ###type genus of the Dinornithidae: large moas###
+  - "type genus of the Dinornithidae: large moas"
   hypernym:
   - 01509816-n
   ili: i43258
@@ -11693,9 +11693,9 @@
   partOfSpeech: n
 01526549-n:
   definition:
-  - ###largest order of birds comprising about half the known species: rooks, finches,
+  - "largest order of birds comprising about half the known species: rooks, finches,
     sparrows, tits, warblers, robins, wrens, swallows, etc.; the four suborders are
-    Eurylaimi, Tyranni, Menurae and Oscines or Passeres###
+    Eurylaimi, Tyranni, Menurae and Oscines or Passeres"
   hypernym:
   - 01345170-n
   ili: i43264
@@ -11892,7 +11892,7 @@
   partOfSpeech: n
 01530415-n:
   definition:
-  - ###type genus of the Alaudidae: skylarks###
+  - "type genus of the Alaudidae: skylarks"
   hypernym:
   - 01509816-n
   ili: i43278
@@ -11927,7 +11927,7 @@
   partOfSpeech: n
 01530885-n:
   definition:
-  - ###type genus of the Motacillidae: wagtails###
+  - "type genus of the Motacillidae: wagtails"
   hypernym:
   - 01509816-n
   ili: i43281
@@ -11984,8 +11984,8 @@
   partOfSpeech: n
 01531677-n:
   definition:
-  - ###finches: goldfinches, bullfinches, chaffinches, siskins, canaries, cardinals,
-    grosbeaks, crossbills, linnets, buntings###
+  - "finches: goldfinches, bullfinches, chaffinches, siskins, canaries, cardinals,
+    grosbeaks, crossbills, linnets, buntings"
   hypernym:
   - 01507078-n
   ili: i43286
@@ -12027,7 +12027,7 @@
   partOfSpeech: n
 01532897-n:
   definition:
-  - ###type genus of the Fringillidae: chaffinch, brambling###
+  - "type genus of the Fringillidae: chaffinch, brambling"
   hypernym:
   - 01509816-n
   ili: i43288
@@ -12070,8 +12070,8 @@
   partOfSpeech: n
 01533487-n:
   definition:
-  - ###in some classifications considered the type genus of a subfamily Carduelinae
-    of the family Fringillidae: goldfinches, siskins, redpolls, linnets###
+  - "in some classifications considered the type genus of a subfamily Carduelinae
+    of the family Fringillidae: goldfinches, siskins, redpolls, linnets"
   hypernym:
   - 01509816-n
   ili: i43292
@@ -12150,8 +12150,8 @@
   partOfSpeech: n
 01534748-n:
   definition:
-  - ###in some classifications considered a subgenus of Carduelis: siskins and New World
-    goldfinches###
+  - "in some classifications considered a subgenus of Carduelis: siskins and New World
+    goldfinches"
   hypernym:
   - 01509816-n
   ili: i43299
@@ -12674,7 +12674,7 @@
   partOfSpeech: n
 01542018-n:
   definition:
-  - ###true sparrows: Old world birds formerly considered weaverbirds###
+  - "true sparrows: Old world birds formerly considered weaverbirds"
   hypernym:
   - 01507078-n
   ili: i43344
@@ -13295,7 +13295,7 @@
   partOfSpeech: n
 01550784-n:
   definition:
-  - ###type genus of the Tyrannidae: tyrant flycatchers###
+  - "type genus of the Tyrannidae: tyrant flycatchers"
   hypernym:
   - 01509816-n
   ili: i43397
@@ -13334,7 +13334,7 @@
   - 01550942-n
   ili: i43400
   members:
-  - Cassin###s kingbird
+  - Cassin's kingbird
   - Tyrannus vociferans
   partOfSpeech: n
   wikidata: Q1261628
@@ -13464,7 +13464,7 @@
   partOfSpeech: n
 01553266-n:
   definition:
-  - ###type genus of the Cotingidae: cotingas###
+  - "type genus of the Cotingidae: cotingas"
   hypernym:
   - 01509816-n
   ili: i43411
@@ -13610,7 +13610,7 @@
   wikidata: Q839859
 01555295-n:
   definition:
-  - ###type genus of the family Furnariidae: ovenbirds###
+  - "type genus of the family Furnariidae: ovenbirds"
   hypernym:
   - 01509816-n
   ili: i43424
@@ -14045,7 +14045,7 @@
   partOfSpeech: n
 01561935-n:
   definition:
-  - ###American thrush: wood thrush; hermit thrush; veery###
+  - "American thrush: wood thrush; hermit thrush; veery"
   hypernym:
   - 01509816-n
   ili: i43460
@@ -14074,7 +14074,7 @@
   ili: i43462
   members:
   - veery
-  - Wilson###s thrush
+  - Wilson's thrush
   - Hylocichla fuscescens
   partOfSpeech: n
 01562445-n:
@@ -14297,8 +14297,8 @@
   partOfSpeech: n
 01565225-n:
   definition:
-  - ###in some classifications considered a subfamily (Sylviinae) of the family Muscicapidae:
-    Old World (true) warblers; American kinglets and gnatcatchers###
+  - "in some classifications considered a subfamily (Sylviinae) of the family Muscicapidae:
+    Old World (true) warblers; American kinglets and gnatcatchers"
   hypernym:
   - 01507078-n
   ili: i43483
@@ -14421,7 +14421,7 @@
   partOfSpeech: n
 01567271-n:
   definition:
-  - ###type genus of the Sylviidae: warblers###
+  - "type genus of the Sylviidae: warblers"
   hypernym:
   - 01509816-n
   ili: i43494
@@ -14616,7 +14616,7 @@
   partOfSpeech: n
 01570171-n:
   definition:
-  - ###type genus of the Parulidae: wood warblers###
+  - "type genus of the Parulidae: wood warblers"
   hypernym:
   - 01509816-n
   ili: i43511
@@ -14645,8 +14645,8 @@
   - 01569774-n
   ili: i43513
   members:
-  - Wilson###s warbler
-  - Wilson###s blackcap
+  - Wilson's warbler
+  - Wilson's blackcap
   - Wilsonia pusilla
   partOfSpeech: n
 01570660-n:
@@ -14741,7 +14741,7 @@
   - 01569774-n
   ili: i43521
   members:
-  - Audubon###s warbler
+  - Audubon's warbler
   - Audubon warbler
   - Dendroica auduboni
   partOfSpeech: n
@@ -14982,7 +14982,7 @@
   - 01574969-n
   ili: i43542
   members:
-  - Bullock###s oriole
+  - Bullock's oriole
   - Icterus galbula bullockii
   partOfSpeech: n
 01575423-n:
@@ -15291,7 +15291,7 @@
   partOfSpeech: n
 01579504-n:
   definition:
-  - ###type genus of the Sturnidae: common starlings###
+  - "type genus of the Sturnidae: common starlings"
   hypernym:
   - 01509816-n
   ili: i43570
@@ -15426,7 +15426,7 @@
   partOfSpeech: n
 01581462-n:
   definition:
-  - ###type genus of the Corvidae: crows and ravens###
+  - "type genus of the Corvidae: crows and ravens"
   hypernym:
   - 01509816-n
   ili: i43581
@@ -15501,7 +15501,7 @@
   partOfSpeech: n
 01582509-n:
   definition:
-  - ###subfamily of the crow family: jays###
+  - "subfamily of the crow family: jays"
   hypernym:
   - 01507078-n
   ili: i43588
@@ -15525,7 +15525,7 @@
   partOfSpeech: n
 01582866-n:
   definition:
-  - ###type genus of the Garrulinae: Old World jays###
+  - "type genus of the Garrulinae: Old World jays"
   hypernym:
   - 01509816-n
   ili: i43590
@@ -15662,7 +15662,7 @@
   - 01584371-n
   ili: i43602
   members:
-  - Clark###s nutcracker
+  - Clark's nutcracker
   - Nucifraga columbiana
   partOfSpeech: n
 01584752-n:
@@ -15733,7 +15733,7 @@
   wikidata: Q1140949
 01585684-n:
   definition:
-  - ###type genus of the Cracticidae: Australian butcherbirds###
+  - "type genus of the Cracticidae: Australian butcherbirds"
   hypernym:
   - 01509816-n
   ili: i43609
@@ -15778,7 +15778,7 @@
   wikidata: Q2136293
 01586277-n:
   definition:
-  - ###in some classifications placed in the family Laniidae: Australian piping crows###
+  - "in some classifications placed in the family Laniidae: Australian piping crows"
   hypernym:
   - 01509816-n
   ili: i43613
@@ -15976,7 +15976,7 @@
   partOfSpeech: n
 01589182-n:
   definition:
-  - ###sometimes considered a subfamily of Troglodytidae: mockingbirds; catbirds; thrashers###
+  - "sometimes considered a subfamily of Troglodytidae: mockingbirds; catbirds; thrashers"
   hypernym:
   - 01507078-n
   ili: i43630
@@ -15991,7 +15991,7 @@
   partOfSpeech: n
 01589432-n:
   definition:
-  - ###type genus of the family Mimidae: mockingbirds###
+  - "type genus of the family Mimidae: mockingbirds"
   hypernym:
   - 01509816-n
   ili: i43631
@@ -16490,7 +16490,7 @@
   partOfSpeech: n
 01596498-n:
   definition:
-  - ###type genus of the Irenidae: fairy bluebirds###
+  - "type genus of the Irenidae: fairy bluebirds"
   hypernym:
   - 01509816-n
   ili: i43674
@@ -16830,7 +16830,7 @@
   partOfSpeech: n
 01601461-n:
   definition:
-  - ###type genus of the Laniidae: typical shrikes###
+  - "type genus of the Laniidae: typical shrikes"
   hypernym:
   - 01509816-n
   ili: i43703
@@ -17219,8 +17219,8 @@
   partOfSpeech: n
 01607266-n:
   definition:
-  - ###chiefly diurnal carnivorous birds having hooked beaks and long talons with opposable
-    hind toe: falcons, hawks, eagles, ospreys, caracaras, vultures###
+  - "chiefly diurnal carnivorous birds having hooked beaks and long talons with opposable
+    hind toe: falcons, hawks, eagles, ospreys, caracaras, vultures"
   hypernym:
   - 01345170-n
   ili: i43738
@@ -17347,7 +17347,7 @@
   - 01608271-n
   ili: i43747
   members:
-  - Cooper###s hawk
+  - Cooper's hawk
   - blue darter
   - Accipiter cooperii
   partOfSpeech: n
@@ -17571,7 +17571,7 @@
   - 01612392-n
   ili: i43767
   members:
-  - Montagu###s harrier
+  - Montagu's harrier
   - Circus pygargus
   partOfSpeech: n
 01612867-n:
@@ -17756,7 +17756,7 @@
   - 01615269-n
   ili: i43783
   members:
-  - Audubon###s caracara
+  - Audubon's caracara
   - Polyborus cheriway audubonii
   partOfSpeech: n
 01615818-n:
@@ -17906,7 +17906,7 @@
   ili: i43797
   members:
   - Kamchatkan sea eagle
-  - Stellar###s sea eagle
+  - Stellar's sea eagle
   - Haliaeetus pelagicus
   partOfSpeech: n
 01618099-n:
@@ -18072,7 +18072,7 @@
   ili: i43811
   members:
   - Egyptian vulture
-  - Pharaoh###s chicken
+  - Pharaoh's chicken
   - Neophron percnopterus
   partOfSpeech: n
 01620590-n:
@@ -18161,7 +18161,7 @@
   partOfSpeech: n
 01621793-n:
   definition:
-  - ###type genus of the Cathartidae: turkey vultures###
+  - "type genus of the Cathartidae: turkey vultures"
   hypernym:
   - 01509816-n
   ili: i43819
@@ -19019,7 +19019,7 @@
   partOfSpeech: n
 01635688-n:
   definition:
-  - ###large aquatic salamanders: hellbenders; giant salamanders###
+  - "large aquatic salamanders: hellbenders; giant salamanders"
   hypernym:
   - 01628775-n
   ili: i43894
@@ -19500,7 +19500,7 @@
   partOfSpeech: n
 01643024-n:
   definition:
-  - ###a family nearly cosmopolitan in distribution: true frogs###
+  - "a family nearly cosmopolitan in distribution: true frogs"
   hypernym:
   - 01628775-n
   ili: i43934
@@ -19659,7 +19659,7 @@
   partOfSpeech: n
 01645584-n:
   definition:
-  - ###toothed frogs: terrestrial or aquatic or arboreal###
+  - "toothed frogs: terrestrial or aquatic or arboreal"
   hypernym:
   - 01642406-n
   ili: i43947
@@ -19771,7 +19771,7 @@
   partOfSpeech: n
 01647183-n:
   definition:
-  - ###family of one species of frog: tailed frog###
+  - "family of one species of frog: tailed frog"
   hypernym:
   - 01628775-n
   ili: i43957
@@ -20483,7 +20483,7 @@
   partOfSpeech: n
 01657757-n:
   definition:
-  - ###coextensive with the order Gymnophiona: legless amphibians###
+  - "coextensive with the order Gymnophiona: legless amphibians"
   hypernym:
   - 01628775-n
   ili: i44019
@@ -20864,7 +20864,7 @@
   partOfSpeech: n
 01668013-n:
   definition:
-  - ###type genus of the Dermochelyidae: leatherback turtles###
+  - "type genus of the Dermochelyidae: leatherback turtles"
   hypernym:
   - 01660364-n
   ili: i44050
@@ -21364,7 +21364,7 @@
   partOfSpeech: n
 01675408-n:
   definition:
-  - ###diapsid reptiles: lizards, snakes, tuataras###
+  - "diapsid reptiles: lizards, snakes, tuataras"
   hypernym:
   - 08120743-n
   ili: i44092
@@ -21389,7 +21389,7 @@
   partOfSpeech: n
 01675759-n:
   definition:
-  - ###coextensive with the order Rhynchocephalia: tuataras###
+  - "coextensive with the order Rhynchocephalia: tuataras"
   hypernym:
   - 01660364-n
   ili: i44094
@@ -21412,7 +21412,7 @@
   partOfSpeech: n
 01676144-n:
   definition:
-  - ###diapsid reptiles: snakes and lizards###
+  - "diapsid reptiles: snakes and lizards"
   hypernym:
   - 01345170-n
   ili: i44096
@@ -21760,8 +21760,8 @@
   partOfSpeech: n
 01681948-n:
   definition:
-  - ###any of several slender lizards without external ear openings: of plains of western
-    United States and Mexico###
+  - "any of several slender lizards without external ear openings: of plains of western
+    United States and Mexico"
   hypernym:
   - 01679396-n
   ili: i44123
@@ -22233,8 +22233,8 @@
   partOfSpeech: n
 01688861-n:
   definition:
-  - ###having distinct longitudinal stripes: of Colorado Plateau from Arizona to western
-    Colorado###
+  - "having distinct longitudinal stripes: of Colorado Plateau from Arizona to western
+    Colorado"
   hypernym:
   - 01688449-n
   ili: i44164
@@ -22483,7 +22483,7 @@
   partOfSpeech: n
 01692646-n:
   definition:
-  - ###type genus of the Anguidae: blindworms###
+  - "type genus of the Anguidae: blindworms"
   hypernym:
   - 01660364-n
   ili: i44186
@@ -22544,8 +22544,8 @@
   partOfSpeech: n
 01693498-n:
   definition:
-  - ###type and sole genus of Xenosauridae: slender-bodied Mexican lizards having the
-    upper surface covered with tiny granules and tubercles###
+  - "type and sole genus of Xenosauridae: slender-bodied Mexican lizards having the
+    upper surface covered with tiny granules and tubercles"
   hypernym:
   - 01660364-n
   ili: i44191
@@ -22853,8 +22853,8 @@
   wikidata: Q4504
 01697900-n:
   definition:
-  - ###a large subclass of diapsid reptiles including: crocodiles, alligators, dinosaurs,
-    pterosaurs, plesiosaurs, ichthyosaurs, thecodonts###
+  - "a large subclass of diapsid reptiles including: crocodiles, alligators, dinosaurs,
+    pterosaurs, plesiosaurs, ichthyosaurs, thecodonts"
   hypernym:
   - 08120743-n
   ili: i44217
@@ -22875,8 +22875,8 @@
   partOfSpeech: n
 01698322-n:
   definition:
-  - ###extinct reptiles including: dinosaurs, plesiosaurs, pterosaurs, ichthyosaurs,
-    thecodonts###
+  - "extinct reptiles including: dinosaurs, plesiosaurs, pterosaurs, ichthyosaurs,
+    thecodonts"
   hypernym:
   - 01664459-n
   ili: i44218
@@ -23010,7 +23010,7 @@
   - 01699819-n
   ili: i44229
   members:
-  - Morlett###s crocodile
+  - Morlett's crocodile
   partOfSpeech: n
 01700478-n:
   definition:
@@ -23169,8 +23169,8 @@
   partOfSpeech: n
 01702717-n:
   definition:
-  - ###extinct terrestrial reptiles having bird-like pelvises: armored dinosaurs (thyreophorans);
-    boneheaded and horned dinosaurs (marginocephalians); duck-billed dinosaurs (euronithopods)###
+  - "extinct terrestrial reptiles having bird-like pelvises: armored dinosaurs (thyreophorans);
+    boneheaded and horned dinosaurs (marginocephalians); duck-billed dinosaurs (euronithopods)"
   hypernym:
   - 01345170-n
   ili: i44244
@@ -23240,7 +23240,7 @@
   partOfSpeech: n
 01703975-n:
   definition:
-  - ###armored dinosaurs: stegosaurs and ankylosaurs###
+  - "armored dinosaurs: stegosaurs and ankylosaurs"
   hypernym:
   - 01345170-n
   ili: i44250
@@ -23665,7 +23665,7 @@
   partOfSpeech: n
 01710536-n:
   definition:
-  - ###extinct terrestrial reptiles: theropods (carnivorous); sauropods (herbivorous)###
+  - "extinct terrestrial reptiles: theropods (carnivorous); sauropods (herbivorous)"
   hypernym:
   - 01345170-n
   ili: i44287
@@ -23689,8 +23689,8 @@
   partOfSpeech: n
 01710973-n:
   definition:
-  - ###gigantic herbivorous dinosaurs having huge bodies with long necks and small heads:
-    Prosauropoda and Sauropoda (apatosaurus, diplodocus and titanosaurs)###
+  - "gigantic herbivorous dinosaurs having huge bodies with long necks and small heads:
+    Prosauropoda and Sauropoda (apatosaurus, diplodocus and titanosaurs)"
   hypernym:
   - 01345170-n
   ili: i44289
@@ -24602,7 +24602,7 @@
   partOfSpeech: n
 01725469-n:
   definition:
-  - ###extinct flying reptiles: pterosaurs###
+  - "extinct flying reptiles: pterosaurs"
   hypernym:
   - 01345170-n
   ili: i44368
@@ -24685,7 +24685,7 @@
   partOfSpeech: n
 01726696-n:
   definition:
-  - ###extinct marine reptiles: ichthyosaurs###
+  - "extinct marine reptiles: ichthyosaurs"
   hypernym:
   - 01345170-n
   ili: i44375
@@ -24764,7 +24764,7 @@
   partOfSpeech: n
 01727881-n:
   definition:
-  - ###extinct marine reptiles: plesiosaurs; nothosaurs###
+  - "extinct marine reptiles: plesiosaurs; nothosaurs"
   hypernym:
   - 01345170-n
   ili: i44382
@@ -25968,8 +25968,8 @@
   partOfSpeech: n
 01745864-n:
   definition:
-  - ###Old World boas: pythons; in some classifications considered a separate family
-    from Boidae###
+  - "Old World boas: pythons; in some classifications considered a separate family
+    from Boidae"
   hypernym:
   - 01659454-n
   ili: i44486
@@ -27043,7 +27043,7 @@
   partOfSpeech: n
 01769840-n:
   definition:
-  - ###jointed-foot invertebrates: arachnids, crustaceans, insects, millipedes, centipedes###
+  - "jointed-foot invertebrates: arachnids, crustaceans, insects, millipedes, centipedes"
   hypernym:
   - 08119521-n
   ili: i44579
@@ -27924,7 +27924,7 @@
   partOfSpeech: n
 01784051-n:
   definition:
-  - ###type genus of the family Sarcoptidae: itch mites###
+  - "type genus of the family Sarcoptidae: itch mites"
   hypernym:
   - 01765166-n
   ili: i44651
@@ -28028,8 +28028,8 @@
   partOfSpeech: n
 01785658-n:
   definition:
-  - ###general term for any terrestrial arthropod having an elongated body composed
-    of many similar segments: e.g. centipedes and millipedes###
+  - "general term for any terrestrial arthropod having an elongated body composed
+    of many similar segments: e.g. centipedes and millipedes"
   hypernym:
   - 01770302-n
   ili: i44660
@@ -28087,10 +28087,10 @@
   partOfSpeech: n
 01786577-n:
   definition:
-  - ###in some classifications considered a separate phylum: microscopic arachnid-like
+  - "in some classifications considered a separate phylum: microscopic arachnid-like
     invertebrates living in water or damp moss having 4 pairs of legs and instead
     of a mouth a pair of stylets or needlelike piercing organs connected with the
-    pharynx###
+    pharynx"
   hypernym:
   - 08120743-n
   ili: i44665
@@ -28113,8 +28113,8 @@
   partOfSpeech: n
 01787068-n:
   definition:
-  - ###arthropods having the trunk composed of numerous somites each bearing one pair
-    of legs: centipedes###
+  - "arthropods having the trunk composed of numerous somites each bearing one pair
+    of legs: centipedes"
   hypernym:
   - 08120743-n
   ili: i44667
@@ -28228,8 +28228,8 @@
   partOfSpeech: n
 01788860-n:
   definition:
-  - ###type genus of the Geophilidae: a cosmopolitan genus of centipedes sometimes called
-    earwigs###
+  - "type genus of the Geophilidae: a cosmopolitan genus of centipedes sometimes called
+    earwigs"
   hypernym:
   - 01765166-n
   ili: i44677
@@ -28239,8 +28239,8 @@
   partOfSpeech: n
 01789043-n:
   definition:
-  - ###arthropods having the body composed of numerous double somites each with two
-    pairs of legs: millipedes###
+  - "arthropods having the body composed of numerous double somites each with two
+    pairs of legs: millipedes"
   hypernym:
   - 08120743-n
   ili: i44678
@@ -28760,7 +28760,7 @@
   partOfSpeech: n
 01796629-n:
   definition:
-  - ###type genus of the Meleagrididae: wild and domestic turkeys###
+  - "type genus of the Meleagrididae: wild and domestic turkeys"
   hypernym:
   - 01509816-n
   ili: i44725
@@ -28966,7 +28966,7 @@
   partOfSpeech: n
 01799511-n:
   definition:
-  - ###type genus of the Tetraonidae: capercaillies###
+  - "type genus of the Tetraonidae: capercaillies"
   hypernym:
   - 01509816-n
   ili: i44743
@@ -29164,7 +29164,7 @@
   partOfSpeech: n
 01802181-n:
   definition:
-  - ###type genus of the Cracidae: curassows###
+  - "type genus of the Cracidae: curassows"
   hypernym:
   - 01509816-n
   ili: i44760
@@ -29402,7 +29402,7 @@
   partOfSpeech: n
 01805536-n:
   definition:
-  - ###type genus of the Phasianidae: the typical pheasants###
+  - "type genus of the Phasianidae: the typical pheasants"
   hypernym:
   - 01509816-n
   ili: i44780
@@ -29898,7 +29898,7 @@
   partOfSpeech: n
 01812233-n:
   definition:
-  - ###type genus of the Opisthocomidae: hoatzins###
+  - "type genus of the Opisthocomidae: hoatzins"
   hypernym:
   - 01509816-n
   ili: i44824
@@ -29996,7 +29996,7 @@
   partOfSpeech: n
 01813745-n:
   definition:
-  - ###type genus of the Raphidae: dodos###
+  - "type genus of the Raphidae: dodos"
   hypernym:
   - 01509816-n
   ili: i44832
@@ -30086,7 +30086,7 @@
   partOfSpeech: n
 01815112-n:
   definition:
-  - ###type genus of the Columbidae: typical pigeons###
+  - "type genus of the Columbidae: typical pigeons"
   hypernym:
   - 01509816-n
   ili: i44840
@@ -30382,7 +30382,7 @@
   - 01818242-n
   ili: i44866
   members:
-  - pallas###s sandgrouse
+  - pallas's sandgrouse
   - Syrrhaptes paradoxus
   partOfSpeech: n
 01819276-n:
@@ -30453,7 +30453,7 @@
   wikidata: Q8327
 01820413-n:
   definition:
-  - ###type genus of the Psittacidae: usually restricted to the African grey###
+  - "type genus of the Psittacidae: usually restricted to the African grey"
   hypernym:
   - 01509816-n
   ili: i44872
@@ -31761,7 +31761,7 @@
   - 01837917-n
   ili: i44983
   members:
-  - chuck-will###s-widow
+  - chuck-will's-widow
   - Caprimulgus carolinensis
   partOfSpeech: n
 01838728-n:
@@ -32436,8 +32436,8 @@
   partOfSpeech: n
 01848268-n:
   definition:
-  - ###swimming birds having heavy short-legged bodies and bills with a horny tip: swans,
-    geese, ducks###
+  - "swimming birds having heavy short-legged bodies and bills with a horny tip: swans,
+    geese, ducks"
   hypernym:
   - 01507078-n
   ili: i45043
@@ -32536,7 +32536,7 @@
   partOfSpeech: n
 01850206-n:
   definition:
-  - ###type genus of the Anatidae: freshwater ducks###
+  - "type genus of the Anatidae: freshwater ducks"
   hypernym:
   - 01509816-n
   ili: i45051
@@ -32760,7 +32760,7 @@
   - 01853014-n
   ili: i45070
   members:
-  - Barrow###s goldeneye
+  - Barrow's goldeneye
   - Bucephala islandica
   partOfSpeech: n
 01853317-n:
@@ -32926,7 +32926,7 @@
   wikidata: Q242851
 01855502-n:
   definition:
-  - ###any of various large diving ducks found along the seacoast: eider, scoter, merganser###
+  - "any of various large diving ducks found along the seacoast: eider, scoter, merganser"
   hypernym:
   - 01848972-n
   ili: i45085
@@ -33416,7 +33416,7 @@
   - 01862137-n
   ili: i45128
   members:
-  - Bewick###s swan
+  - Bewick's swan
   - Cygnus columbianus bewickii
   partOfSpeech: n
 01862643-n:
@@ -33979,7 +33979,7 @@
   partOfSpeech: n
 01880048-n:
   definition:
-  - ###type genus of the family Macropodidae: typical kangaroos and wallabies###
+  - "type genus of the family Macropodidae: typical kangaroos and wallabies"
   hypernym:
   - 01867348-n
   ili: i45175
@@ -34265,7 +34265,7 @@
   partOfSpeech: n
 01884057-n:
   definition:
-  - ###type genus of the family Phalangeridae: cuscuses###
+  - "type genus of the family Phalangeridae: cuscuses"
   hypernym:
   - 01867348-n
   ili: i45200
@@ -34428,7 +34428,7 @@
   partOfSpeech: n
 01886403-n:
   definition:
-  - ###type genus of the family Dasyuridae: native cats###
+  - "type genus of the family Dasyuridae: native cats"
   hypernym:
   - 01867348-n
   ili: i45214
@@ -34580,7 +34580,7 @@
   partOfSpeech: n
 01888497-n:
   definition:
-  - ###type genus of the family Notoryctidae: comprising solely the marsupial mole###
+  - "type genus of the family Notoryctidae: comprising solely the marsupial mole"
   hypernym:
   - 01867348-n
   ili: i45227
@@ -34835,7 +34835,7 @@
   - 01892161-n
   ili: i45248
   members:
-  - brewer###s mole
+  - brewer's mole
   - hair-tailed mole
   - Parascalops breweri
   partOfSpeech: n
@@ -34958,7 +34958,7 @@
   partOfSpeech: n
 01894506-n:
   definition:
-  - ###type genus of the family Soricidae: shrews###
+  - "type genus of the family Soricidae: shrews"
   hypernym:
   - 01867348-n
   ili: i45259
@@ -35099,7 +35099,7 @@
   wikidata: Q28257
 01896307-n:
   definition:
-  - ###type genus of the family Erinaceidae: hedgehogs###
+  - "type genus of the family Erinaceidae: hedgehogs"
   hypernym:
   - 01867348-n
   ili: i45272
@@ -35147,7 +35147,7 @@
   partOfSpeech: n
 01897022-n:
   definition:
-  - ###type genus of the family Tenrecidae: tenrecs###
+  - "type genus of the family Tenrecidae: tenrecs"
   hypernym:
   - 01867348-n
   ili: i45276
@@ -35180,7 +35180,7 @@
   partOfSpeech: n
 01897444-n:
   definition:
-  - ###type genus of the family Potamogalidae: otter shrews###
+  - "type genus of the family Potamogalidae: otter shrews"
   hypernym:
   - 01867348-n
   ili: i45279
@@ -35327,7 +35327,7 @@
   - 01899202-n
   ili: i45293
   members:
-  - swan###s down
+  - swan's down
   partOfSpeech: n
 01899787-n:
   definition:
@@ -35925,7 +35925,7 @@
   partOfSpeech: n
 01909193-n:
   definition:
-  - ###coextensive with the subkingdom Parazoa: sponges###
+  - "coextensive with the subkingdom Parazoa: sponges"
   hypernym:
   - 08119521-n
   ili: i45355
@@ -36021,7 +36021,7 @@
   - 01910379-n
   ili: i45363
   members:
-  - Venus###s flower basket
+  - Venus's flower basket
   partOfSpeech: n
 01910928-n:
   definition:
@@ -36108,8 +36108,8 @@
   partOfSpeech: n
 01912547-n:
   definition:
-  - ###one of two forms that coelenterates take (e.g. a hydra or coral): usually sedentary
-    with a hollow cylindrical body usually with a ring of tentacles around the mouth###
+  - "one of two forms that coelenterates take (e.g. a hydra or coral): usually sedentary
+    with a hollow cylindrical body usually with a ring of tentacles around the mouth"
   example:
   - in some species of coelenterate, polyps are a phase in the life cycle that alternates
     with a medusoid phase
@@ -36121,9 +36121,9 @@
   partOfSpeech: n
 01912893-n:
   definition:
-  - ###one of two forms that coelenterates take: it is the free-swimming sexual phase
+  - "one of two forms that coelenterates take: it is the free-swimming sexual phase
     in the life cycle of a coelenterate; in this phase it has a gelatinous umbrella-shaped
-    body and tentacles###
+    body and tentacles"
   hypernym:
   - 01912063-n
   ili: i45372
@@ -36134,7 +36134,7 @@
   partOfSpeech: n
 01913170-n:
   definition:
-  - ###coelenterates in which the polyp stage is absent or at least inconspicuous: jellyfishes###
+  - "coelenterates in which the polyp stage is absent or at least inconspicuous: jellyfishes"
   hypernym:
   - 08120743-n
   ili: i45373
@@ -36198,8 +36198,8 @@
   partOfSpeech: n
 01914152-n:
   definition:
-  - ###coelenterates typically having alternation of generations; hydroid phase is usually
-    colonial giving rise to the medusoid phase by budding: hydras and jellyfishes###
+  - "coelenterates typically having alternation of generations; hydroid phase is usually
+    colonial giving rise to the medusoid phase by budding: hydras and jellyfishes"
   hypernym:
   - 08120743-n
   ili: i45379
@@ -36464,7 +36464,7 @@
   partOfSpeech: n
 01918182-n:
   definition:
-  - ###type genus of the family Pennatulidae: sea pens###
+  - "type genus of the family Pennatulidae: sea pens"
   hypernym:
   - 01911056-n
   ili: i45402
@@ -36614,7 +36614,7 @@
   ili: i45415
   members:
   - staghorn coral
-  - stag###s-horn coral
+  - stag's-horn coral
   partOfSpeech: n
 01920392-n:
   definition:
@@ -36695,7 +36695,7 @@
   partOfSpeech: n
 01921740-n:
   definition:
-  - ###ctenophores lacking tentacles; comprises one genus: beroe###
+  - "ctenophores lacking tentacles; comprises one genus: beroe"
   hypernym:
   - 08120743-n
   ili: i45423
@@ -36851,7 +36851,7 @@
   - 01921385-n
   ili: i45436
   members:
-  - Venus###s girdle
+  - Venus's girdle
   - Cestum veneris
   partOfSpeech: n
 01923857-n:
@@ -36936,8 +36936,8 @@
   partOfSpeech: n
 01925812-n:
   definition:
-  - ###phylum or class of elongated wormlike parasites that live in the intestines of
-    vertebrates: spiny-headed worms###
+  - "phylum or class of elongated wormlike parasites that live in the intestines of
+    vertebrates: spiny-headed worms"
   hypernym:
   - 08119521-n
   ili: i45445
@@ -36960,7 +36960,7 @@
   partOfSpeech: n
 01926278-n:
   definition:
-  - ###arrowworms: a group of small active transparent marine worms###
+  - "arrowworms: a group of small active transparent marine worms"
   hypernym:
   - 08119521-n
   ili: i45447
@@ -37186,7 +37186,7 @@
   wikidata: Q2095142
 01929629-n:
   definition:
-  - ###type genus of the family Schistosomatidae: blood flukes###
+  - "type genus of the family Schistosomatidae: blood flukes"
   hypernym:
   - 01924528-n
   ili: i45466
@@ -37269,7 +37269,7 @@
   wikidata: Q344662
 01930714-n:
   definition:
-  - ###type genus of the family Taeniidae: tapeworms###
+  - "type genus of the family Taeniidae: tapeworms"
   hypernym:
   - 01924528-n
   ili: i45473
@@ -37339,7 +37339,7 @@
   partOfSpeech: n
 01931688-n:
   definition:
-  - ###a phylum including: rotifers###
+  - "a phylum including: rotifers"
   hypernym:
   - 08119521-n
   ili: i45479
@@ -37362,7 +37362,7 @@
   partOfSpeech: n
 01932037-n:
   definition:
-  - ###unsegmented worms: roundworms, threadworms, eelworms###
+  - "unsegmented worms: roundworms, threadworms, eelworms"
   hypernym:
   - 08119521-n
   ili: i45481
@@ -37434,7 +37434,7 @@
   partOfSpeech: n
 01933313-n:
   definition:
-  - ###type genus of the family Ascaridae: roundworms with a three-lipped mouth###
+  - "type genus of the family Ascaridae: roundworms with a three-lipped mouth"
   hypernym:
   - 01924528-n
   ili: i45486
@@ -37693,7 +37693,7 @@
   wikidata: Q1502531
 01936848-n:
   definition:
-  - ###segmented worms: earthworms, lugworms, leeches###
+  - "segmented worms: earthworms, lugworms, leeches"
   hypernym:
   - 08119521-n
   ili: i45508
@@ -37799,8 +37799,8 @@
   partOfSpeech: n
 01938638-n:
   definition:
-  - ###type genus of the Branchiobdellidae: a small worm that lives on the gills or
-    surface of a crayfish attached by a sucker###
+  - "type genus of the Branchiobdellidae: a small worm that lives on the gills or
+    surface of a crayfish attached by a sucker"
   hypernym:
   - 01924528-n
   ili: i45516
@@ -38345,8 +38345,8 @@
   partOfSpeech: n
 01948486-n:
   definition:
-  - ###any of several creeping marine gastropods with a spirally coiled shell: whelks,
-    tritons, moon shells, neritids###
+  - "any of several creeping marine gastropods with a spirally coiled shell: whelks,
+    tritons, moon shells, neritids"
   hypernym:
   - 01944818-n
   ili: i45562
@@ -38513,7 +38513,7 @@
   wikidata: Q1325371
 01950925-n:
   definition:
-  - ###type genus of the family Littorinidae: periwinkles###
+  - "type genus of the family Littorinidae: periwinkles"
   hypernym:
   - 01942239-n
   ili: i45577
@@ -38560,7 +38560,7 @@
   wikidata: Q1078016
 01951558-n:
   definition:
-  - ###type genus of the family Patellidae: common European limpets###
+  - "type genus of the family Patellidae: common European limpets"
   hypernym:
   - 01942239-n
   ili: i45581
@@ -38594,7 +38594,7 @@
   partOfSpeech: n
 01951971-n:
   definition:
-  - ###type genus of the family Fissurellidae: keyhole limpets###
+  - "type genus of the family Fissurellidae: keyhole limpets"
   hypernym:
   - 01942239-n
   ili: i45584
@@ -38629,7 +38629,7 @@
   partOfSpeech: n
 01952458-n:
   definition:
-  - ###type genus of the family Ancylidae: river limpet###
+  - "type genus of the family Ancylidae: river limpet"
   hypernym:
   - 01942239-n
   ili: i45587
@@ -38654,8 +38654,8 @@
   partOfSpeech: n
 01952836-n:
   definition:
-  - ###gastropods having the gills when present posterior to the heart and having no
-    operculum: includes sea slugs, sea butterflies, sea hares###
+  - "gastropods having the gills when present posterior to the heart and having no
+    operculum: includes sea slugs, sea butterflies, sea hares"
   hypernym:
   - 08120743-n
   ili: i45589
@@ -38860,7 +38860,7 @@
   wikidata: Q1141733
 01955838-n:
   definition:
-  - ###type genus of the family Cypraeidae: the typical cowries###
+  - "type genus of the family Cypraeidae: the typical cowries"
   hypernym:
   - 01942239-n
   ili: i45606
@@ -39159,7 +39159,7 @@
   wikidata: Q1233703
 01960380-n:
   definition:
-  - ###type genus of the family Veneridae: genus of edible clams with thick oval shells###
+  - "type genus of the family Veneridae: genus of edible clams with thick oval shells"
   hypernym:
   - 01942239-n
   ili: i45630
@@ -39277,7 +39277,7 @@
   partOfSpeech: n
 01961974-n:
   definition:
-  - ###type genus of the family Tridacnidae: giant clams###
+  - "type genus of the family Tridacnidae: giant clams"
   hypernym:
   - 01942239-n
   ili: i45640
@@ -39312,7 +39312,7 @@
   partOfSpeech: n
 01962475-n:
   definition:
-  - ###type genus of the family Cardiidae: cockles###
+  - "type genus of the family Cardiidae: cockles"
   hypernym:
   - 01942239-n
   ili: i45643
@@ -39490,7 +39490,7 @@
   partOfSpeech: n
 01964991-n:
   definition:
-  - ###type genus of the family Anomiidae: saddle oysters###
+  - "type genus of the family Anomiidae: saddle oysters"
   hypernym:
   - 01942239-n
   ili: i45658
@@ -39550,7 +39550,7 @@
   partOfSpeech: n
 01965777-n:
   definition:
-  - ###type genus of the family Arcidae: ark shells and blood clams###
+  - "type genus of the family Arcidae: ark shells and blood clams"
   hypernym:
   - 01942239-n
   ili: i45663
@@ -39604,7 +39604,7 @@
   partOfSpeech: n
 01966517-n:
   definition:
-  - ###type genus of the family Mytilidae: smooth-shelled marine mussels###
+  - "type genus of the family Mytilidae: smooth-shelled marine mussels"
   hypernym:
   - 01942239-n
   ili: i45668
@@ -39755,7 +39755,7 @@
   partOfSpeech: n
 01968845-n:
   definition:
-  - ###type genus of the family Pectinidae: sea and bay scallops###
+  - "type genus of the family Pectinidae: sea and bay scallops"
   hypernym:
   - 01942239-n
   ili: i45681
@@ -39873,7 +39873,7 @@
   wikidata: Q3015714
 01970453-n:
   definition:
-  - ###type genus of the family Pholadidae: piddocks###
+  - "type genus of the family Pholadidae: piddocks"
   hypernym:
   - 01942239-n
   ili: i45691
@@ -39954,8 +39954,8 @@
   partOfSpeech: n
 01971744-n:
   definition:
-  - ###comprising all living cephalopods except the family Nautilidae: the orders Octopoda
-    (octopuses) and Decapoda (squids and cuttlefish)###
+  - "comprising all living cephalopods except the family Nautilidae: the orders Octopoda
+    (octopuses) and Decapoda (squids and cuttlefish)"
   hypernym:
   - 08120743-n
   ili: i45698
@@ -40054,7 +40054,7 @@
   partOfSpeech: n
 01973143-n:
   definition:
-  - ###type genus of the family Argonautidae: paper nautilus###
+  - "type genus of the family Argonautidae: paper nautilus"
   hypernym:
   - 01942239-n
   ili: i45706
@@ -40309,8 +40309,8 @@
   partOfSpeech: n
 01977040-n:
   definition:
-  - ###class of mandibulate arthropods including: lobsters, crabs, shrimps, woodlice,
-    barnacles, decapods, water fleas###
+  - "class of mandibulate arthropods including: lobsters, crabs, shrimps, woodlice,
+    barnacles, decapods, water fleas"
   hypernym:
   - 08120743-n
   ili: i45728
@@ -40352,8 +40352,8 @@
   partOfSpeech: n
 01977953-n:
   definition:
-  - ###largest subclass of Crustacea including most of the well-known marine, freshwater,
-    and terrestrial crustaceans: crabs, lobsters, shrimps, sow bugs, beach flies###
+  - "largest subclass of Crustacea including most of the well-known marine, freshwater,
+    and terrestrial crustaceans: crabs, lobsters, shrimps, sow bugs, beach flies"
   hypernym:
   - 08120743-n
   ili: i45731
@@ -40685,7 +40685,7 @@
   wikidata: Q1061414
 01983112-n:
   definition:
-  - ###type genus of the family Pinnotheridae: pea crabs###
+  - "type genus of the family Pinnotheridae: pea crabs"
   hypernym:
   - 01765166-n
   ili: i45758
@@ -40880,7 +40880,7 @@
   partOfSpeech: n
 01985918-n:
   definition:
-  - ###type genus of the family Homaridae: common edible lobsters###
+  - "type genus of the family Homaridae: common edible lobsters"
   hypernym:
   - 01765166-n
   ili: i45774
@@ -41267,8 +41267,8 @@
   partOfSpeech: n
 01991122-n:
   definition:
-  - ###small commonly luminescent crustaceans; important element of marine plankton:
-    krill###
+  - "small commonly luminescent crustaceans; important element of marine plankton:
+    krill"
   hypernym:
   - 01345170-n
   ili: i45806
@@ -41567,8 +41567,8 @@
   partOfSpeech: n
 01995170-n:
   definition:
-  - ###small flat-bodied semiterrestrial crustaceans: whale lice, sand-hoppers, skeleton
-    shrimp###
+  - "small flat-bodied semiterrestrial crustaceans: whale lice, sand-hoppers, skeleton
+    shrimp"
   hypernym:
   - 01345170-n
   ili: i45832
@@ -41682,8 +41682,8 @@
   partOfSpeech: n
 01996830-n:
   definition:
-  - ###primitive aquatic mainly freshwater crustaceans: fairy shrimps; brine shrimps;
-    tadpole shrimps; can shrimps; water fleas###
+  - "primitive aquatic mainly freshwater crustaceans: fairy shrimps; brine shrimps;
+    tadpole shrimps; can shrimps; water fleas"
   hypernym:
   - 08120743-n
   ili: i45842
@@ -41733,7 +41733,7 @@
   partOfSpeech: n
 01997791-n:
   definition:
-  - ###small aquatic crustaceans lacking a carapace: fairy shrimps; brine shrimps###
+  - "small aquatic crustaceans lacking a carapace: fairy shrimps; brine shrimps"
   hypernym:
   - 01345170-n
   ili: i45846
@@ -41802,8 +41802,8 @@
   partOfSpeech: n
 01998745-n:
   definition:
-  - ###type genus of the family Triopidae: small crustaceans with a small third median
-    eye###
+  - "type genus of the family Triopidae: small crustaceans with a small third median
+    eye"
   hypernym:
   - 01765166-n
   ili: i45852
@@ -42130,9 +42130,9 @@
   partOfSpeech: n
 02004082-n:
   definition:
-  - ###order of chiefly tropical marsh-dwelling fish-eating wading birds with long legs
+  - "order of chiefly tropical marsh-dwelling fish-eating wading birds with long legs
     and bills and (except for flamingos) unwebbed feet: herons, storks, spoonbills,
-    flamingos, ibises###
+    flamingos, ibises"
   hypernym:
   - 01345170-n
   ili: i45880
@@ -42177,7 +42177,7 @@
   partOfSpeech: n
 02005038-n:
   definition:
-  - ###type genus of the Ciconiidae: European storks###
+  - "type genus of the Ciconiidae: European storks"
   hypernym:
   - 01509816-n
   ili: i45883
@@ -42383,7 +42383,7 @@
   partOfSpeech: n
 02007892-n:
   definition:
-  - ###type genus of the Balaenicipitidae: shoebills###
+  - "type genus of the Balaenicipitidae: shoebills"
   hypernym:
   - 01509816-n
   ili: i45900
@@ -42596,7 +42596,7 @@
   partOfSpeech: n
 02010970-n:
   definition:
-  - ###type genus of the Ardeidae: large New and Old World herons###
+  - "type genus of the Ardeidae: large New and Old World herons"
   hypernym:
   - 01509816-n
   ili: i45918
@@ -42892,8 +42892,8 @@
   partOfSpeech: n
 02014960-n:
   definition:
-  - ###inland marsh-dwelling birds with long legs and necks and bills that wade in water
-    in search of food: cranes, rails, bustards###
+  - "inland marsh-dwelling birds with long legs and necks and bills that wade in water
+    in search of food: cranes, rails, bustards"
   hypernym:
   - 01345170-n
   ili: i45944
@@ -42936,7 +42936,7 @@
   partOfSpeech: n
 02015688-n:
   definition:
-  - ###type genus of the Gruidae: typical cranes###
+  - "type genus of the Gruidae: typical cranes"
   hypernym:
   - 01509816-n
   ili: i45947
@@ -42959,8 +42959,8 @@
   partOfSpeech: n
 02016016-n:
   definition:
-  - ###genus of large brown long-billed wading birds found in warm swampy regions of
-    the western hemisphere: courlan; limpkin###
+  - "genus of large brown long-billed wading birds found in warm swampy regions of
+    the western hemisphere: courlan; limpkin"
   hypernym:
   - 01509816-n
   ili: i45949
@@ -43326,7 +43326,7 @@
   partOfSpeech: n
 02021139-n:
   definition:
-  - ###terrestrial game birds of the Old World and Australia: bustards###
+  - "terrestrial game birds of the Old World and Australia: bustards"
   hypernym:
   - 01345170-n
   ili: i45981
@@ -43360,7 +43360,7 @@
   partOfSpeech: n
 02021698-n:
   definition:
-  - ###type genus of the Otididae: European bustard###
+  - "type genus of the Otididae: European bustard"
   hypernym:
   - 01509816-n
   ili: i45984
@@ -43417,7 +43417,7 @@
   partOfSpeech: n
 02022416-n:
   definition:
-  - ###type genus of the Turnicidae: button quail###
+  - "type genus of the Turnicidae: button quail"
   hypernym:
   - 01509816-n
   ili: i45989
@@ -43498,7 +43498,7 @@
   wikidata: Q253499
 02023556-n:
   definition:
-  - ###type genus of the Psophiidae: trumpeters###
+  - "type genus of the Psophiidae: trumpeters"
   hypernym:
   - 01509816-n
   ili: i45996
@@ -43530,8 +43530,8 @@
   partOfSpeech: n
 02024092-n:
   definition:
-  - ###large diverse order of aquatic birds found along seacoasts and inland waters:
-    shorebirds and coastal diving birds; most feed on animal life###
+  - "large diverse order of aquatic birds found along seacoasts and inland waters:
+    shorebirds and coastal diving birds; most feed on animal life"
   hypernym:
   - 01345170-n
   ili: i45999
@@ -43549,8 +43549,8 @@
   wikidata: Q25978
 02024449-n:
   definition:
-  - ###a bird that frequents coastal waters and the open ocean: gulls, pelicans, gannets,
-    cormorants, albatrosses, petrels, etc.###
+  - "a bird that frequents coastal waters and the open ocean: gulls, pelicans, gannets,
+    cormorants, albatrosses, petrels, etc."
   hypernym:
   - 01847558-n
   ili: i46000
@@ -43561,7 +43561,7 @@
   partOfSpeech: n
 02024789-n:
   definition:
-  - ###shorebirds: plovers, sandpipers, avocets, phalaropes, coursers, stone curlews###
+  - "shorebirds: plovers, sandpipers, avocets, phalaropes, coursers, stone curlews"
   hypernym:
   - 01345170-n
   ili: i46001
@@ -43630,7 +43630,7 @@
   partOfSpeech: n
 02026318-n:
   definition:
-  - ###type genus of the Charadriidae: plovers###
+  - "type genus of the Charadriidae: plovers"
   hypernym:
   - 01509816-n
   ili: i46006
@@ -43768,8 +43768,8 @@
   partOfSpeech: n
 02028184-n:
   definition:
-  - ###sandpiper family: sandpipers; woodcocks; snipes; tattlers; curlews; godwits;
-    dowitchers###
+  - "sandpiper family: sandpipers; woodcocks; snipes; tattlers; curlews; godwits;
+    dowitchers"
   hypernym:
   - 01507078-n
   ili: i46018
@@ -44158,7 +44158,7 @@
   partOfSpeech: n
 02033797-n:
   definition:
-  - ###type of the Scolopacidae: Old World woodcocks###
+  - "type of the Scolopacidae: Old World woodcocks"
   hypernym:
   - 01509816-n
   ili: i46051
@@ -44245,7 +44245,7 @@
   - 02034588-n
   ili: i46058
   members:
-  - Wilson###s snipe
+  - Wilson's snipe
   - Gallinago gallinago delicata
   partOfSpeech: n
   wikidata: Q64927
@@ -44524,7 +44524,7 @@
   partOfSpeech: n
 02039202-n:
   definition:
-  - ###type genus of the Recurvirostridae: avocets###
+  - "type genus of the Recurvirostridae: avocets"
   hypernym:
   - 01509816-n
   ili: i46083
@@ -44602,7 +44602,7 @@
   partOfSpeech: n
 02040367-n:
   definition:
-  - ###type genus of the Phalaropidae: phalaropes###
+  - "type genus of the Phalaropidae: phalaropes"
   hypernym:
   - 01509816-n
   ili: i46090
@@ -44665,7 +44665,7 @@
   - 02040118-n
   ili: i46095
   members:
-  - Wilson###s phalarope
+  - Wilson's phalarope
   - Steganopus tricolor
   partOfSpeech: n
 02041271-n:
@@ -44685,7 +44685,7 @@
   partOfSpeech: n
 02041491-n:
   definition:
-  - ###type genus of the Glareolidae: the pratincoles###
+  - "type genus of the Glareolidae: the pratincoles"
   hypernym:
   - 01509816-n
   ili: i46097
@@ -44764,7 +44764,7 @@
   partOfSpeech: n
 02042596-n:
   definition:
-  - ###large wading birds resembling the plovers: stone curlews###
+  - "large wading birds resembling the plovers: stone curlews"
   hypernym:
   - 01507078-n
   ili: i46104
@@ -44776,7 +44776,7 @@
   partOfSpeech: n
 02042767-n:
   definition:
-  - ###type genus of the Burhinidae: stone curlews###
+  - "type genus of the Burhinidae: stone curlews"
   hypernym:
   - 01509816-n
   ili: i46105
@@ -44823,7 +44823,7 @@
   partOfSpeech: n
 02043526-n:
   definition:
-  - ###gull family: gulls and terns###
+  - "gull family: gulls and terns"
   hypernym:
   - 01507078-n
   ili: i46109
@@ -45010,7 +45010,7 @@
   partOfSpeech: n
 02046151-n:
   definition:
-  - ###coextensive with the genus Rynchops: skimmers###
+  - "coextensive with the genus Rynchops: skimmers"
   hypernym:
   - 01507078-n
   ili: i46125
@@ -45022,7 +45022,7 @@
   partOfSpeech: n
 02046313-n:
   definition:
-  - ###type genus of the Rynchopidae: skimmers###
+  - "type genus of the Rynchopidae: skimmers"
   hypernym:
   - 01509816-n
   ili: i46126
@@ -45044,7 +45044,7 @@
   partOfSpeech: n
 02046653-n:
   definition:
-  - ###jaegers and skuas:###
+  - "jaegers and skuas:"
   hypernym:
   - 01507078-n
   ili: i46128
@@ -45068,7 +45068,7 @@
   partOfSpeech: n
 02047012-n:
   definition:
-  - ###type genus of the Stercorariidae: jaegers###
+  - "type genus of the Stercorariidae: jaegers"
   hypernym:
   - 01509816-n
   ili: i46130
@@ -45124,8 +45124,8 @@
   wikidata: Q207760
 02047678-n:
   definition:
-  - ###web-footed diving seabirds of northern seas: auks, puffins, guillemots, murres,
-    etc.###
+  - "web-footed diving seabirds of northern seas: auks, puffins, guillemots, murres,
+    etc."
   hypernym:
   - 01507078-n
   ili: i46135
@@ -45233,7 +45233,7 @@
   partOfSpeech: n
 02049267-n:
   definition:
-  - ###a genus of birds including: guillemots###
+  - "a genus of birds including: guillemots"
   hypernym:
   - 01509816-n
   ili: i46144
@@ -45383,7 +45383,7 @@
   partOfSpeech: n
 02051168-n:
   definition:
-  - ###large aquatic birds: loons and some extinct forms###
+  - "large aquatic birds: loons and some extinct forms"
   hypernym:
   - 01345170-n
   ili: i46158
@@ -45417,7 +45417,7 @@
   partOfSpeech: n
 02051606-n:
   definition:
-  - ###type genus of the Gavidae: loons###
+  - "type genus of the Gavidae: loons"
   hypernym:
   - 01509816-n
   ili: i46161
@@ -45480,7 +45480,7 @@
   wikidata: Q21695
 02052509-n:
   definition:
-  - ###type genus of the Podicipedidae: grebes###
+  - "type genus of the Podicipedidae: grebes"
   hypernym:
   - 01509816-n
   ili: i46166
@@ -45757,7 +45757,7 @@
   partOfSpeech: n
 02056513-n:
   definition:
-  - ###type genus: coextensive with the family Phalacrocoracidae###
+  - "type genus: coextensive with the family Phalacrocoracidae"
   hypernym:
   - 01509816-n
   ili: i46190
@@ -45892,7 +45892,7 @@
   wikidata: Q9147
 02058312-n:
   definition:
-  - ###flightless cold-water seabirds: penguins###
+  - "flightless cold-water seabirds: penguins"
   hypernym:
   - 02024449-n
   ili: i46201
@@ -45968,7 +45968,7 @@
   partOfSpeech: n
 02059527-n:
   definition:
-  - ###type genus of the Spheniscidae: jackass penguins###
+  - "type genus of the Spheniscidae: jackass penguins"
   hypernym:
   - 01509816-n
   ili: i46208
@@ -46300,8 +46300,8 @@
   - 02063542-n
   ili: i46236
   members:
-  - Mother Carey###s chicken
-  - Mother Carey###s hen
+  - Mother Carey's chicken
+  - Mother Carey's hen
   - Oceanites oceanicus
   partOfSpeech: n
 02064369-n:
@@ -46355,8 +46355,8 @@
   wikidata: Q160
 02065083-n:
   definition:
-  - ###large aquatic carnivorous mammal with fin-like forelimbs no hind limbs, including:
-    whales, dolphins, porpoises, narwhals###
+  - "large aquatic carnivorous mammal with fin-like forelimbs no hind limbs, including:
+    whales, dolphins, porpoises, narwhals"
   hypernym:
   - 02064670-n
   ili: i46241
@@ -46380,7 +46380,7 @@
   partOfSpeech: n
 02065644-n:
   definition:
-  - ###baleen whales: right whales, rorquals, blue whales, humpbacks###
+  - "baleen whales: right whales, rorquals, blue whales, humpbacks"
   hypernym:
   - 01345170-n
   ili: i46243
@@ -46429,7 +46429,7 @@
   partOfSpeech: n
 02066499-n:
   definition:
-  - ###type genus of the Balaenidae: Greenland whales###
+  - "type genus of the Balaenidae: Greenland whales"
   hypernym:
   - 01867348-n
   ili: i46247
@@ -46604,7 +46604,7 @@
   wikidata: Q179154
 02069103-n:
   definition:
-  - ###toothed whales: dolphins, porpoises, sperm whales, beaked whales###
+  - "toothed whales: dolphins, porpoises, sperm whales, beaked whales"
   hypernym:
   - 01345170-n
   ili: i46261
@@ -47060,7 +47060,7 @@
   partOfSpeech: n
 02075693-n:
   definition:
-  - ###an animal order including: manatees, dugongs, Steller######s sea cow###
+  - "an animal order including: manatees, dugongs, Steller######s sea cow"
   hypernym:
   - 01345170-n
   ili: i46299
@@ -47175,7 +47175,7 @@
   - 02075902-n
   ili: i46308
   members:
-  - Steller###s sea cow
+  - Steller's sea cow
   - Hydrodamalis gigas
   partOfSpeech: n
 02077567-n:
@@ -47268,7 +47268,7 @@
   wikidata: Q626027
 02079187-n:
   definition:
-  - ###eared seals: sea lions and fur seals###
+  - "eared seals: sea lions and fur seals"
   hypernym:
   - 01865198-n
   ili: i46316
@@ -47447,7 +47447,7 @@
   ili: i46331
   members:
   - Steller sea lion
-  - Steller###s sea lion
+  - Steller's sea lion
   - Eumetopias jubatus
   partOfSpeech: n
   wikidata: Q431981
@@ -47483,7 +47483,7 @@
   partOfSpeech: n
 02082358-n:
   definition:
-  - ###type genus of the Phocidae: earless seals###
+  - "type genus of the Phocidae: earless seals"
   hypernym:
   - 01867348-n
   ili: i46334
@@ -47613,7 +47613,7 @@
   wikidata: Q2292156
 02084075-n:
   definition:
-  - ###type genus of the Odobenidae: walruses###
+  - "type genus of the Odobenidae: walruses"
   hypernym:
   - 01867348-n
   ili: i46345
@@ -47667,8 +47667,8 @@
   wikidata: Q1197437
 02084842-n:
   definition:
-  - ###terrestrial carnivores having toes separated to the base: dogs, cats, bears,
-    badgers, raccoons###
+  - "terrestrial carnivores having toes separated to the base: dogs, cats, bears,
+    badgers, raccoons"
   hypernym:
   - 02077948-n
   ili: i46350
@@ -47779,7 +47779,7 @@
   partOfSpeech: n
 02086515-n:
   definition:
-  - ###type genus of the Canidae: domestic and wild dogs, wolves, jackals###
+  - "type genus of the Canidae: domestic and wild dogs, wolves, jackals"
   hypernym:
   - 01867348-n
   ili: i46359
@@ -50190,7 +50190,7 @@
   partOfSpeech: n
 02123886-n:
   definition:
-  - ###type genus of the Felidae: true cats and most wildcats###
+  - "type genus of the Felidae: true cats and most wildcats"
   hypernym:
   - 01867348-n
   ili: i46592
@@ -50214,8 +50214,8 @@
   partOfSpeech: n
 02124272-n:
   definition:
-  - ###feline mammal usually having thick soft fur and no ability to roar: domestic
-    cats; wildcats###
+  - "feline mammal usually having thick soft fur and no ability to roar: domestic
+    cats; wildcats"
   hypernym:
   - 02123649-n
   ili: i46593
@@ -50579,7 +50579,7 @@
   ili: i46627
   members:
   - manul
-  - Pallas###s cat
+  - Pallas's cat
   - Felis manul
   partOfSpeech: n
 02129603-n:
@@ -50922,8 +50922,8 @@
   partOfSpeech: n
 02134594-n:
   definition:
-  - ###type genus of Ursidae: brown bears; in some classifications genus Ursus includes
-    all bears###
+  - "type genus of Ursidae: brown bears; in some classifications genus Ursus includes
+    all bears"
   hypernym:
   - 01867348-n
   ili: i46659
@@ -51408,8 +51408,8 @@
   partOfSpeech: n
 02141573-n:
   definition:
-  - ###an old order dating to early Eocene: bats: suborder Megachiroptera (fruit bats);
-    suborder Microchiroptera (insectivorous bats)###
+  - "an old order dating to early Eocene: bats: suborder Megachiroptera (fruit bats);
+    suborder Microchiroptera (insectivorous bats)"
   hypernym:
   - 01345170-n
   ili: i46701
@@ -52200,7 +52200,7 @@
   partOfSpeech: n
 02153382-n:
   definition:
-  - ###type genus of the Desmodontidae: vampire bats###
+  - "type genus of the Desmodontidae: vampire bats"
   hypernym:
   - 01867348-n
   ili: i46769
@@ -52433,7 +52433,7 @@
   - 02156097-n
   ili: i46791
   members:
-  - bird###s foot
+  - bird's foot
   mero_part:
   - 02159065-n
   partOfSpeech: n
@@ -52737,7 +52737,7 @@
   - 02156611-n
   ili: i46821
   members:
-  - horse###s foot
+  - horse's foot
   mero_part:
   - 02464697-n
   - 02464980-n
@@ -52940,7 +52940,7 @@
   partOfSpeech: n
 02165796-n:
   definition:
-  - ###minute wingless arthropods: springtails###
+  - "minute wingless arthropods: springtails"
   hypernym:
   - 01345170-n
   ili: i46837
@@ -52965,7 +52965,7 @@
   wikidata: Q190701
 02166268-n:
   definition:
-  - ###minute wingless arthropods: telsontails###
+  - "minute wingless arthropods: telsontails"
   hypernym:
   - 01345170-n
   ili: i46839
@@ -53717,8 +53717,8 @@
   partOfSpeech: n
 02177666-n:
   definition:
-  - ###common North American beetle: larvae feed on roots and adults on leaves and flowers
-    of e.g. rose bushes or apple trees or grape vines###
+  - "common North American beetle: larvae feed on roots and adults on leaves and flowers
+    of e.g. rose bushes or apple trees or grape vines"
   hypernym:
   - 02177007-n
   ili: i46903
@@ -53754,8 +53754,8 @@
   partOfSpeech: n
 02178221-n:
   definition:
-  - ###a common metallic green European beetle: larvae feed on plant roots and adults
-    on leaves and flowers of e.g. roses###
+  - "a common metallic green European beetle: larvae feed on plant roots and adults
+    on leaves and flowers of e.g. roses"
   hypernym:
   - 02174521-n
   ili: i46906
@@ -53934,7 +53934,7 @@
   partOfSpeech: n
 02180896-n:
   definition:
-  - ###true weevils: snout beetles###
+  - "true weevils: snout beetles"
   hypernym:
   - 01761823-n
   ili: i46922
@@ -54328,7 +54328,7 @@
   wikidata: Q26870
 02186766-n:
   definition:
-  - ###true lice: human lice and related forms###
+  - "true lice: human lice and related forms"
   hypernym:
   - 01761823-n
   ili: i46956
@@ -54340,7 +54340,7 @@
   partOfSpeech: n
 02186922-n:
   definition:
-  - ###type genus of Pediculidae: true lice infecting humans###
+  - "type genus of Pediculidae: true lice infecting humans"
   hypernym:
   - 01765166-n
   ili: i46957
@@ -54398,7 +54398,7 @@
   partOfSpeech: n
 02187659-n:
   definition:
-  - ###true lice: crab lice###
+  - "true lice: crab lice"
   hypernym:
   - 01765166-n
   ili: i46962
@@ -54720,8 +54720,8 @@
   partOfSpeech: n
 02192474-n:
   definition:
-  - ###two-winged flies especially the families: Muscidae, Gasterophilidae, Calliphoridae,
-    Tachinidae###
+  - "two-winged flies especially the families: Muscidae, Gasterophilidae, Calliphoridae,
+    Tachinidae"
   hypernym:
   - 01761823-n
   ili: i46987
@@ -54765,7 +54765,7 @@
   partOfSpeech: n
 02193300-n:
   definition:
-  - ###type genus of the Muscidae: houseflies###
+  - "type genus of the Muscidae: houseflies"
   hypernym:
   - 01765166-n
   ili: i46991
@@ -54789,7 +54789,7 @@
   wikidata: Q166111
 02193615-n:
   definition:
-  - ###flies closely related to the Muscidae: tsetse flies###
+  - "flies closely related to the Muscidae: tsetse flies"
   hypernym:
   - 01761823-n
   ili: i46993
@@ -54801,7 +54801,7 @@
   partOfSpeech: n
 02193783-n:
   definition:
-  - ###type genus of the Glossinidae: tsetse flies###
+  - "type genus of the Glossinidae: tsetse flies"
   hypernym:
   - 01765166-n
   ili: i46994
@@ -54840,7 +54840,7 @@
   wikidata: Q28404
 02194269-n:
   definition:
-  - ###type genus of the Calliphoridae: blowflies###
+  - "type genus of the Calliphoridae: blowflies"
   hypernym:
   - 01765166-n
   ili: i46997
@@ -54972,7 +54972,7 @@
   partOfSpeech: n
 02196148-n:
   definition:
-  - ###type genus of the Gasterophilidae: horse botflies###
+  - "type genus of the Gasterophilidae: horse botflies"
   hypernym:
   - 01765166-n
   ili: i47009
@@ -55054,7 +55054,7 @@
   partOfSpeech: n
 02197251-n:
   definition:
-  - ###type genus of the Oestridae: sheep botflies###
+  - "type genus of the Oestridae: sheep botflies"
   hypernym:
   - 01765166-n
   ili: i47016
@@ -55077,8 +55077,8 @@
   partOfSpeech: n
 02197539-n:
   definition:
-  - ###in some classifications considered the type genus of the family Hypodermatidae:
-    warble flies###
+  - "in some classifications considered the type genus of the family Hypodermatidae:
+    warble flies"
   hypernym:
   - 01765166-n
   ili: i47018
@@ -55321,7 +55321,7 @@
   wikidata: Q1544843
 02200984-n:
   definition:
-  - ###winged or wingless dipterans: louse flies###
+  - "winged or wingless dipterans: louse flies"
   hypernym:
   - 01761823-n
   ili: i47039
@@ -55548,8 +55548,8 @@
   partOfSpeech: n
 02204410-n:
   definition:
-  - ###type genus of the Culicidae: widespread genus of mosquitoes distinguished by
-    holding the body parallel to the resting surface###
+  - "type genus of the Culicidae: widespread genus of mosquitoes distinguished by
+    holding the body parallel to the resting surface"
   hypernym:
   - 01765166-n
   ili: i47058
@@ -55583,7 +55583,7 @@
   wikidata: Q3007100
 02204939-n:
   definition:
-  - ###any of various small biting flies: midges; biting midges; black flies; sand flies###
+  - "any of various small biting flies: midges; biting midges; black flies; sand flies"
   hypernym:
   - 02191351-n
   ili: i47061
@@ -55684,8 +55684,8 @@
   partOfSpeech: n
 02206391-n:
   definition:
-  - ###very small two-winged flies with hairy wings that develop in moss and damp vegetable
-    matter: sand flies###
+  - "very small two-winged flies with hairy wings that develop in moss and damp vegetable
+    matter: sand flies"
   hypernym:
   - 01761823-n
   ili: i47070
@@ -55743,7 +55743,7 @@
   partOfSpeech: n
 02207237-n:
   definition:
-  - ###type genus of the Sciaridae: fungus gnat###
+  - "type genus of the Sciaridae: fungus gnat"
   hypernym:
   - 01765166-n
   ili: i47075
@@ -55810,7 +55810,7 @@
   wikidata: Q720467
 02208175-n:
   definition:
-  - ###type genus of the Simuliidae: blackflies###
+  - "type genus of the Simuliidae: blackflies"
   hypernym:
   - 01765166-n
   ili: i47081
@@ -55834,8 +55834,8 @@
   partOfSpeech: n
 02208548-n:
   definition:
-  - ###an order of insects including: bees, wasps, ants, ichneumons, sawflies, gall
-    wasps, etc.###
+  - "an order of insects including: bees, wasps, ants, ichneumons, sawflies, gall
+    wasps, etc."
   hypernym:
   - 01345170-n
   ili: i47083
@@ -55959,7 +55959,7 @@
   wikidata: Q756082
 02210795-n:
   definition:
-  - ###type genus of the Apidae: honeybees###
+  - "type genus of the Apidae: honeybees"
   hypernym:
   - 01765166-n
   ili: i47093
@@ -56173,7 +56173,7 @@
   partOfSpeech: n
 02213935-n:
   definition:
-  - ###type genus of the Megachilidae: leaf-cutting bees###
+  - "type genus of the Megachilidae: leaf-cutting bees"
   hypernym:
   - 01765166-n
   ili: i47112
@@ -56237,8 +56237,8 @@
   partOfSpeech: n
 02214975-n:
   definition:
-  - ###an arthropod family of the order Hymenoptera including: yellow jackets, hornets,
-    mason wasps###
+  - "an arthropod family of the order Hymenoptera including: yellow jackets, hornets,
+    mason wasps"
   hypernym:
   - 01761823-n
   ili: i47118
@@ -56264,7 +56264,7 @@
   partOfSpeech: n
 02215463-n:
   definition:
-  - ###type genus of the Vespidae: various hornets and yellow jackets###
+  - "type genus of the Vespidae: various hornets and yellow jackets"
   hypernym:
   - 01765166-n
   ili: i47120
@@ -56302,7 +56302,7 @@
   partOfSpeech: n
 02216014-n:
   definition:
-  - ###sometimes considered a subgenus of Vespa: social wasps###
+  - "sometimes considered a subgenus of Vespa: social wasps"
   hypernym:
   - 01765166-n
   ili: i47124
@@ -56504,7 +56504,7 @@
   partOfSpeech: n
 02218718-n:
   definition:
-  - ###large solitary wasps: cicada killer###
+  - "large solitary wasps: cicada killer"
   hypernym:
   - 01765166-n
   ili: i47142
@@ -56563,7 +56563,7 @@
   partOfSpeech: n
 02219576-n:
   definition:
-  - ###type genus of the Cynipidae: gall wasps###
+  - "type genus of the Cynipidae: gall wasps"
   hypernym:
   - 01765166-n
   ili: i47147
@@ -56594,7 +56594,7 @@
   partOfSpeech: n
 02219986-n:
   definition:
-  - ###an arthropod family including: chalcidflies###
+  - "an arthropod family including: chalcidflies"
   hypernym:
   - 01761823-n
   ili: i47150
@@ -56773,7 +56773,7 @@
   ili: i47164
   members:
   - pharaoh ant
-  - pharaoh###s ant
+  - pharaoh's ant
   - Monomorium pharaonis
   partOfSpeech: n
   wikidata: Q1141346
@@ -56963,8 +56963,8 @@
   partOfSpeech: n
 02225370-n:
   definition:
-  - ###order of social insects that live in colonies, including: termites; often placed
-    in subclass Exopterygota###
+  - "order of social insects that live in colonies, including: termites; often placed
+    in subclass Exopterygota"
   hypernym:
   - 01345170-n
   ili: i47182
@@ -57491,8 +57491,8 @@
   wikidata: Q2014890
 02233434-n:
   definition:
-  - ###in some classifications considered a suborder of Orthoptera: stick insects; leaf
-    insects###
+  - "in some classifications considered a suborder of Orthoptera: stick insects; leaf
+    insects"
   hypernym:
   - 01345170-n
   ili: i47228
@@ -57681,7 +57681,7 @@
   wikidata: Q139689
 02236419-n:
   definition:
-  - ###type genus of the Blattidae: cockroaches infesting buildings worldwide###
+  - "type genus of the Blattidae: cockroaches infesting buildings worldwide"
   hypernym:
   - 01765166-n
   ili: i47243
@@ -57840,7 +57840,7 @@
   wikidata: Q645602
 02238563-n:
   definition:
-  - ###type genus of the Mantidae: mantises###
+  - "type genus of the Mantidae: mantises"
   hypernym:
   - 01765166-n
   ili: i47256
@@ -58045,7 +58045,7 @@
   wikidata: Q682987
 02241539-n:
   definition:
-  - ###a true bug: usually bright-colored; pest of cultivated crops and some fruit trees###
+  - "a true bug: usually bright-colored; pest of cultivated crops and some fruit trees"
   hypernym:
   - 02239548-n
   ili: i47273
@@ -58163,7 +58163,7 @@
   wikidata: Q2098859
 02243029-n:
   definition:
-  - ###type genus of the Cimicidae: bedbugs###
+  - "type genus of the Cimicidae: bedbugs"
   hypernym:
   - 01765166-n
   ili: i47283
@@ -58201,7 +58201,7 @@
   wikidata: Q875622
 02243504-n:
   definition:
-  - ###type genus of the Notonectidae: backswimmers###
+  - "type genus of the Notonectidae: backswimmers"
   hypernym:
   - 01765166-n
   ili: i47286
@@ -58250,7 +58250,7 @@
   partOfSpeech: n
 02244221-n:
   definition:
-  - ###true bugs: insects whose forewings are membranous but have leathery tips###
+  - "true bugs: insects whose forewings are membranous but have leathery tips"
   hypernym:
   - 02162607-n
   ili: i47290
@@ -58259,7 +58259,7 @@
   partOfSpeech: n
 02244451-n:
   definition:
-  - ###a true bug: large aquatic bug adapted to living in or on the surface of water###
+  - "a true bug: large aquatic bug adapted to living in or on the surface of water"
   hypernym:
   - 02244221-n
   ili: i47291
@@ -58316,7 +58316,7 @@
   partOfSpeech: n
 02245321-n:
   definition:
-  - ###type genus of the Nepidae: typical elongate-oval water scorpions###
+  - "type genus of the Nepidae: typical elongate-oval water scorpions"
   hypernym:
   - 01765166-n
   ili: i47296
@@ -58349,7 +58349,7 @@
   wikidata: Q1342305
 02245717-n:
   definition:
-  - ###type genus of the Corixidae: boat bugs###
+  - "type genus of the Corixidae: boat bugs"
   hypernym:
   - 01765166-n
   ili: i47299
@@ -58433,8 +58433,8 @@
   partOfSpeech: n
 02246825-n:
   definition:
-  - ###a true bug: long-legged predacious bug living mostly on other insects; a few
-    suck blood of mammals###
+  - "a true bug: long-legged predacious bug living mostly on other insects; a few
+    suck blood of mammals"
   hypernym:
   - 02244221-n
   ili: i47306
@@ -58506,7 +58506,7 @@
   wikidata: Q508786
 02247763-n:
   definition:
-  - ###a true bug: brightly colored bug that can exude a stain###
+  - "a true bug: brightly colored bug that can exude a stain"
   hypernym:
   - 02244221-n
   ili: i47312
@@ -58528,7 +58528,7 @@
   partOfSpeech: n
 02248095-n:
   definition:
-  - ###a true bug: bug that damages and stains the lint of developing cotton###
+  - "a true bug: bug that damages and stains the lint of developing cotton"
   hypernym:
   - 02244221-n
   ili: i47314
@@ -58871,7 +58871,7 @@
   partOfSpeech: n
 02253116-n:
   definition:
-  - ###scalelike insects: mealybugs###
+  - "scalelike insects: mealybugs"
   hypernym:
   - 01761823-n
   ili: i47344
@@ -58928,7 +58928,7 @@
   ili: i47348
   members:
   - Comstock mealybug
-  - Comstock###s mealybug
+  - Comstock's mealybug
   - Pseudococcus comstocki
   partOfSpeech: n
 02254104-n:
@@ -59005,7 +59005,7 @@
   wikidata: Q1354085
 02255260-n:
   definition:
-  - ###type genus of the Aphididae: injurious to fruit trees and vegetables###
+  - "type genus of the Aphididae: injurious to fruit trees and vegetables"
   hypernym:
   - 01765166-n
   ili: i47355
@@ -59147,7 +59147,7 @@
   wikidata: Q2562960
 02257183-n:
   definition:
-  - ###type genus of the Adelgidae: plant lice###
+  - "type genus of the Adelgidae: plant lice"
   hypernym:
   - 01765166-n
   ili: i47368
@@ -59237,7 +59237,7 @@
   partOfSpeech: n
 02258350-n:
   definition:
-  - ###type genus of the Phylloxeridae: plant lice###
+  - "type genus of the Phylloxeridae: plant lice"
   hypernym:
   - 01765166-n
   ili: i47376
@@ -59302,7 +59302,7 @@
   partOfSpeech: n
 02259194-n:
   definition:
-  - ###type genus of the Cicadidae: cicadas###
+  - "type genus of the Cicadidae: cicadas"
   hypernym:
   - 01765166-n
   ili: i47381
@@ -59513,7 +59513,7 @@
   partOfSpeech: n
 02262217-n:
   definition:
-  - ###plant hoppers: treehoppers###
+  - "plant hoppers: treehoppers"
   hypernym:
   - 01761823-n
   ili: i47400
@@ -59534,7 +59534,7 @@
   partOfSpeech: n
 02262496-n:
   definition:
-  - ###plant hoppers: lantern flies###
+  - "plant hoppers: lantern flies"
   hypernym:
   - 01761823-n
   ili: i47402
@@ -59558,7 +59558,7 @@
   partOfSpeech: n
 02262835-n:
   definition:
-  - ###an order of insects: includes booklice and bark-lice###
+  - "an order of insects: includes booklice and bark-lice"
   hypernym:
   - 01345170-n
   ili: i47404
@@ -59689,7 +59689,7 @@
   partOfSpeech: n
 02264714-n:
   definition:
-  - ###in some former classifications: name for the Ephemeroptera###
+  - "in some former classifications: name for the Ephemeroptera"
   hypernym:
   - 02264830-n
   ili: i47415
@@ -59756,8 +59756,8 @@
   partOfSpeech: n
 02265690-n:
   definition:
-  - ###an order of insects including: lacewings, antlions, dobsonflies, alderflies,
-    fish flies, mantispids, spongeflies###
+  - "an order of insects including: lacewings, antlions, dobsonflies, alderflies,
+    fish flies, mantispids, spongeflies"
   hypernym:
   - 01345170-n
   ili: i47421
@@ -59799,7 +59799,7 @@
   partOfSpeech: n
 02266500-n:
   definition:
-  - ###type genus of the Myrmeleontidae: antlions###
+  - "type genus of the Myrmeleontidae: antlions"
   hypernym:
   - 01765166-n
   ili: i47424
@@ -59915,8 +59915,8 @@
   partOfSpeech: n
 02268123-n:
   definition:
-  - ###in some classifications considered a separate order: alderflies, dobsonflies,
-    snake flies###
+  - "in some classifications considered a separate order: alderflies, dobsonflies,
+    snake flies"
   hypernym:
   - 01345170-n
   ili: i47434
@@ -59992,7 +59992,7 @@
   partOfSpeech: n
 02269232-n:
   definition:
-  - ###an arthropod family including: alderflies###
+  - "an arthropod family including: alderflies"
   hypernym:
   - 01761823-n
   ili: i47440
@@ -60137,7 +60137,7 @@
   members:
   - dragonfly
   - darning needle
-  - devil###s darning needle
+  - devil's darning needle
   - sewing needle
   - snake feeder
   - snake doctor
@@ -60238,7 +60238,7 @@
   partOfSpeech: n
 02272663-n:
   definition:
-  - ###primitive wingless insects: bristletail###
+  - "primitive wingless insects: bristletail"
   hypernym:
   - 02162607-n
   ili: i47461
@@ -60270,7 +60270,7 @@
   partOfSpeech: n
 02273125-n:
   definition:
-  - ###type genus of the Lepismatidae: silverfish###
+  - "type genus of the Lepismatidae: silverfish"
   hypernym:
   - 01765166-n
   ili: i47464
@@ -60576,7 +60576,7 @@
   partOfSpeech: n
 02278024-n:
   definition:
-  - ###type genus of the Nymphalidae: mourning cloak butterflies###
+  - "type genus of the Nymphalidae: mourning cloak butterflies"
   hypernym:
   - 01765166-n
   ili: i47488
@@ -60862,7 +60862,7 @@
   partOfSpeech: n
 02282094-n:
   definition:
-  - ###small family of usually tropical butterflies: monarch butterflies###
+  - "small family of usually tropical butterflies: monarch butterflies"
   hypernym:
   - 01761823-n
   ili: i47514
@@ -60885,7 +60885,7 @@
   partOfSpeech: n
 02282471-n:
   definition:
-  - ###type genus of the Danaidae: monarch butterflies###
+  - "type genus of the Danaidae: monarch butterflies"
   hypernym:
   - 01765166-n
   ili: i47516
@@ -61673,7 +61673,7 @@
   partOfSpeech: n
 02294592-n:
   definition:
-  - ###type genus of the Tineidae: clothes moths###
+  - "type genus of the Tineidae: clothes moths"
   hypernym:
   - 01765166-n
   ili: i47584
@@ -61791,7 +61791,7 @@
   partOfSpeech: n
 02296212-n:
   definition:
-  - ###type genus of the Gelechiidae: pink bollworms###
+  - "type genus of the Gelechiidae: pink bollworms"
   hypernym:
   - 01765166-n
   ili: i47594
@@ -61923,7 +61923,7 @@
   partOfSpeech: n
 02298222-n:
   definition:
-  - ###type genus of the Noctuidae: moths whose larvae are cutworms###
+  - "type genus of the Noctuidae: moths whose larvae are cutworms"
   hypernym:
   - 01765166-n
   ili: i47605
@@ -61933,7 +61933,7 @@
   partOfSpeech: n
 02298369-n:
   definition:
-  - ###moths whose larvae are cutworms: underwings###
+  - "moths whose larvae are cutworms: underwings"
   hypernym:
   - 01765166-n
   ili: i47606
@@ -62222,7 +62222,7 @@
   - 02301193-n
   ili: i47631
   members:
-  - death###s-head moth
+  - death's-head moth
   - Acherontia atropos
   partOfSpeech: n
 02302670-n:
@@ -62252,7 +62252,7 @@
   partOfSpeech: n
 02303030-n:
   definition:
-  - ###type genus of the Bombycidae: Chinese silkworm moth###
+  - "type genus of the Bombycidae: Chinese silkworm moth"
   hypernym:
   - 01765166-n
   ili: i47634
@@ -62322,7 +62322,7 @@
   partOfSpeech: n
 02304434-n:
   definition:
-  - ###type genus of the Saturniidae: emperor moth###
+  - "type genus of the Saturniidae: emperor moth"
   hypernym:
   - 01765166-n
   ili: i47639
@@ -62653,7 +62653,7 @@
   partOfSpeech: n
 02309324-n:
   definition:
-  - ###type genus of the Lasiocampidae: eggars###
+  - "type genus of the Lasiocampidae: eggars"
   hypernym:
   - 01765166-n
   ili: i47667
@@ -63138,7 +63138,7 @@
   partOfSpeech: n
 02317369-n:
   definition:
-  - tiny marine organisms each the size of a period found in great numbers on lobsters###
+  - tiny marine organisms each the size of a period found in great numbers on lobsters"
     lips; identified tentatively in 1995 as a new phylum or as possible link between
     Entoprocta and Ectoprocta
   hypernym:
@@ -63679,8 +63679,8 @@
   partOfSpeech: n
 02325644-n:
   definition:
-  - ###in former classifications considered a suborder of Rodentia coextensive with
-    the order Lagomorpha: gnawing animals###
+  - "in former classifications considered a suborder of Rodentia coextensive with
+    the order Lagomorpha: gnawing animals"
   hypernym:
   - 02326101-n
   ili: i47761
@@ -63874,7 +63874,7 @@
   partOfSpeech: n
 02328889-n:
   definition:
-  - ###type genus of the Leporidae: hares###
+  - "type genus of the Leporidae: hares"
   hypernym:
   - 01867348-n
   ili: i47777
@@ -64057,8 +64057,8 @@
   wikidata: Q185540
 02331745-n:
   definition:
-  - ###small gnawing animals: porcupines, rats, mice, squirrels, marmots, beavers, gophers,
-    voles, hamsters, guinea pigs, agoutis###
+  - "small gnawing animals: porcupines, rats, mice, squirrels, marmots, beavers, gophers,
+    voles, hamsters, guinea pigs, agoutis"
   hypernym:
   - 01345170-n
   ili: i47793
@@ -64173,8 +64173,8 @@
   partOfSpeech: n
 02334612-n:
   definition:
-  - ###type genus of the Muridae: common house mice; the tips of the upper incisors
-    have a square notch###
+  - "type genus of the Muridae: common house mice; the tips of the upper incisors
+    have a square notch"
   hypernym:
   - 01867348-n
   ili: i47802
@@ -64919,7 +64919,7 @@
   partOfSpeech: n
 02345379-n:
   definition:
-  - ###type genus of the Cricetidae: Old World hamsters###
+  - "type genus of the Cricetidae: Old World hamsters"
   hypernym:
   - 01867348-n
   ili: i47866
@@ -64987,7 +64987,7 @@
   partOfSpeech: n
 02346285-n:
   definition:
-  - ###type genus of the Gerbillinae: typical gerbils###
+  - "type genus of the Gerbillinae: typical gerbils"
   hypernym:
   - 01867348-n
   ili: i47872
@@ -65178,7 +65178,7 @@
   partOfSpeech: n
 02348967-n:
   definition:
-  - ###an order of rodents including: porcupines, guinea pigs, chinchillas, etc.###
+  - "an order of rodents including: porcupines, guinea pigs, chinchillas, etc."
   hypernym:
   - 01345170-n
   ili: i47890
@@ -65321,9 +65321,9 @@
   partOfSpeech: n
 02351057-n:
   definition:
-  - ###small New World burrowing mouselike rodents with fur-lined cheek pouches and
+  - "small New World burrowing mouselike rodents with fur-lined cheek pouches and
     hind limbs and tail adapted to leaping; adapted to desert conditions: pocket mice;
-    kangaroo mice; kangaroo rats###
+    kangaroo mice; kangaroo rats"
   hypernym:
   - 01865198-n
   ili: i47902
@@ -65446,8 +65446,8 @@
   partOfSpeech: n
 02353009-n:
   definition:
-  - ###most widely distributed kangaroo rat: plains and mountain areas of central and
-    western United States###
+  - "most widely distributed kangaroo rat: plains and mountain areas of central and
+    western United States"
   hypernym:
   - 02352757-n
   ili: i47912
@@ -65777,7 +65777,7 @@
   partOfSpeech: n
 02357602-n:
   definition:
-  - ###large more or less primitive rodents: squirrels, marmots, gophers, beavers, etc.###
+  - "large more or less primitive rodents: squirrels, marmots, gophers, beavers, etc."
   hypernym:
   - 01345170-n
   ili: i47941
@@ -65811,8 +65811,8 @@
   partOfSpeech: n
 02358363-n:
   definition:
-  - ###a mammal family of true squirrels including: ground squirrels, marmots, chipmunks,
-    flying squirrels, spermophiles###
+  - "a mammal family of true squirrels including: ground squirrels, marmots, chipmunks,
+    flying squirrels, spermophiles"
   hypernym:
   - 01865198-n
   ili: i47944
@@ -66299,7 +66299,7 @@
   wikidata: Q261363
 02365514-n:
   definition:
-  - ###type genus of the Castoridae: beavers###
+  - "type genus of the Castoridae: beavers"
   hypernym:
   - 01867348-n
   ili: i47985
@@ -66364,7 +66364,7 @@
   partOfSpeech: n
 02366470-n:
   definition:
-  - ###type genus of the Aplodontiidae: comprising the mountain beavers###
+  - "type genus of the Aplodontiidae: comprising the mountain beavers"
   hypernym:
   - 01867348-n
   ili: i47991
@@ -66401,7 +66401,7 @@
   partOfSpeech: n
 02367029-n:
   definition:
-  - ###type genus of the Caviidae: guinea pigs###
+  - "type genus of the Caviidae: guinea pigs"
   hypernym:
   - 01867348-n
   ili: i47994
@@ -66517,7 +66517,7 @@
   wikidata: Q267132
 02368500-n:
   definition:
-  - ###type genus of the Dasyproctidae: agoutis###
+  - "type genus of the Dasyproctidae: agoutis"
   hypernym:
   - 01867348-n
   ili: i48004
@@ -67034,7 +67034,7 @@
   partOfSpeech: n
 02375745-n:
   definition:
-  - ###nonruminant ungulates: horses, tapirs, rhinoceros, extinct forms###
+  - "nonruminant ungulates: horses, tapirs, rhinoceros, extinct forms"
   hypernym:
   - 01345170-n
   ili: i48049
@@ -67077,7 +67077,7 @@
   partOfSpeech: n
 02376495-n:
   definition:
-  - ###type genus of the Equidae: only surviving genus of the family Equidae###
+  - "type genus of the Equidae: only surviving genus of the family Equidae"
   hypernym:
   - 01867348-n
   ili: i48052
@@ -67612,8 +67612,8 @@
   - 02384112-n
   ili: i48103
   members:
-  - Przewalski###s horse
-  - Przevalski###s horse
+  - Przewalski's horse
+  - Przevalski's horse
   - Equus caballus przewalskii
   - Equus caballus przevalskii
   partOfSpeech: n
@@ -68318,7 +68318,7 @@
   ili: i48176
   members:
   - common zebra
-  - Burchell###s zebra
+  - Burchell's zebra
   - Equus Burchelli
   partOfSpeech: n
 02394025-n:
@@ -68338,7 +68338,7 @@
   - 02393701-n
   ili: i48178
   members:
-  - grevy###s zebra
+  - grevy's zebra
   - Equus grevyi
   partOfSpeech: n
 02394269-n:
@@ -68960,8 +68960,8 @@
   partOfSpeech: n
 02403957-n:
   definition:
-  - ###term not used technically; essentially coextensive with genus Bos: cattle, buffalo,
-    and sometimes includes kudu###
+  - "term not used technically; essentially coextensive with genus Bos: cattle, buffalo,
+    and sometimes includes kudu"
   hypernym:
   - 01865198-n
   ili: i48228
@@ -69086,7 +69086,7 @@
   partOfSpeech: n
 02406106-n:
   definition:
-  - ###female of domestic cattle:###
+  - "female of domestic cattle:"
   hypernym:
   - 02405077-n
   ili: i48238
@@ -69575,7 +69575,7 @@
   partOfSpeech: n
 02412959-n:
   definition:
-  - ###sometimes considered a subgenus of genus Bos: American buffalo###
+  - "sometimes considered a subgenus of genus Bos: American buffalo"
   hypernym:
   - 01867348-n
   ili: i48284
@@ -69914,7 +69914,7 @@
   ili: i48315
   members:
   - Marco Polo sheep
-  - Marco Polo###s sheep
+  - Marco Polo's sheep
   - Ovis poli
   partOfSpeech: n
 02417776-n:
@@ -69935,7 +69935,7 @@
   ili: i48317
   members:
   - Dall sheep
-  - Dall###s sheep
+  - Dall's sheep
   - white sheep
   - Ovis montana dalli
   partOfSpeech: n
@@ -70145,8 +70145,8 @@
   wikidata: Q168327
 02420710-n:
   definition:
-  - ###bovid related to goats but having antelope-like features: mountain goats, gorals,
-    serows, chamois, gnu goats###
+  - "bovid related to goats but having antelope-like features: mountain goats, gorals,
+    serows, chamois, gnu goats"
   hypernym:
   - 02403683-n
   ili: i48336
@@ -70303,7 +70303,7 @@
   wikidata: Q183339
 02423321-n:
   definition:
-  - ###antelopes of eastern Africa: gerenuks###
+  - "antelopes of eastern Africa: gerenuks"
   hypernym:
   - 01867348-n
   ili: i48350
@@ -70486,7 +70486,7 @@
   - 02425668-n
   ili: i48366
   members:
-  - Thomson###s gazelle
+  - Thomson's gazelle
   - Gazella thomsoni
   partOfSpeech: n
 02426008-n:
@@ -70524,7 +70524,7 @@
   partOfSpeech: n
 02426433-n:
   definition:
-  - ###African antelopes: kudus, bongos, nyalas, bushbucks###
+  - "African antelopes: kudus, bongos, nyalas, bushbucks"
   hypernym:
   - 01867348-n
   ili: i48370
@@ -70928,7 +70928,7 @@
   partOfSpeech: n
 02432341-n:
   definition:
-  - ###deer: reindeer, moose or elks, muntjacs, roe deer###
+  - "deer: reindeer, moose or elks, muntjacs, roe deer"
   hypernym:
   - 01865198-n
   ili: i48405
@@ -71354,7 +71354,7 @@
   - 02432691-n
   ili: i48441
   members:
-  - pere david###s deer
+  - pere david's deer
   - elaphure
   - Elaphurus davidianus
   partOfSpeech: n
@@ -71454,7 +71454,7 @@
   partOfSpeech: n
 02439624-n:
   definition:
-  - ###type genus of the Camelidae: camels###
+  - "type genus of the Camelidae: camels"
   hypernym:
   - 01867348-n
   ili: i48450
@@ -71752,7 +71752,7 @@
   partOfSpeech: n
 02444354-n:
   definition:
-  - ###type genus of the family Mustelidae: minks and weasels###
+  - "type genus of the family Mustelidae: minks and weasels"
   hypernym:
   - 01867348-n
   ili: i48475
@@ -71948,7 +71948,7 @@
   partOfSpeech: n
 02447131-n:
   definition:
-  - ###subdivision not used in some classifications: otters###
+  - "subdivision not used in some classifications: otters"
   hypernym:
   - 01865198-n
   ili: i48493
@@ -72022,7 +72022,7 @@
   partOfSpeech: n
 02448195-n:
   definition:
-  - ###subdivision not used in some classifications: skunks###
+  - "subdivision not used in some classifications: skunks"
   hypernym:
   - 01865198-n
   ili: i48500
@@ -72044,7 +72044,7 @@
   partOfSpeech: n
 02448645-n:
   definition:
-  - ###in some classifications: type genus of the subfamily Mephitinae###
+  - "in some classifications: type genus of the subfamily Mephitinae"
   hypernym:
   - 01867348-n
   ili: i48502
@@ -72129,7 +72129,7 @@
   partOfSpeech: n
 02449851-n:
   definition:
-  - ###subdivision not used in some classifications: badgers###
+  - "subdivision not used in some classifications: badgers"
   hypernym:
   - 01865198-n
   ili: i48509
@@ -72172,7 +72172,7 @@
   wikidata: Q232129
 02450527-n:
   definition:
-  - ###in some classifications: type genus of the subfamily Melinae###
+  - "in some classifications: type genus of the subfamily Melinae"
   hypernym:
   - 01867348-n
   ili: i48513
@@ -72561,8 +72561,8 @@
   partOfSpeech: n
 02455739-n:
   definition:
-  - ###any of various nonruminant hoofed mammals having very thick skin: elephant, rhinoceros,
-    hippopotamus###
+  - "any of various nonruminant hoofed mammals having very thick skin: elephant, rhinoceros,
+    hippopotamus"
   hypernym:
   - 01889397-n
   ili: i48549
@@ -72573,8 +72573,8 @@
   partOfSpeech: n
 02456004-n:
   definition:
-  - ###order of mammals having few or no teeth including: New World anteaters, sloths,
-    armadillos###
+  - "order of mammals having few or no teeth including: New World anteaters, sloths,
+    armadillos"
   hypernym:
   - 01345170-n
   ili: i48550
@@ -72830,7 +72830,7 @@
   partOfSpeech: n
 02459880-n:
   definition:
-  - ###type genus of the Bradypodidae: three-toed sloths###
+  - "type genus of the Bradypodidae: three-toed sloths"
   hypernym:
   - 01867348-n
   ili: i48571
@@ -73897,7 +73897,7 @@
   partOfSpeech: n
 02476913-n:
   definition:
-  - ###former genus of primitive man; now Homo soloensis: comprises Solo man###
+  - "former genus of primitive man; now Homo soloensis: comprises Solo man"
   hypernym:
   - 02474393-n
   ili: i48665
@@ -74267,7 +74267,7 @@
   partOfSpeech: n
 02482977-n:
   definition:
-  - ###type genus of the family Pongidae: orangutans###
+  - "type genus of the family Pongidae: orangutans"
   hypernym:
   - 01867348-n
   ili: i48699
@@ -74498,8 +74498,8 @@
   partOfSpeech: n
 02486546-n:
   definition:
-  - ###Old World monkeys: guenon, baboon, colobus monkey, langur, macaque, mandrill,
-    mangabey, patas, proboscis monkey###
+  - "Old World monkeys: guenon, baboon, colobus monkey, langur, macaque, mandrill,
+    mangabey, patas, proboscis monkey"
   hypernym:
   - 01865198-n
   ili: i48719
@@ -74539,7 +74539,7 @@
   partOfSpeech: n
 02487444-n:
   definition:
-  - ###type genus of the Cercopithecidae: guenons###
+  - "type genus of the Cercopithecidae: guenons"
   hypernym:
   - 01867348-n
   ili: i48722
@@ -74867,8 +74867,8 @@
   partOfSpeech: n
 02491919-n:
   definition:
-  - ###New World monkeys: capuchin, douroucouli, howler monkey, saki, spider monkey,
-    squirrel monkey, titi, uakari, woolly monkey, marmoset, tamarin###
+  - "New World monkeys: capuchin, douroucouli, howler monkey, saki, spider monkey,
+    squirrel monkey, titi, uakari, woolly monkey, marmoset, tamarin"
   hypernym:
   - 01865198-n
   ili: i48752
@@ -74919,7 +74919,7 @@
   partOfSpeech: n
 02493066-n:
   definition:
-  - ###type genus of the Callithricidae: true marmosets###
+  - "type genus of the Callithricidae: true marmosets"
   hypernym:
   - 01867348-n
   ili: i48756
@@ -75229,9 +75229,9 @@
   partOfSpeech: n
 02497169-n:
   definition:
-  - ###a small order comprising only the tree shrews: in some classifications tree shrews
+  - "a small order comprising only the tree shrews: in some classifications tree shrews
     are considered either primates (and included in the suborder Prosimii) or true
-    insectivores (and included in the order Insectivora)###
+    insectivores (and included in the order Insectivora)"
   hypernym:
   - 01345170-n
   ili: i48783
@@ -75258,7 +75258,7 @@
   wikidata: Q1184603
 02497730-n:
   definition:
-  - ###the type genus of the Tupaia: chief genus of tree shrews###
+  - "the type genus of the Tupaia: chief genus of tree shrews"
   hypernym:
   - 01867348-n
   ili: i48785
@@ -75658,7 +75658,7 @@
   partOfSpeech: n
 02503906-n:
   definition:
-  - ###coextensive with the genus Tarsius: tarsiers###
+  - "coextensive with the genus Tarsius: tarsiers"
   hypernym:
   - 01865198-n
   ili: i48819
@@ -75886,7 +75886,7 @@
   partOfSpeech: n
 02507266-n:
   definition:
-  - ###extinct genus: mammoths###
+  - "extinct genus: mammoths"
   hypernym:
   - 01867348-n
   ili: i48839
@@ -75954,7 +75954,7 @@
   partOfSpeech: n
 02508277-n:
   definition:
-  - ###extinct family: mastodons###
+  - "extinct family: mastodons"
   hypernym:
   - 01865198-n
   ili: i48845
@@ -75967,7 +75967,7 @@
   partOfSpeech: n
 02508440-n:
   definition:
-  - ###extinct type genus of the Mammutidae: mastodons###
+  - "extinct type genus of the Mammutidae: mastodons"
   hypernym:
   - 01867348-n
   ili: i48846
@@ -76087,7 +76087,7 @@
   partOfSpeech: n
 02510494-n:
   definition:
-  - ###the type genus of the family Procyonidae: raccoons###
+  - "the type genus of the family Procyonidae: raccoons"
   hypernym:
   - 01867348-n
   ili: i48856
@@ -76169,7 +76169,7 @@
   - ringtail
   - ring-tailed cat
   - civet cat
-  - miner###s cat
+  - miner's cat
   - Bassariscus astutus
   partOfSpeech: n
 02511702-n:
@@ -76261,8 +76261,8 @@
   partOfSpeech: n
 02512871-n:
   definition:
-  - ###only the giant panda: in some classifications considered a genus of the separate
-    family Ailuropodidae###
+  - "only the giant panda: in some classifications considered a genus of the separate
+    family Ailuropodidae"
   hypernym:
   - 01867348-n
   ili: i48870
@@ -76573,7 +76573,7 @@
   partOfSpeech: n
 02518191-n:
   definition:
-  - ###type genus of the Latimeridae: coelacanth###
+  - "type genus of the Latimeridae: coelacanth"
   hypernym:
   - 01435158-n
   ili: i48898
@@ -76634,7 +76634,7 @@
   partOfSpeech: n
 02519246-n:
   definition:
-  - ###type genus of the Ceratodontidae: extinct genus of lungfishes###
+  - "type genus of the Ceratodontidae: extinct genus of lungfishes"
   hypernym:
   - 01435158-n
   ili: i48903
@@ -76729,7 +76729,7 @@
   partOfSpeech: n
 02520809-n:
   definition:
-  - ###type genus of the Siluridae: catfishes###
+  - "type genus of the Siluridae: catfishes"
   hypernym:
   - 01435158-n
   ili: i48911
@@ -76791,7 +76791,7 @@
   partOfSpeech: n
 02521621-n:
   definition:
-  - ###type genus of the Ameiuridae: bullhead catfishes###
+  - "type genus of the Ameiuridae: bullhead catfishes"
   hypernym:
   - 01435158-n
   ili: i48916
@@ -76941,7 +76941,7 @@
   partOfSpeech: n
 02523616-n:
   definition:
-  - ###type genus of the Ariidae: sea catfishes###
+  - "type genus of the Ariidae: sea catfishes"
   hypernym:
   - 01435158-n
   ili: i48929
@@ -77018,7 +77018,7 @@
   partOfSpeech: n
 02524878-n:
   definition:
-  - ###type genus of the Gadidae: the typical codfishes###
+  - "type genus of the Gadidae: the typical codfishes"
   hypernym:
   - 01435158-n
   ili: i48935
@@ -77356,7 +77356,7 @@
   partOfSpeech: n
 02529304-n:
   definition:
-  - ###type genus of the Anguillidae: eels###
+  - "type genus of the Anguillidae: eels"
   hypernym:
   - 01435158-n
   ili: i48964
@@ -77472,8 +77472,8 @@
   partOfSpeech: n
 02531165-n:
   definition:
-  - ###most primitive teleost fishes, all are soft-finned: salmon, trout, herring, shad,
-    sardines, anchovies, whitefish, smelts, tarpon###
+  - "most primitive teleost fishes, all are soft-finned: salmon, trout, herring, shad,
+    sardines, anchovies, whitefish, smelts, tarpon"
   hypernym:
   - 01345170-n
   ili: i48973
@@ -77688,7 +77688,7 @@
   partOfSpeech: n
 02534451-n:
   definition:
-  - ###type genus of the Clupeidae: typical herrings###
+  - "type genus of the Clupeidae: typical herrings"
   hypernym:
   - 01435158-n
   ili: i48990
@@ -77926,7 +77926,7 @@
   partOfSpeech: n
 02537980-n:
   definition:
-  - ###type genus of the Salmonidae: salmon and trout###
+  - "type genus of the Salmonidae: salmon and trout"
   hypernym:
   - 01435158-n
   ili: i49011
@@ -78172,7 +78172,7 @@
   partOfSpeech: n
 02541882-n:
   definition:
-  - ###type genus of the Coregonidae: whitefishes###
+  - "type genus of the Coregonidae: whitefishes"
   hypernym:
   - 01435158-n
   ili: i49030
@@ -78366,7 +78366,7 @@
   partOfSpeech: n
 02544506-n:
   definition:
-  - ###type genus of the Elopidae: tenpounder###
+  - "type genus of the Elopidae: tenpounder"
   hypernym:
   - 01435158-n
   ili: i49046
@@ -78439,7 +78439,7 @@
   partOfSpeech: n
 02545435-n:
   definition:
-  - ###type genus of the Argentinidae: argentines###
+  - "type genus of the Argentinidae: argentines"
   hypernym:
   - 01435158-n
   ili: i49052
@@ -78771,7 +78771,7 @@
   partOfSpeech: n
 02550193-n:
   definition:
-  - ###batfishes: sluggish bottom-dwelling spiny fishes###
+  - "batfishes: sluggish bottom-dwelling spiny fishes"
   hypernym:
   - 01431990-n
   ili: i49080
@@ -79122,8 +79122,8 @@
   partOfSpeech: n
 02555827-n:
   definition:
-  - ###one of the largest natural groups of fishes of both marine and fresh water: true
-    perches, basses, tuna###
+  - "one of the largest natural groups of fishes of both marine and fresh water: true
+    perches, basses, tuna"
   hypernym:
   - 01345170-n
   ili: i49109
@@ -79461,7 +79461,7 @@
   partOfSpeech: n
 02561863-n:
   definition:
-  - ###pearlfishes: related to the Brotulidae###
+  - "pearlfishes: related to the Brotulidae"
   hypernym:
   - 01431990-n
   ili: i49133
@@ -79510,7 +79510,7 @@
   partOfSpeech: n
 02562605-n:
   definition:
-  - ###type genus of the Centropomidae: snooks###
+  - "type genus of the Centropomidae: snooks"
   hypernym:
   - 01435158-n
   ili: i49137
@@ -79674,9 +79674,9 @@
   partOfSpeech: n
 02564946-n:
   definition:
-  - ###small carnivorous freshwater percoid fishes of North America usually having a
+  - "small carnivorous freshwater percoid fishes of North America usually having a
     laterally compressed body and metallic luster: crappies, black bass, bluegills,
-    pumpkinseed###
+    pumpkinseed"
   hypernym:
   - 02557361-n
   ili: i49151
@@ -79903,7 +79903,7 @@
   partOfSpeech: n
 02568359-n:
   definition:
-  - ###marine fishes: sea basses, sea perches, groupers, jewfish###
+  - "marine fishes: sea basses, sea perches, groupers, jewfish"
   hypernym:
   - 01431990-n
   ili: i49170
@@ -80092,7 +80092,7 @@
   wikidata: Q235822
 02571267-n:
   definition:
-  - ###type genus of the Serranidae: mostly small Pacific sea basses###
+  - "type genus of the Serranidae: mostly small Pacific sea basses"
   hypernym:
   - 01435158-n
   ili: i49185
@@ -80540,7 +80540,7 @@
   partOfSpeech: n
 02577799-n:
   definition:
-  - ###type genus of the Echeneididae: typical remoras###
+  - "type genus of the Echeneididae: typical remoras"
   hypernym:
   - 01435158-n
   ili: i49224
@@ -80666,7 +80666,7 @@
   partOfSpeech: n
 02579795-n:
   definition:
-  - ###fish of western Atlantic: Cape Cod to Brazil###
+  - "fish of western Atlantic: Cape Cod to Brazil"
   hypernym:
   - 02579206-n
   ili: i49234
@@ -81337,7 +81337,7 @@
   partOfSpeech: n
 02589496-n:
   definition:
-  - ###type genus of the Lutjanidae: snappers###
+  - "type genus of the Lutjanidae: snappers"
   hypernym:
   - 01435158-n
   ili: i49293
@@ -81509,7 +81509,7 @@
   - 02590916-n
   ili: i49307
   members:
-  - sailor###s-choice
+  - sailor's-choice
   - sailors choice
   - Haemulon parra
   partOfSpeech: n
@@ -81729,7 +81729,7 @@
   ili: i49325
   members:
   - pinfish
-  - sailor###s-choice
+  - sailor's-choice
   - squirrelfish
   - Lagodon rhomboides
   partOfSpeech: n
@@ -81960,7 +81960,7 @@
   partOfSpeech: n
 02598532-n:
   definition:
-  - ###type genus of the Sciaenidae: croakers###
+  - "type genus of the Sciaenidae: croakers"
   hypernym:
   - 01435158-n
   ili: i49344
@@ -82258,7 +82258,7 @@
   partOfSpeech: n
 02602765-n:
   definition:
-  - ###type genus of the Mullidae: goatfishes###
+  - "type genus of the Mullidae: goatfishes"
   hypernym:
   - 01435158-n
   ili: i49369
@@ -82316,8 +82316,8 @@
   partOfSpeech: n
 02603583-n:
   definition:
-  - ###fishes distinguished by abdominal pelvic fins: families Mugilidae; Atherinidae;
-    Sphyraenidae###
+  - "fishes distinguished by abdominal pelvic fins: families Mugilidae; Atherinidae;
+    Sphyraenidae"
   hypernym:
   - 01345170-n
   ili: i49374
@@ -82358,7 +82358,7 @@
   partOfSpeech: n
 02604219-n:
   definition:
-  - ###type genus of the Mugilidae: mullets###
+  - "type genus of the Mugilidae: mullets"
   hypernym:
   - 01435158-n
   ili: i49377
@@ -82450,7 +82450,7 @@
   partOfSpeech: n
 02605600-n:
   definition:
-  - ###monotypic family of large active fishes of tropical and subtropical waters: barracuda###
+  - "monotypic family of large active fishes of tropical and subtropical waters: barracuda"
   hypernym:
   - 01431990-n
   ili: i49385
@@ -82462,7 +82462,7 @@
   partOfSpeech: n
 02605804-n:
   definition:
-  - ###type and sole genus of the Sphyraenidae: barracuda###
+  - "type and sole genus of the Sphyraenidae: barracuda"
   hypernym:
   - 01435158-n
   ili: i49386
@@ -82699,7 +82699,7 @@
   partOfSpeech: n
 02609220-n:
   definition:
-  - ###type genus of the Pomacentridae: damselfishes###
+  - "type genus of the Pomacentridae: damselfishes"
   hypernym:
   - 01435158-n
   ili: i49407
@@ -83153,7 +83153,7 @@
   partOfSpeech: n
 02615612-n:
   definition:
-  - ###a family of fish including: combtooth blennies###
+  - "a family of fish including: combtooth blennies"
   hypernym:
   - 01431990-n
   ili: i49446
@@ -83305,7 +83305,7 @@
   partOfSpeech: n
 02617787-n:
   definition:
-  - ###type genus of the Pholidae: gunnels###
+  - "type genus of the Pholidae: gunnels"
   hypernym:
   - 01435158-n
   ili: i49459
@@ -83775,7 +83775,7 @@
   partOfSpeech: n
 02624049-n:
   definition:
-  - ###type genus of the Acanthuridae: doctorfishes###
+  - "type genus of the Acanthuridae: doctorfishes"
   hypernym:
   - 01435158-n
   ili: i49499
@@ -83929,7 +83929,7 @@
   partOfSpeech: n
 02626498-n:
   definition:
-  - ###marine food fishes: mackerels; chub mackerels; tuna###
+  - "marine food fishes: mackerels; chub mackerels; tuna"
   hypernym:
   - 01431990-n
   ili: i49512
@@ -84106,7 +84106,7 @@
   partOfSpeech: n
 02629220-n:
   definition:
-  - ###tunas: warm-blooded fishes###
+  - "tunas: warm-blooded fishes"
   hypernym:
   - 01435158-n
   ili: i49526
@@ -84148,8 +84148,8 @@
   partOfSpeech: n
 02629922-n:
   definition:
-  - ###largest tuna; to 1500 pounds; of mostly temperate seas: feed in polar regions
-    but breed in tropics###
+  - "largest tuna; to 1500 pounds; of mostly temperate seas: feed in polar regions
+    but breed in tropics"
   hypernym:
   - 02629392-n
   ili: i49529
@@ -84307,9 +84307,9 @@
   partOfSpeech: n
 02632346-n:
   definition:
-  - ###large toothless marine food fish with a long swordlike upper jaw; not completely
+  - "large toothless marine food fish with a long swordlike upper jaw; not completely
     cold-blooded i.e. they are able to warm their brains and eyes: worldwide in warm
-    waters but feed on cold ocean floor coming to surface at night###
+    waters but feed on cold ocean floor coming to surface at night"
   hypernym:
   - 02626075-n
   ili: i49542
@@ -84499,7 +84499,7 @@
   partOfSpeech: n
 02635324-n:
   definition:
-  - ###butterfishes: harvest fishes; dollar fishes###
+  - "butterfishes: harvest fishes; dollar fishes"
   hypernym:
   - 01431990-n
   ili: i49559
@@ -85054,7 +85054,7 @@
   partOfSpeech: n
 02643083-n:
   definition:
-  - ###type genus of the Acipenseridae: sturgeons###
+  - "type genus of the Acipenseridae: sturgeons"
   hypernym:
   - 01435158-n
   ili: i49606
@@ -85105,7 +85105,7 @@
   partOfSpeech: n
 02643845-n:
   definition:
-  - ###type genus of the Lepisosteidae: freshwater gars###
+  - "type genus of the Lepisosteidae: freshwater gars"
   hypernym:
   - 01435158-n
   ili: i49610
@@ -85146,7 +85146,7 @@
   partOfSpeech: n
 02644455-n:
   definition:
-  - ###mail-cheeked fishes: scorpionfishes; gurnards###
+  - "mail-cheeked fishes: scorpionfishes; gurnards"
   hypernym:
   - 01345170-n
   ili: i49613
@@ -85201,7 +85201,7 @@
   partOfSpeech: n
 02645565-n:
   definition:
-  - ###type genus of the Scorpaenidae: scorpionfishes###
+  - "type genus of the Scorpaenidae: scorpionfishes"
   hypernym:
   - 01435158-n
   ili: i49617
@@ -85364,7 +85364,7 @@
   partOfSpeech: n
 02647773-n:
   definition:
-  - ###type genus of the Cottidae: sculpins###
+  - "type genus of the Cottidae: sculpins"
   hypernym:
   - 01435158-n
   ili: i49631
@@ -85401,7 +85401,7 @@
   - 02647934-n
   ili: i49634
   members:
-  - miller###s-thumb
+  - miller's-thumb
   partOfSpeech: n
 02648453-n:
   definition:
@@ -85463,7 +85463,7 @@
   partOfSpeech: n
 02649138-n:
   definition:
-  - ###type genus of the Cyclopteridae: lumpfishes###
+  - "type genus of the Cyclopteridae: lumpfishes"
   hypernym:
   - 01435158-n
   ili: i49640
@@ -85509,7 +85509,7 @@
   partOfSpeech: n
 02649774-n:
   definition:
-  - ###type genus of the Liparididae: snailfishes###
+  - "type genus of the Liparididae: snailfishes"
   hypernym:
   - 01435158-n
   ili: i49644
@@ -85808,8 +85808,8 @@
   partOfSpeech: n
 02654042-n:
   definition:
-  - ###in some classifications the type genus of the subfamily Peristediinae: armored
-    sea robins###
+  - "in some classifications the type genus of the subfamily Peristediinae: armored
+    sea robins"
   hypernym:
   - 01435158-n
   ili: i49669
@@ -86196,7 +86196,7 @@
   partOfSpeech: n
 02659713-n:
   definition:
-  - ###flatfishes: halibut; sole; flounder; plaice; turbot; tonguefishes###
+  - "flatfishes: halibut; sole; flounder; plaice; turbot; tonguefishes"
   hypernym:
   - 01345170-n
   ili: i49701

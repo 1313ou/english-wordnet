@@ -11767,8 +11767,8 @@
   partOfSpeech: v
 01395692-v:
   definition:
-  - ###wipe away; to wash off or out, cleanse; chiefly in medical use: to clear away
-    foul matter from the body###
+  - "wipe away; to wash off or out, cleanse; chiefly in medical use: to clear away
+    foul matter from the body"
   example:
   - This drug is powerful enough to deterge
   hypernym:
@@ -12514,7 +12514,7 @@
   partOfSpeech: v
 01407428-v:
   definition:
-  - ###baseball: hit a ball such that it is caught in foul territory###
+  - "baseball: hit a ball such that it is caught in foul territory"
   hypernym:
   - 01150321-v
   ili: i28750
@@ -15122,7 +15122,7 @@
   definition:
   - make strenuous pushing movements during birth to expel the baby
   example:
-  - ###<<<Now push hard,>>> said the doctor to the woman###
+  - "<<<Now push hard,>>> said the doctor to the woman"
   hypernym:
   - 01875972-v
   ili: i28965
@@ -25431,7 +25431,7 @@
   - 01617139-v
 01617678-v:
   definition:
-  - ###connect to a vehicle:###
+  - "connect to a vehicle:"
   hypernym:
   - 01357376-v
   ili: i29831

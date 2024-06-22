@@ -100,7 +100,7 @@
   instance_hypernym:
   - 09383019-n
   members:
-  - Adam###s Peak
+  - Adam's Peak
   - Samanala
   partOfSpeech: n
 09210640-n:
@@ -1920,7 +1920,7 @@
   - Big Dipper
   - Dipper
   - Plough
-  - Charles###s Wain
+  - Charles's Wain
   - Wain
   - Wagon
   partOfSpeech: n
@@ -2014,7 +2014,7 @@
   - 09392066-n
   ili: i85085
   members:
-  - bird###s nest
+  - bird's nest
   - bird nest
   - birdnest
   partOfSpeech: n
@@ -3267,7 +3267,7 @@
   instance_hypernym:
   - 09351810-n
   members:
-  - Coeur d###Alene Lake
+  - Coeur d'Alene Lake
   partOfSpeech: n
 09266115-n:
   definition:
@@ -4158,7 +4158,7 @@
   ili: i85284
   members:
   - crust
-  - Earth###s crust
+  - Earth's crust
   mero_part:
   - 09231932-n
   mero_substance:
@@ -5355,7 +5355,7 @@
   instance_hypernym:
   - 09261832-n
   members:
-  - Fingal###s Cave
+  - Fingal's Cave
   partOfSpeech: n
 09302776-n:
   definition:
@@ -9150,7 +9150,7 @@
   - 09268870-n
   ili: i85748
   members:
-  - mare###s tail
+  - mare's tail
   partOfSpeech: n
 09370105-n:
   definition:
@@ -9959,7 +9959,7 @@
   ili: i85821
   members:
   - mouse nest
-  - mouse###s nest
+  - mouse's nest
   partOfSpeech: n
 09385213-n:
   definition:
@@ -10799,7 +10799,7 @@
   - ocean bottom
   - seabed
   - sea bottom
-  - Davy Jones###s locker
+  - Davy Jones's locker
   - Davy Jones
   partOfSpeech: n
   wikidata: Q468469
@@ -11653,7 +11653,7 @@
   - 09383019-n
   members:
   - Pikes Peak
-  - Pike###s Peak
+  - Pike's Peak
   partOfSpeech: n
 09415055-n:
   definition:
@@ -12107,7 +12107,7 @@
   partOfSpeech: n
 09423065-n:
   definition:
-  - ###the nearest star to the sun; distance: 4.3 light years###
+  - "the nearest star to the sun; distance: 4.3 light years"
   ili: i86017
   instance_hypernym:
   - 09304158-n
@@ -12914,7 +12914,7 @@
   - 09333712-n
   ili: i86091
   members:
-  - Russell###s body
+  - Russell's body
   - cancer body
   partOfSpeech: n
 09440937-n:
@@ -14961,7 +14961,7 @@
   ili: i86280
   members:
   - surface
-  - Earth###s surface
+  - Earth's surface
   mero_part:
   - 09248053-n
   - 09402023-n
@@ -15214,8 +15214,8 @@
   partOfSpeech: n
 09479128-n:
   definition:
-  - ###any agent that interferes with normal embryonic development: alcohol or thalidomide
-    or X-rays or rubella are examples###
+  - "any agent that interferes with normal embryonic development: alcohol or thalidomide
+    or X-rays or rubella are examples"
   hypernym:
   - 09213796-n
   ili: i86305
@@ -16353,10 +16353,10 @@
   - 09393939-n
   ili: i86412
   members:
-  - wasp###s nest
-  - wasps### nest
-  - hornet###s nest
-  - hornets### nest
+  - wasp's nest
+  - wasps' nest
+  - hornet's nest
+  - hornets' nest
   partOfSpeech: n
 09498309-n:
   definition:

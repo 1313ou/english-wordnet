@@ -252,7 +252,7 @@
   members:
   - academic gown
   - academic robe
-  - judge###s robe
+  - judge's robe
   partOfSpeech: n
 02672515-n:
   definition:
@@ -1767,7 +1767,7 @@
   - 03641539-n
   ili: i49916
   members:
-  - Aladdin###s lamp
+  - Aladdin's lamp
   partOfSpeech: n
 02697285-n:
   definition:
@@ -2101,7 +2101,7 @@
   members:
   - altar
   - communion table
-  - Lord###s table
+  - Lord's table
   partOfSpeech: n
 02702629-n:
   definition:
@@ -4746,7 +4746,7 @@
   - 02749846-n
   ili: i50196
   members:
-  - artist###s loft
+  - artist's loft
   partOfSpeech: n
 02749846-n:
   definition:
@@ -4755,7 +4755,7 @@
   - 04351324-n
   ili: i50197
   members:
-  - artist###s workroom
+  - artist's workroom
   - atelier
   partOfSpeech: n
 02749983-n:
@@ -6030,7 +6030,7 @@
   ili: i50314
   members:
   - baby bed
-  - baby###s bed
+  - baby's bed
   partOfSpeech: n
 02769539-n:
   definition:
@@ -8861,7 +8861,7 @@
   - 02887848-n
   ili: i50577
   members:
-  - batter###s box
+  - batter's box
   partOfSpeech: n
 02813606-n:
   definition:
@@ -9550,7 +9550,7 @@
   - Bedlam
   - booby hatch
   - crazy house
-  - cuckoo###s nest
+  - cuckoo's nest
   - funny farm
   - funny house
   - loony bin
@@ -12152,8 +12152,8 @@
   - 04168419-n
   ili: i50890
   members:
-  - boatswain###s chair
-  - bosun###s chair
+  - boatswain's chair
+  - bosun's chair
   partOfSpeech: n
 02863069-n:
   definition:
@@ -14691,7 +14691,7 @@
   - 03486255-n
   ili: i51124
   members:
-  - bricklayer###s hammer
+  - bricklayer's hammer
   partOfSpeech: n
 02901552-n:
   definition:
@@ -14701,7 +14701,7 @@
   ili: i51125
   members:
   - brick trowel
-  - mason###s trowel
+  - mason's trowel
   partOfSpeech: n
 02901652-n:
   definition:
@@ -16783,7 +16783,7 @@
   ili: i51325
   members:
   - BVD
-  - BVD###s
+  - BVD's
   partOfSpeech: n
 02933723-n:
   definition:
@@ -17569,7 +17569,7 @@
   - 03314753-n
   ili: i51399
   members:
-  - camel###s hair
+  - camel's hair
   - camelhair
   partOfSpeech: n
 02946032-n:
@@ -18528,7 +18528,7 @@
   - 02741540-n
   ili: i51493
   members:
-  - captain###s chair
+  - captain's chair
   partOfSpeech: n
 02961438-n:
   definition:
@@ -19065,7 +19065,7 @@
   - 03486255-n
   ili: i51539
   members:
-  - carpenter###s hammer
+  - carpenter's hammer
   - claw hammer
   - clawhammer
   partOfSpeech: n
@@ -19076,7 +19076,7 @@
   - 03624605-n
   ili: i51540
   members:
-  - carpenter###s kit
+  - carpenter's kit
   - tool kit
   partOfSpeech: n
 02970238-n:
@@ -19086,7 +19086,7 @@
   - 02791712-n
   ili: i51541
   members:
-  - carpenter###s level
+  - carpenter's level
   mero_part:
   - 03664184-n
   partOfSpeech: n
@@ -19097,7 +19097,7 @@
   - 03720925-n
   ili: i51542
   members:
-  - carpenter###s mallet
+  - carpenter's mallet
   partOfSpeech: n
 02970533-n:
   definition:
@@ -19106,7 +19106,7 @@
   - 04125870-n
   ili: i51543
   members:
-  - carpenter###s rule
+  - carpenter's rule
   partOfSpeech: n
 02970622-n:
   definition:
@@ -19115,7 +19115,7 @@
   - 04298380-n
   ili: i51544
   members:
-  - carpenter###s square
+  - carpenter's square
   partOfSpeech: n
 02970746-n:
   definition:
@@ -19640,8 +19640,8 @@
   ili: i51593
   members:
   - case
-  - compositor###s case
-  - typesetter###s case
+  - compositor's case
+  - typesetter's case
   partOfSpeech: n
 02979453-n:
   definition:
@@ -20131,7 +20131,7 @@
   - 02803056-n
   ili: i51640
   members:
-  - catcher###s mask
+  - catcher's mask
   partOfSpeech: n
 02986812-n:
   definition:
@@ -20171,7 +20171,7 @@
   ili: i51644
   members:
   - cathedra
-  - bishop###s throne
+  - bishop's throne
   partOfSpeech: n
 02987516-n:
   definition:
@@ -20268,7 +20268,7 @@
   - 04585055-n
   ili: i51653
   members:
-  - cat-o###-nine-tails
+  - cat-o'-nine-tails
   - cat
   partOfSpeech: n
 02989213-n:
@@ -20287,7 +20287,7 @@
   - 03527797-n
   ili: i51655
   members:
-  - cat###s-paw
+  - cat's-paw
   partOfSpeech: n
 02989418-n:
   definition:
@@ -22292,7 +22292,7 @@
   - 02824762-n
   ili: i51845
   members:
-  - child###s room
+  - child's room
   partOfSpeech: n
 03020822-n:
   definition:
@@ -25656,7 +25656,7 @@
   - 03154617-n
   ili: i52165
   members:
-  - collector###s item
+  - collector's item
   - showpiece
   - piece de resistance
   partOfSpeech: n
@@ -26039,7 +26039,7 @@
   members:
   - comforter
   - pacifier
-  - baby###s dummy
+  - baby's dummy
   - teething ring
   partOfSpeech: n
 03079950-n:
@@ -26319,7 +26319,7 @@
   ili: i52226
   members:
   - compass card
-  - mariner###s compass
+  - mariner's compass
   partOfSpeech: n
 03084908-n:
   definition:
@@ -26385,8 +26385,8 @@
   partOfSpeech: n
 03086284-n:
   definition:
-  - ###light microscope that has two converging lens systems: the objective and the
-    eyepiece###
+  - "light microscope that has two converging lens systems: the objective and the
+    eyepiece"
   hypernym:
   - 03673155-n
   ili: i52233
@@ -29472,7 +29472,7 @@
   ili: i52519
   members:
   - crook
-  - shepherd###s crook
+  - shepherd's crook
   partOfSpeech: n
 03138883-n:
   definition:
@@ -29739,7 +29739,7 @@
   - 04057178-n
   ili: i52546
   members:
-  - croupier###s rake
+  - croupier's rake
   partOfSpeech: n
 03142995-n:
   definition:
@@ -29865,7 +29865,7 @@
   - 03968233-n
   ili: i52558
   members:
-  - crow###s nest
+  - crow's nest
   partOfSpeech: n
 03144777-n:
   definition:
@@ -30478,7 +30478,7 @@
   - 02882960-n
   ili: i52618
   members:
-  - Cupid###s bow
+  - Cupid's bow
   partOfSpeech: n
 03153393-n:
   definition:
@@ -31344,7 +31344,7 @@
   ili: i52702
   members:
   - dark lantern
-  - bull###s-eye
+  - bull's-eye
   partOfSpeech: n
 03167126-n:
   definition:
@@ -32245,7 +32245,7 @@
   - 03244429-n
   ili: i52792
   members:
-  - dentist###s drill
+  - dentist's drill
   - burr drill
   mero_part:
   - 02924676-n
@@ -34813,7 +34813,7 @@
   ili: i53033
   members:
   - dollhouse
-  - doll###s house
+  - doll's house
   partOfSpeech: n
 03224186-n:
   definition:
@@ -34823,7 +34823,7 @@
   ili: i53034
   members:
   - dollhouse
-  - doll###s house
+  - doll's house
   partOfSpeech: n
 03224315-n:
   definition:
@@ -35449,7 +35449,7 @@
   - 04000366-n
   ili: i53093
   members:
-  - Dover###s powder
+  - Dover's powder
   partOfSpeech: n
 03233670-n:
   definition:
@@ -36696,9 +36696,9 @@
   ili: i53208
   members:
   - drugstore
-  - apothecary###s shop
-  - chemist###s
-  - chemist###s shop
+  - apothecary's shop
+  - chemist's
+  - chemist's shop
   - pharmacy
   mero_part:
   - 03927331-n
@@ -37188,8 +37188,8 @@
   ili: i53255
   members:
   - dunce cap
-  - dunce###s cap
-  - fool###s cap
+  - dunce's cap
+  - fool's cap
   partOfSpeech: n
 03261491-n:
   definition:
@@ -39649,8 +39649,8 @@
   partOfSpeech: n
 03304208-n:
   definition:
-  - ###additional unspecified odds and ends; more of the same; entity, other pronoun;
-    pronoun, entity; quantifier: other###
+  - "additional unspecified odds and ends; more of the same; entity, other pronoun;
+    pronoun, entity; quantifier: other"
   example:
   - his report was full of etceteras
   hypernym:
@@ -40895,7 +40895,7 @@
   - 03853343-n
   ili: i53603
   members:
-  - farmer###s market
+  - farmer's market
   - green market
   - greenmarket
   partOfSpeech: n
@@ -41197,7 +41197,7 @@
   ili: i53633
   members:
   - fencing mask
-  - fencer###s mask
+  - fencer's mask
   partOfSpeech: n
 03332636-n:
   definition:
@@ -42358,8 +42358,8 @@
   - 02767049-n
   ili: i53745
   members:
-  - fireman###s ax
-  - fireman###s axe
+  - fireman's ax
+  - fireman's axe
   partOfSpeech: n
 03351301-n:
   definition:
@@ -42615,7 +42615,7 @@
   - 03632523-n
   ili: i53769
   members:
-  - fisherman###s bend
+  - fisherman's bend
   partOfSpeech: n
 03355302-n:
   definition:
@@ -42624,8 +42624,8 @@
   - 03632523-n
   ili: i53770
   members:
-  - fisherman###s knot
-  - true lover###s knot
+  - fisherman's knot
+  - true lover's knot
   - truelove knot
   partOfSpeech: n
 03355448-n:
@@ -42638,7 +42638,7 @@
   - 02779210-n
   ili: i53771
   members:
-  - fisherman###s lure
+  - fisherman's lure
   - fish lure
   partOfSpeech: n
 03355726-n:
@@ -42933,7 +42933,7 @@
   members:
   - flageolet
   - treble recorder
-  - shepherd###s pipe
+  - shepherd's pipe
   partOfSpeech: n
 03360487-n:
   definition:
@@ -43561,7 +43561,7 @@
   ili: i53859
   members:
   - float
-  - plasterer###s float
+  - plasterer's float
   partOfSpeech: n
 03369621-n:
   definition:
@@ -44754,7 +44754,7 @@
   ili: i53973
   members:
   - forecastle
-  - fo###c###sle
+  - fo'c'sle
   partOfSpeech: n
 03387138-n:
   definition:
@@ -46599,7 +46599,7 @@
   ili: i54148
   members:
   - galley
-  - ship###s galley
+  - ship's galley
   - caboose
   - cookhouse
   partOfSpeech: n
@@ -48406,7 +48406,7 @@
   partOfSpeech: n
 03446036-n:
   definition:
-  - ###handwear: covers the hand and wrist###
+  - "handwear: covers the hand and wrist"
   hypernym:
   - 03495425-n
   ili: i54319
@@ -50098,7 +50098,7 @@
   - 02963378-n
   ili: i54480
   members:
-  - guard###s van
+  - guard's van
   partOfSpeech: n
 03470358-n:
   definition:
@@ -50658,7 +50658,7 @@
   ili: i54533
   members:
   - haberdashery
-  - men###s furnishings
+  - men's furnishings
   partOfSpeech: n
 03478940-n:
   definition:
@@ -51609,7 +51609,7 @@
   members:
   - handsaw
   - hand saw
-  - carpenter###s saw
+  - carpenter's saw
   partOfSpeech: n
 03493521-n:
   definition:
@@ -51780,8 +51780,8 @@
   - 04115362-n
   ili: i54640
   members:
-  - hangman###s rope
-  - hangman###s halter
+  - hangman's rope
+  - hangman's halter
   - halter
   - hemp
   - hempen necktie
@@ -51926,7 +51926,7 @@
   members:
   - hardware store
   - ironmonger
-  - ironmonger###s shop
+  - ironmonger's shop
   partOfSpeech: n
 03499206-n:
   definition:
@@ -53539,7 +53539,7 @@
   definition:
   - tower consisting of a multistoried building of offices or apartments
   example:
-  - ###<<<tower block>>> is the British term for <<<high-rise>>>###
+  - "<<<tower block>>> is the British term for <<<high-rise>>>"
   hypernym:
   - 04467365-n
   ili: i54806
@@ -55126,10 +55126,10 @@
   ili: i54957
   members:
   - houndstooth check
-  - hound###s-tooth check
+  - hound's-tooth check
   - dogstooth check
   - dogs-tooth check
-  - dog###s-tooth check
+  - dog's-tooth check
   partOfSpeech: n
 03549323-n:
   definition:
@@ -55958,8 +55958,8 @@
   partOfSpeech: n
 03563020-n:
   definition:
-  - ###a waterproof bag filled with ice: applied to the body (especially the head) to
-    cool or reduce swelling###
+  - "a waterproof bag filled with ice: applied to the body (especially the head) to
+    cool or reduce swelling"
   hypernym:
   - 02776042-n
   ili: i55034
@@ -57882,7 +57882,7 @@
   - 03646302-n
   ili: i55218
   members:
-  - jack-o###-lantern
+  - jack-o'-lantern
   partOfSpeech: n
 03596119-n:
   definition:
@@ -57913,7 +57913,7 @@
   - 03637568-n
   ili: i55221
   members:
-  - Jacob###s ladder
+  - Jacob's ladder
   - jack ladder
   - pilot ladder
   partOfSpeech: n
@@ -58295,7 +58295,7 @@
   - 03857800-n
   ili: i55257
   members:
-  - jeweler###s glass
+  - jeweler's glass
   partOfSpeech: n
 03602510-n:
   definition:
@@ -58328,8 +58328,8 @@
   - 03806455-n
   ili: i55260
   members:
-  - jew###s harp
-  - jews### harp
+  - jew's harp
+  - jews' harp
   - mouth bow
   partOfSpeech: n
 03603344-n:
@@ -59694,7 +59694,7 @@
   - 02730750-n
   ili: i55389
   members:
-  - Kipp###s apparatus
+  - Kipp's apparatus
   partOfSpeech: n
 03624191-n:
   definition:
@@ -60336,7 +60336,7 @@
   - 03739416-n
   ili: i55454
   members:
-  - Kundt###s tube
+  - Kundt's tube
   partOfSpeech: n
 03634391-n:
   definition:
@@ -60591,7 +60591,7 @@
   - 04025061-n
   ili: i55478
   members:
-  - ladies### room
+  - ladies' room
   - powder room
   partOfSpeech: n
 03638382-n:
@@ -61333,8 +61333,8 @@
   ili: i55550
   members:
   - last
-  - shoemaker###s last
-  - cobbler###s last
+  - shoemaker's last
+  - cobbler's last
   partOfSpeech: n
 03650012-n:
   definition:
@@ -62347,7 +62347,7 @@
   - 03599921-n
   ili: i55646
   members:
-  - Levi###s
+  - Levi's
   - levis
   partOfSpeech: n
 03665554-n:
@@ -62486,8 +62486,8 @@
   partOfSpeech: n
 03667627-n:
   definition:
-  - ###a condenser: during distillation the vapor passes through a tube that is cooled
-    by water###
+  - "a condenser: during distillation the vapor passes through a tube that is cooled
+    by water"
   hypernym:
   - 03092065-n
   ili: i55659
@@ -64384,7 +64384,7 @@
   ili: i55838
   members:
   - loupe
-  - jeweler###s loupe
+  - jeweler's loupe
   partOfSpeech: n
 03698002-n:
   definition:
@@ -64437,10 +64437,10 @@
   ili: i55843
   members:
   - love knot
-  - lovers### knot
-  - lover###s knot
-  - true lovers### knot
-  - true lover###s knot
+  - lovers' knot
+  - lover's knot
+  - true lovers' knot
+  - true lover's knot
   partOfSpeech: n
 03698800-n:
   definition:
@@ -64561,7 +64561,7 @@
   - 03531378-n
   ili: i55855
   members:
-  - lubber###s hole
+  - lubber's hole
   partOfSpeech: n
 03700448-n:
   definition:
@@ -65006,7 +65006,7 @@
   - 04545847-n
   ili: i55897
   members:
-  - machinist###s vise
+  - machinist's vise
   - metalworking vise
   partOfSpeech: n
 03708121-n:
@@ -66555,7 +66555,7 @@
   - 03664184-n
   ili: i56047
   members:
-  - mason###s level
+  - mason's level
   partOfSpeech: n
 03731459-n:
   definition:
@@ -66668,7 +66668,7 @@
   ili: i56058
   members:
   - masterpiece
-  - chef-d###oeuvre
+  - chef-d'oeuvre
   partOfSpeech: n
 03733229-n:
   definition:
@@ -67549,7 +67549,7 @@
   - 03055525-n
   ili: i56143
   members:
-  - man###s clothing
+  - man's clothing
   partOfSpeech: n
 03751977-n:
   definition:
@@ -67558,8 +67558,8 @@
   - 04025061-n
   ili: i56144
   members:
-  - men###s room
-  - men###s
+  - men's room
+  - men's
   partOfSpeech: n
 03752065-n:
   definition:
@@ -67692,7 +67692,7 @@
   ili: i56155
   members:
   - Mercator projection
-  - Mercator###s projection
+  - Mercator's projection
   partOfSpeech: n
 03754377-n:
   definition:
@@ -68710,7 +68710,7 @@
   ili: i56248
   members:
   - millinery
-  - woman###s hat
+  - woman's hat
   partOfSpeech: n
 03772043-n:
   definition:
@@ -69769,7 +69769,7 @@
   - 03314753-n
   ili: i56348
   members:
-  - monk###s cloth
+  - monk's cloth
   partOfSpeech: n
 03788550-n:
   definition:
@@ -70380,7 +70380,7 @@
   members:
   - mound
   - hill
-  - pitcher###s mound
+  - pitcher's mound
   partOfSpeech: n
   wikidata: Q8189187
 03798059-n:
@@ -70907,7 +70907,7 @@
   ili: i56454
   members:
   - musette
-  - shepherd###s pipe
+  - shepherd's pipe
   partOfSpeech: n
 03806007-n:
   definition:
@@ -71351,8 +71351,8 @@
   - 02942270-n
   ili: i56497
   members:
-  - Napier###s bones
-  - Napier###s rods
+  - Napier's bones
+  - Napier's rods
   partOfSpeech: n
 03813077-n:
   definition:
@@ -73122,7 +73122,7 @@
   - 03479089-n
   ili: i56663
   members:
-  - nun###s habit
+  - nun's habit
   mero_part:
   - 03472312-n
   partOfSpeech: n
@@ -73134,7 +73134,7 @@
   ili: i56664
   members:
   - nursery
-  - baby###s room
+  - baby's room
   partOfSpeech: n
 03841711-n:
   definition:
@@ -73298,7 +73298,7 @@
   - 04609048-n
   ili: i56679
   members:
-  - objet d###art
+  - objet d'art
   - art object
   - piece
   partOfSpeech: n
@@ -73340,7 +73340,7 @@
   - 03844419-n
   ili: i56683
   members:
-  - oboe d###amore
+  - oboe d'amore
   partOfSpeech: n
   wikidata: Q8380
 03844944-n:
@@ -73517,7 +73517,7 @@
   - 03756556-n
   ili: i56700
   members:
-  - officer###s mess
+  - officer's mess
   partOfSpeech: n
 03847897-n:
   definition:
@@ -74389,7 +74389,7 @@
   ili: i56783
   members:
   - orphanage
-  - orphans### asylum
+  - orphans' asylum
   partOfSpeech: n
 03861668-n:
   definition:
@@ -75769,7 +75769,7 @@
   members:
   - pajama
   - pyjama
-  - pj###s
+  - pj's
   - jammies
   partOfSpeech: n
 03883371-n:
@@ -76058,7 +76058,7 @@
   instance_hypernym:
   - 03018359-n
   members:
-  - Pandora###s box
+  - Pandora's box
   partOfSpeech: n
 03887590-n:
   definition:
@@ -77405,7 +77405,7 @@
   - 04209460-n
   ili: i57070
   members:
-  - pawnbroker###s shop
+  - pawnbroker's shop
   - pawnshop
   - loan office
   partOfSpeech: n
@@ -80761,7 +80761,7 @@
   ili: i57387
   members:
   - plane
-  - carpenter###s plane
+  - carpenter's plane
   - woodworking plane
   partOfSpeech: n
 03961572-n:
@@ -81539,7 +81539,7 @@
   - 03494245-n
   ili: i57461
   members:
-  - plumber###s snake
+  - plumber's snake
   - snake
   - auger
   partOfSpeech: n
@@ -81615,7 +81615,7 @@
   ili: i57468
   members:
   - plunger
-  - plumber###s helper
+  - plumber's helper
   partOfSpeech: n
 03976721-n:
   definition:
@@ -83064,7 +83064,7 @@
   - 04582285-n
   ili: i57607
   members:
-  - potter###s wheel
+  - potter's wheel
   partOfSpeech: n
 03999061-n:
   definition:
@@ -84111,7 +84111,7 @@
   ili: i57707
   members:
   - prolonge knot
-  - sailor###s breastplate
+  - sailor's breastplate
   partOfSpeech: n
 04016581-n:
   definition:
@@ -84145,7 +84145,7 @@
   ili: i57710
   members:
   - prompt box
-  - prompter###s box
+  - prompter's box
   partOfSpeech: n
 04017155-n:
   definition:
@@ -90509,7 +90509,7 @@
   - 04386330-n
   members:
   - Round Table
-  - King Arthur###s Round Table
+  - King Arthur's Round Table
   partOfSpeech: n
 04121813-n:
   definition:
@@ -91031,7 +91031,7 @@
   members:
   - sable
   - sable brush
-  - sable###s hair pencil
+  - sable's hair pencil
   partOfSpeech: n
 04129586-n:
   definition:
@@ -94401,7 +94401,7 @@
   members:
   - service door
   - service entrance
-  - servant###s entrance
+  - servant's entrance
   partOfSpeech: n
 04182920-n:
   definition:
@@ -94569,7 +94569,7 @@
   ili: i58706
   members:
   - seventy-eight
-  - ###78###
+  - "78"
   partOfSpeech: n
 04185390-n:
   definition:
@@ -95220,8 +95220,8 @@
   members:
   - sheet bend
   - becket bend
-  - weaver###s knot
-  - weaver###s hitch
+  - weaver's knot
+  - weaver's hitch
   partOfSpeech: n
 04196325-n:
   definition:
@@ -98630,7 +98630,7 @@
   ili: i59097
   members:
   - slopshop
-  - slopseller###s shop
+  - slopseller's shop
   partOfSpeech: n
 04250498-n:
   definition:
@@ -100059,7 +100059,7 @@
   - 03502782-n
   ili: i59236
   members:
-  - sou###wester
+  - sou'wester
   partOfSpeech: n
 04271595-n:
   definition:
@@ -100802,7 +100802,7 @@
   ili: i59309
   members:
   - spider web
-  - spider###s web
+  - spider's web
   partOfSpeech: n
 04282667-n:
   definition:
@@ -100812,7 +100812,7 @@
   ili: i59310
   members:
   - spider web
-  - spider###s web
+  - spider's web
   partOfSpeech: n
 04282780-n:
   definition:
@@ -102543,7 +102543,7 @@
   - 03139803-n
   ili: i59477
   members:
-  - St. Andrew###s cross
+  - St. Andrew's cross
   - saltire
   partOfSpeech: n
 04309878-n:
@@ -105913,7 +105913,7 @@
   definition:
   - an automobile roof having a sliding or raisable panel
   example:
-  - ###<<<sunshine-roof>>> is a British term for <<<sunroof>>>###
+  - "<<<sunshine-roof>>> is a British term for <<<sunroof>>>"
   hypernym:
   - 04112162-n
   ili: i59799
@@ -106292,7 +106292,7 @@
   - 03632523-n
   ili: i59837
   members:
-  - surgeon###s knot
+  - surgeon's knot
   partOfSpeech: n
   wikidata: Q1074806
 04371078-n:
@@ -106399,7 +106399,7 @@
   ili: i59847
   members:
   - surveying instrument
-  - surveyor###s instrument
+  - surveyor's instrument
   mero_part:
   - 04224030-n
   partOfSpeech: n
@@ -106412,7 +106412,7 @@
   - 04372571-n
   ili: i59848
   members:
-  - surveyor###s level
+  - surveyor's level
   mero_part:
   - 03664184-n
   partOfSpeech: n
@@ -106586,7 +106586,7 @@
   - 03314753-n
   ili: i59864
   members:
-  - swan###s down
+  - swan's down
   partOfSpeech: n
 04376036-n:
   definition:
@@ -106757,7 +106757,7 @@
   definition:
   - pool that provides a facility for swimming
   example:
-  - ###<<<swimming bath>>> is a British term###
+  - "<<<swimming bath>>> is a British term"
   hypernym:
   - 03988418-n
   - 02755316-n
@@ -107602,7 +107602,7 @@
   - 03006695-n
   ili: i59959
   members:
-  - tailor###s chalk
+  - tailor's chalk
   partOfSpeech: n
 04392359-n:
   definition:
@@ -107612,7 +107612,7 @@
   - 04187375-n
   ili: i59960
   members:
-  - tailor###s tack
+  - tailor's tack
   partOfSpeech: n
 04392518-n:
   definition:
@@ -107726,7 +107726,7 @@
   ili: i59971
   members:
   - tam
-  - tam-o###-shanter
+  - tam-o'-shanter
   - tammy
   partOfSpeech: n
 04394288-n:
@@ -108314,7 +108314,7 @@
   ili: i60027
   members:
   - tau cross
-  - St. Anthony###s cross
+  - St. Anthony's cross
   partOfSpeech: n
 04403010-n:
   definition:
@@ -109173,7 +109173,7 @@
   ili: i60105
   members:
   - tender
-  - ship###s boat
+  - ship's boat
   - pinnace
   - cutter
   partOfSpeech: n
@@ -111241,7 +111241,7 @@
   partOfSpeech: n
 04448662-n:
   definition:
-  - ###a hat (Cockney rhyming slang: <<<tit for tat>>> rhymes with <<<hat>>>)###
+  - "a hat (Cockney rhyming slang: <<<tit for tat>>> rhymes with <<<hat>>>)"
   domain_region:
   - 08879115-n
   hypernym:
@@ -114164,7 +114164,7 @@
   - 03882197-n
   ili: i60579
   members:
-  - trompe l###oeil
+  - trompe l'oeil
   partOfSpeech: n
 04494980-n:
   definition:
@@ -114891,7 +114891,7 @@
   - 03632523-n
   ili: i60646
   members:
-  - Turk###s head
+  - Turk's head
   partOfSpeech: n
 04506955-n:
   definition:
@@ -115121,7 +115121,7 @@
   ili: i60669
   members:
   - twenty-two
-  - ###.22###
+  - ".22"
   partOfSpeech: n
 04510284-n:
   definition:
@@ -115208,7 +115208,7 @@
   - two-handed saw
   - whipsaw
   - two-man saw
-  - lumberman###s saw
+  - lumberman's saw
   partOfSpeech: n
 04511333-n:
   definition:
@@ -116327,9 +116327,9 @@
   partOfSpeech: n
 04529716-n:
   definition:
-  - ###any agent that causes a narrowing of an opening of a blood vessel: cold or stress
+  - "any agent that causes a narrowing of an opening of a blood vessel: cold or stress
     or nicotine or epinephrine or norepinephrine or angiotensin or vasopressin or
-    certain drugs; maintains or increases blood pressure###
+    certain drugs; maintains or increases blood pressure"
   hypernym:
   - 09213796-n
   ili: i60786
@@ -116545,7 +116545,7 @@
   ili: i60806
   members:
   - Venn diagram
-  - Venn###s diagram
+  - Venn's diagram
   partOfSpeech: n
 04533407-n:
   definition:
@@ -116622,7 +116622,7 @@
   - 03260351-n
   ili: i60813
   members:
-  - ventriloquist###s dummy
+  - ventriloquist's dummy
   partOfSpeech: n
 04534605-n:
   definition:
@@ -117200,7 +117200,7 @@
   - 04543448-n
   ili: i60868
   members:
-  - viola d###amore
+  - viola d'amore
   partOfSpeech: n
 04544161-n:
   definition:
@@ -118075,8 +118075,8 @@
   partOfSpeech: n
 04558126-n:
   definition:
-  - ###articles of the same kind or material; usually used in combination: <<<silverware>>>,
-    <<<software>>>###
+  - "articles of the same kind or material; usually used in combination: <<<silverware>>>,
+    <<<software>>>"
   hypernym:
   - 00023083-n
   ili: i60950
@@ -118349,8 +118349,8 @@
   partOfSpeech: n
 04562686-n:
   definition:
-  - ###furniture consisting of a table or stand to hold a basin and pitcher of water
-    for washing: <<<wash-hand stand>>> is a British term###
+  - "furniture consisting of a table or stand to hold a basin and pitcher of water
+    for washing: <<<wash-hand stand>>> is a British term"
   hypernym:
   - 03410635-n
   ili: i60975
@@ -119324,7 +119324,7 @@
   ili: i61065
   members:
   - weeds
-  - widow###s weeds
+  - widow's weeds
   partOfSpeech: n
 04577966-n:
   definition:
@@ -119419,7 +119419,7 @@
   - 03730526-n
   ili: i61075
   members:
-  - welder###s mask
+  - welder's mask
   partOfSpeech: n
 04579521-n:
   definition:
@@ -120160,7 +120160,7 @@
   - 03694269-n
   ili: i61146
   members:
-  - widow###s walk
+  - widow's walk
   partOfSpeech: n
 04591342-n:
   definition:
@@ -121013,7 +121013,7 @@
   - 03055525-n
   ili: i61228
   members:
-  - woman###s clothing
+  - woman's clothing
   partOfSpeech: n
 04604393-n:
   definition:
@@ -122371,8 +122371,8 @@
   partOfSpeech: n
 88571022-n:
   definition:
-  - ###a large rubber ball used in various playground games including four square, kickball,
-    and dodgeball ###
+  - "a large rubber ball used in various playground games including four square, kickball,
+    and dodgeball "
   hypernym:
   - 02781674-n
   members:
@@ -123113,8 +123113,8 @@
   - A foot joint is the last of the three sections of the Western concert flute.
   example:
   - source: https://en.wikipedia.org
-    text: ###Concert flutes have three parts: the headjoint, the body, and the foot
-      joint.###
+    text: "Concert flutes have three parts: the headjoint, the body, and the foot
+      joint."
   hypernym:
   - 03606190-n
   members:
@@ -123153,7 +123153,7 @@
     and warfare during the Viking Age.
   example:
   - source: https://en.wikipedia.org
-    text: ###The longships had two methods of propulsion: oars and sail.###
+    text: "The longships had two methods of propulsion: oars and sail."
   hypernym:
   - 04201332-n
   members:
@@ -123331,8 +123331,8 @@
   source: plWordNet 4.0
 92445822-n:
   definition:
-  - ###a type of small- or medium-sized warship that carried armor in the same way as
-    an armored cruiser: a protective belt and deck.###
+  - "a type of small- or medium-sized warship that carried armor in the same way as
+    an armored cruiser: a protective belt and deck."
   example:
   - source: https://en.wikipedia.org
     text: After 1930, most naval powers concentrated on building light cruisers since
@@ -123571,9 +123571,9 @@
     roads.
   example:
   - source: https://en.wikipedia.org
-    text: ###Some less visible distinctions amongst tank trucks have to do with their
+    text: "Some less visible distinctions amongst tank trucks have to do with their
       intended use: compliance with human food regulations, refrigeration capability,
-      acid resistance, pressurization capability, and more.###
+      acid resistance, pressurization capability, and more."
   hypernym:
   - 04497386-n
   members:
@@ -124342,8 +124342,8 @@
   source: plWordNet 4.0
 92449997-n:
   definition:
-  - ###a semiconductor diode that exhibits a sharp increase in reverse current at a
-    well-defined reverse voltage: used as a voltage regulator###
+  - "a semiconductor diode that exhibits a sharp increase in reverse current at a
+    well-defined reverse voltage: used as a voltage regulator"
   hypernym:
   - 03207444-n
   members:
@@ -124638,8 +124638,8 @@
   hypernym:
   - 04545847-n
   members:
-  - jeweller###s vise
-  - jeweler###s vise
+  - jeweller's vise
+  - jeweler's vise
   partOfSpeech: n
   source: plWordNet 4.0
 92450588-n:
@@ -125225,10 +125225,10 @@
     gases created by the ignition of the propellant charge.
   example:
   - source: https://en.wikipedia.org
-    text: ###In most actions that use blowback operation, the breech is not locked mechanically
+    text: "In most actions that use blowback operation, the breech is not locked mechanically
       at the time of firing: the inertia of the bolt and recoil spring(s), relative
       to the weight of the bullet, delays opening of the breech until the bullet has
-      left the barrel###
+      left the barrel"
   hypernym:
   - 92459306-n
   members:
@@ -125284,11 +125284,11 @@
     in sonar technology.
   example:
   - source: https://en.wikipedia.org
-    text: ###Magnetostrictive speaker drivers have some special advantages: they can
+    text: "Magnetostrictive speaker drivers have some special advantages: they can
       provide greater force (with smaller excursions) than other technologies; low
       excursion can avoid distortions from large excursion as in other designs; the
       magnetizing coil is stationary and therefore more easily cooled; they are robust
-      because delicate suspensions and voice coils are not required.###
+      because delicate suspensions and voice coils are not required."
   hypernym:
   - 03696785-n
   members:
@@ -126339,8 +126339,8 @@
     using chemical absorption.
   example:
   - source: https://en.wikipedia.org
-    text: ###There are 2 predominant types of carbon filters used in the filtration
-      industry: powdered block filters and granular activated filters.###
+    text: "There are 2 predominant types of carbon filters used in the filtration
+      industry: powdered block filters and granular activated filters."
   hypernym:
   - 03344588-n
   members:
@@ -126854,7 +126854,7 @@
   hypernym:
   - 03671917-n
   members:
-  - Dobereiner###s lamp
+  - Dobereiner's lamp
   partOfSpeech: n
   source: plWordNet 4.0
 92461662-n:

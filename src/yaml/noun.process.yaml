@@ -2150,7 +2150,7 @@
   domain_topic:
   - 06191300-n
   example:
-  - ###<<<singer>>> from <<<sing>>> or <<<undo>>> from <<<do>>> are examples of derivations###
+  - "<<<singer>>> from <<<sing>>> or <<<undo>>> from <<<do>>> are examples of derivations"
   hypernym:
   - 13529536-n
   ili: i107484
@@ -4496,9 +4496,9 @@
   partOfSpeech: n
 13526670-n:
   definition:
-  - ###in all plants and animals: a series of enzymatic reactions in mitochondria involving
+  - "in all plants and animals: a series of enzymatic reactions in mitochondria involving
     oxidative metabolism of acetyl compounds to produce high-energy phosphate compounds
-    that are the source of cellular energy###
+    that are the source of cellular energy"
   hypernym:
   - 13547313-n
   ili: i107700
@@ -6483,9 +6483,9 @@
   partOfSpeech: n
 13564767-n:
   definition:
-  - ###(psychoanalysis) the process during which personality and sexual behavior mature
+  - "(psychoanalysis) the process during which personality and sexual behavior mature
     through a series of stages: first oral stage and then anal stage and then phallic
-    stage and then latency stage and finally genital stage###
+    stage and then latency stage and finally genital stage"
   domain_topic:
   - 00705558-n
   hypernym:

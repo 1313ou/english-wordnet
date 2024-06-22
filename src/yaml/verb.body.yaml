@@ -761,8 +761,8 @@
   - sleep
   - kip
   - slumber
-  - log Z###s
-  - catch some Z###s
+  - log Z's
+  - catch some Z's
   partOfSpeech: v
 00015156-v:
   definition:
@@ -2416,7 +2416,7 @@
   partOfSpeech: v
 00042523-v:
   definition:
-  - ###perform the services of a barber: cut the hair and/or beard of###
+  - "perform the services of a barber: cut the hair and/or beard of"
   hypernym:
   - 00040084-v
   ili: i21983
@@ -6560,7 +6560,7 @@
   hypernym:
   - 00010428-v
   members:
-  - wildin###
+  - wildin'
   partOfSpeech: v
   source: Colloquial WordNet
 90005421-v:

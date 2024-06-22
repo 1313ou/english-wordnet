@@ -567,7 +567,7 @@
   - 13270947-n
   ili: i106275
   members:
-  - no man###s land
+  - no man's land
   partOfSpeech: n
 13270826-n:
   definition:
@@ -604,7 +604,7 @@
   partOfSpeech: n
 13271297-n:
   definition:
-  - ###property that has economic utility: a monetary value or an exchange value###
+  - "property that has economic utility: a monetary value or an exchange value"
   hypernym:
   - 13265007-n
   ili: i106279
@@ -1882,7 +1882,7 @@
   ili: i106397
   members:
   - hearth money
-  - Peter###s pence
+  - Peter's pence
   partOfSpeech: n
 13291929-n:
   definition:
@@ -2602,7 +2602,7 @@
   - 13303573-n
   ili: i106468
   members:
-  - workmen###s compensation
+  - workmen's compensation
   partOfSpeech: n
 13304210-n:
   definition:
@@ -5036,7 +5036,7 @@
   - 13341190-n
   ili: i106704
   members:
-  - finder###s fee
+  - finder's fee
   partOfSpeech: n
 13343014-n:
   definition:
@@ -7978,7 +7978,7 @@
   - 13391842-n
   ili: i106978
   members:
-  - king###s ransom
+  - king's ransom
   partOfSpeech: n
 13392528-n:
   definition:
@@ -8537,8 +8537,8 @@
   - 13400926-n
   ili: i107032
   members:
-  - traveler###s letter of credit
-  - traveller###s letter of credit
+  - traveler's letter of credit
+  - traveller's letter of credit
   partOfSpeech: n
 13401482-n:
   definition:
@@ -8548,9 +8548,9 @@
   - 13401321-n
   ili: i107033
   members:
-  - traveler###s check
-  - traveller###s check
-  - banker###s check
+  - traveler's check
+  - traveller's check
+  - banker's check
   partOfSpeech: n
 13401703-n:
   definition:
@@ -8560,7 +8560,7 @@
   ili: i107034
   members:
   - bank draft
-  - banker###s draft
+  - banker's draft
   partOfSpeech: n
 13401840-n:
   definition:
@@ -8631,7 +8631,7 @@
   ili: i107041
   members:
   - acceptance
-  - banker###s acceptance
+  - banker's acceptance
   partOfSpeech: n
 13402907-n:
   definition:
@@ -8742,10 +8742,10 @@
   - 13402907-n
   ili: i107051
   members:
-  - cashier###s check
-  - treasurer###s check
-  - cashier###s cheque
-  - treasurer###s cheque
+  - cashier's check
+  - treasurer's check
+  - cashier's cheque
+  - treasurer's cheque
   partOfSpeech: n
 13404869-n:
   definition:
@@ -9170,7 +9170,7 @@
   ili: i107090
   members:
   - halfpenny
-  - ha###penny
+  - ha'penny
   partOfSpeech: n
 13411799-n:
   definition:
@@ -9383,7 +9383,7 @@
   - 13409418-n
   ili: i107112
   members:
-  - louis d###or
+  - louis d'or
   partOfSpeech: n
 13414232-n:
   definition:
@@ -9449,7 +9449,7 @@
   - note
   - government note
   - bank bill
-  - banker###s bill
+  - banker's bill
   - bank note
   - banknote
   - Federal Reserve note
@@ -9696,8 +9696,8 @@
   partOfSpeech: n
 13418878-n:
   definition:
-  - ###the total of the nation######s debts: debts of local and state and national governments;
-    an indicator of how much public spending is financed by borrowing instead of taxation###
+  - "the total of the nation######s debts: debts of local and state and national governments;
+    an indicator of how much public spending is financed by borrowing instead of taxation"
   hypernym:
   - 13418347-n
   ili: i107142
@@ -9910,7 +9910,7 @@
   - 13422186-n
   ili: i107162
   members:
-  - artisan###s lien
+  - artisan's lien
   partOfSpeech: n
 13422585-n:
   definition:
@@ -9951,7 +9951,7 @@
   - 13422186-n
   ili: i107166
   members:
-  - landlord###s lien
+  - landlord's lien
   partOfSpeech: n
 13423382-n:
   definition:
@@ -9961,7 +9961,7 @@
   - 13422186-n
   ili: i107167
   members:
-  - mechanic###s lien
+  - mechanic's lien
   partOfSpeech: n
 13423562-n:
   definition:
@@ -9970,7 +9970,7 @@
   - 13423382-n
   ili: i107168
   members:
-  - garageman###s lien
+  - garageman's lien
   partOfSpeech: n
 13423702-n:
   definition:
@@ -9999,7 +9999,7 @@
   - 13422186-n
   ili: i107171
   members:
-  - warehouseman###s lien
+  - warehouseman's lien
   partOfSpeech: n
 13424198-n:
   definition:
@@ -11330,10 +11330,10 @@
   domain_topic:
   - 06158935-n
   example:
-  - ###The buyer of a used car faces a variety of different transaction costs: the costs
+  - "The buyer of a used car faces a variety of different transaction costs: the costs
     of finding a car and determining the car######s condition, the costs of negotiating
     a price with the seller, and the costs of ensuring that the seller delivers the
-    car in the promised condition.###
+    car in the promised condition."
   hypernym:
   - 13296870-n
   members:
@@ -11376,8 +11376,8 @@
   - the costs of any activities and efforts that are designed to keep the product###s
     potential defects from occurring.
   example:
-  - ###Some example component items of the total prevention costs are: quality planning,
-    quality training and workforce development, and product-design verification.###
+  - "Some example component items of the total prevention costs are: quality planning,
+    quality training and workforce development, and product-design verification."
   hypernym:
   - 92437014-n
   members:
@@ -11389,8 +11389,8 @@
   - the costs that are incurred in assessing that products/services conform to the
     requirements.
   example:
-  - ###Some example component items of the total appraisal costs are: field testing,
-    test and inspection equipment, and quality audits.###
+  - "Some example component items of the total appraisal costs are: field testing,
+    test and inspection equipment, and quality audits."
   hypernym:
   - 92437014-n
   members:
@@ -11650,13 +11650,13 @@
   - the owner###s investment in the business which consists of the net assets of an
     entity.
   example:
-  - ###The types of accounts and their description that comprise the owner######s equity
+  - "The types of accounts and their description that comprise the owner######s equity
     depend on the nature of the entity and may include: common stock, capital surplus,
-    retained earnings, and reserve.###
+    retained earnings, and reserve."
   hypernym:
   - 13354435-n
   members:
-  - owner###s equity
+  - owner's equity
   partOfSpeech: n
   source: plWordNet 4.0
 92440857-n:
@@ -11677,7 +11677,7 @@
   hypernym:
   - 13363150-n
   members:
-  - founders### share
+  - founders' share
   partOfSpeech: n
   source: plWordNet 4.0
 92441049-n:
@@ -11789,7 +11789,7 @@
   - 13330021-n
   members:
   - tourist tax
-  - visitor###s tax
+  - visitor's tax
   partOfSpeech: n
   source: plWordNet 4.0
 92467963-n:
