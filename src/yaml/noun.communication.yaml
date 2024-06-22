@@ -2121,8 +2121,8 @@
   definition:
   - a word formed from two or more words by omitting or combining some sounds
   example:
-  - "<<<won######t>>> is a contraction of <<<will not>>>"
-  - "<<<o######clock>>> is a contraction of <<<of the clock>>>"
+  - "<<<won###t>>> is a contraction of <<<will not>>>"
+  - "<<<o###clock>>> is a contraction of <<<of the clock>>>"
   hypernym:
   - 06297048-n
   ili: i69553
@@ -3721,7 +3721,7 @@
   - a modifier that has little meaning except to intensify the meaning it modifies
   example:
   - "<<<up>>> in <<<finished up>>> is an intensifier"
-  - "<<<honestly>>> in <<<I honestly don######t know>>> is an intensifier"
+  - "<<<honestly>>> in <<<I honestly don###t know>>> is an intensifier"
   hypernym:
   - 06331794-n
   ili: i69701
@@ -10124,7 +10124,7 @@
 06444046-n:
   definition:
   - "the first book of the Old Testament: tells of Creation; Adam and Eve; the Fall
-    of Man; Cain and Abel; Noah and the flood; God######s covenant with Abraham; Abraham
+    of Man; Cain and Abel; Noah and the flood; God###s covenant with Abraham; Abraham
     and Isaac; Jacob and Esau; Joseph and his brothers"
   ili: i70294
   instance_hypernym:
@@ -11566,7 +11566,7 @@
   partOfSpeech: n
 06472596-n:
   definition:
-  - an Apocryphal book describing the life of Judas Maccabaeus, tells about the Jews"
+  - an Apocryphal book describing the life of Judas Maccabaeus, tells about the Jews###
     revolt against Antiochus IV Epiphanes and concludes with the defeat of the Syrian
     general Nicanor in 161 BC by Judas Maccabeus
   ili: i70411
@@ -12800,7 +12800,7 @@
   domain_topic:
   - 06182505-n
   example:
-  - "<<<Those girls, they giggle when they see me>>> and <<<Cigarettes, you couldn######t pay
+  - "<<<Those girls, they giggle when they see me>>> and <<<Cigarettes, you couldn###t pay
     me to smoke them>>> are examples of topicalization"
   hypernym:
   - 07117611-n
@@ -34272,7 +34272,7 @@
   partOfSpeech: n
 06855037-n:
   definition:
-  - the mark (<<<###>>>) used to indicate the omission of one or more letters from a printed
+  - the mark (<<<'>>>) used to indicate the omission of one or more letters from a printed
     word
   hypernym:
   - 06854415-n
@@ -48570,8 +48570,8 @@
   partOfSpeech: n
 07078355-n:
   definition:
-  - a combination of blues and jazz that was developed in the United States by Black
-    musicians; an important precursor of rock ###n### roll
+  - "a combination of blues and jazz that was developed in the United States by Black
+    musicians; an important precursor of rock ###n### roll"
   hypernym:
   - 07073295-n
   - 07039073-n
@@ -48740,7 +48740,7 @@
 07081916-n:
   definition:
   - "the use of closed-class words instead of inflections: e.g., <<<the father of the
-    bride>>> instead of <<<the bride######s father>>>"
+    bride>>> instead of <<<the bride###s father>>>"
   hypernym:
   - 07080699-n
   ili: i73822

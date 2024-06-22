@@ -47060,7 +47060,7 @@
   partOfSpeech: n
 02075693-n:
   definition:
-  - "an animal order including: manatees, dugongs, Steller######s sea cow"
+  - "an animal order including: manatees, dugongs, Steller###s sea cow"
   hypernym:
   - 01345170-n
   ili: i46299
@@ -63138,7 +63138,7 @@
   partOfSpeech: n
 02317369-n:
   definition:
-  - tiny marine organisms each the size of a period found in great numbers on lobsters"
+  - tiny marine organisms each the size of a period found in great numbers on lobsters###
     lips; identified tentatively in 1995 as a new phylum or as possible link between
     Entoprocta and Ectoprocta
   hypernym:

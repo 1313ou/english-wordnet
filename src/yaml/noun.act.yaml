@@ -9013,7 +9013,7 @@
   partOfSpeech: n
 00189615-n:
   definition:
-  - a score in American football; being in possession of the ball across the opponents"
+  - a score in American football; being in possession of the ball across the opponents###
     goal line
   domain_topic:
   - 00470726-n
@@ -9025,7 +9025,7 @@
   partOfSpeech: n
 00189783-n:
   definition:
-  - a score in American football; a score made by kicking the ball between the opponents"
+  - a score in American football; a score made by kicking the ball between the opponents###
     goal posts
   domain_topic:
   - 00470726-n
@@ -56255,7 +56255,7 @@
 01036957-n:
   definition:
   - "a formal religious ceremony conferring a specific grace on those who receive
-    it; the two Protestant ceremonies are baptism and the Lord######s Supper; in the Roman
+    it; the two Protestant ceremonies are baptism and the Lord###s Supper; in the Roman
     Catholic Church and the Eastern Orthodox Church there are seven traditional rites
     accepted as instituted by Jesus: baptism and confirmation and Holy Eucharist and
     penance and holy orders and matrimony and extreme unction"

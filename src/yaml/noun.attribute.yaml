@@ -16651,7 +16651,7 @@
   partOfSpeech: n
 04928594-n:
   definition:
-  - "a person######s social heritage: previous experience or training"
+  - "a person###s social heritage: previous experience or training"
   example:
   - he is a lawyer with a sports background
   hypernym:
@@ -34505,7 +34505,7 @@
   definition:
   - The condition of being so tightly made that water cannot enter or escape.
   example:
-  - "When discussing watertightness of concrete, we must consider the two P######s: porosity
+  - "When discussing watertightness of concrete, we must consider the two P###s: porosity
     and permeability."
   hypernym:
   - 04949119-n
@@ -35107,8 +35107,8 @@
   definition:
   - The characteristic or quality of being very beautiful.
   example:
-  - "Years later, Kazuko######s mother gave her the real story: enraptured by her gorgeousness,
-    the young man had asked Kazuko######s mother to leave her father."
+  - "Years later, Kazuko###s mother gave her the real story: enraptured by her gorgeousness,
+    the young man had asked Kazuko###s mother to leave her father."
   hypernym:
   - 04691171-n
   members:
@@ -36963,7 +36963,7 @@
   - an excess of exports over imports.
   example:
   - source: https://en.wikipedia.org
-    text: Annual trade surpluses are immediate and direct additions to their nations"
+    text: Annual trade surpluses are immediate and direct additions to their nations###
       GDPs.
   hypernym:
   - 05127014-n
