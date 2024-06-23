@@ -25904,8 +25904,9 @@
   wikidata: Q396184
 92326409-n:
   definition:
-  - a circular helping of food (especially a boneless cut of meat) "medallions of
-    veal"
+  - a circular helping of food (especially a boneless cut of meat)
+  example:
+  - medallions of veal
   hypernym:
   - 07593928-n
   - 07673512-n
@@ -26041,7 +26042,7 @@
   source: plWordNet 4.0
 92411205-n:
   definition:
-  - a liqueur infused with raspberries, rasberry juice, or raspberry flavoring.
+  - a liqueur infused with raspberries, raspberry juice, or raspberry flavoring.
   example:
   - Homemade raspberry liqueur is a good remedy for common cold.
   hypernym:
@@ -26337,7 +26338,7 @@
   - a simple type of soup where a basic roux is thinned with cream or milk and then
     mushrooms and/or mushroom broth are added.
   example:
-  - Canned cream of mushroom soup has been described as "America's béchamel".
+  - Canned cream of mushroom soup has been described as `America's béchamel'.
   hypernym:
   - 07598762-n
   members:
@@ -26401,7 +26402,7 @@
   source: plWordNet 4.0
 92413807-n:
   definition:
-  - any of a variety of strong alcoholic drinks made of gooseberies.
+  - any of a variety of strong alcoholic drinks made of gooseberries.
   hypernym:
   - 07924183-n
   members:
@@ -26650,7 +26651,7 @@
   source: plWordNet 4.0
 92426921-n:
   definition:
-  - meat of a hen tukey
+  - meat of a hen turkey
   example:
   - Most experts agree that a hen turkey is better than a tom.
   hypernym:

@@ -11175,7 +11175,7 @@
   partOfSpeech: n
 80721451-n:
   definition:
-  - a payment card that allows the consumer to build a continuing balacne of debt,
+  - a payment card that allows the consumer to build a continuing balance of debt,
     subject to interest being charged
   hypernym:
   - 13397185-n
@@ -11479,7 +11479,7 @@
   - an option where the buyer has the right to exercise at a set (always discretely
     spaced) number of times.
   example:
-  - The Bermudan option is somewhat American and somewhat European—in terms of both
+  - The Bermudan option is somewhat American and somewhat European — in terms of both
     option style and physical location.
   hypernym:
   - 13262498-n
@@ -11541,7 +11541,7 @@
   source: plWordNet 4.0
 92438584-n:
   definition:
-  - a one-time benefit payable for each child expected, born, or adpoted.
+  - a one-time benefit payable for each child expected, born, or adopted.
   domain_region:
   - 08879115-n
   hypernym:
@@ -11583,7 +11583,7 @@
   - a fixed rate paid according to the quantity produced.
   example:
   - source: https://en.wikipedia.org
-    text: Factories today may receive the label "sweatshop" more because they have
+    text: Factories today may receive the label `sweatshop' more because they have
       the long hours and poor working conditions, even if they pay an hourly or daily
       wage instead of a piece rate.
   hypernym:

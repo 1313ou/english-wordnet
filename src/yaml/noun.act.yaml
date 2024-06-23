@@ -484,7 +484,7 @@
   partOfSpeech: n
 00044640-n:
   definition:
-  - (baseball) when a batter strikes a picthed ball into fair territory and arrives
+  - (baseball) when a batter strikes a pitched ball into fair territory and arrives
     safely on base (without an error or a fielder's choice being made by the defense)
   domain_topic:
   - 00472688-n
@@ -56332,7 +56332,7 @@
   partOfSpeech: n
 01038656-n:
   definition:
-  - participation in Holy Communion by members of more than one church (eg Catholic
+  - participation in Holy Communion by members of more than one church (e.g. Catholic
     and Orthodox)
   hypernym:
   - 01038365-n
@@ -66754,7 +66754,7 @@
   partOfSpeech: n
 01222212-n:
   definition:
-  - promise of reward as in "carrot and stick"
+  - promise of reward as in `carrot and stick'
   example:
   - used the carrot of subsidized housing for the workers to get their vote
   hypernym:
@@ -72719,7 +72719,7 @@
   source: Colloquial WordNet
 91000031-n:
   definition:
-  - surveillence by a unit within a video game which would cause the unit to make
+  - surveillance by a unit within a video game which would cause the unit to make
     an action in response to an enemy unit's action
   hypernym:
   - 00882340-n
@@ -73509,7 +73509,7 @@
     and rapidly increasing difficulty.
   example:
   - source: https://en.wikipedia.org
-    text: The term "arcade game" is also used to refer to an action video game that
+    text: The term `arcade game' is also used to refer to an action video game that
       was designed to play similarly to an arcade game with frantic, addictive gameplay.
   hypernym:
   - 00459914-n
