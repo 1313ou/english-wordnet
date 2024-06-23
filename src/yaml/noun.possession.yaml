@@ -11583,7 +11583,7 @@
   - a fixed rate paid according to the quantity produced.
   example:
   - source: https://en.wikipedia.org
-    text: Factories today may receive the label "sweatshop" more because they have
+    text: Factories today may receive the label `sweatshop' more because they have
       the long hours and poor working conditions, even if they pay an hourly or daily
       wage instead of a piece rate.
   hypernym:
