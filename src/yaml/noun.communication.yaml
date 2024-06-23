@@ -34261,7 +34261,7 @@
   partOfSpeech: n
 06854923-n:
   definition:
-  - a punctuation mark (&) used to represent conjunction (and)
+  - a punctuation mark (`&') used to represent conjunction (and)
   hypernym:
   - 06854415-n
   ili: i72473
@@ -34270,7 +34270,7 @@
   partOfSpeech: n
 06855037-n:
   definition:
-  - the mark (') used to indicate the omission of one or more letters from a printed
+  - the mark (`'') used to indicate the omission of one or more letters from a printed
     word
   hypernym:
   - 06854415-n
@@ -34280,7 +34280,7 @@
   partOfSpeech: n
 06855215-n:
   definition:
-  - either of two punctuation marks ({ or }) used to enclose textual material
+  - either of two punctuation marks (`{' or `}') used to enclose textual material
   hypernym:
   - 06854415-n
   ili: i72475
@@ -34289,7 +34289,7 @@
   partOfSpeech: n
 06855340-n:
   definition:
-  - either of two punctuation marks ([ or ]) used to enclose textual material
+  - either of two punctuation marks (`[' or `]') used to enclose textual material
   hypernym:
   - 06854415-n
   ili: i72476
@@ -34310,7 +34310,7 @@
   partOfSpeech: n
 06855710-n:
   definition:
-  - a punctuation mark (:) used after a word introducing a series or an example or
+  - a punctuation mark (`:') used after a word introducing a series or an example or
     an explanation (or after the salutation of a business letter)
   hypernym:
   - 06854415-n
@@ -34320,7 +34320,7 @@
   partOfSpeech: n
 06855902-n:
   definition:
-  - a punctuation mark (,) used to indicate the separation of elements within the
+  - a punctuation mark (`,') used to indicate the separation of elements within the
     grammatical structure of a sentence
   hypernym:
   - 06854415-n
@@ -34330,7 +34330,7 @@
   partOfSpeech: n
 06856067-n:
   definition:
-  - a punctuation mark (!) used after an exclamation
+  - a punctuation mark (`!') used after an exclamation
   hypernym:
   - 06854415-n
   ili: i72480
@@ -34340,7 +34340,7 @@
   partOfSpeech: n
 06856198-n:
   definition:
-  - a punctuation mark (-) used between parts of a compound word or between the syllables
+  - a punctuation mark (`-') used between parts of a compound word or between the syllables
     of a word when the word is divided at the end of a line of text
   hypernym:
   - 06854415-n
@@ -34351,7 +34351,7 @@
   partOfSpeech: n
 06856443-n:
   definition:
-  - either of two punctuation marks (or) used to enclose textual material
+  - either of two punctuation marks `(' or `)' used to enclose textual material
   hypernym:
   - 06854415-n
   ili: i72482
@@ -34360,7 +34360,7 @@
   partOfSpeech: n
 06856570-n:
   definition:
-  - a punctuation mark (.) placed at the end of a declarative sentence to indicate
+  - a punctuation mark (`.') placed at the end of a declarative sentence to indicate
     a full stop or after abbreviations
   example:
   - in England they call a period a stop
@@ -34376,7 +34376,7 @@
   partOfSpeech: n
 06856888-n:
   definition:
-  - (usually plural) one of a series of points indicating that something has been
+  - (usually plural) one of a series of points (`…') indicating that something has been
     omitted or that the sentence is incomplete
   exemplifies:
   - 06306016-n
@@ -34388,7 +34388,7 @@
   partOfSpeech: n
 06857090-n:
   definition:
-  - a punctuation mark (?) placed at the end of a sentence to indicate a question
+  - a punctuation mark (`?') placed at the end of a sentence to indicate a question
   hypernym:
   - 06854415-n
   ili: i72485
@@ -34436,7 +34436,7 @@
   partOfSpeech: n
 06857789-n:
   definition:
-  - a punctuation mark (;) used to connect independent clauses; indicates a closer
+  - a punctuation mark (`;') used to connect independent clauses; indicates a closer
     relation than does a period
   hypernym:
   - 06854415-n
@@ -34446,7 +34446,7 @@
   partOfSpeech: n
 06857953-n:
   definition:
-  - a punctuation mark (/) used to separate related items of information
+  - a punctuation mark (`/') used to separate related items of information
   hypernym:
   - 06854415-n
   ili: i72491
@@ -34460,7 +34460,7 @@
   partOfSpeech: n
 06858126-n:
   definition:
-  - a punctuation mark used in text to indicate the omission of a word
+  - a punctuation mark (`⁓') used in text to indicate the omission of a word
   hypernym:
   - 06854415-n
   ili: i72492
@@ -34519,7 +34519,7 @@
   partOfSpeech: n
 06864792-n:
   definition:
-  - a formally registered symbol identifying the manufacturer or distributor of a
+  - a formally registered symbol (`™') identifying the manufacturer or distributor of a
     product
   exemplifies:
   - 92433720-n
