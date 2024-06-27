@@ -11806,8 +11806,8 @@
     for the child's welfare.
   example:
   - source: https://en.wikipedia.org
-    text: "The terms `parental leave´ and `family leave´ include maternity, paternity,
-      and adoption leave."
+    text: The terms `parental leave´ and `family leave´ include maternity, paternity,
+      and adoption leave.
   hypernym:
   - 15164090-n
   members:
