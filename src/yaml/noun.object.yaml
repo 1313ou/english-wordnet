@@ -12107,7 +12107,7 @@
   partOfSpeech: n
 09423065-n:
   definition:
-  - "the nearest star to the sun; distance: 4.3 light years"
+  - 'the nearest star to the sun; distance: 4.3 light years'
   ili: i86017
   instance_hypernym:
   - 09304158-n
@@ -15214,8 +15214,8 @@
   partOfSpeech: n
 09479128-n:
   definition:
-  - "any agent that interferes with normal embryonic development: alcohol or thalidomide
-    or X-rays or rubella are examples"
+  - 'any agent that interferes with normal embryonic development: alcohol or thalidomide
+    or X-rays or rubella are examples'
   hypernym:
   - 09213796-n
   ili: i86305

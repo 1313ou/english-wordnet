@@ -2074,9 +2074,9 @@
   definition:
   - a new word formed by joining two others and combining their meanings
   example:
-  - "“smog” is a blend of “smoke” and “fog”"
-  - "“motel” is a portmanteau word made by combining “motor” and “hotel”"
-  - "“brunch” is a well-known portmanteau"
+  - “smog” is a blend of “smoke” and “fog”
+  - “motel” is a portmanteau word made by combining “motor” and “hotel”
+  - “brunch” is a well-known portmanteau
   hypernym:
   - 06305222-n
   ili: i69549
@@ -2121,8 +2121,8 @@
   definition:
   - a word formed from two or more words by omitting or combining some sounds
   example:
-  - "“won＇t” is a contraction of “will not”"
-  - "“o＇clock” is a contraction of “of the clock”"
+  - “won＇t” is a contraction of “will not”
+  - “o＇clock” is a contraction of “of the clock”
   hypernym:
   - 06297048-n
   ili: i69553
@@ -2150,7 +2150,7 @@
   domain_topic:
   - 06182505-n
   example:
-  - "“electricity” is a derivative of “electric”"
+  - “electricity” is a derivative of “electric”
   hypernym:
   - 06297048-n
   ili: i69555
@@ -2170,7 +2170,7 @@
   definition:
   - a word that is considered to be unmentionable
   example:
-  - "“failure” is a dirty word to him"
+  - “failure” is a dirty word to him
   hypernym:
   - 06297048-n
   ili: i69557
@@ -2288,7 +2288,7 @@
   definition:
   - a word that names the whole of which a given word is a part
   example:
-  - "“hat” is a holonym for “brim” and “crown”"
+  - “hat” is a holonym for “brim” and “crown”
   hypernym:
   - 06297048-n
   ili: i69567
@@ -2378,7 +2378,7 @@
   definition:
   - a word that names a part of a larger whole
   example:
-  - "“brim” and “crown” are meronyms of “hat”"
+  - “brim” and “crown” are meronyms of “hat”
   hypernym:
   - 06297048-n
   ili: i69575
@@ -2402,7 +2402,7 @@
   definition:
   - an anagram that means the opposite of the original word or phrase
   example:
-  - "“restful” is the antigram of “fluster”"
+  - “restful” is the antigram of “fluster”
   hypernym:
   - 06298291-n
   ili: i69577
@@ -2463,7 +2463,7 @@
   definition:
   - a word serving as the basis for inflected or derived forms
   example:
-  - "“pick” is the primitive from which “picket” is derived"
+  - “pick” is the primitive from which “picket” is derived
   hypernym:
   - 06297048-n
   ili: i69583
@@ -2593,7 +2593,7 @@
   definition:
   - an expression introduced into one language by translating it from another language
   example:
-  - "“superman” is a calque for the German “Ubermensch”"
+  - “superman” is a calque for the German “Ubermensch”
   hypernym:
   - 07166088-n
   ili: i69594
@@ -2777,7 +2777,7 @@
   definition:
   - a word that denotes a manner of doing something
   example:
-  - "“march” is a troponym of “walk”"
+  - “march” is a troponym of “walk”
   hypernym:
   - 06297048-n
   ili: i69611
@@ -2951,7 +2951,7 @@
   definition:
   - a bound form used only in compounds
   example:
-  - "“hemato-” is a combining form in words like “hematology”"
+  - “hemato-” is a combining form in words like “hematology”
   hypernym:
   - 06317935-n
   ili: i69628
@@ -3273,8 +3273,8 @@
   partOfSpeech: n
 06324290-n:
   definition:
-  - "a constituent of a sentence at the first step in an analysis: e.g., subject and
-    predicate"
+  - 'a constituent of a sentence at the first step in an analysis: e.g., subject and
+    predicate'
   hypernym:
   - 06323956-n
   ili: i69658
@@ -3361,8 +3361,8 @@
   definition:
   - a clause introduced by a relative pronoun
   example:
-  - "“who visits frequently” is a relative clause in the sentence “John, who visits
-    frequently, is ill”"
+  - “who visits frequently” is a relative clause in the sentence “John, who visits
+    frequently, is ill”
   hypernym:
   - 06325134-n
   ili: i69666
@@ -3472,7 +3472,7 @@
   domain_topic:
   - 06173467-n
   example:
-  - "“Socrates is a man” predicates manhood of Socrates"
+  - “Socrates is a man” predicates manhood of Socrates
   hypernym:
   - 06764688-n
   ili: i69676
@@ -3688,7 +3688,7 @@
   definition:
   - an adjective used as a noun
   example:
-  - "“meek” in “blessed are the meek” is an adnoun"
+  - “meek” in “blessed are the meek” is an adnoun
   hypernym:
   - 06331146-n
   ili: i69698
@@ -3720,8 +3720,8 @@
   definition:
   - a modifier that has little meaning except to intensify the meaning it modifies
   example:
-  - "“up” in “finished up” is an intensifier"
-  - "“honestly” in “I honestly don＇t know” is an intensifier"
+  - “up” in “finished up” is an intensifier
+  - “honestly” in “I honestly don＇t know” is an intensifier
   hypernym:
   - 06331794-n
   ili: i69701
@@ -3789,9 +3789,9 @@
   definition:
   - the comparative form of an adjective or adverb
   example:
-  - "“faster” is the comparative of the adjective “fast”"
-  - "“less famous” is the comparative degree of the adjective “famous”"
-  - "“more surely” is the comparative of the adverb “surely”"
+  - “faster” is the comparative of the adjective “fast”
+  - “less famous” is the comparative degree of the adjective “famous”
+  - “more surely” is the comparative of the adverb “surely”
   hypernym:
   - 06332695-n
   - 06334605-n
@@ -3804,9 +3804,9 @@
   definition:
   - the superlative form of an adjective or adverb
   example:
-  - "“fastest” is the superlative of the adjective “fast”"
-  - "“least famous” is the superlative degree of the adjective “famous”"
-  - "“most surely” is the superlative of the adverb “surely”"
+  - “fastest” is the superlative of the adjective “fast”
+  - “least famous” is the superlative degree of the adjective “famous”
+  - “most surely” is the superlative of the adverb “surely”
   hypernym:
   - 06332695-n
   - 06334605-n
@@ -3828,8 +3828,8 @@
   partOfSpeech: n
 06334815-n:
   definition:
-  - "a word or phrase apparently modifying an unintended word because of its placement
-    in a sentence: e.g., “when young” in “when young, circuses appeal to all of us”"
+  - 'a word or phrase apparently modifying an unintended word because of its placement
+    in a sentence: e.g., “when young” in “when young, circuses appeal to all of us”'
   hypernym:
   - 06331794-n
   ili: i69710
@@ -3840,9 +3840,9 @@
   wikidata: Q2135518
 06335079-n:
   definition:
-  - "a participle (usually at the beginning of a sentence) apparently modifying a
+  - 'a participle (usually at the beginning of a sentence) apparently modifying a
     word other than the word intended: e.g., “flying across the country” in “flying
-    across the country the Rockies came into view”"
+    across the country the Rockies came into view”'
   hypernym:
   - 06334815-n
   ili: i69711
@@ -4083,7 +4083,7 @@
   - a verb whose agent performs an action that is directed at the agent
   example:
   - the sentence “he washed” has a reflexive verb
-  - "“perjure” is a reflexive verb because you cannot perjure anyone but yourself"
+  - “perjure” is a reflexive verb because you cannot perjure anyone but yourself
   hypernym:
   - 06331562-n
   ili: i69734
@@ -4206,7 +4206,7 @@
   - an English verb followed by one or more particles where the combination behaves
     as a syntactic and semantic unit
   example:
-  - "“turn out” is a phrasal verb in the question “how many turned out to vote?”"
+  - “turn out” is a phrasal verb in the question “how many turned out to vote?”
   hypernym:
   - 06329055-n
   ili: i69746
@@ -4528,7 +4528,7 @@
   definition:
   - slang for something (especially for an illegal drug)
   example:
-  - "“smack” is a street name for heroin"
+  - “smack” is a street name for heroin
   hypernym:
   - 06344646-n
   - 07171981-n
@@ -4716,7 +4716,7 @@
   definition:
   - a name of endearment (especially one using a diminutive suffix)
   example:
-  - "“Billy” is a hypocorism for “William”"
+  - “Billy” is a hypocorism for “William”
   hypernym:
   - 06344646-n
   ili: i69789
@@ -4726,7 +4726,7 @@
   partOfSpeech: n
 06350786-n:
   definition:
-  - "an identifying appellation signifying status or function: e.g. “Mr.” or “General”"
+  - 'an identifying appellation signifying status or function: e.g. “Mr.” or “General”'
   example:
   - the professor didn＇t like his friends to use his formal title
   hypernym:
@@ -4989,7 +4989,7 @@
   definition:
   - an appellation signifying nobility
   example:
-  - "“your majesty” is the appropriate title to use in addressing a king"
+  - “your majesty” is the appropriate title to use in addressing a king
   hypernym:
   - 06350278-n
   ili: i69813
@@ -6051,8 +6051,8 @@
   partOfSpeech: n
 06372853-n:
   definition:
-  - "an ancient writing system: having alternate lines written in opposite directions;
-    literally “as the ox ploughs”"
+  - 'an ancient writing system: having alternate lines written in opposite directions;
+    literally “as the ox ploughs”'
   hypernym:
   - 06362609-n
   ili: i69909
@@ -6974,8 +6974,8 @@
   definition:
   - a witty satiric verse containing two rhymed couplets and mentioning a famous person
   example:
-  - "“The president is George W. Bush, Who is happy to sit on his tush, While sending
-    his armies to fight, For anything he thinks is right” is a clerihew"
+  - “The president is George W. Bush, Who is happy to sit on his tush, While sending
+    his armies to fight, For anything he thinks is right” is a clerihew
   hypernym:
   - 06393492-n
   ili: i69998
@@ -7166,7 +7166,7 @@
   partOfSpeech: n
 06393384-n:
   definition:
-  - "a verse form with a rhyme scheme: aba bcb cdc, etc."
+  - 'a verse form with a rhyme scheme: aba bcb cdc, etc.'
   hypernym:
   - 06389065-n
   ili: i70016
@@ -10123,9 +10123,9 @@
   partOfSpeech: n
 06444046-n:
   definition:
-  - "the first book of the Old Testament: tells of Creation; Adam and Eve; the Fall
+  - 'the first book of the Old Testament: tells of Creation; Adam and Eve; the Fall
     of Man; Cain and Abel; Noah and the flood; God＇s covenant with Abraham; Abraham
-    and Isaac; Jacob and Esau; Joseph and his brothers"
+    and Isaac; Jacob and Esau; Joseph and his brothers'
   ili: i70294
   instance_hypernym:
   - 06406508-n
@@ -10135,9 +10135,9 @@
   partOfSpeech: n
 06444385-n:
   definition:
-  - "the second book of the Old Testament: tells of the departure of the Israelites
+  - 'the second book of the Old Testament: tells of the departure of the Israelites
     out of slavery in Egypt led by Moses; God gave them the Ten Commandments and the
-    rest of Mosaic law on Mount Sinai during the Exodus"
+    rest of Mosaic law on Mount Sinai during the Exodus'
   ili: i70295
   instance_hypernym:
   - 06406508-n
@@ -12800,8 +12800,8 @@
   domain_topic:
   - 06182505-n
   example:
-  - "“Those girls, they giggle when they see me” and “Cigarettes, you couldn＇t pay
-    me to smoke them” are examples of topicalization"
+  - “Those girls, they giggle when they see me” and “Cigarettes, you couldn＇t pay
+    me to smoke them” are examples of topicalization
   hypernym:
   - 07117611-n
   ili: i70523
@@ -27368,7 +27368,7 @@
   domain_topic:
   - 06173467-n
   example:
-  - "“I always lie” is a paradox because if it is true it must be false"
+  - “I always lie” is a paradox because if it is true it must be false
   hypernym:
   - 07221547-n
   ili: i71840
@@ -31077,9 +31077,9 @@
   partOfSpeech: n
 06803092-n:
   definition:
-  - "(Christianity) the doctrine of the ecumenical movement that promotes cooperation
+  - '(Christianity) the doctrine of the ecumenical movement that promotes cooperation
     and better understanding among different religious denominations: aimed at universal
-    Christian unity"
+    Christian unity'
   domain_topic:
   - 06236188-n
   hypernym:
@@ -33396,8 +33396,8 @@
   partOfSpeech: n
 06843888-n:
   definition:
-  - "two successive letters (especially two letters used to represent a single sound:
-    “sh” in “shoe”)"
+  - 'two successive letters (especially two letters used to represent a single sound:
+    “sh” in “shoe”)'
   hypernym:
   - 06841868-n
   ili: i72384
@@ -34126,8 +34126,8 @@
   definition:
   - a letter that has two or more pronunciations
   example:
-  - "“c” is a polyphone because it is pronounced like “k” in “car” but like “s”
-    in “cell”"
+  - “c” is a polyphone because it is pronounced like “k” in “car” but like “s” in
+    “cell”
   hypernym:
   - 06841868-n
   ili: i72460
@@ -34224,7 +34224,7 @@
   - a single written symbol that represents an entire word or phrase without indicating
     its pronunciation
   example:
-  - "“7” is a logogram that is pronounced “seven” in English and “nanatsu” in Japanese"
+  - “7” is a logogram that is pronounced “seven” in English and “nanatsu” in Japanese
   hypernym:
   - 06853698-n
   ili: i72469
@@ -34312,8 +34312,8 @@
   partOfSpeech: n
 06855710-n:
   definition:
-  - a punctuation mark (“:”) used after a word introducing a series or an example or
-    an explanation (or after the salutation of a business letter)
+  - a punctuation mark (“:”) used after a word introducing a series or an example
+    or an explanation (or after the salutation of a business letter)
   hypernym:
   - 06854415-n
   ili: i72478
@@ -34342,8 +34342,8 @@
   partOfSpeech: n
 06856198-n:
   definition:
-  - a punctuation mark (“-”) used between parts of a compound word or between the syllables
-    of a word when the word is divided at the end of a line of text
+  - a punctuation mark (“-”) used between parts of a compound word or between the
+    syllables of a word when the word is divided at the end of a line of text
   hypernym:
   - 06854415-n
   ili: i72481
@@ -34378,8 +34378,8 @@
   partOfSpeech: n
 06856888-n:
   definition:
-  - (usually plural) one of a series of points (“…”) indicating that something has been
-    omitted or that the sentence is incomplete
+  - (usually plural) one of a series of points (“…”) indicating that something has
+    been omitted or that the sentence is incomplete
   exemplifies:
   - 06306016-n
   hypernym:
@@ -34521,8 +34521,8 @@
   partOfSpeech: n
 06864792-n:
   definition:
-  - a formally registered symbol (“™”) identifying the manufacturer or distributor of a
-    product
+  - a formally registered symbol (“™”) identifying the manufacturer or distributor
+    of a product
   exemplifies:
   - 92433720-n
   - 92460019-n
@@ -35359,7 +35359,7 @@
   partOfSpeech: n
 06880930-n:
   definition:
-  - "a system of solmization using the solfa syllables: do, re, mi, fa, sol, la, ti"
+  - 'a system of solmization using the solfa syllables: do, re, mi, fa, sol, la, ti'
   hypernym:
   - 06880725-n
   ili: i72575
@@ -40116,10 +40116,10 @@
   partOfSpeech: n
 06948091-n:
   definition:
-  - "a branch of the Tai languages, spoken in Southern Yunnan Province, Xishuangbanna
+  - 'a branch of the Tai languages, spoken in Southern Yunnan Province, Xishuangbanna
     Dai autonomous prefecture, 3 counties: Jinghong (Chiang Hung, Chien Rung), Menghai,
     and Mengla, also a few in Simao municipal prefecture, Jiangcheng Hani and Yi Autonomous
-    counties"
+    counties'
   hypernym:
   - 06947166-n
   ili: i73025
@@ -40965,8 +40965,8 @@
   partOfSpeech: n
 06959259-n:
   definition:
-  - "a branch of the Indo-European family of languages; members that are spoken currently
-    fall into two major groups: Scandinavian and West Germanic"
+  - 'a branch of the Indo-European family of languages; members that are spoken currently
+    fall into two major groups: Scandinavian and West Germanic'
   hypernym:
   - 06954406-n
   ili: i73102
@@ -43777,8 +43777,8 @@
 06998382-n:
   definition:
   - a Chadic language spoken in Chad, in Guera Region, Guera department, Bitkine subprefecture,
-    below Guera massif, Moukoulou, Séguine, Doli, Morgué, Djarkatché (Mezimi),
-    and Gougué villages
+    below Guera massif, Moukoulou, Séguine, Doli, Morgué, Djarkatché (Mezimi), and
+    Gougué villages
   hypernym:
   - 06998552-n
   ili: i73353
@@ -45519,7 +45519,7 @@
   definition:
   - persuasive but insincere talk that is usually intended to deceive or impress
   example:
-  - "“let me show you my etchings” is a rather worn line"
+  - “let me show you my etchings” is a rather worn line
   - he has a smooth line but I didn＇t fall for it
   - that salesman must have practiced his fast line of talk
   hypernym:
@@ -48570,8 +48570,8 @@
   partOfSpeech: n
 07078355-n:
   definition:
-  - "a combination of blues and jazz that was developed in the United States by Black
-    musicians; an important precursor of rock ＇n＇ roll"
+  - a combination of blues and jazz that was developed in the United States by Black
+    musicians; an important precursor of rock ＇n＇ roll
   hypernym:
   - 07073295-n
   - 07039073-n
@@ -48739,8 +48739,8 @@
   partOfSpeech: n
 07081916-n:
   definition:
-  - "the use of closed-class words instead of inflections: e.g., “the father of the
-    bride” instead of “the bride＇s father”"
+  - 'the use of closed-class words instead of inflections: e.g., “the father of the
+    bride” instead of “the bride＇s father”'
   hypernym:
   - 07080699-n
   ili: i73822
@@ -48987,8 +48987,8 @@
   partOfSpeech: n
 07086235-n:
   definition:
-  - "the style of writing characteristic of some government officials: formal and
-    obscure"
+  - 'the style of writing characteristic of some government officials: formal and
+    obscure'
   hypernym:
   - 07080699-n
   ili: i73845
@@ -49819,7 +49819,7 @@
   - a word formed from the initial letters of the several words in the name and pronounced
     as one word
   example:
-  - "“NATO” is an initialism for North Atlantic Treaty Organization"
+  - “NATO” is an initialism for North Atlantic Treaty Organization
   - the word “scuba” is an acronym for s(elf)-c(ontained) u(nderwater) b(reathing)
     a(pparatus)
   hypernym:
@@ -50172,7 +50172,7 @@
   definition:
   - a two-syllable rhyme
   example:
-  - "“ended” and “blended” form a double rhyme"
+  - “ended” and “blended” form a double rhyme
   hypernym:
   - 07111327-n
   ili: i73955
@@ -50425,8 +50425,8 @@
   partOfSpeech: n
 07116700-n:
   definition:
-  - "strained or paradoxical use of words either in error (as “blatant” to mean “flagrant”)
-    or deliberately (as in a mixed metaphor: “blind mouths”)"
+  - 'strained or paradoxical use of words either in error (as “blatant” to mean “flagrant”)
+    or deliberately (as in a mixed metaphor: “blind mouths”)'
   hypernym:
   - 07112859-n
   ili: i73981
@@ -50816,7 +50816,7 @@
   - use of a verb with two or more complements, playing on the verb＇s polysemy, for
     humorous effect
   example:
-  - "“Mr. Pickwick took his hat and his leave” is an example of zeugma"
+  - “Mr. Pickwick took his hat and his leave” is an example of zeugma
   hypernym:
   - 07120141-n
   ili: i74020
@@ -52234,7 +52234,7 @@
   definition:
   - an expression that is difficult to articulate clearly
   example:
-  - "“rubber baby buggy bumper” is a tongue twister"
+  - “rubber baby buggy bumper” is a tongue twister
   hypernym:
   - 07166088-n
   ili: i74149
@@ -56203,11 +56203,11 @@
   - 07218356-n
   ili: i74511
   members:
-  - "yes"
+  - 'yes'
   partOfSpeech: n
 07218668-n:
   definition:
-  - "yes"
+  - 'yes'
   example:
   - The yeas have it
   hypernym:
@@ -56286,7 +56286,7 @@
   - 07219571-n
   ili: i74519
   members:
-  - "no"
+  - 'no'
   partOfSpeech: n
 07219870-n:
   definition:
@@ -61063,7 +61063,7 @@
   instance_hypernym:
   - 06422547-n
   members:
-  - "Capital: Critique of Political Economy"
+  - 'Capital: Critique of Political Economy'
   - Das Kapital
   - Capital
   partOfSpeech: n
@@ -62034,8 +62034,8 @@
   wikidata: Q1325245
 92442082-n:
   definition:
-  - "the bijective base-1 numeral system: in order to represent a number N, an arbitrarily
-    chosen symbol representing 1 is repeated N times."
+  - 'the bijective base-1 numeral system: in order to represent a number N, an arbitrarily
+    chosen symbol representing 1 is repeated N times.'
   hypernym:
   - 06821932-n
   members:
@@ -62208,9 +62208,9 @@
   definition:
   - (linguistics, poetry) the use of isosyllabic verse.
   example:
-  - But it is likewise true that — especially in the context of the eighteenth century — anapestic
-    meter seemed somewhat flippant and irreverent in comparison with the staid isosyllabism
-    of iambic pentameter.
+  - But it is likewise true that — especially in the context of the eighteenth century
+    — anapestic meter seemed somewhat flippant and irreverent in comparison with the
+    staid isosyllabism of iambic pentameter.
   hypernym:
   - 07108269-n
   members:
@@ -62526,8 +62526,8 @@
   source: plWordNet 4.0
 92460709-n:
   definition:
-  - the variant readings, footnotes, etc. found in a scholarly work or a critical edition
-    of a text.
+  - the variant readings, footnotes, etc. found in a scholarly work or a critical
+    edition of a text.
   example:
   - The first printed edition of the New Testament with critical apparatus, noting
     variant readings among the manuscripts, was produced by the printer Robert Estienne
@@ -62573,8 +62573,8 @@
   definition:
   - a symbol that represents peace, in the form of three lines within a circle.
   example:
-  - In the 1950s the “peace sign” as it is known today, was designed as the logo
-    for the British Campaign for Nuclear Disarmament and adopted by anti-war and counterculture
+  - In the 1950s the “peace sign” as it is known today, was designed as the logo for
+    the British Campaign for Nuclear Disarmament and adopted by anti-war and counterculture
     activists in the United States and elsewhere.
   hypernym:
   - 06819327-n
@@ -62729,8 +62729,8 @@
   - a poem whose meaning is conveyed through its graphic shape or pattern on the printed
     page.
   example:
-  - "“The Mouse＇s Tale” is a concrete poem by Lewis Carroll which appears in his
-    novel Alice＇s Adventures in Wonderland."
+  - “The Mouse＇s Tale” is a concrete poem by Lewis Carroll which appears in his novel
+    Alice＇s Adventures in Wonderland.
   hypernym:
   - 06389065-n
   members:
@@ -62783,9 +62783,9 @@
     and that is often unaccented or contracted.
   example:
   - Most languages can adopt theme-rheme structure idiosyncratically — as for English,
-    we often use as for theme constructions — but topic-prominent languages use
-    systematic changes in syntax or even dedicated morpological elements such as the
-    Japanese clitic particle -wa to mark themes and to set them apart from rhemes.
+    we often use as for theme constructions — but topic-prominent languages use systematic
+    changes in syntax or even dedicated morpological elements such as the Japanese
+    clitic particle -wa to mark themes and to set them apart from rhemes.
   hypernym:
   - 06317223-n
   members:
@@ -62811,8 +62811,8 @@
   definition:
   - a piece of music composed for the Hungarian Csárdás dance.
   example:
-  - "The Csárdás is characterized by a variation in tempo: it starts out slowly
-    (lassú) and ends in a very fast tempo (friss, literally “fresh”)."
+  - 'The Csárdás is characterized by a variation in tempo: it starts out slowly (lassú)
+    and ends in a very fast tempo (friss, literally “fresh”).'
   hypernym:
   - 07068473-n
   members:
@@ -62825,8 +62825,8 @@
   - a piece of music in the rhythm of the Hungarian Csárdás dance.
   example:
   - Classical composers who have used csárdás themes in their works include Emmerich
-    Kálmán, Franz Liszt, Johannes Brahms, Léo Delibes, Johann Strauss, Pablo de
-    Sarasate, Pyotr Ilyich Tchaikovsky and others.
+    Kálmán, Franz Liszt, Johannes Brahms, Léo Delibes, Johann Strauss, Pablo de Sarasate,
+    Pyotr Ilyich Tchaikovsky and others.
   hypernym:
   - 07051211-n
   members:
@@ -62948,8 +62948,8 @@
   - a meaningless chant or expression used in conjuring or incantation.
   example:
   - This claim is substantiated by the fact that in the Netherlands, the words “Hocus
-    pocus” are usually accompanied by the additional words “pilatus pas”, and this is
-    said to be based on a post-Reformation parody of the traditional Catholic ritual
+    pocus” are usually accompanied by the additional words “pilatus pas”, and this
+    is said to be based on a post-Reformation parody of the traditional Catholic ritual
     of transubstantiation during mass, being a Dutch corruption of the Latin words
     “Hoc est corpus”, meaning “this is (my) body”, and the credo “sub Pontio Pilato
     passus et sepultus est”, meaning “under Pontius Pilate he suffered and was buried”.
@@ -63085,9 +63085,9 @@
     of the Ethiopian Church.
   example:
   - Some linguists do not believe that Geʻez constitutes the common ancestor of modern
-    Ethiopian languages, but that Geʻez became a separate language early on from
-    some hypothetical, completely unattested language, and can thus be seen as an
-    extinct sister language of Tigre and Tigrinya.
+    Ethiopian languages, but that Geʻez became a separate language early on from some
+    hypothetical, completely unattested language, and can thus be seen as an extinct
+    sister language of Tigre and Tigrinya.
   hypernym:
   - 06999554-n
   members:
@@ -63098,10 +63098,9 @@
   definition:
   - a diacritic mark of the Latin script, used primarily in written Hungarian.
   example:
-  - "Standard Hungarian has 14 vowels in a symmetrical system: seven short vowels
+  - 'Standard Hungarian has 14 vowels in a symmetrical system: seven short vowels
     (a, e, i, o, ö, u, ü) and seven long ones, which are written with an acute accent
-    in the case of á, é, í, ó, ú, and with the double acute in the case of ő,
-    ű."
+    in the case of á, é, í, ó, ú, and with the double acute in the case of ő, ű.'
   hypernym:
   - 06835082-n
   members:
@@ -63215,8 +63214,8 @@
   source: plWordNet 4.0
 92462179-n:
   definition:
-  - the form of a verb used to describe an action that happened before
-    the present time and is no longer happening.
+  - the form of a verb used to describe an action that happened before the present
+    time and is no longer happening.
   example:
   - Regular verbs form the simple past in -ed; however there are a few hundred irregular
     verbs with different forms.
@@ -63270,9 +63269,9 @@
   definition:
   - the name of an object which may be perceived by one or more of the five senses.
   example:
-  - "“Kitten” is an example of a concrete noun. A kitten registers with the five senses:
+  - '“Kitten” is an example of a concrete noun. A kitten registers with the five senses:
     you can see a kitten, pet its fur, smell its breath, hear it purr and taste its
-    kisses."
+    kisses.'
   hypernym:
   - 06330286-n
   members:
@@ -63850,9 +63849,9 @@
   - (linguistics) A vowel that is pronounced with the lips drawn together and forming
     a circular opening.
   example:
-  - "Thus rounded vowels and labialized consonants affect each other through phonetic
+  - 'Thus rounded vowels and labialized consonants affect each other through phonetic
     assimilation: Rounded vowels labialize consonants, and labialized consonants round
-    vowels."
+    vowels.'
   hypernym:
   - 07127258-n
   members:
@@ -63986,8 +63985,8 @@
   - title of the member of any of several religious orders that cared for the sick
     in hospitals.
   example:
-  - The person who had the title of hospitaller was in charge of all the hospital staff,
-    its brothers on the wards, its sisters, lay brothers, servants, and specialized
+  - The person who had the title of hospitaller was in charge of all the hospital
+    staff, its brothers on the wards, its sisters, lay brothers, servants, and specialized
     employees.
   hypernym:
   - 06350786-n
@@ -64130,8 +64129,8 @@
     is important to the text＇s interpretation.
   example:
   - What caught my eye about this is that it bears interesting relation to Bakhtin＇s
-    concept of the dialogism of the “living word” — in fact, capitalize that “w”
-    and it would be downright eerie.
+    concept of the dialogism of the “living word” — in fact, capitalize that “w” and
+    it would be downright eerie.
   hypernym:
   - 07112859-n
   members:
@@ -64590,10 +64589,10 @@
   source: plWordNet 4.0
 92465794-n:
   definition:
-  - "A rhetorical figure resulting from a reverted arrangement in the last clause
+  - 'A rhetorical figure resulting from a reverted arrangement in the last clause
     of a sentence of the two principal words of the clause preceding; inversion of
     the members of an antithesis: as, “A poem is a speaking picture; a picture a mute
-    poem”."
+    poem”.'
   example:
   - I am not of Paracelsus＇s mind, that boldly delivers a receipt to make a man without
     conjunction; yet cannot but wonder at the multitude of heads that do deny traduction,
@@ -64651,8 +64650,8 @@
     on a remote computer.
   example:
   - Your Web browser is a client program that has requested a service from a server;
-    in fact, the service and resource the server provided is the delivery of this Web
-    page.
+    in fact, the service and resource the server provided is the delivery of this
+    Web page.
   hypernym:
   - 06581154-n
   members:
@@ -64827,8 +64826,8 @@
   definition:
   - a short play consisting of one act.
   example:
-  - "The origin of the one-act play may be traced to the very beginning of drama:
-    in ancient Greece, Cyclops, a satyr play by Euripides, is an early example."
+  - 'The origin of the one-act play may be traced to the very beginning of drama:
+    in ancient Greece, Cyclops, a satyr play by Euripides, is an early example.'
   hypernym:
   - 07022654-n
   members:

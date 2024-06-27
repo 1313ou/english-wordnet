@@ -604,7 +604,7 @@
   partOfSpeech: n
 13271297-n:
   definition:
-  - "property that has economic utility: a monetary value or an exchange value"
+  - 'property that has economic utility: a monetary value or an exchange value'
   hypernym:
   - 13265007-n
   ili: i106279
@@ -9696,8 +9696,8 @@
   partOfSpeech: n
 13418878-n:
   definition:
-  - "the total of the nation＇s debts: debts of local and state and national governments;
-    an indicator of how much public spending is financed by borrowing instead of taxation"
+  - 'the total of the nation＇s debts: debts of local and state and national governments;
+    an indicator of how much public spending is financed by borrowing instead of taxation'
   hypernym:
   - 13418347-n
   ili: i107142
@@ -11330,10 +11330,10 @@
   domain_topic:
   - 06158935-n
   example:
-  - "The buyer of a used car faces a variety of different transaction costs: the costs
+  - 'The buyer of a used car faces a variety of different transaction costs: the costs
     of finding a car and determining the car＇s condition, the costs of negotiating
     a price with the seller, and the costs of ensuring that the seller delivers the
-    car in the promised condition."
+    car in the promised condition.'
   hypernym:
   - 13296870-n
   members:
@@ -11376,8 +11376,8 @@
   - the costs of any activities and efforts that are designed to keep the product＇s
     potential defects from occurring.
   example:
-  - "Some example component items of the total prevention costs are: quality planning,
-    quality training and workforce development, and product-design verification."
+  - 'Some example component items of the total prevention costs are: quality planning,
+    quality training and workforce development, and product-design verification.'
   hypernym:
   - 92437014-n
   members:
@@ -11389,8 +11389,8 @@
   - the costs that are incurred in assessing that products/services conform to the
     requirements.
   example:
-  - "Some example component items of the total appraisal costs are: field testing,
-    test and inspection equipment, and quality audits."
+  - 'Some example component items of the total appraisal costs are: field testing,
+    test and inspection equipment, and quality audits.'
   hypernym:
   - 92437014-n
   members:
@@ -11650,9 +11650,9 @@
   - the owner＇s investment in the business which consists of the net assets of an
     entity.
   example:
-  - "The types of accounts and their description that comprise the owner＇s equity
+  - 'The types of accounts and their description that comprise the owner＇s equity
     depend on the nature of the entity and may include: common stock, capital surplus,
-    retained earnings, and reserve."
+    retained earnings, and reserve.'
   hypernym:
   - 13354435-n
   members:

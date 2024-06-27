@@ -2416,7 +2416,7 @@
   partOfSpeech: v
 00042523-v:
   definition:
-  - "perform the services of a barber: cut the hair and/or beard of"
+  - 'perform the services of a barber: cut the hair and/or beard of'
   hypernym:
   - 00040084-v
   ili: i21983

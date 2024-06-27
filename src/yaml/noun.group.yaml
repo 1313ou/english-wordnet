@@ -87,8 +87,8 @@
   partOfSpeech: n
 07956792-n:
   definition:
-  - "the highest taxonomic group into which organisms are grouped; one of five biological
-    categories: Monera or Protoctista or Plantae or Fungi or Animalia"
+  - 'the highest taxonomic group into which organisms are grouped; one of five biological
+    categories: Monera or Protoctista or Plantae or Fungi or Animalia'
   hypernym:
   - 08008892-n
   ili: i79051
@@ -2892,8 +2892,8 @@
   partOfSpeech: n
 08010997-n:
   definition:
-  - "a group of wild mammals of one species that remain together: antelope or elephants
-    or seals or whales or zebra"
+  - 'a group of wild mammals of one species that remain together: antelope or elephants
+    or seals or whales or zebra'
   hypernym:
   - 08010371-n
   ili: i79300
@@ -6969,8 +6969,8 @@
   wikidata: Q5358497
 08084787-n:
   definition:
-  - "those involved in providing entertainment: radio and television and films and
-    theater"
+  - 'those involved in providing entertainment: radio and television and films and
+    theater'
   hypernym:
   - 08082070-n
   ili: i79608
@@ -15509,7 +15509,7 @@
   ili: i80334
   members:
   - hood
-  - "'hood"
+  - '''hood'
   partOfSpeech: n
 08242347-n:
   definition:
@@ -16391,7 +16391,7 @@
   definition:
   - a body of students who graduate together
   example:
-  - "the class of ＇97"
+  - the class of ＇97
   - she was in my year at Hoehandle High
   hypernym:
   - 07991473-n
@@ -18361,7 +18361,7 @@
   domain_topic:
   - 06104629-n
   example:
-  - "“extragalactic nebula” is a former name for “galaxy”"
+  - “extragalactic nebula” is a former name for “galaxy”
   hypernym:
   - 07968050-n
   ili: i80600
@@ -20426,7 +20426,7 @@
   partOfSpeech: n
 08323889-n:
   definition:
-  - "the highest of the four varnas: the priestly or sacerdotal category"
+  - 'the highest of the four varnas: the priestly or sacerdotal category'
   hypernym:
   - 08323595-n
   ili: i80787
@@ -20438,7 +20438,7 @@
   partOfSpeech: n
 08324075-n:
   definition:
-  - "the second highest of the four varnas: the noble or warrior category"
+  - 'the second highest of the four varnas: the noble or warrior category'
   hypernym:
   - 08323595-n
   ili: i80788
@@ -20447,8 +20447,8 @@
   partOfSpeech: n
 08324197-n:
   definition:
-  - "the third of the four varnas: the commoners or yeoman farmers or mercantile and
-    professional category"
+  - 'the third of the four varnas: the commoners or yeoman farmers or mercantile and
+    professional category'
   hypernym:
   - 08323595-n
   ili: i80789
@@ -20459,7 +20459,7 @@
   partOfSpeech: n
 08324370-n:
   definition:
-  - "the lowest of the four varnas: the servants and workers of low status"
+  - 'the lowest of the four varnas: the servants and workers of low status'
   hypernym:
   - 08323595-n
   ili: i80790
@@ -20733,9 +20733,9 @@
   partOfSpeech: n
 08328863-n:
   definition:
-  - "(chiefly Brit) a council representing employer and employees of a plant or business
+  - '(chiefly Brit) a council representing employer and employees of a plant or business
     to discuss working conditions etc.; also: a committee representing the workers
-    elected to negotiate with management about grievances and wages etc."
+    elected to negotiate with management about grievances and wages etc.'
   domain_region:
   - 08879115-n
   hypernym:
@@ -29644,8 +29644,8 @@
   partOfSpeech: n
 08495862-n:
   definition:
-  - "in the Protestant Episcopal Church: a committee elected by the congregation to
-    work with the churchwardens in managing the temporal affairs of the church"
+  - 'in the Protestant Episcopal Church: a committee elected by the congregation to
+    work with the churchwardens in managing the temporal affairs of the church'
   hypernym:
   - 08341444-n
   ili: i81606
@@ -31025,8 +31025,8 @@
   example:
   - This ephemeral appearance of Karaism on Spanish soil was fruitful for Jewish historical
     literature, for it induced the philosophically trained Abraham ibn Daud of Toledo
-    to write his “Sefer ha-Ḳabbalah” (1161), which is invaluable for the history
-    of the Jews in Spain.
+    to write his “Sefer ha-Ḳabbalah” (1161), which is invaluable for the history of
+    the Jews in Spain.
   hypernym:
   - 08110979-n
   members:

@@ -122,8 +122,8 @@
   partOfSpeech: n
 11551908-n:
   definition:
-  - "used only in former classifications: comprising what is now considered a heterogeneous
-    assemblage of flowerless and seedless organisms: algae, bacteria, fungi, lichens"
+  - 'used only in former classifications: comprising what is now considered a heterogeneous
+    assemblage of flowerless and seedless organisms: algae, bacteria, fungi, lichens'
   hypernym:
   - 08237812-n
   ili: i98202
@@ -182,7 +182,7 @@
   partOfSpeech: n
 11552998-n:
   definition:
-  - "the hood or cap covering the calyx of certain plants: e.g., the California poppy"
+  - 'the hood or cap covering the calyx of certain plants: e.g., the California poppy'
   hypernym:
   - 13107668-n
   ili: i98208
@@ -297,8 +297,8 @@
   partOfSpeech: n
 11554885-n:
   definition:
-  - "in former classifications: comprising plants with a vascular system including
-    ferns and fern allies as well as seed plants"
+  - 'in former classifications: comprising plants with a vascular system including
+    ferns and fern allies as well as seed plants'
   hypernym:
   - 08237812-n
   ili: i98220
@@ -425,7 +425,7 @@
   partOfSpeech: n
 11558574-n:
   definition:
-  - "hornworts: in some classification systems included in the class Hepaticopsida"
+  - 'hornworts: in some classification systems included in the class Hepaticopsida'
   hypernym:
   - 08120743-n
   ili: i98232
@@ -483,8 +483,8 @@
   partOfSpeech: n
 11559386-n:
   definition:
-  - "true mosses: bryophytes having leafy rather than thalloid gametophytes: comprises
-    orders Andreaeales, Bryales, Dicranales, Eubryales, Sphagnales"
+  - 'true mosses: bryophytes having leafy rather than thalloid gametophytes: comprises
+    orders Andreaeales, Bryales, Dicranales, Eubryales, Sphagnales'
   hypernym:
   - 08120743-n
   ili: i98237
@@ -524,7 +524,7 @@
   partOfSpeech: n
 11560126-n:
   definition:
-  - "comprises a single genus: Andreaea"
+  - 'comprises a single genus: Andreaea'
   hypernym:
   - 11555128-n
   ili: i98240
@@ -622,8 +622,8 @@
   partOfSpeech: n
 11561562-n:
   definition:
-  - "type genus of the Bryaceae: mosses distinguished by mostly erect and tufted gametophytes
-    and symmetrical short-necked capsules"
+  - 'type genus of the Bryaceae: mosses distinguished by mostly erect and tufted gametophytes
+    and symmetrical short-necked capsules'
   hypernym:
   - 11558337-n
   ili: i98248
@@ -671,8 +671,8 @@
   partOfSpeech: n
 11562370-n:
   definition:
-  - "a large genus constituting the order Sphagnales: atypical mosses of temperate
-    bogs with leaves that can hold much water"
+  - 'a large genus constituting the order Sphagnales: atypical mosses of temperate
+    bogs with leaves that can hold much water'
   hypernym:
   - 11558337-n
   ili: i98252
@@ -696,8 +696,8 @@
   partOfSpeech: n
 11562792-n:
   definition:
-  - "liverworts: comprises orders Anthocerotales, Jungermanniales, Marchantiales,
-    Sphaerocarpales"
+  - 'liverworts: comprises orders Anthocerotales, Jungermanniales, Marchantiales,
+    Sphaerocarpales'
   hypernym:
   - 08120743-n
   ili: i98254
@@ -848,9 +848,9 @@
   wikidata: Q7576518
 11565220-n:
   definition:
-  - "containing all the vascular plants that do not bear seeds: ferns, horsetails,
+  - 'containing all the vascular plants that do not bear seeds: ferns, horsetails,
     club mosses, and whisk ferns; in some classifications considered a subdivision
-    of Tracheophyta"
+    of Tracheophyta'
   hypernym:
   - 08237812-n
   ili: i98266
@@ -1150,8 +1150,8 @@
   partOfSpeech: n
 11572110-n:
   definition:
-  - "in former classification systems: one of two major plant divisions, including
-    all seed-bearing plants; superseded by the division Spermatophyta"
+  - 'in former classification systems: one of two major plant divisions, including
+    all seed-bearing plants; superseded by the division Spermatophyta'
   hypernym:
   - 08237812-n
   ili: i98295
@@ -1160,8 +1160,8 @@
   partOfSpeech: n
 11572349-n:
   definition:
-  - "in former classification systems: one of two major plant divisions, including
-    all plants that do not bear seeds: ferns, mosses, algae, fungi"
+  - 'in former classification systems: one of two major plant divisions, including
+    all plants that do not bear seeds: ferns, mosses, algae, fungi'
   hypernym:
   - 08237812-n
   ili: i98296
@@ -1170,8 +1170,8 @@
   partOfSpeech: n
 11572584-n:
   definition:
-  - "formerly recognized taxonomic group including all flowerless and seedless plants
-    that reproduce by means of spores: ferns, mosses, algae, fungi"
+  - 'formerly recognized taxonomic group including all flowerless and seedless plants
+    that reproduce by means of spores: ferns, mosses, algae, fungi'
   hypernym:
   - 00017402-n
   ili: i98297
@@ -1492,12 +1492,12 @@
   partOfSpeech: n
 11615763-n:
   definition:
-  - "plants having naked seeds not enclosed in an ovary; in some systems considered
+  - 'plants having naked seeds not enclosed in an ovary; in some systems considered
     a class (Gymnospermae) and in others a division (Gymnospermophyta); comprises
     three subdivisions (or classes): Cycadophytina (class Cycadopsida) and Gnetophytina
     (class Gnetopsida) and Coniferophytina (class Coniferopsida); in some classifications
     the Coniferophytina are divided into three groups: Pinophytina (class Pinopsida)
-    and Ginkgophytina (class Ginkgopsida) and Taxophytina (class Taxopsida)"
+    and Ginkgophytina (class Ginkgopsida) and Taxophytina (class Taxopsida)'
   hypernym:
   - 08120743-n
   ili: i98330
@@ -1571,8 +1571,8 @@
   partOfSpeech: n
 11617577-n:
   definition:
-  - "plants having small unisexual flowers and fleshy or winged fruit: in some classifications
-    includes the genera Ephedra and Welwitschia as well as genus Gnetum"
+  - 'plants having small unisexual flowers and fleshy or winged fruit: in some classifications
+    includes the genera Ephedra and Welwitschia as well as genus Gnetum'
   hypernym:
   - 11574214-n
   ili: i98335
@@ -1610,7 +1610,7 @@
   wikidata: Q72368
 11618375-n:
   definition:
-  - "ephedras: in some classifications included in the Gnetaceae"
+  - 'ephedras: in some classifications included in the Gnetaceae'
   hypernym:
   - 11574214-n
   ili: i98338
@@ -1645,8 +1645,8 @@
   wikidata: Q207642
 11618903-n:
   definition:
-  - "type and sole genus of Ephedraceae: tropical and subtropical evergreen shrubby
-    or creeping plants native to dry and inhospitable regions"
+  - 'type and sole genus of Ephedraceae: tropical and subtropical evergreen shrubby
+    or creeping plants native to dry and inhospitable regions'
   hypernym:
   - 11574626-n
   ili: i98341
@@ -1716,9 +1716,9 @@
   partOfSpeech: n
 11620145-n:
   definition:
-  - "palmlike gymnosperms: includes the surviving order Cycadales and several extinct
+  - 'palmlike gymnosperms: includes the surviving order Cycadales and several extinct
     orders; possibly not a natural group; in some systems considered a class (Cycadopsida)
-    and in others a subdivision (Cycadophytina or Cycadophyta)"
+    and in others a subdivision (Cycadophytina or Cycadophyta)'
   hypernym:
   - 08120743-n
   ili: i98347
@@ -1775,9 +1775,9 @@
   partOfSpeech: n
 11621351-n:
   definition:
-  - "type genus of Cycadaceae: genus of widely distributed Old World evergreen tropical
+  - 'type genus of Cycadaceae: genus of widely distributed Old World evergreen tropical
     trees having pinnate leaves and columnar stems covered with persistent bases of
-    old leaves"
+    old leaves'
   hypernym:
   - 11574626-n
   ili: i98351
@@ -1815,7 +1815,7 @@
   wikidata: Q161198
 11621938-n:
   definition:
-  - "a family of cycads often included in the family Cycadaceae: zamias"
+  - 'a family of cycads often included in the family Cycadaceae: zamias'
   hypernym:
   - 11574214-n
   ili: i98354
@@ -2011,7 +2011,7 @@
   partOfSpeech: n
 11625149-n:
   definition:
-  - "extinct gymnosperms most of Carboniferous to Jurassic: seed ferns and allies"
+  - 'extinct gymnosperms most of Carboniferous to Jurassic: seed ferns and allies'
   hypernym:
   - 08120743-n
   ili: i98371
@@ -2023,7 +2023,7 @@
   partOfSpeech: n
 11625355-n:
   definition:
-  - "fossil gymnospermous trees or climbing plants from the Devonian: seed ferns"
+  - 'fossil gymnospermous trees or climbing plants from the Devonian: seed ferns'
   hypernym:
   - 11555128-n
   ili: i98372
@@ -2037,8 +2037,8 @@
   partOfSpeech: n
 11625598-n:
   definition:
-  - "used in some classification systems: a group of extinct fossil gymnosperms coextensive
-    with the order Cycadofilicales"
+  - 'used in some classification systems: a group of extinct fossil gymnosperms coextensive
+    with the order Cycadofilicales'
   hypernym:
   - 08008892-n
   ili: i98373
@@ -2134,9 +2134,9 @@
   wikidata: Q869081
 11627522-n:
   definition:
-  - "most conifers: in some systems classified as a class (Pinopsida) and in others
+  - 'most conifers: in some systems classified as a class (Pinopsida) and in others
     as a subdivision (Pinophytina); used in some classifications for one of five subdivisions
-    of Gymnospermophyta"
+    of Gymnospermophyta'
   hypernym:
   - 08120743-n
   ili: i98380
@@ -2190,7 +2190,7 @@
   partOfSpeech: n
 11628506-n:
   definition:
-  - "type genus of the Pinaceae: large genus of true pines"
+  - 'type genus of the Pinaceae: large genus of true pines'
   hypernym:
   - 11574626-n
   ili: i98383
@@ -2884,7 +2884,7 @@
   partOfSpeech: n
 11640699-n:
   definition:
-  - "one species: golden larch"
+  - 'one species: golden larch'
   hypernym:
   - 11574626-n
   ili: i98440
@@ -3682,7 +3682,7 @@
   partOfSpeech: n
 11653910-n:
   definition:
-  - "evergreen monoecious coniferous trees or shrubs: cypress pines"
+  - 'evergreen monoecious coniferous trees or shrubs: cypress pines'
   hypernym:
   - 11574626-n
   ili: i98506
@@ -4059,9 +4059,9 @@
   wikidata: Q632844
 11660314-n:
   definition:
-  - "genus of deciduous conifers comprising both living and fossil forms; 1 extant
+  - 'genus of deciduous conifers comprising both living and fossil forms; 1 extant
     species: dawn redwood of China; variously classified as member of Pinaceae or
-    Taxodiaceae"
+    Taxodiaceae'
   hypernym:
   - 11574626-n
   ili: i98539
@@ -4819,8 +4819,8 @@
   partOfSpeech: n
 11673774-n:
   definition:
-  - "dioecious evergreen trees or shrubs; equatorial to southern and southeastern
-    Africa: yellowwood; similar to trees or genus Podocarpus"
+  - 'dioecious evergreen trees or shrubs; equatorial to southern and southeastern
+    Africa: yellowwood; similar to trees or genus Podocarpus'
   hypernym:
   - 11574626-n
   ili: i98606
@@ -4906,9 +4906,9 @@
   partOfSpeech: n
 11675118-n:
   definition:
-  - "sickle pines: dioecious evergreen tropical trees and shrubs having sickle-shaped
+  - 'sickle pines: dioecious evergreen tropical trees and shrubs having sickle-shaped
     leaves; similar to Dacrycarpus in habit; Malaysia and Philippines to New Guinea
-    and New Caledonia"
+    and New Caledonia'
   hypernym:
   - 11574626-n
   ili: i98613
@@ -5092,7 +5092,7 @@
   partOfSpeech: n
 11678214-n:
   definition:
-  - "one species: parasite yew"
+  - 'one species: parasite yew'
   hypernym:
   - 11574626-n
   ili: i98628
@@ -5176,7 +5176,7 @@
   partOfSpeech: n
 11679519-n:
   definition:
-  - "one species: Prince Albert＇s yew"
+  - 'one species: Prince Albert＇s yew'
   hypernym:
   - 11574626-n
   ili: i98635
@@ -5261,8 +5261,8 @@
   partOfSpeech: n
 11680988-n:
   definition:
-  - "yews: in some systems classified as a class (Taxopsida) and in others as a subdivision
-    (Taxophytina) used in some classifications for one of five subdivisions of Gymnospermophyta"
+  - 'yews: in some systems classified as a class (Taxopsida) and in others as a subdivision
+    (Taxophytina) used in some classifications for one of five subdivisions of Gymnospermophyta'
   hypernym:
   - 08120743-n
   ili: i98642
@@ -5274,7 +5274,7 @@
   partOfSpeech: n
 11681299-n:
   definition:
-  - "coextensive with the family Taxaceae: yews"
+  - 'coextensive with the family Taxaceae: yews'
   hypernym:
   - 11555128-n
   ili: i98643
@@ -5387,7 +5387,7 @@
   wikidata: Q1430041
 11683215-n:
   definition:
-  - "a gymnosperm genus having one species: New Caledonian yew"
+  - 'a gymnosperm genus having one species: New Caledonian yew'
   hypernym:
   - 11574626-n
   ili: i98652
@@ -5433,8 +5433,8 @@
   partOfSpeech: n
 11683900-n:
   definition:
-  - "ginkgos: in some systems classified as a class and in others as a subdivision;
-    used in some classifications for one of five subdivisions of Gymnospermophyta"
+  - 'ginkgos: in some systems classified as a class and in others as a subdivision;
+    used in some classifications for one of five subdivisions of Gymnospermophyta'
   hypernym:
   - 08120743-n
   ili: i98656
@@ -5450,8 +5450,8 @@
   partOfSpeech: n
 11684264-n:
   definition:
-  - "coextensive with the family Ginkgoaceae: plants that first appeared in the Permian
-    and now represented by a single surviving species; often included in Coniferales"
+  - 'coextensive with the family Ginkgoaceae: plants that first appeared in the Permian
+    and now represented by a single surviving species; often included in Coniferales'
   hypernym:
   - 11555128-n
   ili: i98657
@@ -5552,11 +5552,11 @@
   partOfSpeech: n
 11686232-n:
   definition:
-  - "comprising seed plants that produce an embryo with paired cotyledons and net-veined
+  - 'comprising seed plants that produce an embryo with paired cotyledons and net-veined
     leaves; divided into six (not always well distinguished) subclasses (or superorders):
     Magnoliidae and Hamamelidae (considered primitive), Caryophyllidae (an early and
     distinctive offshoot), and three more or less advanced groups: Dilleniidae, Rosidae,
-    Asteridae"
+    Asteridae'
   hypernym:
   - 08120743-n
   ili: i98665
@@ -5631,9 +5631,9 @@
   partOfSpeech: n
 11688013-n:
   definition:
-  - "comprising seed plants that produce an embryo with a single cotyledon and parallel-veined
+  - 'comprising seed plants that produce an embryo with a single cotyledon and parallel-veined
     leaves: includes grasses and lilies and palms and orchids; divided into four subclasses
-    or superorders: Alismatidae, Arecidae, Commelinidae, and Liliidae"
+    or superorders: Alismatidae, Arecidae, Commelinidae, and Liliidae'
   hypernym:
   - 08120743-n
   ili: i98668
@@ -5679,9 +5679,9 @@
   wikidata: Q2014103
 11689024-n:
   definition:
-  - "one of four subclasses or superorder of Monocotyledones; comprises about 6400
+  - 'one of four subclasses or superorder of Monocotyledones; comprises about 6400
     species in 5 families of trees and shrubs and terrestrial herbs and a few free-floating
-    aquatics including: Palmae, Araceae, Pandanaceae and Lemnaceae"
+    aquatics including: Palmae, Araceae, Pandanaceae and Lemnaceae'
   hypernym:
   - 08120743-n
   ili: i98671
@@ -5695,9 +5695,9 @@
   partOfSpeech: n
 11689403-n:
   definition:
-  - "one of four subclasses or superorders of Monocotyledones; comprises about 19,000
+  - 'one of four subclasses or superorders of Monocotyledones; comprises about 19,000
     species in 25 families of mostly terrestrial herbs especially of moist places
-    including: Cyperaceae, Gramineae, Bromeliaceae, and Zingiberaceae"
+    including: Cyperaceae, Gramineae, Bromeliaceae, and Zingiberaceae'
   hypernym:
   - 08120743-n
   ili: i98672
@@ -6962,9 +6962,9 @@
   partOfSpeech: n
 11713421-n:
   definition:
-  - "herbs, shrubs and trees: includes families Ranunculaceae, Annonaceae, Berberidaceae,
+  - 'herbs, shrubs and trees: includes families Ranunculaceae, Annonaceae, Berberidaceae,
     Magnoliaceae, Menispermaceae, Myristicaceae, Nymphaeaceae, Lardizabalaceae, Lauraceae,
-    Calycanthaceae, Ceratophyllaceae, Cercidiphyllaceae"
+    Calycanthaceae, Ceratophyllaceae, Cercidiphyllaceae'
   hypernym:
   - 11555128-n
   ili: i98796
@@ -7454,7 +7454,7 @@
   partOfSpeech: n
 11721145-n:
   definition:
-  - "a magnoliid dicot genus of the family Calycanthaceae including: allspice"
+  - 'a magnoliid dicot genus of the family Calycanthaceae including: allspice'
   hypernym:
   - 11592358-n
   ili: i98833
@@ -7503,8 +7503,8 @@
   partOfSpeech: n
 11721961-n:
   definition:
-  - "small genus of Asian deciduous or evergreen shrubs having fragrant flowers: winter
-    sweet"
+  - 'small genus of Asian deciduous or evergreen shrubs having fragrant flowers: winter
+    sweet'
   hypernym:
   - 11592358-n
   ili: i98837
@@ -7529,7 +7529,7 @@
   partOfSpeech: n
 11722372-n:
   definition:
-  - "coextensive with the genus Ceratophyllum: hornworts"
+  - 'coextensive with the genus Ceratophyllum: hornworts'
   hypernym:
   - 11584709-n
   ili: i98839
@@ -7541,7 +7541,7 @@
   partOfSpeech: n
 11722550-n:
   definition:
-  - "constituting the family Ceratophyllaceae: hornworts"
+  - 'constituting the family Ceratophyllaceae: hornworts'
   hypernym:
   - 11592358-n
   ili: i98840
@@ -7577,7 +7577,7 @@
   wikidata: Q969227
 11723035-n:
   definition:
-  - "one species: katsura tree"
+  - 'one species: katsura tree'
   hypernym:
   - 11592358-n
   ili: i98843
@@ -7921,7 +7921,7 @@
   wikidata: Q692162
 11728650-n:
   definition:
-  - "subclass Magnoliidae: genera Liriodendron, Magnolia, and Manglietia"
+  - 'subclass Magnoliidae: genera Liriodendron, Magnolia, and Manglietia'
   hypernym:
   - 11584709-n
   ili: i98870
@@ -7937,7 +7937,7 @@
   partOfSpeech: n
 11728911-n:
   definition:
-  - "anise trees: evergreen trees with aromatic leaves"
+  - 'anise trees: evergreen trees with aromatic leaves'
   hypernym:
   - 11592358-n
   ili: i98871
@@ -8286,8 +8286,8 @@
   wikidata: Q1878350
 11734851-n:
   definition:
-  - "East Indian tree widely cultivated in the tropics for its aromatic seed; source
-    of two spices: nutmeg and mace"
+  - 'East Indian tree widely cultivated in the tropics for its aromatic seed; source
+    of two spices: nutmeg and mace'
   hypernym:
   - 13131933-n
   ili: i98899
@@ -8366,8 +8366,8 @@
   wikidata: Q147030
 11736279-n:
   definition:
-  - "white Egyptian lotus: water lily of Egypt to southeastern Africa; held sacred
-    by the Egyptians"
+  - 'white Egyptian lotus: water lily of Egypt to southeastern Africa; held sacred
+    by the Egyptians'
   hypernym:
   - 11735322-n
   ili: i98905
@@ -8380,7 +8380,7 @@
   partOfSpeech: n
 11736510-n:
   definition:
-  - "blue Egyptian lotus: held sacred by the Egyptians"
+  - 'blue Egyptian lotus: held sacred by the Egyptians'
   hypernym:
   - 11735322-n
   ili: i98906
@@ -8462,7 +8462,7 @@
   wikidata: Q2630851
 11737708-n:
   definition:
-  - "sometimes placed in the family Nymphaeaceae: lotuses"
+  - 'sometimes placed in the family Nymphaeaceae: lotuses'
   hypernym:
   - 11592358-n
   ili: i98913
@@ -8580,7 +8580,7 @@
   partOfSpeech: n
 11739589-n:
   definition:
-  - "peonies: herbaceous or shrubby plants having showy flowers"
+  - 'peonies: herbaceous or shrubby plants having showy flowers'
   hypernym:
   - 11592358-n
   ili: i98922
@@ -8640,7 +8640,7 @@
   partOfSpeech: n
 11740557-n:
   definition:
-  - "annual, biennial or perennial herbs: buttercup; crowfoot"
+  - 'annual, biennial or perennial herbs: buttercup; crowfoot'
   hypernym:
   - 11592358-n
   ili: i98925
@@ -9040,7 +9040,7 @@
   partOfSpeech: n
 11747038-n:
   definition:
-  - "one species: rue anemone"
+  - 'one species: rue anemone'
   hypernym:
   - 11592358-n
   ili: i98959
@@ -9150,7 +9150,7 @@
   partOfSpeech: n
 11748819-n:
   definition:
-  - "small genus of perennial herbs of north temperate regions: bugbane"
+  - 'small genus of perennial herbs of north temperate regions: bugbane'
   hypernym:
   - 11592358-n
   ili: i98968
@@ -9610,7 +9610,7 @@
   partOfSpeech: n
 11756685-n:
   definition:
-  - "one species: giant buttercup"
+  - 'one species: giant buttercup'
   hypernym:
   - 11592358-n
   ili: i99007
@@ -9685,8 +9685,8 @@
   partOfSpeech: n
 11757785-n:
   definition:
-  - "includes a group of plants that in some classifications are included in the genus
-    Anemone: pasqueflowers"
+  - 'includes a group of plants that in some classifications are included in the genus
+    Anemone: pasqueflowers'
   hypernym:
   - 11592358-n
   ili: i99014
@@ -9749,7 +9749,7 @@
   partOfSpeech: n
 11758847-n:
   definition:
-  - "widely distributed genus of perennial herbs: meadow rue"
+  - 'widely distributed genus of perennial herbs: meadow rue'
   hypernym:
   - 11592358-n
   ili: i99019
@@ -9773,7 +9773,7 @@
   partOfSpeech: n
 11759301-n:
   definition:
-  - "small genus of perennial herbs: false bugbane"
+  - 'small genus of perennial herbs: false bugbane'
   hypernym:
   - 11592358-n
   ili: i99021
@@ -9796,7 +9796,7 @@
   partOfSpeech: n
 11759668-n:
   definition:
-  - "perennial herbs of north temperate regions: globeflowers"
+  - 'perennial herbs of north temperate regions: globeflowers'
   hypernym:
   - 11592358-n
   ili: i99023
@@ -9985,7 +9985,7 @@
   partOfSpeech: n
 11762644-n:
   definition:
-  - "one species: sweet fern"
+  - 'one species: sweet fern'
   hypernym:
   - 11587862-n
   ili: i99038
@@ -10023,7 +10023,7 @@
   partOfSpeech: n
 11763214-n:
   definition:
-  - "one species: corkwood"
+  - 'one species: corkwood'
   hypernym:
   - 11587862-n
   ili: i99041
@@ -10048,7 +10048,7 @@
   wikidata: Q1330656
 11763578-n:
   definition:
-  - "tufted herbs resembling grasses: rushes"
+  - 'tufted herbs resembling grasses: rushes'
   hypernym:
   - 11575864-n
   ili: i99043
@@ -10071,8 +10071,8 @@
   partOfSpeech: n
 11764039-n:
   definition:
-  - "type genus of the Juncaceae; perennial tufted glabrous marsh plants of temperate
-    regions: rushes"
+  - 'type genus of the Juncaceae; perennial tufted glabrous marsh plants of temperate
+    regions: rushes'
   hypernym:
   - 11577308-n
   ili: i99045
@@ -10379,7 +10379,7 @@
   partOfSpeech: n
 11770211-n:
   definition:
-  - "tropical American trees: tonka beans"
+  - 'tropical American trees: tonka beans'
   hypernym:
   - 11605791-n
   ili: i99070
@@ -10500,7 +10500,7 @@
   wikidata: Q161160
 11772067-n:
   definition:
-  - "a genus of Australian herbs and subshrubs: darling peas"
+  - 'a genus of Australian herbs and subshrubs: darling peas'
   hypernym:
   - 11605791-n
   ili: i99080
@@ -10729,8 +10729,8 @@
   partOfSpeech: n
 11776163-n:
   definition:
-  - "large genus of shrubs and trees and some woody vines of Central and South America,
-    Africa, Australia and Polynesia: wattle; mimosa"
+  - 'large genus of shrubs and trees and some woody vines of Central and South America,
+    Africa, Australia and Polynesia: wattle; mimosa'
   hypernym:
   - 11605791-n
   ili: i99098
@@ -11183,7 +11183,7 @@
   partOfSpeech: n
 11783942-n:
   definition:
-  - "genus of tropical Old World trees: nitta trees"
+  - 'genus of tropical Old World trees: nitta trees'
   hypernym:
   - 11605791-n
   ili: i99135
@@ -11270,7 +11270,7 @@
   partOfSpeech: n
 11785568-n:
   definition:
-  - "genus of tropical or subtropical branching shrubs or trees: mesquite"
+  - 'genus of tropical or subtropical branching shrubs or trees: mesquite'
   hypernym:
   - 11605791-n
   ili: i99142
@@ -11491,7 +11491,7 @@
   partOfSpeech: n
 11789471-n:
   definition:
-  - "one species: succulent shrub or tree of tropical Africa and Arabia"
+  - 'one species: succulent shrub or tree of tropical Africa and Arabia'
   hypernym:
   - 11587862-n
   ili: i99158
@@ -11773,7 +11773,7 @@
   partOfSpeech: n
 11794329-n:
   definition:
-  - "one species: oleander"
+  - 'one species: oleander'
   hypernym:
   - 11587862-n
   ili: i99180
@@ -11785,9 +11785,9 @@
   partOfSpeech: n
 11794456-n:
   definition:
-  - "an ornamental but poisonous flowering shrub having narrow evergreen leaves and
+  - 'an ornamental but poisonous flowering shrub having narrow evergreen leaves and
     clusters of fragrant white to pink or red flowers: native to East Indies but widely
-    cultivated in warm regions"
+    cultivated in warm regions'
   hypernym:
   - 13120915-n
   ili: i99181
@@ -11993,7 +11993,7 @@
   wikidata: Q1207043
 11798248-n:
   definition:
-  - "periwinkles: low creeping evergreen perennials"
+  - 'periwinkles: low creeping evergreen perennials'
   hypernym:
   - 11587862-n
   ili: i99198
@@ -12103,8 +12103,8 @@
   partOfSpeech: n
 11800270-n:
   definition:
-  - "type genus of the Araceae: tuberous perennial herbs of Europe and Asia with usually
-    heart-shaped leaves"
+  - 'type genus of the Araceae: tuberous perennial herbs of Europe and Asia with usually
+    heart-shaped leaves'
   hypernym:
   - 11577308-n
   ili: i99205
@@ -12210,8 +12210,8 @@
   partOfSpeech: n
 11801899-n:
   definition:
-  - "climbing herbs of southeastern Asia having thick fleshy oblong leaves and naked
-    unisexual flowers: Chinese evergreen"
+  - 'climbing herbs of southeastern Asia having thick fleshy oblong leaves and naked
+    unisexual flowers: Chinese evergreen'
   hypernym:
   - 11577308-n
   ili: i99214
@@ -12272,7 +12272,7 @@
   partOfSpeech: n
 11802991-n:
   definition:
-  - "genus of large tropical east Asian cormous aroids: devil＇s tongue; snake palm"
+  - 'genus of large tropical east Asian cormous aroids: devil＇s tongue; snake palm'
   hypernym:
   - 11577308-n
   ili: i99219
@@ -12425,8 +12425,8 @@
   partOfSpeech: n
 11805745-n:
   definition:
-  - "tuberous perennial having a cowl-shaped maroon or violet-black spathe: native
-    to the Mediterranean, Canaries and Azores"
+  - 'tuberous perennial having a cowl-shaped maroon or violet-black spathe: native
+    to the Mediterranean, Canaries and Azores'
   hypernym:
   - 11799769-n
   ili: i99231
@@ -12492,7 +12492,7 @@
   wikidata: Q175886
 11806834-n:
   definition:
-  - "small genus of perennial tuberous herbs of tropical Asia: taro"
+  - 'small genus of perennial tuberous herbs of tropical Asia: taro'
   hypernym:
   - 11577308-n
   ili: i99237
@@ -12604,7 +12604,7 @@
   partOfSpeech: n
 11808692-n:
   definition:
-  - "tuberous herbaceous perennials: dragon arum"
+  - 'tuberous herbaceous perennials: dragon arum'
   hypernym:
   - 11577308-n
   ili: i99246
@@ -12739,7 +12739,7 @@
   partOfSpeech: n
 11810708-n:
   definition:
-  - "one species of aquatic plant: golden club"
+  - 'one species of aquatic plant: golden club'
   hypernym:
   - 11577308-n
   ili: i99258
@@ -12815,7 +12815,7 @@
   partOfSpeech: n
 11811915-n:
   definition:
-  - "one species: water lettuce"
+  - 'one species: water lettuce'
   hypernym:
   - 11577308-n
   ili: i99265
@@ -12886,7 +12886,7 @@
   partOfSpeech: n
 11813067-n:
   definition:
-  - "one species: skunk cabbage"
+  - 'one species: skunk cabbage'
   hypernym:
   - 11577308-n
   ili: i99271
@@ -13139,7 +13139,7 @@
   partOfSpeech: n
 11817213-n:
   definition:
-  - "mostly tropical trees and shrubs and lianas: genera Panax and Hedera"
+  - 'mostly tropical trees and shrubs and lianas: genera Panax and Hedera'
   hypernym:
   - 11587133-n
   ili: i99292
@@ -13156,8 +13156,8 @@
   partOfSpeech: n
 11817485-n:
   definition:
-  - "type genus of Araliaceae; large widely distributed genus of shrubs and trees
-    and vines: spikenard; Hercules＇-club"
+  - 'type genus of Araliaceae; large widely distributed genus of shrubs and trees
+    and vines: spikenard; Hercules＇-club'
   hypernym:
   - 11605791-n
   ili: i99293
@@ -13282,7 +13282,7 @@
   partOfSpeech: n
 11819627-n:
   definition:
-  - "small to medium evergreen dioecious trees of oceanic climates: puka"
+  - 'small to medium evergreen dioecious trees of oceanic climates: puka'
   hypernym:
   - 11605791-n
   ili: i99303
@@ -13306,8 +13306,8 @@
   partOfSpeech: n
 11819989-n:
   definition:
-  - "perennial herbs of eastern North America and Asia having aromatic tuberous roots:
-    ginseng"
+  - 'perennial herbs of eastern North America and Asia having aromatic tuberous roots:
+    ginseng'
   hypernym:
   - 11605791-n
   ili: i99305
@@ -13550,10 +13550,10 @@
   partOfSpeech: n
 11823944-n:
   definition:
-  - "a group of families of mostly flowers having basal or central placentation and
+  - 'a group of families of mostly flowers having basal or central placentation and
     trinucleate pollen (binucleate pollen is commoner in flowering plants); contains
     14 families including: Caryophyllaceae (carnations and pinks), Aizoaceae, Amaranthaceae,
-    Batidaceae, Chenopodiaceae, Cactaceae (order Opuntiales), Nyctaginaceae, Phytolaccaceae"
+    Batidaceae, Chenopodiaceae, Cactaceae (order Opuntiales), Nyctaginaceae, Phytolaccaceae'
   hypernym:
   - 08120743-n
   ili: i99325
@@ -13997,7 +13997,7 @@
   partOfSpeech: n
 11831387-n:
   definition:
-  - "one species: coral necklace"
+  - 'one species: coral necklace'
   hypernym:
   - 11594111-n
   ili: i99361
@@ -14020,7 +14020,7 @@
   partOfSpeech: n
 11831777-n:
   definition:
-  - "genus of plants strongly resembling those of genus Silene: catchfly"
+  - 'genus of plants strongly resembling those of genus Silene: catchfly'
   hypernym:
   - 11594111-n
   ili: i99363
@@ -14080,8 +14080,8 @@
   partOfSpeech: n
 11832827-n:
   definition:
-  - "mostly perennial herbs of Northern Hemisphere often with mat-forming habit; most
-    often placed in genus Arenaria: sandworts"
+  - 'mostly perennial herbs of Northern Hemisphere often with mat-forming habit; most
+    often placed in genus Arenaria: sandworts'
   hypernym:
   - 11594111-n
   ili: i99368
@@ -14091,9 +14091,9 @@
   partOfSpeech: n
 11833042-n:
   definition:
-  - "low-growing herbs widely distributed in temperate and Arctic Northern Hemisphere:
+  - 'low-growing herbs widely distributed in temperate and Arctic Northern Hemisphere:
     sandworts; distinguished from members of the genus Arenaria mainly by having four-petaled
-    rather than five-petaled flowers"
+    rather than five-petaled flowers'
   hypernym:
   - 11594111-n
   ili: i99369
@@ -14213,7 +14213,7 @@
   partOfSpeech: n
 11835293-n:
   definition:
-  - "small genus of Old World weedy prostrate annuals: knawel"
+  - 'small genus of Old World weedy prostrate annuals: knawel'
   hypernym:
   - 11594111-n
   ili: i99379
@@ -14237,8 +14237,8 @@
   partOfSpeech: n
 11835663-n:
   definition:
-  - "large widely distributed genus of plants having mostly showy flowers of various
-    colors: campion; catchfly"
+  - 'large widely distributed genus of plants having mostly showy flowers of various
+    colors: campion; catchfly'
   hypernym:
   - 11594111-n
   ili: i99381
@@ -14338,7 +14338,7 @@
   partOfSpeech: n
 11837469-n:
   definition:
-  - "small genus of Old World annual herbs: corn spurry"
+  - 'small genus of Old World annual herbs: corn spurry'
   hypernym:
   - 11594111-n
   ili: i99389
@@ -14362,7 +14362,7 @@
   partOfSpeech: n
 11837798-n:
   definition:
-  - "chiefly maritime Eurasian herbs: sand spurry; sea spurry"
+  - 'chiefly maritime Eurasian herbs: sand spurry; sea spurry'
   hypernym:
   - 11594111-n
   ili: i99391
@@ -14460,8 +14460,8 @@
   partOfSpeech: n
 11839414-n:
   definition:
-  - "succulent herbs or small shrubs mostly of South Africa but also New Zealand and
-    North America: carpetweeds; fig marigolds"
+  - 'succulent herbs or small shrubs mostly of South Africa but also New Zealand and
+    North America: carpetweeds; fig marigolds'
   hypernym:
   - 11585491-n
   ili: i99399
@@ -14857,8 +14857,8 @@
   wikidata: Q1186867
 11846004-n:
   definition:
-  - "genus of erect or procumbent herbs of the Americas having spikes of woolly white
-    flowers: cottonweed"
+  - 'genus of erect or procumbent herbs of the Americas having spikes of woolly white
+    flowers: cottonweed'
   hypernym:
   - 11594111-n
   ili: i99430
@@ -14950,7 +14950,7 @@
   partOfSpeech: n
 11847638-n:
   definition:
-  - "family coextensive with genus Batis: saltworts"
+  - 'family coextensive with genus Batis: saltworts'
   hypernym:
   - 11585491-n
   ili: i99438
@@ -14963,8 +14963,8 @@
   partOfSpeech: n
 11847817-n:
   definition:
-  - "small genus of plants constituting the family Batidaceae: low straggling dioecious
-    shrubs"
+  - 'small genus of plants constituting the family Batidaceae: low straggling dioecious
+    shrubs'
   hypernym:
   - 11594111-n
   ili: i99439
@@ -15421,7 +15421,7 @@
   partOfSpeech: n
 11854990-n:
   definition:
-  - "chiefly Old World herbs or shrubs: saltworts"
+  - 'chiefly Old World herbs or shrubs: saltworts'
   hypernym:
   - 11594111-n
   ili: i99475
@@ -15462,7 +15462,7 @@
   partOfSpeech: n
 11855583-n:
   definition:
-  - "one species: greasewood"
+  - 'one species: greasewood'
   hypernym:
   - 11594111-n
   ili: i99478
@@ -15826,7 +15826,7 @@
   partOfSpeech: n
 11861837-n:
   definition:
-  - "coextensive with the family Cactaceae: cactuses"
+  - 'coextensive with the family Cactaceae: cactuses'
   hypernym:
   - 11555128-n
   ili: i99508
@@ -15966,7 +15966,7 @@
   wikidata: Q138341
 11864672-n:
   definition:
-  - "caryophylloid dicot genus with only one species: saguaro"
+  - 'caryophylloid dicot genus with only one species: saguaro'
   hypernym:
   - 11594111-n
   ili: i99517
@@ -16133,8 +16133,8 @@
   partOfSpeech: n
 11867439-n:
   definition:
-  - "genus of nearly globular cacti of Mexico and southwestern United States: barrel
-    cacti"
+  - 'genus of nearly globular cacti of Mexico and southwestern United States: barrel
+    cacti'
   hypernym:
   - 11594111-n
   ili: i99532
@@ -16147,9 +16147,9 @@
   wikidata: Q131727
 11867638-n:
   definition:
-  - "a cactus of the genus Ferocactus: unbranched barrel-shaped cactus having deep
+  - 'a cactus of the genus Ferocactus: unbranched barrel-shaped cactus having deep
     ribs with numerous spines and usually large funnel-shaped flowers followed by
-    dry fruits"
+    dry fruits'
   hypernym:
   - 11862673-n
   ili: i99533
@@ -16250,8 +16250,8 @@
   partOfSpeech: n
 11869486-n:
   definition:
-  - "two species of small cacti of northeastern Mexico and southwestern United States
-    having rounded stems covered with jointed tubercles: mescal"
+  - 'two species of small cacti of northeastern Mexico and southwestern United States
+    having rounded stems covered with jointed tubercles: mescal'
   hypernym:
   - 11594111-n
   ili: i99542
@@ -16404,7 +16404,7 @@
   partOfSpeech: n
 11871864-n:
   definition:
-  - "large genus of cactuses native to America: prickly pears"
+  - 'large genus of cactuses native to America: prickly pears'
   hypernym:
   - 11594111-n
   ili: i99555
@@ -16597,8 +16597,8 @@
   partOfSpeech: n
 11875229-n:
   definition:
-  - "chiefly tropical herbaceous plants (including shrubs and trees) with racemose
-    flowers: genera Phytolacca, Agdestis, Ercilla, Rivina, Trichostigma"
+  - 'chiefly tropical herbaceous plants (including shrubs and trees) with racemose
+    flowers: genera Phytolacca, Agdestis, Ercilla, Rivina, Trichostigma'
   hypernym:
   - 11585491-n
   ili: i99571
@@ -16616,7 +16616,7 @@
   wikidata: Q156981
 11875591-n:
   definition:
-  - "type genus of Phytolaccaceae: pokeweed"
+  - 'type genus of Phytolaccaceae: pokeweed'
   hypernym:
   - 11594111-n
   ili: i99572
@@ -17141,8 +17141,8 @@
   partOfSpeech: n
 11885071-n:
   definition:
-  - "a dilleniid dicot family of the order Rhoeadales that includes: genera Capparis,
-    Cleome, Crateva, and Polanisia"
+  - 'a dilleniid dicot family of the order Rhoeadales that includes: genera Capparis,
+    Cleome, Crateva, and Polanisia'
   hypernym:
   - 11585836-n
   ili: i99614
@@ -17495,7 +17495,7 @@
   partOfSpeech: n
 11891385-n:
   definition:
-  - "one species: rose of Jericho; resurrection plant"
+  - 'one species: rose of Jericho; resurrection plant'
   hypernym:
   - 11595876-n
   ili: i99639
@@ -17554,8 +17554,8 @@
   wikidata: Q3206119
 11892385-n:
   definition:
-  - "annual to perennial woody herbs of temperate North America, Europe and Asia:
-    rockcress"
+  - 'annual to perennial woody herbs of temperate North America, Europe and Asia:
+    rockcress'
   hypernym:
   - 11595876-n
   ili: i99644
@@ -17600,7 +17600,7 @@
   partOfSpeech: n
 11893127-n:
   definition:
-  - "or genus Arabis: erect cress widely distributed throughout Europe"
+  - 'or genus Arabis: erect cress widely distributed throughout Europe'
   hypernym:
   - 11889820-n
   ili: i99648
@@ -17654,7 +17654,7 @@
   wikidata: Q2964630
 11893865-n:
   definition:
-  - "biennial or perennial herbs of north temperate regions: winter cress"
+  - 'biennial or perennial herbs of north temperate regions: winter cress'
   hypernym:
   - 11595876-n
   ili: i99652
@@ -17669,8 +17669,8 @@
   partOfSpeech: n
 11894081-n:
   definition:
-  - "any plant of the genus Barbarea: yellow-flowered Eurasian cresses; widely cultivated
-    for winter salad"
+  - 'any plant of the genus Barbarea: yellow-flowered Eurasian cresses; widely cultivated
+    for winter salad'
   hypernym:
   - 11889820-n
   ili: i99653
@@ -17736,7 +17736,7 @@
   wikidata: Q159029
 11895176-n:
   definition:
-  - "genus of Eurasian herbs and small shrubs: buckler mustard"
+  - 'genus of Eurasian herbs and small shrubs: buckler mustard'
   hypernym:
   - 11595876-n
   ili: i99658
@@ -17759,7 +17759,7 @@
   partOfSpeech: n
 11895569-n:
   definition:
-  - "mustards: cabbages, cauliflowers, turnips, etc."
+  - 'mustards: cabbages, cauliflowers, turnips, etc.'
   hypernym:
   - 11595876-n
   ili: i99660
@@ -18599,7 +18599,7 @@
   partOfSpeech: n
 11909547-n:
   definition:
-  - "one species: tansy-leaved rocket"
+  - 'one species: tansy-leaved rocket'
   hypernym:
   - 11595876-n
   ili: i99728
@@ -18646,7 +18646,7 @@
   partOfSpeech: n
 11910316-n:
   definition:
-  - "Old World genus of annual to perennial herbs: woad"
+  - 'Old World genus of annual to perennial herbs: woad'
   hypernym:
   - 11595876-n
   ili: i99732
@@ -18679,7 +18679,7 @@
   wikidata: Q212547
 11910798-n:
   definition:
-  - "cosmopolitan genus of annual and biennial and perennial herbs: cress"
+  - 'cosmopolitan genus of annual and biennial and perennial herbs: cress'
   hypernym:
   - 11595876-n
   ili: i99735
@@ -18706,7 +18706,7 @@
   partOfSpeech: n
 11911192-n:
   definition:
-  - "genus of low-growing hairy herbs: bladderpods"
+  - 'genus of low-growing hairy herbs: bladderpods'
   hypernym:
   - 11595876-n
   ili: i99737
@@ -18753,7 +18753,7 @@
   wikidata: Q2094356
 11911864-n:
   definition:
-  - "small genus of European herbs: honesty"
+  - 'small genus of European herbs: honesty'
   hypernym:
   - 11595876-n
   ili: i99741
@@ -18876,7 +18876,7 @@
   partOfSpeech: n
 11913920-n:
   definition:
-  - "small genus of western North American herbs similar to Lesquerella: bladderpods"
+  - 'small genus of western North American herbs similar to Lesquerella: bladderpods'
   hypernym:
   - 11595876-n
   ili: i99751
@@ -19192,7 +19192,7 @@
   partOfSpeech: n
 11918943-n:
   definition:
-  - "herbs of temperate regions: pennycress"
+  - 'herbs of temperate regions: pennycress'
   hypernym:
   - 11595876-n
   ili: i99777
@@ -19267,7 +19267,7 @@
   partOfSpeech: n
 11920064-n:
   definition:
-  - "small genus of chiefly Mediterranean herbs: bladderpods"
+  - 'small genus of chiefly Mediterranean herbs: bladderpods'
   hypernym:
   - 11595876-n
   ili: i99783
@@ -19495,7 +19495,7 @@
   partOfSpeech: n
 11923994-n:
   definition:
-  - "one species: greater celandine"
+  - 'one species: greater celandine'
   hypernym:
   - 11595876-n
   ili: i99801
@@ -19579,7 +19579,7 @@
   partOfSpeech: n
 11925365-n:
   definition:
-  - "one species: bush poppy"
+  - 'one species: bush poppy'
   hypernym:
   - 11595876-n
   ili: i99808
@@ -19625,7 +19625,7 @@
   partOfSpeech: n
 11926053-n:
   definition:
-  - "herbs of Europe and North Africa and Asia: horned poppy"
+  - 'herbs of Europe and North Africa and Asia: horned poppy'
   hypernym:
   - 11595876-n
   ili: i99812
@@ -19651,7 +19651,7 @@
   partOfSpeech: n
 11926458-n:
   definition:
-  - "one species: golden cup"
+  - 'one species: golden cup'
   hypernym:
   - 11595876-n
   ili: i99814
@@ -19675,7 +19675,7 @@
   partOfSpeech: n
 11926828-n:
   definition:
-  - "a perennial herb of eastern Asia: plume poppy"
+  - 'a perennial herb of eastern Asia: plume poppy'
   hypernym:
   - 11595876-n
   ili: i99816
@@ -19734,7 +19734,7 @@
   partOfSpeech: n
 11927736-n:
   definition:
-  - "one species: creamcups"
+  - 'one species: creamcups'
   hypernym:
   - 11595876-n
   ili: i99821
@@ -19756,7 +19756,7 @@
   partOfSpeech: n
 11928023-n:
   definition:
-  - "one species: matilija poppy"
+  - 'one species: matilija poppy'
   hypernym:
   - 11595876-n
   ili: i99823
@@ -19781,7 +19781,7 @@
   partOfSpeech: n
 11928408-n:
   definition:
-  - "one species: bloodroot"
+  - 'one species: bloodroot'
   hypernym:
   - 11595876-n
   ili: i99825
@@ -19808,7 +19808,7 @@
   partOfSpeech: n
 11928900-n:
   definition:
-  - "one species: wind poppy"
+  - 'one species: wind poppy'
   hypernym:
   - 11595876-n
   ili: i99827
@@ -19855,8 +19855,8 @@
   wikidata: Q7629712
 11929517-n:
   definition:
-  - "erect or climbing herbs of the Northern Hemisphere and southern Africa: bleeding
-    heart, Dutchman＇s breeches, fumitory, squirrel corn"
+  - 'erect or climbing herbs of the Northern Hemisphere and southern Africa: bleeding
+    heart, Dutchman＇s breeches, fumitory, squirrel corn'
   hypernym:
   - 11585836-n
   ili: i99831
@@ -19897,7 +19897,7 @@
   wikidata: Q157496
 11930214-n:
   definition:
-  - "one species: climbing fumitory"
+  - 'one species: climbing fumitory'
   hypernym:
   - 11595876-n
   ili: i99834
@@ -19990,8 +19990,8 @@
   partOfSpeech: n
 11931743-n:
   definition:
-  - "an order of plants of the subclass Asteridae including: Campanulaceae, Lobeliaceae,
-    Cucurbitaceae, Goodeniaceae, Compositae"
+  - 'an order of plants of the subclass Asteridae including: Campanulaceae, Lobeliaceae,
+    Cucurbitaceae, Goodeniaceae, Compositae'
   hypernym:
   - 11555128-n
   ili: i99841
@@ -20008,8 +20008,8 @@
   wikidata: Q1071303
 11932060-n:
   definition:
-  - "plants with heads composed of many florets: aster, daisy, dandelion, goldenrod,
-    marigold, lettuces, ragweed, sunflower, thistle, zinnia"
+  - 'plants with heads composed of many florets: aster, daisy, dandelion, goldenrod,
+    marigold, lettuces, ragweed, sunflower, thistle, zinnia'
   hypernym:
   - 11586681-n
   ili: i99842
@@ -20232,8 +20232,8 @@
   partOfSpeech: n
 11936737-n:
   definition:
-  - "perennial often aromatic and sometimes mat-forming herbs of north temperate regions:
-    yarrow; milfoil"
+  - 'perennial often aromatic and sometimes mat-forming herbs of north temperate regions:
+    yarrow; milfoil'
   hypernym:
   - 11599869-n
   ili: i99846
@@ -20279,8 +20279,8 @@
   partOfSpeech: n
 11937655-n:
   definition:
-  - "genus of herbs and shrubs of Australia and South Africa: everlasting flower;
-    most species usually placed in genus Helipterum"
+  - 'genus of herbs and shrubs of Australia and South Africa: everlasting flower;
+    most species usually placed in genus Helipterum'
   hypernym:
   - 11599869-n
   ili: i99850
@@ -20514,7 +20514,7 @@
   partOfSpeech: n
 11941669-n:
   definition:
-  - "a genus of herbs of north temperate regions having hoary leaves: pearly everlasting"
+  - 'a genus of herbs of north temperate regions having hoary leaves: pearly everlasting'
   hypernym:
   - 11599869-n
   ili: i99870
@@ -20764,7 +20764,7 @@
   wikidata: Q26932
 11945609-n:
   definition:
-  - "herbs and subshrubs: African daisy"
+  - 'herbs and subshrubs: African daisy'
   hypernym:
   - 11599869-n
   ili: i99891
@@ -20931,8 +20931,8 @@
   partOfSpeech: n
 11948370-n:
   definition:
-  - "usually aromatic shrubs or herbs of north temperate regions and South Africa
-    and western South America: wormwood, sagebrush, mugwort, tarragon"
+  - 'usually aromatic shrubs or herbs of north temperate regions and South Africa
+    and western South America: wormwood, sagebrush, mugwort, tarragon'
   hypernym:
   - 11599869-n
   ili: i99905
@@ -21948,7 +21948,7 @@
   partOfSpeech: n
 11964293-n:
   definition:
-  - "one species: erect Asiatic herb with large flowers"
+  - 'one species: erect Asiatic herb with large flowers'
   hypernym:
   - 11599869-n
   ili: i99998
@@ -22112,7 +22112,7 @@
   partOfSpeech: n
 11967053-n:
   definition:
-  - "genus of Mediterranean herbs: cupid＇s dart"
+  - 'genus of Mediterranean herbs: cupid＇s dart'
   hypernym:
   - 11599869-n
   ili: i100012
@@ -22271,7 +22271,7 @@
   partOfSpeech: n
 11969686-n:
   definition:
-  - "small genus of plants sometimes included in genus Anthemis: chamomile"
+  - 'small genus of plants sometimes included in genus Anthemis: chamomile'
   hypernym:
   - 11599869-n
   ili: i100026
@@ -22318,9 +22318,9 @@
   wikidata: Q2708653
 11970497-n:
   definition:
-  - "in some classifications many plants usually assigned to the genus Chrysanthemum
+  - 'in some classifications many plants usually assigned to the genus Chrysanthemum
     have been divided among other genera: e.g. Argyranthemum, Dendranthema, Leucanthemum,
-    Tanacetum"
+    Tanacetum'
   hypernym:
   - 11599869-n
   ili: i100030
@@ -22522,7 +22522,7 @@
   partOfSpeech: n
 11974079-n:
   definition:
-  - "the dried root of the chicory plant: used as a coffee substitute"
+  - 'the dried root of the chicory plant: used as a coffee substitute'
   hypernym:
   - 13145876-n
   ili: i100047
@@ -22634,7 +22634,7 @@
   partOfSpeech: n
 11975867-n:
   definition:
-  - "one species: blessed thistle"
+  - 'one species: blessed thistle'
   hypernym:
   - 11599869-n
   ili: i100057
@@ -22935,7 +22935,7 @@
   partOfSpeech: n
 11981009-n:
   definition:
-  - "one species: German ivy"
+  - 'one species: German ivy'
   hypernym:
   - 11599869-n
   ili: i100082
@@ -23007,7 +23007,7 @@
   partOfSpeech: n
 11982155-n:
   definition:
-  - "genus of Eurasian perennial tuberous or rhizomatous herbs: leopard＇s bane"
+  - 'genus of Eurasian perennial tuberous or rhizomatous herbs: leopard＇s bane'
   hypernym:
   - 11599869-n
   ili: i100088
@@ -23053,7 +23053,7 @@
   partOfSpeech: n
 11982969-n:
   definition:
-  - "genus of Mediterranean and Eurasian herbs: globe thistles"
+  - 'genus of Mediterranean and Eurasian herbs: globe thistles'
   hypernym:
   - 11599869-n
   ili: i100092
@@ -23135,7 +23135,7 @@
   partOfSpeech: n
 11984224-n:
   definition:
-  - "genus of shrubs of southwestern United States and Mexico: brittlebush"
+  - 'genus of shrubs of southwestern United States and Mexico: brittlebush'
   hypernym:
   - 11599869-n
   ili: i100099
@@ -23187,7 +23187,7 @@
   partOfSpeech: n
 11985157-n:
   definition:
-  - "one species: North American herbs that resemble sunflowers"
+  - 'one species: North American herbs that resemble sunflowers'
   hypernym:
   - 11599869-n
   ili: i100103
@@ -23592,7 +23592,7 @@
   partOfSpeech: n
 11992069-n:
   definition:
-  - "genus of South African or Asiatic herbs: African daisies"
+  - 'genus of South African or Asiatic herbs: African daisies'
   hypernym:
   - 11599869-n
   ili: i100138
@@ -23796,7 +23796,7 @@
   partOfSpeech: n
 11995569-n:
   definition:
-  - "genus of Old World tropical herbs: velvet plants"
+  - 'genus of Old World tropical herbs: velvet plants'
   hypernym:
   - 11599869-n
   ili: i100155
@@ -23822,7 +23822,7 @@
   partOfSpeech: n
 11995951-n:
   definition:
-  - "genus of New Zealand mat-forming herbs or subshrubs: vegetable sheep"
+  - 'genus of New Zealand mat-forming herbs or subshrubs: vegetable sheep'
   hypernym:
   - 11599869-n
   ili: i100157
@@ -23917,7 +23917,7 @@
   wikidata: Q5687686
 11997594-n:
   definition:
-  - "genus of American herbs with flowers having yellow rays: sneezeweeds"
+  - 'genus of American herbs with flowers having yellow rays: sneezeweeds'
   hypernym:
   - 11599869-n
   ili: i100165
@@ -23972,8 +23972,8 @@
   partOfSpeech: n
 11998504-n:
   definition:
-  - "genus of tall erect or branched American annual or perennial herbs with showy
-    flowers: sunflowers"
+  - 'genus of tall erect or branched American annual or perennial herbs with showy
+    flowers: sunflowers'
   hypernym:
   - 11599869-n
   ili: i100170
@@ -24089,8 +24089,8 @@
   partOfSpeech: n
 12000557-n:
   definition:
-  - "large genus of mostly African and Australian herbs and shrubs: everlasting flowers;
-    in some classifications includes genus Ozothamnus"
+  - 'large genus of mostly African and Australian herbs and shrubs: everlasting flowers;
+    in some classifications includes genus Ozothamnus'
   hypernym:
   - 11599869-n
   ili: i100180
@@ -24335,7 +24335,7 @@
   partOfSpeech: n
 12004866-n:
   definition:
-  - "genus of Old World herbs or subshrubs: elecampane"
+  - 'genus of Old World herbs or subshrubs: elecampane'
   hypernym:
   - 11599869-n
   ili: i100200
@@ -24402,7 +24402,7 @@
   partOfSpeech: n
 12006055-n:
   definition:
-  - "small herbs closely related to chicory: dwarf dandelions"
+  - 'small herbs closely related to chicory: dwarf dandelions'
   hypernym:
   - 11599869-n
   ili: i100206
@@ -24434,7 +24434,7 @@
   partOfSpeech: n
 12006560-n:
   definition:
-  - "an herb with milky juice: lettuce; prickly lettuce"
+  - 'an herb with milky juice: lettuce; prickly lettuce'
   hypernym:
   - 11599869-n
   ili: i100209
@@ -24790,7 +24790,7 @@
   partOfSpeech: n
 12012462-n:
   definition:
-  - "genus of Old World herbs resembling groundsel: leopard plants"
+  - 'genus of Old World herbs resembling groundsel: leopard plants'
   hypernym:
   - 11599869-n
   ili: i100238
@@ -24812,7 +24812,7 @@
   partOfSpeech: n
 12012809-n:
   definition:
-  - "one species: Texas star"
+  - 'one species: Texas star'
   hypernym:
   - 11599869-n
   ili: i100240
@@ -24836,7 +24836,7 @@
   wikidata: Q2407569
 12013143-n:
   definition:
-  - "one species: yellow ageratum"
+  - 'one species: yellow ageratum'
   hypernym:
   - 11599869-n
   ili: i100242
@@ -24969,8 +24969,8 @@
   partOfSpeech: n
 12015296-n:
   definition:
-  - "chiefly Old World strong-smelling weedy herbs; comprises plants sometimes included
-    in other genera: e.g. Tanacetum, Tripleurospermum"
+  - 'chiefly Old World strong-smelling weedy herbs; comprises plants sometimes included
+    in other genera: e.g. Tanacetum, Tripleurospermum'
   hypernym:
   - 11599869-n
   ili: i100253
@@ -25383,7 +25383,7 @@
   partOfSpeech: n
 12022666-n:
   definition:
-  - "genus of rhizomatous herbs of north temperate regions: butterbur; sweet coltsfoot"
+  - 'genus of rhizomatous herbs of north temperate regions: butterbur; sweet coltsfoot'
   hypernym:
   - 11599869-n
   ili: i100286
@@ -25432,8 +25432,8 @@
   partOfSpeech: n
 12023426-n:
   definition:
-  - "genus of weedy Old World yellow-flowered herbs usually containing a bitter-tasting
-    substance: bitterweed"
+  - 'genus of weedy Old World yellow-flowered herbs usually containing a bitter-tasting
+    substance: bitterweed'
   hypernym:
   - 11599869-n
   ili: i100290
@@ -25577,7 +25577,7 @@
   partOfSpeech: n
 12025969-n:
   definition:
-  - "genus of temperate Old World herbs: fleabane"
+  - 'genus of temperate Old World herbs: fleabane'
   hypernym:
   - 11599869-n
   ili: i100302
@@ -25807,7 +25807,7 @@
   partOfSpeech: n
 12030085-n:
   definition:
-  - "small genus of tropical American annual herbs: creeping zinnia"
+  - 'small genus of tropical American annual herbs: creeping zinnia'
   hypernym:
   - 11599869-n
   ili: i100321
@@ -26014,7 +26014,7 @@
   partOfSpeech: n
 12033792-n:
   definition:
-  - "small genus of herbs of the eastern United States: white-topped asters"
+  - 'small genus of herbs of the eastern United States: white-topped asters'
   hypernym:
   - 11599869-n
   ili: i100338
@@ -26442,7 +26442,7 @@
   partOfSpeech: n
 12040517-n:
   definition:
-  - "one species: stokes＇ aster"
+  - 'one species: stokes＇ aster'
   hypernym:
   - 11599869-n
   ili: i100376
@@ -26753,7 +26753,7 @@
   partOfSpeech: n
 12046318-n:
   definition:
-  - "genus of robust herbs of Mexico and Central America: Mexican sunflower"
+  - 'genus of robust herbs of Mexico and Central America: Mexican sunflower'
   hypernym:
   - 11599869-n
   ili: i100400
@@ -26776,7 +26776,7 @@
   partOfSpeech: n
 12046775-n:
   definition:
-  - "genus of western American low tufted herbs: Easter daisy"
+  - 'genus of western American low tufted herbs: Easter daisy'
   hypernym:
   - 11599869-n
   ili: i100402
@@ -26942,9 +26942,9 @@
   partOfSpeech: n
 12049795-n:
   definition:
-  - "genus of low creeping yellow-flowered perennial herbs of north temperate regions:
+  - 'genus of low creeping yellow-flowered perennial herbs of north temperate regions:
     coltsfoots; in some classifications includes species often placed in other genera
-    especially Homogyne and Petasites"
+    especially Homogyne and Petasites'
   hypernym:
   - 11599869-n
   ili: i100415
@@ -27360,7 +27360,7 @@
   partOfSpeech: n
 12057250-n:
   definition:
-  - "large genus of herbs grown for their blossoms: bellflowers"
+  - 'large genus of herbs grown for their blossoms: bellflowers'
   hypernym:
   - 11765328-n
   ili: i100450
@@ -27522,7 +27522,7 @@
   wikidata: Q159198
 12059993-n:
   definition:
-  - "order of plants with irregular flowers having minute seeds: Orchidaceae; Burmanniaceae"
+  - 'order of plants with irregular flowers having minute seeds: Orchidaceae; Burmanniaceae'
   hypernym:
   - 11555128-n
   ili: i100464
@@ -27901,9 +27901,9 @@
   wikidata: Q94815
 12068055-n:
   definition:
-  - "genus of tropical American epiphytic orchids having striking axillary racemes
+  - 'genus of tropical American epiphytic orchids having striking axillary racemes
     of yellow to green spiderlike flowers with long slender sepals and warty lips:
-    spider orchids"
+    spider orchids'
   hypernym:
   - 11577308-n
   ili: i100490
@@ -28155,7 +28155,7 @@
   wikidata: Q8346868
 12072522-n:
   definition:
-  - "terrestrial orchids of cooler parts of North America and Europe: satyr orchid"
+  - 'terrestrial orchids of cooler parts of North America and Europe: satyr orchid'
   hypernym:
   - 11577308-n
   ili: i100512
@@ -28200,10 +28200,10 @@
   partOfSpeech: n
 12073256-n:
   definition:
-  - "any of various orchids of the genus Coelogyne with: clusters of fragrant lacy
+  - 'any of various orchids of the genus Coelogyne with: clusters of fragrant lacy
     snow-white flowers; salmon-pink solitary flowers; chainlike racemes of topaz and
     chocolate brown flowers; spikes of delicate white spice-scented flowers; emerald
-    green flowers marked with blue-black"
+    green flowers marked with blue-black'
   hypernym:
   - 12061915-n
   ili: i100516
@@ -28345,8 +28345,8 @@
   partOfSpeech: n
 12076308-n:
   definition:
-  - "genus of chiefly American perennial leafy-stemmed orchids: lady＇s slippers;
-    sometimes includes species of genus Paphiopedilum"
+  - 'genus of chiefly American perennial leafy-stemmed orchids: lady＇s slippers; sometimes
+    includes species of genus Paphiopedilum'
   hypernym:
   - 11577308-n
   ili: i100528
@@ -28561,9 +28561,9 @@
   partOfSpeech: n
 12080352-n:
   definition:
-  - "comprises tropical American species usually placed in genus Masdevallia: diminutive
+  - 'comprises tropical American species usually placed in genus Masdevallia: diminutive
     plants having bizarre and often sinister-looking flowers with pendulous scapes
-    and motile lips"
+    and motile lips'
   hypernym:
   - 11577308-n
   ili: i100546
@@ -28573,9 +28573,9 @@
   partOfSpeech: n
 12080619-n:
   definition:
-  - "comprises tropical American species usually placed in genus Masdevallia: very
+  - 'comprises tropical American species usually placed in genus Masdevallia: very
     dwarf plants having short tufted and usually unifoliate stems with usually solitary
-    flowers"
+    flowers'
   hypernym:
   - 11577308-n
   ili: i100547
@@ -29337,8 +29337,8 @@
   partOfSpeech: n
 12094909-n:
   definition:
-  - "any orchid of the genus Oncidium: characterized by slender branching sprays of
-    small yellow and brown flowers; often grown as houseplants"
+  - 'any orchid of the genus Oncidium: characterized by slender branching sprays of
+    small yellow and brown flowers; often grown as houseplants'
   hypernym:
   - 12061915-n
   ili: i100612
@@ -29513,8 +29513,8 @@
   partOfSpeech: n
 12098006-n:
   definition:
-  - "genus of tropical American orchid species often included in genus Cypripedium
-    or Paphiopedilum and Selenipedium: lady slippers"
+  - 'genus of tropical American orchid species often included in genus Cypripedium
+    or Paphiopedilum and Selenipedium: lady slippers'
   hypernym:
   - 11577308-n
   ili: i100627
@@ -29638,8 +29638,8 @@
   partOfSpeech: n
 12100238-n:
   definition:
-  - "small but widely distributed genus of orchids closely related to genus Cleistes;:
-    of damp or boggy areas of north temperate zone"
+  - 'small but widely distributed genus of orchids closely related to genus Cleistes;:
+    of damp or boggy areas of north temperate zone'
   hypernym:
   - 11577308-n
   ili: i100638
@@ -29650,9 +29650,9 @@
   partOfSpeech: n
 12100464-n:
   definition:
-  - "any hardy bog orchid of the genus Pogonia: terrestrial orchids having slender
+  - 'any hardy bog orchid of the genus Pogonia: terrestrial orchids having slender
     rootstocks and erect stems bearing one or a few leaves and a solitary terminal
-    flower"
+    flower'
   hypernym:
   - 12061915-n
   ili: i100639
@@ -29673,7 +29673,7 @@
   partOfSpeech: n
 12100896-n:
   definition:
-  - "any orchid of the genus Psychopsis: spectacular large tiger-striped orchids"
+  - 'any orchid of the genus Psychopsis: spectacular large tiger-striped orchids'
   hypernym:
   - 12061915-n
   ili: i100641
@@ -29779,8 +29779,8 @@
   wikidata: Q7423573
 12102858-n:
   definition:
-  - "comprises some tropical American species usually placed in genus Masdevallia:
-    diminutive plants with small flowers carried on one scape"
+  - 'comprises some tropical American species usually placed in genus Masdevallia:
+    diminutive plants with small flowers carried on one scape'
   hypernym:
   - 11577308-n
   ili: i100650
@@ -30533,8 +30533,8 @@
   partOfSpeech: n
 12115303-n:
   definition:
-  - "loosestrife: a cosmopolitan genus found in damp or swampy terrain having usually
-    yellow flowers; inclined to be invasive"
+  - 'loosestrife: a cosmopolitan genus found in damp or swampy terrain having usually
+    yellow flowers; inclined to be invasive'
   hypernym:
   - 11587862-n
   ili: i100714
@@ -30629,7 +30629,7 @@
   partOfSpeech: n
 12116740-n:
   definition:
-  - "genus of herbs usually growing in salt marshes: water pimpernels"
+  - 'genus of herbs usually growing in salt marshes: water pimpernels'
   hypernym:
   - 11587862-n
   ili: i100723
@@ -30760,7 +30760,7 @@
   partOfSpeech: n
 12118744-n:
   definition:
-  - "shrubs and herbs and woody vines of warm regions: leadwort"
+  - 'shrubs and herbs and woody vines of warm regions: leadwort'
   hypernym:
   - 11587862-n
   ili: i100734
@@ -30912,8 +30912,8 @@
   partOfSpeech: n
 12121055-n:
   definition:
-  - "the grasses: chiefly herbaceous but some woody plants including cereals, bamboo,
-    reeds, sugar cane"
+  - 'the grasses: chiefly herbaceous but some woody plants including cereals, bamboo,
+    reeds, sugar cane'
   hypernym:
   - 11575864-n
   ili: i100747
@@ -30995,8 +30995,8 @@
   partOfSpeech: n
 12122650-n:
   definition:
-  - "narrow-leaved green herbage: grown as lawns; used as pasture for grazing animals;
-    cut and dried as hay"
+  - 'narrow-leaved green herbage: grown as lawns; used as pasture for grazing animals;
+    cut and dried as hay'
   hypernym:
   - 12122387-n
   ili: i100749
@@ -31108,7 +31108,7 @@
   partOfSpeech: n
 12125460-n:
   definition:
-  - "perennial grasses of temperate and cool regions: wheatgrass; dog grass"
+  - 'perennial grasses of temperate and cool regions: wheatgrass; dog grass'
   hypernym:
   - 11577308-n
   ili: i100760
@@ -31205,8 +31205,8 @@
   partOfSpeech: n
 12127057-n:
   definition:
-  - "annual or perennial grasses cosmopolitan in Northern Hemisphere: bent grass (so
-    named from “bent” meaning an area of unfenced grassland)"
+  - 'annual or perennial grasses cosmopolitan in Northern Hemisphere: bent grass (so
+    named from “bent” meaning an area of unfenced grassland)'
   hypernym:
   - 11765328-n
   ili: i100768
@@ -31360,7 +31360,7 @@
   partOfSpeech: n
 12129706-n:
   definition:
-  - "any of several coarse tall perennial grasses of most warm areas: reeds"
+  - 'any of several coarse tall perennial grasses of most warm areas: reeds'
   hypernym:
   - 11577308-n
   ili: i100781
@@ -31408,8 +31408,8 @@
   partOfSpeech: n
 12130344-n:
   definition:
-  - "annual grass of Europe and North Africa; grains used as food and fodder (referred
-    to primarily in the plural: “oats”)"
+  - 'annual grass of Europe and North Africa; grains used as food and fodder (referred
+    to primarily in the plural: “oats”)'
   hypernym:
   - 12162012-n
   ili: i100785
@@ -31708,8 +31708,8 @@
   partOfSpeech: n
 12134743-n:
   definition:
-  - "tufted or perennial or annual grasses having runners: finger grass; windmill
-    grass"
+  - 'tufted or perennial or annual grasses having runners: finger grass; windmill
+    grass'
   hypernym:
   - 11577308-n
   ili: i100811
@@ -31754,8 +31754,8 @@
   wikidata: Q5102964
 12135498-n:
   definition:
-  - "tall ornamental grasses of South America and New Zealand and New Guinea: pampas
-    grass"
+  - 'tall ornamental grasses of South America and New Zealand and New Guinea: pampas
+    grass'
   hypernym:
   - 11577308-n
   ili: i100815
@@ -32281,8 +32281,8 @@
   wikidata: Q158965
 12143567-n:
   definition:
-  - "annual to perennial grasses of temperate Northern Hemisphere and South America:
-    barley"
+  - 'annual to perennial grasses of temperate Northern Hemisphere and South America:
+    barley'
   hypernym:
   - 11577308-n
   ili: i100859
@@ -32883,7 +32883,7 @@
   wikidata: Q158894
 12152816-n:
   definition:
-  - "tall perennial reedlike grass originally of southeastern Asia: sugarcane"
+  - 'tall perennial reedlike grass originally of southeastern Asia: sugarcane'
   hypernym:
   - 11577308-n
   ili: i100908
@@ -32980,7 +32980,7 @@
   partOfSpeech: n
 12154387-n:
   definition:
-  - "cereal grass widely cultivated for its grain: rye"
+  - 'cereal grass widely cultivated for its grain: rye'
   hypernym:
   - 11577308-n
   ili: i100916
@@ -33008,7 +33008,7 @@
   wikidata: Q12099
 12154817-n:
   definition:
-  - "annual or perennial grasses of warm regions: bristlegrasses"
+  - 'annual or perennial grasses of warm regions: bristlegrasses'
   hypernym:
   - 11577308-n
   ili: i100918
@@ -33152,7 +33152,7 @@
   partOfSpeech: n
 12157461-n:
   definition:
-  - "annual or perennial tropical and subtropical cereal grasses: sorghum"
+  - 'annual or perennial tropical and subtropical cereal grasses: sorghum'
   hypernym:
   - 11577308-n
   ili: i100931
@@ -33443,8 +33443,8 @@
   partOfSpeech: n
 12162012-n:
   definition:
-  - "grass whose starchy grains are used as food: wheat, rice, rye, oats, maize, buckwheat,
-    millet"
+  - 'grass whose starchy grains are used as food: wheat, rice, rye, oats, maize, buckwheat,
+    millet'
   hypernym:
   - 12122650-n
   ili: i100956
@@ -33573,9 +33573,9 @@
   partOfSpeech: n
 12164193-n:
   definition:
-  - "tall annual cereal grass bearing kernels on large ears: widely cultivated in
+  - 'tall annual cereal grass bearing kernels on large ears: widely cultivated in
     America in many varieties; the principal cereal in Mexico and Central and South
-    America since pre-Columbian times"
+    America since pre-Columbian times'
   hypernym:
   - 12162012-n
   ili: i100967
@@ -34078,8 +34078,8 @@
   wikidata: Q1391422
 12172331-n:
   definition:
-  - "large genus of plants found in damp woodlands and bogs and ditches or at water
-    margins: sedges"
+  - 'large genus of plants found in damp woodlands and bogs and ditches or at water
+    margins: sedges'
   hypernym:
   - 11577308-n
   ili: i101007
@@ -34411,8 +34411,8 @@
   partOfSpeech: n
 12177336-n:
   definition:
-  - "dry seed-like fruit produced by the cereal grasses: e.g. wheat, barley, Indian
-    corn"
+  - 'dry seed-like fruit produced by the cereal grasses: e.g. wheat, barley, Indian
+    corn'
   hypernym:
   - 13156591-n
   ili: i101035
@@ -34761,7 +34761,7 @@
   partOfSpeech: n
 12183422-n:
   definition:
-  - "climbing perennial herbs: bryony"
+  - 'climbing perennial herbs: bryony'
   hypernym:
   - 11587862-n
   ili: i101062
@@ -34819,8 +34819,8 @@
   partOfSpeech: n
 12184341-n:
   definition:
-  - "any of various fruit of cucurbitaceous vines including: muskmelons, watermelons,
-    cantaloupes, cucumbers"
+  - 'any of various fruit of cucurbitaceous vines including: muskmelons, watermelons,
+    cantaloupes, cucumbers'
   hypernym:
   - 12178286-n
   ili: i101067
@@ -35203,7 +35203,7 @@
   wikidata: Q21908
 12190293-n:
   definition:
-  - "herbs and shrubs and some trees: mallows, cotton, okra"
+  - 'herbs and shrubs and some trees: mallows, cotton, okra'
   hypernym:
   - 11585836-n
   ili: i101097
@@ -35240,7 +35240,7 @@
   partOfSpeech: n
 12190932-n:
   definition:
-  - "herbs and subshrubs: mallows"
+  - 'herbs and subshrubs: mallows'
   hypernym:
   - 11595876-n
   ili: i101098
@@ -35355,7 +35355,7 @@
   partOfSpeech: n
 12193232-n:
   definition:
-  - "herbs or shrubs or small trees: flowering maple; Indian mallow"
+  - 'herbs or shrubs or small trees: flowering maple; Indian mallow'
   hypernym:
   - 11595876-n
   ili: i101107
@@ -35395,8 +35395,8 @@
   wikidata: Q606369
 12193924-n:
   definition:
-  - "genus of erect herbs of the Middle East having showy flowers: hollyhocks; in
-    some classification systems synonymous with genus Althaea"
+  - 'genus of erect herbs of the Middle East having showy flowers: hollyhocks; in
+    some classification systems synonymous with genus Althaea'
   hypernym:
   - 11595876-n
   ili: i101110
@@ -35522,7 +35522,7 @@
   partOfSpeech: n
 12196314-n:
   definition:
-  - "herbs and shrubs and small trees: cotton"
+  - 'herbs and shrubs and small trees: cotton'
   hypernym:
   - 11595876-n
   ili: i101121
@@ -35802,7 +35802,7 @@
   partOfSpeech: n
 12201231-n:
   definition:
-  - "small genus of shrubs and small trees of New Zealand: lacebarks"
+  - 'small genus of shrubs and small trees of New Zealand: lacebarks'
   hypernym:
   - 11595876-n
   ili: i101143
@@ -35923,7 +35923,7 @@
   partOfSpeech: n
 12203375-n:
   definition:
-  - "genus of shrubs or small trees: chaparral mallow"
+  - 'genus of shrubs or small trees: chaparral mallow'
   hypernym:
   - 11595876-n
   ili: i101153
@@ -35992,7 +35992,7 @@
   partOfSpeech: n
 12204433-n:
   definition:
-  - "small genus of shrubs of Central and South America: wax mallows"
+  - 'small genus of shrubs of Central and South America: wax mallows'
   hypernym:
   - 11595876-n
   ili: i101159
@@ -36017,7 +36017,7 @@
   partOfSpeech: n
 12204854-n:
   definition:
-  - "one species: glade mallow"
+  - 'one species: glade mallow'
   hypernym:
   - 11595876-n
   ili: i101161
@@ -36098,7 +36098,7 @@
   partOfSpeech: n
 12206204-n:
   definition:
-  - "very small genus of shrubs of Southern Hemisphere: bush hibiscus"
+  - 'very small genus of shrubs of Southern Hemisphere: bush hibiscus'
   hypernym:
   - 11595876-n
   ili: i101168
@@ -36197,8 +36197,8 @@
   partOfSpeech: n
 12207967-n:
   definition:
-  - "large genus of chiefly tropical herbs with showy flowers and mostly globose fruits:
-    globe mallows"
+  - 'large genus of chiefly tropical herbs with showy flowers and mostly globose fruits:
+    globe mallows'
   hypernym:
   - 11595876-n
   ili: i101176
@@ -36419,7 +36419,7 @@
   wikidata: Q1135236
 12211592-n:
   definition:
-  - "one species: medium-sized evergreen tree of Puerto Rico or Mexico"
+  - 'one species: medium-sized evergreen tree of Puerto Rico or Mexico'
   hypernym:
   - 11595876-n
   ili: i101193
@@ -36440,7 +36440,7 @@
   partOfSpeech: n
 12211978-n:
   definition:
-  - "one species: balsa"
+  - 'one species: balsa'
   hypernym:
   - 11595876-n
   ili: i101195
@@ -36593,7 +36593,7 @@
   wikidata: Q151178
 12214481-n:
   definition:
-  - "one species: Jamaican cherry; sometimes placed in family Flacourtiaceae"
+  - 'one species: Jamaican cherry; sometimes placed in family Flacourtiaceae'
   hypernym:
   - 11595876-n
   ili: i101207
@@ -36670,8 +36670,8 @@
   partOfSpeech: n
 12215703-n:
   definition:
-  - "type genus of the Sterculiaceae: deciduous or evergreen trees of Old and New
-    World tropics and subtropics"
+  - 'type genus of the Sterculiaceae: deciduous or evergreen trees of Old and New
+    World tropics and subtropics'
   hypernym:
   - 11595876-n
   ili: i101212
@@ -37139,8 +37139,8 @@
   wikidata: Q1929656
 12223229-n:
   definition:
-  - "deciduous trees with smooth usually silver-grey bark of North America and Europe
-    and Asia: lime trees, lindens, basswood"
+  - 'deciduous trees with smooth usually silver-grey bark of North America and Europe
+    and Asia: lime trees, lindens, basswood'
   hypernym:
   - 11595876-n
   ili: i101250
@@ -37526,7 +37526,7 @@
   partOfSpeech: n
 12236545-n:
   definition:
-  - "Australian shrubs (some trees) with flowers in dense spikes: smoke bush"
+  - 'Australian shrubs (some trees) with flowers in dense spikes: smoke bush'
   hypernym:
   - 11587862-n
   ili: i101280
@@ -37573,7 +37573,7 @@
   wikidata: Q2710065
 12237353-n:
   definition:
-  - "one species: Chilean nut"
+  - 'one species: Chilean nut'
   hypernym:
   - 11587862-n
   ili: i101284
@@ -38032,8 +38032,8 @@
   partOfSpeech: n
 12244826-n:
   definition:
-  - "order of chiefly Australian trees and shrubs comprising the casuarinas; 1 family:
-    Casuarinaceae"
+  - 'order of chiefly Australian trees and shrubs comprising the casuarinas; 1 family:
+    Casuarinaceae'
   hypernym:
   - 11555128-n
   ili: i101322
@@ -38045,7 +38045,7 @@
   partOfSpeech: n
 12245039-n:
   definition:
-  - "one genus: genus Casuarina"
+  - 'one genus: genus Casuarina'
   hypernym:
   - 11583198-n
   ili: i101323
@@ -38190,8 +38190,8 @@
   partOfSpeech: n
 12247737-n:
   definition:
-  - "large genus of low much-branched woody evergreens ranging from prostrate subshrubs
-    to trees: true heaths"
+  - 'large genus of low much-branched woody evergreens ranging from prostrate subshrubs
+    to trees: true heaths'
   hypernym:
   - 11595876-n
   ili: i101333
@@ -38367,8 +38367,8 @@
   partOfSpeech: n
 12250663-n:
   definition:
-  - "large evergreen shrubs and trees of southern Europe and western North America:
-    strawberry tree; madrona"
+  - 'large evergreen shrubs and trees of southern Europe and western North America:
+    strawberry tree; madrona'
   hypernym:
   - 11595876-n
   ili: i101348
@@ -38510,7 +38510,7 @@
   partOfSpeech: n
 12253200-n:
   definition:
-  - "a genus containing only one species: spike heath"
+  - 'a genus containing only one species: spike heath'
   hypernym:
   - 11595876-n
   ili: i101360
@@ -38603,7 +38603,7 @@
   partOfSpeech: n
 12254693-n:
   definition:
-  - "one species: leatherleaf"
+  - 'one species: leatherleaf'
   hypernym:
   - 11595876-n
   ili: i101368
@@ -38651,7 +38651,7 @@
   partOfSpeech: n
 12255430-n:
   definition:
-  - "small creeping evergreen shrubs: trailing arbutus"
+  - 'small creeping evergreen shrubs: trailing arbutus'
   hypernym:
   - 11595876-n
   ili: i101372
@@ -38738,7 +38738,7 @@
   wikidata: Q941600
 12256880-n:
   definition:
-  - "deciduous or evergreen shrubs of North America: black huckleberries"
+  - 'deciduous or evergreen shrubs of North America: black huckleberries'
   hypernym:
   - 11595876-n
   ili: i101378
@@ -38796,7 +38796,7 @@
   partOfSpeech: n
 12257867-n:
   definition:
-  - "erect evergreen shrubs: mountain laurel"
+  - 'erect evergreen shrubs: mountain laurel'
   hypernym:
   - 11595876-n
   ili: i101383
@@ -38904,7 +38904,7 @@
   partOfSpeech: n
 12259617-n:
   definition:
-  - "one species: sand myrtle"
+  - 'one species: sand myrtle'
   hypernym:
   - 11595876-n
   ili: i101392
@@ -38975,7 +38975,7 @@
   partOfSpeech: n
 12260852-n:
   definition:
-  - "one species: alpine azalea"
+  - 'one species: alpine azalea'
   hypernym:
   - 11595876-n
   ili: i101398
@@ -39209,8 +39209,8 @@
   partOfSpeech: n
 12264670-n:
   definition:
-  - "any shrub of the genus Rhododendron: evergreen shrubs or small shrubby trees
-    having leathery leaves and showy clusters of campanulate (bell-shaped) flowers"
+  - 'any shrub of the genus Rhododendron: evergreen shrubs or small shrubby trees
+    having leathery leaves and showy clusters of campanulate (bell-shaped) flowers'
   hypernym:
   - 13133423-n
   ili: i101416
@@ -39277,8 +39277,8 @@
   partOfSpeech: n
 12265989-n:
   definition:
-  - "evergreen or deciduous berry-bearing shrubs of Northern Hemisphere: cranberries;
-    blueberries"
+  - 'evergreen or deciduous berry-bearing shrubs of Northern Hemisphere: cranberries;
+    blueberries'
   hypernym:
   - 11595876-n
   ili: i101422
@@ -39540,8 +39540,8 @@
   partOfSpeech: n
 12270510-n:
   definition:
-  - "type and sole genus of the Clethraceae; deciduous shrubs or small trees: white
-    alder, summer-sweet"
+  - 'type and sole genus of the Clethraceae; deciduous shrubs or small trees: white
+    alder, summer-sweet'
   hypernym:
   - 11587862-n
   ili: i101443
@@ -39584,7 +39584,7 @@
   wikidata: Q131417
 12271225-n:
   definition:
-  - "used in some classifications: coextensive with family Diapensiaceae"
+  - 'used in some classifications: coextensive with family Diapensiaceae'
   hypernym:
   - 11555128-n
   ili: i101446
@@ -39643,7 +39643,7 @@
   wikidata: Q166773
 12272094-n:
   definition:
-  - "one species: pyxie; the eastern United States"
+  - 'one species: pyxie; the eastern United States'
   hypernym:
   - 11595876-n
   ili: i101451
@@ -39669,7 +39669,7 @@
   wikidata: Q717847
 12272514-n:
   definition:
-  - "evergreen perennial herbs of North America and eastern Asia: oconee bells"
+  - 'evergreen perennial herbs of North America and eastern Asia: oconee bells'
   hypernym:
   - 11595876-n
   ili: i101453
@@ -39727,7 +39727,7 @@
   partOfSpeech: n
 12273600-n:
   definition:
-  - "type genus of the Epacridaceae: Australian heath"
+  - 'type genus of the Epacridaceae: Australian heath'
   hypernym:
   - 11595876-n
   ili: i101458
@@ -39882,7 +39882,7 @@
   partOfSpeech: n
 12276176-n:
   definition:
-  - "evergreen herbs of temperate regions: genera Pyrola, Chimaphila, Moneses, Orthilia"
+  - 'evergreen herbs of temperate regions: genera Pyrola, Chimaphila, Moneses, Orthilia'
   hypernym:
   - 11585836-n
   ili: i101471
@@ -39898,7 +39898,7 @@
   partOfSpeech: n
 12276451-n:
   definition:
-  - "short-stemmed perennial herbs of cool or temperate regions: wintergreen; shinleaf"
+  - 'short-stemmed perennial herbs of cool or temperate regions: wintergreen; shinleaf'
   hypernym:
   - 11595876-n
   ili: i101472
@@ -40010,7 +40010,7 @@
   partOfSpeech: n
 12278437-n:
   definition:
-  - "one species: one-flowered wintergreen; sometimes included in genus Pyrola"
+  - 'one species: one-flowered wintergreen; sometimes included in genus Pyrola'
   hypernym:
   - 11595876-n
   ili: i101482
@@ -40036,8 +40036,8 @@
   wikidata: Q158049
 12278897-n:
   definition:
-  - "used in some classification for saprophytic herbs sometimes included in the family
-    Pyrolaceae: genera Monotropa and Sarcodes"
+  - 'used in some classification for saprophytic herbs sometimes included in the family
+    Pyrolaceae: genera Monotropa and Sarcodes'
   hypernym:
   - 11585836-n
   ili: i101484
@@ -40138,8 +40138,8 @@
   partOfSpeech: n
 12280725-n:
   definition:
-  - "chiefly monoecious trees and shrubs: beeches, chestnuts, oaks; genera Castanea,
-    Castanopsis, Chrysolepis, Fagus, Lithocarpus, Nothofagus, Quercus"
+  - 'chiefly monoecious trees and shrubs: beeches, chestnuts, oaks; genera Castanea,
+    Castanopsis, Chrysolepis, Fagus, Lithocarpus, Nothofagus, Quercus'
   hypernym:
   - 11585185-n
   ili: i101492
@@ -40402,7 +40402,7 @@
   partOfSpeech: n
 12285138-n:
   definition:
-  - "two species: golden chinkapins"
+  - 'two species: golden chinkapins'
   hypernym:
   - 11593624-n
   ili: i101512
@@ -40486,7 +40486,7 @@
   partOfSpeech: n
 12286417-n:
   definition:
-  - "beeches of temperate Southern Hemisphere except Africa: southern beech"
+  - 'beeches of temperate Southern Hemisphere except Africa: southern beech'
   hypernym:
   - 11593624-n
   ili: i101519
@@ -40597,7 +40597,7 @@
   partOfSpeech: n
 12288194-n:
   definition:
-  - "fruit of the oak tree: a smooth thin-walled nut in a woody cup-shaped base"
+  - 'fruit of the oak tree: a smooth thin-walled nut in a woody cup-shaped base'
   hypernym:
   - 13155706-n
   ili: i101529
@@ -41640,8 +41640,8 @@
   partOfSpeech: n
 12307098-n:
   definition:
-  - "mostly deciduous monoecious trees or shrubs: hornbeams; sometimes placed in subfamily
-    Carpinaceae"
+  - 'mostly deciduous monoecious trees or shrubs: hornbeams; sometimes placed in subfamily
+    Carpinaceae'
   hypernym:
   - 11593624-n
   ili: i101613
@@ -41755,8 +41755,8 @@
   partOfSpeech: n
 12309115-n:
   definition:
-  - "deciduous monoecious nut-bearing shrubs of small trees: hazel; sometimes placed
-    in the subfamily or family Corylaceae"
+  - 'deciduous monoecious nut-bearing shrubs of small trees: hazel; sometimes placed
+    in the subfamily or family Corylaceae'
   hypernym:
   - 11593624-n
   ili: i101623
@@ -41978,7 +41978,7 @@
   partOfSpeech: n
 12312802-n:
   definition:
-  - "genus of tropical Asiatic and African plants: especially Persian violets"
+  - 'genus of tropical Asiatic and African plants: especially Persian violets'
   hypernym:
   - 11587862-n
   ili: i101641
@@ -42002,8 +42002,8 @@
   wikidata: Q5392219
 12313172-n:
   definition:
-  - "genus of North American herbs: columbo; includes some species sometimes placed
-    in genus Swertia"
+  - 'genus of North American herbs: columbo; includes some species sometimes placed
+    in genus Swertia'
   hypernym:
   - 11587862-n
   ili: i101643
@@ -42275,7 +42275,7 @@
   partOfSpeech: n
 12318195-n:
   definition:
-  - "genus of herbs of Eurasia and the Americas: spurred gentians"
+  - 'genus of herbs of Eurasia and the Americas: spurred gentians'
   hypernym:
   - 11587862-n
   ili: i101666
@@ -42406,8 +42406,8 @@
   partOfSpeech: n
 12320505-n:
   definition:
-  - "trees and shrubs having berries or drupes or capsules as fruits; sometimes placed
-    in the order Oleales: olive, ash, jasmine, privet, lilac"
+  - 'trees and shrubs having berries or drupes or capsules as fruits; sometimes placed
+    in the order Oleales: olive, ash, jasmine, privet, lilac'
   hypernym:
   - 11583198-n
   ili: i101677
@@ -42521,7 +42521,7 @@
   partOfSpeech: n
 12322434-n:
   definition:
-  - "deciduous trees or shrubs: fringe tree"
+  - 'deciduous trees or shrubs: fringe tree'
   hypernym:
   - 11587862-n
   ili: i101686
@@ -42812,8 +42812,8 @@
   partOfSpeech: n
 12327036-n:
   definition:
-  - "shrubs and woody climbers mostly of tropical and temperate Old World: jasmine;
-    jessamine"
+  - 'shrubs and woody climbers mostly of tropical and temperate Old World: jasmine;
+    jessamine'
   hypernym:
   - 11587862-n
   ili: i101712
@@ -42878,7 +42878,7 @@
   partOfSpeech: n
 12328128-n:
   definition:
-  - "genus of Old World shrubs: privet"
+  - 'genus of Old World shrubs: privet'
   hypernym:
   - 11587862-n
   ili: i101718
@@ -43022,8 +43022,8 @@
   partOfSpeech: n
 12330670-n:
   definition:
-  - "genus of Old World shrubs or low trees having fragrant flowers in showy panicles:
-    lilacs"
+  - 'genus of Old World shrubs or low trees having fragrant flowers in showy panicles:
+    lilacs'
   hypernym:
   - 11587862-n
   ili: i101731
@@ -43273,7 +43273,7 @@
   partOfSpeech: n
 12335169-n:
   definition:
-  - "deciduous shrubs or small trees: witch hazel"
+  - 'deciduous shrubs or small trees: witch hazel'
   hypernym:
   - 11765328-n
   ili: i101751
@@ -43430,7 +43430,7 @@
   partOfSpeech: n
 12337681-n:
   definition:
-  - "one species: iron tree"
+  - 'one species: iron tree'
   hypernym:
   - 11765328-n
   ili: i101764
@@ -43464,7 +43464,7 @@
   partOfSpeech: n
 12338128-n:
   definition:
-  - "one species: deciduous tree of the Himalaya Mountains"
+  - 'one species: deciduous tree of the Himalaya Mountains'
   hypernym:
   - 11765328-n
   ili: i101767
@@ -43486,7 +43486,7 @@
   partOfSpeech: n
 12338436-n:
   definition:
-  - "trees having usually edible nuts: butternuts, walnuts, hickories, pecans"
+  - 'trees having usually edible nuts: butternuts, walnuts, hickories, pecans'
   hypernym:
   - 11583198-n
   ili: i101769
@@ -43853,7 +43853,7 @@
   partOfSpeech: n
 12344337-n:
   definition:
-  - "type genus of the Combretaceae: tropical and subtropical small shrubs and trees"
+  - 'type genus of the Combretaceae: tropical and subtropical small shrubs and trees'
   hypernym:
   - 11587862-n
   ili: i101795
@@ -43910,7 +43910,7 @@
   wikidata: Q3642252
 12345273-n:
   definition:
-  - "monotypic genus of tropical American trees: button tree"
+  - 'monotypic genus of tropical American trees: button tree'
   hypernym:
   - 11587862-n
   ili: i101800
@@ -44924,7 +44924,7 @@
   partOfSpeech: n
 12360719-n:
   definition:
-  - "tupelos: deciduous trees of moist habitats especially swamps and beside ponds"
+  - 'tupelos: deciduous trees of moist habitats especially swamps and beside ponds'
   hypernym:
   - 11587862-n
   ili: i101884
@@ -45207,7 +45207,7 @@
   partOfSpeech: n
 12365513-n:
   definition:
-  - "one species: pomegranates"
+  - 'one species: pomegranates'
   hypernym:
   - 11583198-n
   ili: i101908
@@ -45365,7 +45365,7 @@
   partOfSpeech: n
 12368007-n:
   definition:
-  - "deciduous shrub of North America: leatherwood"
+  - 'deciduous shrub of North America: leatherwood'
   hypernym:
   - 11587862-n
   ili: i101921
@@ -45406,7 +45406,7 @@
   wikidata: Q2207829
 12368644-n:
   definition:
-  - "small genus of Eurasian aquatic perennial herbs: water chestnut"
+  - 'small genus of Eurasian aquatic perennial herbs: water chestnut'
   hypernym:
   - 11587862-n
   ili: i101924
@@ -45567,8 +45567,8 @@
   partOfSpeech: n
 12371095-n:
   definition:
-  - "type and sole genus of the Cannaceae: perennial lily-like herbs of New World
-    tropics"
+  - 'type and sole genus of the Cannaceae: perennial lily-like herbs of New World
+    tropics'
   hypernym:
   - 11577308-n
   ili: i101937
@@ -45675,7 +45675,7 @@
   partOfSpeech: n
 12372667-n:
   definition:
-  - "type genus of the Musaceae: bananas"
+  - 'type genus of the Musaceae: bananas'
   hypernym:
   - 11577308-n
   ili: i101946
@@ -45871,7 +45871,7 @@
   wikidata: Q37021
 12376111-n:
   definition:
-  - "tropical Asiatic and Polynesian perennial plants: ginger"
+  - 'tropical Asiatic and Polynesian perennial plants: ginger'
   hypernym:
   - 11577308-n
   ili: i101961
@@ -46284,8 +46284,8 @@
   partOfSpeech: n
 12383361-n:
   definition:
-  - "chiefly tropical shrubs and trees and climbers having leathery leaves or flattened
-    leaflike stems: genera Dillenia and Hibbertia"
+  - 'chiefly tropical shrubs and trees and climbers having leathery leaves or flattened
+    leaflike stems: genera Dillenia and Hibbertia'
   hypernym:
   - 11585836-n
   ili: i101993
@@ -46503,7 +46503,7 @@
   partOfSpeech: n
 12387024-n:
   definition:
-  - "evergreen trees and shrubs: mangosteens"
+  - 'evergreen trees and shrubs: mangosteens'
   hypernym:
   - 11595876-n
   ili: i102011
@@ -46628,8 +46628,8 @@
   partOfSpeech: n
 12389364-n:
   definition:
-  - "shrubby plant having yellow to apricot flowers with four petals arranged in a
-    cross; southeastern United States: New York to Texas"
+  - 'shrubby plant having yellow to apricot flowers with four petals arranged in a
+    cross; southeastern United States: New York to Texas'
   hypernym:
   - 12388128-n
   ili: i102021
@@ -46816,7 +46816,7 @@
   partOfSpeech: n
 12392428-n:
   definition:
-  - "one genus: aromatic tropical trees of eastern Africa and Florida to West Indies"
+  - 'one genus: aromatic tropical trees of eastern Africa and Florida to West Indies'
   hypernym:
   - 11585836-n
   ili: i102036
@@ -46883,7 +46883,7 @@
   wikidata: Q156673
 12393449-n:
   definition:
-  - "type genus of the Caricaceae; tropical American trees: papayas"
+  - 'type genus of the Caricaceae; tropical American trees: papayas'
   hypernym:
   - 11595876-n
   ili: i102041
@@ -47633,7 +47633,7 @@
   wikidata: Q1766333
 12405563-n:
   definition:
-  - "mainly Mediterranean herbs: mignonette"
+  - 'mainly Mediterranean herbs: mignonette'
   hypernym:
   - 11585836-n
   ili: i102100
@@ -47647,7 +47647,7 @@
   wikidata: Q156369
 12405736-n:
   definition:
-  - "Old World genus of herbs having racemose flowers: mignonette; dyer＇s rocket"
+  - 'Old World genus of herbs having racemose flowers: mignonette; dyer＇s rocket'
   hypernym:
   - 11595876-n
   ili: i102101
@@ -48175,7 +48175,7 @@
   wikidata: Q997566
 12414459-n:
   definition:
-  - "mostly tropical stinging herbs or trees: nettle"
+  - 'mostly tropical stinging herbs or trees: nettle'
   hypernym:
   - 11587862-n
   ili: i102144
@@ -48336,8 +48336,8 @@
   partOfSpeech: n
 12417183-n:
   definition:
-  - "hemp: genus of coarse annuals native to central Asia and widely naturalized in
-    north temperate regions; in some classifications included in the family Moraceae"
+  - 'hemp: genus of coarse annuals native to central Asia and widely naturalized in
+    north temperate regions; in some classifications included in the family Moraceae'
   hypernym:
   - 11587862-n
   ili: i102157
@@ -48389,8 +48389,8 @@
   partOfSpeech: n
 12418099-n:
   definition:
-  - "hops: hardy perennial vines of Europe, North America and central and eastern
-    Asia producing a latex sap; in some classifications included in the family Urticaceae"
+  - 'hops: hardy perennial vines of Europe, North America and central and eastern
+    Asia producing a latex sap; in some classifications included in the family Urticaceae'
   hypernym:
   - 11587862-n
   ili: i102161
@@ -48468,7 +48468,7 @@
   wikidata: Q156579
 12419495-n:
   definition:
-  - "type genus of the Moraceae: mulberries"
+  - 'type genus of the Moraceae: mulberries'
   hypernym:
   - 11587862-n
   ili: i102167
@@ -48549,7 +48549,7 @@
   partOfSpeech: n
 12420766-n:
   definition:
-  - "evergreen Asiatic trees now grown through the tropics: breadfruit; jackfruit"
+  - 'evergreen Asiatic trees now grown through the tropics: breadfruit; jackfruit'
   hypernym:
   - 11587862-n
   ili: i102174
@@ -48820,8 +48820,8 @@
   wikidata: Q2998776
 12425448-n:
   definition:
-  - "a dicot family of the order Urticales including: genera Ulmus, Celtis, Planera,
-    Trema"
+  - 'a dicot family of the order Urticales including: genera Ulmus, Celtis, Planera,
+    Trema'
   hypernym:
   - 11583198-n
   ili: i102194
@@ -48865,7 +48865,7 @@
   partOfSpeech: n
 12426219-n:
   definition:
-  - "any of various trees of the genus Ulmus: important timber or shade trees"
+  - 'any of various trees of the genus Ulmus: important timber or shade trees'
   hypernym:
   - 13124818-n
   ili: i102196
@@ -49142,8 +49142,8 @@
   partOfSpeech: n
 12430886-n:
   definition:
-  - "one of four subclasses or superorders of Monocotyledones; comprises 17 families
-    including: Liliaceae, Alliaceae, Amaryllidaceae, Iridaceae, Orchidaceae,  Trilliaceae"
+  - 'one of four subclasses or superorders of Monocotyledones; comprises 17 families
+    including: Liliaceae, Alliaceae, Amaryllidaceae, Iridaceae, Orchidaceae,  Trilliaceae'
   hypernym:
   - 08120743-n
   ili: i102220
@@ -49727,7 +49727,7 @@
   partOfSpeech: n
 12440840-n:
   definition:
-  - "genus of African deciduous or evergreen bulbous herbs: blood lilies"
+  - 'genus of African deciduous or evergreen bulbous herbs: blood lilies'
   hypernym:
   - 11581679-n
   ili: i102269
@@ -49883,9 +49883,9 @@
   partOfSpeech: n
 12443436-n:
   definition:
-  - "small plants that resemble amaryllis and that grow from a corm and bear flowers
+  - 'small plants that resemble amaryllis and that grow from a corm and bear flowers
     on a leafless stalk; sometimes classified as member of the family Amaryllidaceae:
-    star grass"
+    star grass'
   hypernym:
   - 11581679-n
   ili: i102283
@@ -49897,8 +49897,8 @@
   partOfSpeech: n
 12443716-n:
   definition:
-  - "any plant of the genus Hypoxis having long grasslike leaves and yellow star-shaped
-    flowers: Africa, Australia, southern Asia, North America"
+  - 'any plant of the genus Hypoxis having long grasslike leaves and yellow star-shaped
+    flowers: Africa, Australia, southern Asia, North America'
   hypernym:
   - 13155603-n
   ili: i102284
@@ -49917,10 +49917,10 @@
   partOfSpeech: n
 12444070-n:
   definition:
-  - "includes species sometimes divided among the following families: Alliaceae, Aloeaceae,
+  - 'includes species sometimes divided among the following families: Alliaceae, Aloeaceae,
     Alstroemeriaceae, Aphyllanthaceae, Asparagaceae, Asphodelaceae, Colchicaceae,
     Convallariaceae, Hemerocallidaceae, Hostaceae, Hyacinthaceae, Melanthiaceae, Ruscaceae,
-    Smilacaceae, Tecophilaeacea, Xanthorrhoeaceae"
+    Smilacaceae, Tecophilaeacea, Xanthorrhoeaceae'
   hypernym:
   - 11576638-n
   ili: i102286
@@ -50309,8 +50309,8 @@
   partOfSpeech: n
 12451633-n:
   definition:
-  - "large genus of perennial and biennial pungent bulbous plants: garlic, leek, onion,
-    chive; sometimes placed in family Alliaceae as the type genus"
+  - 'large genus of perennial and biennial pungent bulbous plants: garlic, leek, onion,
+    chive; sometimes placed in family Alliaceae as the type genus'
   hypernym:
   - 11581679-n
   ili: i102313
@@ -50790,7 +50790,7 @@
   wikidata: Q2840243
 12459482-n:
   definition:
-  - "one species: fly poison; sometimes placed in family Melanthiaceae"
+  - 'one species: fly poison; sometimes placed in family Melanthiaceae'
   hypernym:
   - 11581679-n
   ili: i102353
@@ -50874,8 +50874,8 @@
   partOfSpeech: n
 12461128-n:
   definition:
-  - "one of many families or subfamilies into which some classification systems subdivide
-    the Liliaceae: includes genera Asparagus and sometimes Ruscus"
+  - 'one of many families or subfamilies into which some classification systems subdivide
+    the Liliaceae: includes genera Asparagus and sometimes Ruscus'
   hypernym:
   - 11576638-n
   ili: i102360
@@ -51368,8 +51368,8 @@
   partOfSpeech: n
 12470604-n:
   definition:
-  - "perennial bulbous herbs most of northern United States: dogtooth violet; adder＇s
-    tongue; trout lily; fawn lily"
+  - 'perennial bulbous herbs most of northern United States: dogtooth violet; adder＇s
+    tongue; trout lily; fawn lily'
   hypernym:
   - 11581679-n
   ili: i102401
@@ -51666,8 +51666,8 @@
   partOfSpeech: n
 12475606-n:
   definition:
-  - "one of many subfamilies into which some classification systems subdivide the
-    Liliaceae but not widely accepted: genera Colchicum and Gloriosa"
+  - 'one of many subfamilies into which some classification systems subdivide the
+    Liliaceae but not widely accepted: genera Colchicum and Gloriosa'
   hypernym:
   - 11576638-n
   ili: i102427
@@ -51704,7 +51704,7 @@
   wikidata: Q152553
 12476292-n:
   definition:
-  - "sometimes placed in family Colchicaceae; one species: glory lily"
+  - 'sometimes placed in family Colchicaceae; one species: glory lily'
   hypernym:
   - 11581679-n
   ili: i102430
@@ -51741,9 +51741,9 @@
   partOfSpeech: n
 12477032-n:
   definition:
-  - "east Asian rhizomatous clump-forming perennial herbs having flowers on long leafless
+  - 'east Asian rhizomatous clump-forming perennial herbs having flowers on long leafless
     stalks; cosmopolitan in cultivation: day lilies; sometimes placed in subfamily
-    Hemerocallidaceae"
+    Hemerocallidaceae'
   hypernym:
   - 11581679-n
   ili: i102433
@@ -51792,8 +51792,8 @@
   partOfSpeech: n
 12478024-n:
   definition:
-  - "robust east Asian clump-forming perennial herbs having racemose flowers: plantain
-    lilies; sometimes placed in family Hostaceae"
+  - 'robust east Asian clump-forming perennial herbs having racemose flowers: plantain
+    lilies; sometimes placed in family Hostaceae'
   hypernym:
   - 11581679-n
   ili: i102437
@@ -52143,8 +52143,8 @@
   wikidata: Q161425
 12483827-n:
   definition:
-  - "one of many subfamilies into which some classification systems subdivide the
-    Liliaceae but not widely accepted: includes Aletris, Narthecium, Veratrum"
+  - 'one of many subfamilies into which some classification systems subdivide the
+    Liliaceae but not widely accepted: includes Aletris, Narthecium, Veratrum'
   hypernym:
   - 11576638-n
   ili: i102467
@@ -52177,7 +52177,7 @@
   partOfSpeech: n
 12484480-n:
   definition:
-  - "of western Europe: Scandinavia to northern Spain and Portugal"
+  - 'of western Europe: Scandinavia to northern Spain and Portugal'
   hypernym:
   - 12484248-n
   ili: i102470
@@ -52188,7 +52188,7 @@
   wikidata: Q159294
 12484633-n:
   definition:
-  - "of the eastern United States: New Jersey to South Carolina"
+  - 'of the eastern United States: New Jersey to South Carolina'
   hypernym:
   - 12484248-n
   ili: i102471
@@ -52256,8 +52256,8 @@
   partOfSpeech: n
 12485826-n:
   definition:
-  - "small genus of North American herbs having grasslike basal leaves: squaw grass;
-    sometimes placed in family Melanthiaceae"
+  - 'small genus of North American herbs having grasslike basal leaves: squaw grass;
+    sometimes placed in family Melanthiaceae'
   hypernym:
   - 11581679-n
   ili: i102477
@@ -52282,9 +52282,9 @@
   wikidata: Q1019121
 12486301-n:
   definition:
-  - "one of many subfamilies into which some classification systems subdivide the
+  - 'one of many subfamilies into which some classification systems subdivide the
     Liliaceae but not widely accepted, comprising three subfamilies: Asphodeloideae,
-    Hemerocallidoideae and Xanthorrhoeoideae (Xanthorrhoeaceae)"
+    Hemerocallidoideae and Xanthorrhoeoideae (Xanthorrhoeaceae)'
   hypernym:
   - 11576638-n
   ili: i102479
@@ -52586,7 +52586,7 @@
   partOfSpeech: n
 12491871-n:
   definition:
-  - "sometimes placed in family Convallariaceae: lily of the valley"
+  - 'sometimes placed in family Convallariaceae: lily of the valley'
   hypernym:
   - 11581679-n
   ili: i102504
@@ -52673,7 +52673,7 @@
   partOfSpeech: n
 12493516-n:
   definition:
-  - "sometimes placed in family Convallariaceae: lilyturf"
+  - 'sometimes placed in family Convallariaceae: lilyturf'
   hypernym:
   - 11581679-n
   ili: i102511
@@ -52697,7 +52697,7 @@
   partOfSpeech: n
 12493910-n:
   definition:
-  - "sometimes placed in family Convallariaceae: false lily of the valley"
+  - 'sometimes placed in family Convallariaceae: false lily of the valley'
   hypernym:
   - 11581679-n
   ili: i102513
@@ -52856,9 +52856,9 @@
   partOfSpeech: n
 12496541-n:
   definition:
-  - "chiefly tropical and xerophytic plants: includes Dracenaceae (Dracaenaceae);
+  - 'chiefly tropical and xerophytic plants: includes Dracenaceae (Dracaenaceae);
     comprises plants that in some classifications are divided between the Amaryllidaceae
-    and the Liliaceae"
+    and the Liliaceae'
   hypernym:
   - 11576638-n
   ili: i102526
@@ -53334,7 +53334,7 @@
   partOfSpeech: n
 12505117-n:
   definition:
-  - "the type genus of the Menyanthaceae; one species: bogbeans"
+  - 'the type genus of the Menyanthaceae; one species: bogbeans'
   hypernym:
   - 11587862-n
   ili: i102565
@@ -53743,8 +53743,8 @@
   partOfSpeech: n
 12511705-n:
   definition:
-  - "small genus of tropical African timber trees having pale golden heartwood uniformly
-    striped with dark brown or black:"
+  - 'small genus of tropical African timber trees having pale golden heartwood uniformly
+    striped with dark brown or black:'
   hypernym:
   - 11605791-n
   ili: i102597
@@ -53887,7 +53887,7 @@
   partOfSpeech: n
 12514204-n:
   definition:
-  - "spiny shrubs or small trees sometimes placed in genus Parkinsonia: paloverde"
+  - 'spiny shrubs or small trees sometimes placed in genus Parkinsonia: paloverde'
   hypernym:
   - 11605791-n
   ili: i102608
@@ -53987,7 +53987,7 @@
   partOfSpeech: n
 12516014-n:
   definition:
-  - "deciduous trees: honey locusts"
+  - 'deciduous trees: honey locusts'
   hypernym:
   - 11605791-n
   ili: i102616
@@ -54134,7 +54134,7 @@
   wikidata: Q2052735
 12518821-n:
   definition:
-  - "one species: Dalmatian laburnum"
+  - 'one species: Dalmatian laburnum'
   hypernym:
   - 11605791-n
   ili: i102627
@@ -54498,7 +54498,7 @@
   wikidata: Q157983
 12525537-n:
   definition:
-  - "very small genus of twining vines of North America and Asia: hog peanut"
+  - 'very small genus of twining vines of North America and Asia: hog peanut'
   hypernym:
   - 11605791-n
   ili: i102647
@@ -54813,7 +54813,7 @@
   partOfSpeech: n
 12530702-n:
   definition:
-  - "genus of East Indian trees or shrubs: dhak"
+  - 'genus of East Indian trees or shrubs: dhak'
   hypernym:
   - 11605791-n
   ili: i102673
@@ -54955,8 +54955,8 @@
   partOfSpeech: n
 12532965-n:
   definition:
-  - "a rosid dicot genus of the subfamily Papilionoideae having one species: Moreton
-    Bay chestnut"
+  - 'a rosid dicot genus of the subfamily Papilionoideae having one species: Moreton
+    Bay chestnut'
   hypernym:
   - 11605791-n
   ili: i102684
@@ -55017,9 +55017,9 @@
   partOfSpeech: n
 12534118-n:
   definition:
-  - "small tree of the eastern Mediterranean having abundant purplish-red flowers
+  - 'small tree of the eastern Mediterranean having abundant purplish-red flowers
     growing on old wood directly from stems and appearing before the leaves: widely
-    cultivated in mild regions; wood valuable for veneers"
+    cultivated in mild regions; wood valuable for veneers'
   hypernym:
   - 13130492-n
   ili: i102689
@@ -55078,7 +55078,7 @@
   wikidata: Q7675170
 12535307-n:
   definition:
-  - "2 species of small New Zealand trees: weeping tree broom; endangered"
+  - '2 species of small New Zealand trees: weeping tree broom; endangered'
   hypernym:
   - 11605791-n
   ili: i102694
@@ -55100,7 +55100,7 @@
   partOfSpeech: n
 12535724-n:
   definition:
-  - "genus of Australian twining vines and small shrubs: flame peas"
+  - 'genus of Australian twining vines and small shrubs: flame peas'
   hypernym:
   - 11605791-n
   ili: i102696
@@ -55427,7 +55427,7 @@
   partOfSpeech: n
 12541166-n:
   definition:
-  - "large genus of stiff or spiny evergreen or deciduous Old World shrubs: broom"
+  - 'large genus of stiff or spiny evergreen or deciduous Old World shrubs: broom'
   hypernym:
   - 11605791-n
   ili: i102723
@@ -55790,7 +55790,7 @@
   partOfSpeech: n
 12547451-n:
   definition:
-  - "one species: Australian pea"
+  - 'one species: Australian pea'
   hypernym:
   - 11605791-n
   ili: i102753
@@ -55921,7 +55921,7 @@
   wikidata: Q5396436
 12549858-n:
   definition:
-  - "small genus of Eurasian herbs: goat＇s rue"
+  - 'small genus of Eurasian herbs: goat＇s rue'
   hypernym:
   - 11605791-n
   ili: i102764
@@ -55946,7 +55946,7 @@
   partOfSpeech: n
 12550235-n:
   definition:
-  - "genus of Australian evergreen shrubs poisonous to livestock: poison bush"
+  - 'genus of Australian evergreen shrubs poisonous to livestock: poison bush'
   hypernym:
   - 11605791-n
   ili: i102766
@@ -55971,8 +55971,8 @@
   wikidata: Q2496817
 12550713-n:
   definition:
-  - "chiefly deciduous shrubs or small trees of Mediterranean area and western Asia:
-    broom"
+  - 'chiefly deciduous shrubs or small trees of Mediterranean area and western Asia:
+    broom'
   hypernym:
   - 11605791-n
   ili: i102768
@@ -56077,7 +56077,7 @@
   partOfSpeech: n
 12552513-n:
   definition:
-  - "genus of Asiatic erect or sprawling herbs: soya bean"
+  - 'genus of Asiatic erect or sprawling herbs: soya bean'
   hypernym:
   - 11605791-n
   ili: i102776
@@ -56172,7 +56172,7 @@
   partOfSpeech: n
 12554093-n:
   definition:
-  - "one species: salt tree"
+  - 'one species: salt tree'
   hypernym:
   - 11605791-n
   ili: i102783
@@ -56259,7 +56259,7 @@
   wikidata: Q140892
 12555606-n:
   definition:
-  - "species of Old World herbs or subshrubs: horseshoe vetch"
+  - 'species of Old World herbs or subshrubs: horseshoe vetch'
   hypernym:
   - 11605791-n
   ili: i102790
@@ -56399,7 +56399,7 @@
   partOfSpeech: n
 12557942-n:
   definition:
-  - "one species: hyacinth bean"
+  - 'one species: hyacinth bean'
   hypernym:
   - 11605791-n
   ili: i102802
@@ -56468,8 +56468,8 @@
   wikidata: Q147939
 12559108-n:
   definition:
-  - "genus of climbing herbs of Old World and temperate North and South America: vetchling;
-    wild pea"
+  - 'genus of climbing herbs of Old World and temperate North and South America: vetchling;
+    wild pea'
   hypernym:
   - 11605791-n
   ili: i102807
@@ -56763,8 +56763,8 @@
   wikidata: Q5364126
 12564532-n:
   definition:
-  - "genus of small erect or climbing herbs with pinnate leaves and small inconspicuous
-    white flowers and small flattened pods: lentils"
+  - 'genus of small erect or climbing herbs with pinnate leaves and small inconspicuous
+    white flowers and small flattened pods: lentils'
   hypernym:
   - 11605791-n
   ili: i102831
@@ -56883,7 +56883,7 @@
   partOfSpeech: n
 12566520-n:
   definition:
-  - "herbs or shrubs: lupin"
+  - 'herbs or shrubs: lupin'
   hypernym:
   - 11605791-n
   ili: i102841
@@ -57269,8 +57269,8 @@
   wikidata: Q7400491
 12573163-n:
   definition:
-  - "genus of European subshrubs or herbs having pink or purple or yellow solitary
-    or clustered flowers: restharrow"
+  - 'genus of European subshrubs or herbs having pink or purple or yellow solitary
+    or clustered flowers: restharrow'
   hypernym:
   - 11605791-n
   ili: i102871
@@ -57443,7 +57443,7 @@
   wikidata: Q1274724
 12576225-n:
   definition:
-  - "one species: shamrock pea"
+  - 'one species: shamrock pea'
   hypernym:
   - 11605791-n
   ili: i102885
@@ -57636,7 +57636,7 @@
   partOfSpeech: n
 12579407-n:
   definition:
-  - "one species: chaparral pea"
+  - 'one species: chaparral pea'
   hypernym:
   - 11605791-n
   ili: i102901
@@ -57687,7 +57687,7 @@
   partOfSpeech: n
 12580347-n:
   definition:
-  - "small genus of variable annual Eurasian vines: peas"
+  - 'small genus of variable annual Eurasian vines: peas'
   hypernym:
   - 11605791-n
   ili: i102905
@@ -57841,7 +57841,7 @@
   partOfSpeech: n
 12582925-n:
   definition:
-  - "genus of tropical American trees: quira"
+  - 'genus of tropical American trees: quira'
   hypernym:
   - 11605791-n
   ili: i102918
@@ -57909,7 +57909,7 @@
   wikidata: Q541815
 12584072-n:
   definition:
-  - "one species: Indian beech"
+  - 'one species: Indian beech'
   hypernym:
   - 11605791-n
   ili: i102924
@@ -58108,7 +58108,7 @@
   partOfSpeech: n
 12587314-n:
   definition:
-  - "genus of woody Asiatic vines: kudzu"
+  - 'genus of woody Asiatic vines: kudzu'
   hypernym:
   - 11605791-n
   ili: i102939
@@ -58227,7 +58227,7 @@
   wikidata: Q159627
 12589370-n:
   definition:
-  - "small genus of deciduous West Indian trees or shrubs: carib wood"
+  - 'small genus of deciduous West Indian trees or shrubs: carib wood'
   hypernym:
   - 11605791-n
   ili: i102948
@@ -58349,7 +58349,7 @@
   partOfSpeech: n
 12591699-n:
   definition:
-  - "one species: Spanish broom"
+  - 'one species: Spanish broom'
   hypernym:
   - 11605791-n
   ili: i102958
@@ -58399,7 +58399,7 @@
   wikidata: Q1910837
 12592526-n:
   definition:
-  - "genus of Australian shrubs or subshrubs: coral bush"
+  - 'genus of Australian shrubs or subshrubs: coral bush'
   hypernym:
   - 11605791-n
   ili: i102962
@@ -58422,7 +58422,7 @@
   partOfSpeech: n
 12592878-n:
   definition:
-  - "genus of tropical and subtropical herbs or shrubs: hoary peas"
+  - 'genus of tropical and subtropical herbs or shrubs: hoary peas'
   hypernym:
   - 11605791-n
   ili: i102964
@@ -58468,7 +58468,7 @@
   partOfSpeech: n
 12593583-n:
   definition:
-  - "genus of American and Asiatic showy rhizomatous herbs: bush peas"
+  - 'genus of American and Asiatic showy rhizomatous herbs: bush peas'
   hypernym:
   - 11605791-n
   ili: i102968
@@ -58513,7 +58513,7 @@
   partOfSpeech: n
 12594265-n:
   definition:
-  - "one species: South American tree: tipu tree"
+  - 'one species: South American tree: tipu tree'
   hypernym:
   - 11605791-n
   ili: i102972
@@ -58575,7 +58575,7 @@
   partOfSpeech: n
 12595232-n:
   definition:
-  - "genus of Eurasian spiny shrubs: gorse"
+  - 'genus of Eurasian spiny shrubs: gorse'
   hypernym:
   - 11605791-n
   ili: i102977
@@ -58858,7 +58858,7 @@
   partOfSpeech: n
 12599990-n:
   definition:
-  - "one species: Australian leafless shrubs: swamp oak"
+  - 'one species: Australian leafless shrubs: swamp oak'
   hypernym:
   - 11605791-n
   ili: i102997
@@ -58981,7 +58981,7 @@
   partOfSpeech: n
 12601978-n:
   definition:
-  - "coextensive with the family Palmae: palms"
+  - 'coextensive with the family Palmae: palms'
   hypernym:
   - 11555128-n
   ili: i103008
@@ -59690,7 +59690,7 @@
   partOfSpeech: n
 12613112-n:
   definition:
-  - "palms of southern Mexico to northern South America: babassu palm"
+  - 'palms of southern Mexico to northern South America: babassu palm'
   hypernym:
   - 11577308-n
   ili: i103064
@@ -60020,7 +60020,7 @@
   partOfSpeech: n
 12618094-n:
   definition:
-  - "one species: saw palmetto"
+  - 'one species: saw palmetto'
   hypernym:
   - 11577308-n
   ili: i103091
@@ -60414,7 +60414,7 @@
   wikidata: Q1109580
 12624545-n:
   definition:
-  - "docks: coarse herbs and shrubs mainly native to north temperate regions"
+  - 'docks: coarse herbs and shrubs mainly native to north temperate regions'
   hypernym:
   - 11587862-n
   ili: i103122
@@ -60558,7 +60558,7 @@
   partOfSpeech: n
 12626726-n:
   definition:
-  - "large widely distributed family of chiefly perennial herbs or climbers: spiderworts"
+  - 'large widely distributed family of chiefly perennial herbs or climbers: spiderworts'
   hypernym:
   - 11575864-n
   ili: i103133
@@ -60573,8 +60573,8 @@
   partOfSpeech: n
 12626988-n:
   definition:
-  - "type genus of the Commelinaceae; large genus of herbs of branching or creeping
-    habit: day flower; widow＇s tears"
+  - 'type genus of the Commelinaceae; large genus of herbs of branching or creeping
+    habit: day flower; widow＇s tears'
   hypernym:
   - 11577308-n
   ili: i103134
@@ -60739,7 +60739,7 @@
   partOfSpeech: n
 12629702-n:
   definition:
-  - "chiefly tropical aquatic or bog herbs: pipeworts"
+  - 'chiefly tropical aquatic or bog herbs: pipeworts'
   hypernym:
   - 11575864-n
   ili: i103148
@@ -60752,8 +60752,8 @@
   partOfSpeech: n
 12629889-n:
   definition:
-  - "type genus of the Eriocaulaceae: rushlike aquatic or marginal perennials usually
-    found in shallow waters of acid lakes and pools and bogs"
+  - 'type genus of the Eriocaulaceae: rushlike aquatic or marginal perennials usually
+    found in shallow waters of acid lakes and pools and bogs'
   hypernym:
   - 11577308-n
   ili: i103149
@@ -61323,8 +61323,8 @@
   partOfSpeech: n
 12638711-n:
   definition:
-  - "horned pondweed: completely submerged herbs; in some classifications included
-    in Potamogetonaceae"
+  - 'horned pondweed: completely submerged herbs; in some classifications included
+    in Potamogetonaceae'
   hypernym:
   - 11577308-n
   ili: i103195
@@ -61347,7 +61347,7 @@
   wikidata: Q159194
 12639097-n:
   definition:
-  - "used in some classifications: essentially equivalent to Potamogetonaceae"
+  - 'used in some classifications: essentially equivalent to Potamogetonaceae'
   hypernym:
   - 11575864-n
   ili: i103197
@@ -61793,9 +61793,9 @@
   partOfSpeech: n
 12646144-n:
   definition:
-  - "any shrub of the genus Cotoneaster: erect or creeping shrubs having richly colored
+  - 'any shrub of the genus Cotoneaster: erect or creeping shrubs having richly colored
     autumn foliage and many small white to pinkish flowers followed by tiny red or
-    black fruits"
+    black fruits'
   hypernym:
   - 13133423-n
   ili: i103232
@@ -61824,7 +61824,7 @@
   partOfSpeech: n
 12646791-n:
   definition:
-  - "thorny shrubs and small trees: hawthorn; thorn; thorn apple"
+  - 'thorny shrubs and small trees: hawthorn; thorn; thorn apple'
   hypernym:
   - 11605791-n
   ili: i103235
@@ -62241,7 +62241,7 @@
   wikidata: Q5879157
 12653636-n:
   definition:
-  - "one species: toyon; in some classifications included in genus Photinia"
+  - 'one species: toyon; in some classifications included in genus Photinia'
   hypernym:
   - 11605791-n
   ili: i103268
@@ -62468,7 +62468,7 @@
   partOfSpeech: n
 12657466-n:
   definition:
-  - "chiefly perennial Northern Hemisphere herbs and shrubs: cinquefoil"
+  - 'chiefly perennial Northern Hemisphere herbs and shrubs: cinquefoil'
   hypernym:
   - 11605791-n
   ili: i103286
@@ -63372,7 +63372,7 @@
   wikidata: Q157748
 12672226-n:
   definition:
-  - "fruit trees native to the Old World: pears"
+  - 'fruit trees native to the Old World: pears'
   hypernym:
   - 11605791-n
   ili: i103360
@@ -64166,7 +64166,7 @@
   partOfSpeech: n
 12685658-n:
   definition:
-  - "annual or perennial herbs: bedstraw; cleavers"
+  - 'annual or perennial herbs: bedstraw; cleavers'
   hypernym:
   - 11599869-n
   ili: i103425
@@ -64601,7 +64601,7 @@
   partOfSpeech: n
 12692659-n:
   definition:
-  - "small genus of low deciduous shrubs: bush honeysuckles"
+  - 'small genus of low deciduous shrubs: bush honeysuckles'
   hypernym:
   - 11599869-n
   ili: i103459
@@ -64638,7 +64638,7 @@
   wikidata: Q5274996
 12693258-n:
   definition:
-  - "Chinese genus of 1 species: beauty bush"
+  - 'Chinese genus of 1 species: beauty bush'
   hypernym:
   - 11599869-n
   ili: i103462
@@ -64685,7 +64685,7 @@
   partOfSpeech: n
 12693939-n:
   definition:
-  - "one species: twinflower"
+  - 'one species: twinflower'
   hypernym:
   - 11599869-n
   ili: i103466
@@ -65057,7 +65057,7 @@
   partOfSpeech: n
 12700473-n:
   definition:
-  - "genus of Asiatic and North American herbs: feverroot"
+  - 'genus of Asiatic and North American herbs: feverroot'
   hypernym:
   - 11599869-n
   ili: i103497
@@ -65083,7 +65083,7 @@
   partOfSpeech: n
 12700886-n:
   definition:
-  - "deciduous or evergreen shrubs or small trees: arrow-wood; wayfaring tree"
+  - 'deciduous or evergreen shrubs or small trees: arrow-wood; wayfaring tree'
   hypernym:
   - 11599869-n
   ili: i103499
@@ -65212,7 +65212,7 @@
   partOfSpeech: n
 12703025-n:
   definition:
-  - "type genus of the Dipsacaceae: teasel"
+  - 'type genus of the Dipsacaceae: teasel'
   hypernym:
   - 11599869-n
   ili: i103509
@@ -65409,7 +65409,7 @@
   partOfSpeech: n
 12706440-n:
   definition:
-  - "genus of mostly North American geraniums: cranesbills"
+  - 'genus of mostly North American geraniums: cranesbills'
   hypernym:
   - 11765328-n
   ili: i103524
@@ -66014,8 +66014,8 @@
   partOfSpeech: n
 12716521-n:
   definition:
-  - "type genus of the Meliaceae: East Indian and Australian deciduous trees with
-    leaves resembling those of the ash"
+  - 'type genus of the Meliaceae: East Indian and Australian deciduous trees with
+    leaves resembling those of the ash'
   hypernym:
   - 11605791-n
   ili: i103574
@@ -66045,7 +66045,7 @@
   partOfSpeech: n
 12717083-n:
   definition:
-  - "genus of large important East Indian trees: neem trees"
+  - 'genus of large important East Indian trees: neem trees'
   hypernym:
   - 11605791-n
   ili: i103576
@@ -66558,7 +66558,7 @@
   wikidata: Q1355893
 12724951-n:
   definition:
-  - "trees native to East Indies having pinnate leaves: carambolas"
+  - 'trees native to East Indies having pinnate leaves: carambolas'
   hypernym:
   - 11605791-n
   ili: i103619
@@ -66605,7 +66605,7 @@
   partOfSpeech: n
 12725604-n:
   definition:
-  - "type genus of the Polygalaceae: milkwort, senega, snakeroot"
+  - 'type genus of the Polygalaceae: milkwort, senega, snakeroot'
   hypernym:
   - 11605791-n
   ili: i103623
@@ -67097,8 +67097,8 @@
   partOfSpeech: n
 12733580-n:
   definition:
-  - "small genus of shrubs native to south China producing small ovoid fruits resembling
-    oranges: includes kumquats"
+  - 'small genus of shrubs native to south China producing small ovoid fruits resembling
+    oranges: includes kumquats'
   hypernym:
   - 11605791-n
   ili: i103659
@@ -67175,7 +67175,7 @@
   partOfSpeech: n
 12734874-n:
   definition:
-  - "one species: trifoliate orange"
+  - 'one species: trifoliate orange'
   hypernym:
   - 11605791-n
   ili: i103665
@@ -67188,9 +67188,9 @@
   wikidata: Q6082407
 12735014-n:
   definition:
-  - "small fast-growing spiny deciduous Chinese orange tree bearing sweetly scented
+  - 'small fast-growing spiny deciduous Chinese orange tree bearing sweetly scented
     flowers and decorative but inedible fruit: used as a stock in grafting and for
-    hedges"
+    hedges'
   hypernym:
   - 13124818-n
   ili: i103666
@@ -67203,7 +67203,7 @@
   wikidata: Q859433
 12735310-n:
   definition:
-  - "deciduous or evergreen trees or shrubs: prickly ash"
+  - 'deciduous or evergreen trees or shrubs: prickly ash'
   hypernym:
   - 11605791-n
   ili: i103667
@@ -67554,8 +67554,8 @@
   partOfSpeech: n
 12741292-n:
   definition:
-  - "small trees, shrubs, and herbs of warm arid and saline regions; often resinous;
-    some poisonous: genera Zygophyllum, Tribulus, Guaiacum, Larrea"
+  - 'small trees, shrubs, and herbs of warm arid and saline regions; often resinous;
+    some poisonous: genera Zygophyllum, Tribulus, Guaiacum, Larrea'
   hypernym:
   - 11587133-n
   ili: i103695
@@ -67572,8 +67572,8 @@
   partOfSpeech: n
 12741653-n:
   definition:
-  - "usually tropical herbs or shrubs having ill-smelling foliage and flower buds
-    that are used as capers: bean capers"
+  - 'usually tropical herbs or shrubs having ill-smelling foliage and flower buds
+    that are used as capers: bean capers'
   hypernym:
   - 11605791-n
   ili: i103696
@@ -67766,7 +67766,7 @@
   wikidata: Q2186022
 12744745-n:
   definition:
-  - "two genera of trees or shrubs having hairy catkins: Salix; Populus"
+  - 'two genera of trees or shrubs having hairy catkins: Salix; Populus'
   hypernym:
   - 11585185-n
   ili: i103712
@@ -67780,8 +67780,8 @@
   partOfSpeech: n
 12744961-n:
   definition:
-  - "a large and widespread genus varying in size from small shrubs to large trees:
-    willows"
+  - 'a large and widespread genus varying in size from small shrubs to large trees:
+    willows'
   hypernym:
   - 11593624-n
   ili: i103713
@@ -68548,9 +68548,9 @@
   partOfSpeech: n
 12758143-n:
   definition:
-  - "in some classification includes Viscaceae: parasitic or hemiparasitic shrublets
+  - 'in some classification includes Viscaceae: parasitic or hemiparasitic shrublets
     or shrubs or small trees of tropical and temperate regions; attach to hosts by
-    haustoria"
+    haustoria'
   hypernym:
   - 11585836-n
   - 13141205-n
@@ -68566,7 +68566,7 @@
   partOfSpeech: n
 12758505-n:
   definition:
-  - "type genus of the Loranthaceae: 1 species"
+  - 'type genus of the Loranthaceae: 1 species'
   hypernym:
   - 11595876-n
   ili: i103775
@@ -68654,8 +68654,8 @@
   partOfSpeech: n
 12759832-n:
   definition:
-  - "type genus of the Viscaceae: Old World evergreen shrubs parasitic on many trees
-    including oaks but especially apple trees, poplars, aspens and cottonwoods"
+  - 'type genus of the Viscaceae: Old World evergreen shrubs parasitic on many trees
+    including oaks but especially apple trees, poplars, aspens and cottonwoods'
   hypernym:
   - 11595876-n
   ili: i103782
@@ -68680,8 +68680,8 @@
   partOfSpeech: n
 12760355-n:
   definition:
-  - "any of various American parasitic plants similar to Old World mistletoe: false
-    mistletoe"
+  - 'any of various American parasitic plants similar to Old World mistletoe: false
+    mistletoe'
   hypernym:
   - 11595876-n
   ili: i103784
@@ -68703,8 +68703,8 @@
   partOfSpeech: n
 12760726-n:
   definition:
-  - "the traditional mistletoe of Christmas in America: grows on deciduous trees and
-    can severely weaken the host plant"
+  - 'the traditional mistletoe of Christmas in America: grows on deciduous trees and
+    can severely weaken the host plant'
   hypernym:
   - 12760561-n
   ili: i103786
@@ -69130,9 +69130,9 @@
   partOfSpeech: n
 12767234-n:
   definition:
-  - "very hard tough close-grained light yellow wood of the box (particularly the
+  - 'very hard tough close-grained light yellow wood of the box (particularly the
     common box); used in delicate woodwork: musical instruments and inlays and engraving
-    blocks"
+    blocks'
   hypernym:
   - 15122728-n
   ili: i103818
@@ -69211,8 +69211,8 @@
   partOfSpeech: n
 12768721-n:
   definition:
-  - "genus of woody vines and erect shrubs (type genus of the Celastraceae) that is
-    native chiefly to Asia and Australia: includes bittersweet"
+  - 'genus of woody vines and erect shrubs (type genus of the Celastraceae) that is
+    native chiefly to Asia and Australia: includes bittersweet'
   hypernym:
   - 11587862-n
   ili: i103825
@@ -69339,8 +69339,8 @@
   partOfSpeech: n
 12771066-n:
   definition:
-  - "shrubs and trees with leathery leaves and small white flowers in racemes: genera
-    Cyrilla and Cliftonia"
+  - 'shrubs and trees with leathery leaves and small white flowers in racemes: genera
+    Cyrilla and Cliftonia'
   hypernym:
   - 11687305-n
   ili: i103835
@@ -69355,8 +69355,8 @@
   partOfSpeech: n
 12771337-n:
   definition:
-  - "one species: trees and shrubs having flowers with acute or twisted petals and
-    wingless fruit"
+  - 'one species: trees and shrubs having flowers with acute or twisted petals and
+    wingless fruit'
   hypernym:
   - 11587862-n
   ili: i103836
@@ -69380,7 +69380,7 @@
   partOfSpeech: n
 12771803-n:
   definition:
-  - "one species: titi"
+  - 'one species: titi'
   hypernym:
   - 11587862-n
   ili: i103838
@@ -69906,7 +69906,7 @@
   partOfSpeech: n
 12779880-n:
   definition:
-  - "type genus of the Anacardiaceae: cashew"
+  - 'type genus of the Anacardiaceae: cashew'
   hypernym:
   - 11587862-n
   ili: i103883
@@ -70332,8 +70332,8 @@
   partOfSpeech: n
 12787001-n:
   definition:
-  - "in some classifications: comprising those members of the genus Rhus having foliage
-    that is poisonous to the touch; of North America and northern South America"
+  - 'in some classifications: comprising those members of the genus Rhus having foliage
+    that is poisonous to the touch; of North America and northern South America'
   hypernym:
   - 11587862-n
   ili: i103917
@@ -71121,8 +71121,8 @@
   partOfSpeech: n
 12799686-n:
   definition:
-  - "plants that are variously modified to serve as insect traps: families Sarraceniaceae,
-    Nepenthaceae, Droseraceae"
+  - 'plants that are variously modified to serve as insect traps: families Sarraceniaceae,
+    Nepenthaceae, Droseraceae'
   hypernym:
   - 11555128-n
   ili: i103981
@@ -71230,7 +71230,7 @@
   partOfSpeech: n
 12801612-n:
   definition:
-  - "one species: California pitcher plant"
+  - 'one species: California pitcher plant'
   hypernym:
   - 11587862-n
   ili: i103989
@@ -71375,7 +71375,7 @@
   partOfSpeech: n
 12803933-n:
   definition:
-  - "one species: waterwheel plant"
+  - 'one species: waterwheel plant'
   hypernym:
   - 11587862-n
   ili: i104001
@@ -71472,7 +71472,7 @@
   partOfSpeech: n
 12805498-n:
   definition:
-  - "one species: Australian pitcher plant"
+  - 'one species: Australian pitcher plant'
   hypernym:
   - 11605791-n
   ili: i104009
@@ -71831,8 +71831,8 @@
   partOfSpeech: n
 12811595-n:
   definition:
-  - "mock orange: type and sole genus of the subfamily Philadelphaceae; sometimes
-    placed in family Saxifragaceae"
+  - 'mock orange: type and sole genus of the subfamily Philadelphaceae; sometimes
+    placed in family Saxifragaceae'
   hypernym:
   - 11605791-n
   ili: i104039
@@ -71922,8 +71922,8 @@
   partOfSpeech: n
 12813398-n:
   definition:
-  - "type genus of the Saxifragaceae; large genus of usually perennial herbs of Arctic
-    and cool regions of Northern Hemisphere: saxifrage"
+  - 'type genus of the Saxifragaceae; large genus of usually perennial herbs of Arctic
+    and cool regions of Northern Hemisphere: saxifrage'
   hypernym:
   - 11605791-n
   ili: i104045
@@ -72035,7 +72035,7 @@
   partOfSpeech: n
 12815613-n:
   definition:
-  - "chiefly Asiatic perennials: spirea"
+  - 'chiefly Asiatic perennials: spirea'
   hypernym:
   - 11605791-n
   ili: i104054
@@ -72284,7 +72284,7 @@
   partOfSpeech: n
 12819879-n:
   definition:
-  - "one species: leatherleaf saxifrage"
+  - 'one species: leatherleaf saxifrage'
   hypernym:
   - 11605791-n
   ili: i104075
@@ -72544,7 +72544,7 @@
   partOfSpeech: n
 12824976-n:
   definition:
-  - "one species: pickaback plant"
+  - 'one species: pickaback plant'
   hypernym:
   - 11605791-n
   ili: i104096
@@ -72569,8 +72569,8 @@
   partOfSpeech: n
 12825381-n:
   definition:
-  - "in some classifications considered a part of the family Saxifragaceae: plants
-    whose fruit is a berry"
+  - 'in some classifications considered a part of the family Saxifragaceae: plants
+    whose fruit is a berry'
   hypernym:
   - 11765052-n
   ili: i104098
@@ -72674,7 +72674,7 @@
   wikidata: Q41503
 12827030-n:
   definition:
-  - "coextensive with the genus Platanus: plane trees"
+  - 'coextensive with the genus Platanus: plane trees'
   hypernym:
   - 11587133-n
   ili: i104106
@@ -72687,7 +72687,7 @@
   partOfSpeech: n
 12827215-n:
   definition:
-  - "genus of large monoecious mostly deciduous trees: London plane; sycamore"
+  - 'genus of large monoecious mostly deciduous trees: London plane; sycamore'
   hypernym:
   - 11605791-n
   ili: i104107
@@ -73114,7 +73114,7 @@
   partOfSpeech: n
 12834630-n:
   definition:
-  - "one species: cross vine"
+  - 'one species: cross vine'
   hypernym:
   - 11599869-n
   ili: i104141
@@ -73195,7 +73195,7 @@
   wikidata: Q159204
 12835820-n:
   definition:
-  - "one species: desert willow"
+  - 'one species: desert willow'
   hypernym:
   - 11599869-n
   ili: i104148
@@ -73303,7 +73303,7 @@
   partOfSpeech: n
 12837513-n:
   definition:
-  - "rough annual herbs of Europe and the Americas: fiddlenecks"
+  - 'rough annual herbs of Europe and the Americas: fiddlenecks'
   hypernym:
   - 11765328-n
   ili: i104156
@@ -73706,8 +73706,8 @@
   wikidata: Q157561
 12843924-n:
   definition:
-  - "plants having trumpet-shaped flowers and a climbing or twining habit: morning
-    glory, bindweed, sweet potato"
+  - 'plants having trumpet-shaped flowers and a climbing or twining habit: morning
+    glory, bindweed, sweet potato'
   hypernym:
   - 11583198-n
   ili: i104190
@@ -73726,7 +73726,7 @@
   partOfSpeech: n
 12844291-n:
   definition:
-  - "genus of mostly climbing or scrambling herbs and shrubs: bindweed"
+  - 'genus of mostly climbing or scrambling herbs and shrubs: bindweed'
   hypernym:
   - 11587862-n
   ili: i104191
@@ -73812,7 +73812,7 @@
   partOfSpeech: n
 12845669-n:
   definition:
-  - "climbing or scrambling herbs: bindweed"
+  - 'climbing or scrambling herbs: bindweed'
   hypernym:
   - 11587862-n
   ili: i104199
@@ -73839,7 +73839,7 @@
   wikidata: Q161704
 12846061-n:
   definition:
-  - "genus of twining leafless parasitic herbs lacking chlorophyll: dodder"
+  - 'genus of twining leafless parasitic herbs lacking chlorophyll: dodder'
   hypernym:
   - 11587862-n
   ili: i104201
@@ -74091,8 +74091,8 @@
   partOfSpeech: n
 12850342-n:
   definition:
-  - "any of numerous tropical or subtropical small shrubs or treelets or epiphytic
-    vines of the family Gesneriaceae: African violet; Cape primroses; gloxinia"
+  - 'any of numerous tropical or subtropical small shrubs or treelets or epiphytic
+    vines of the family Gesneriaceae: African violet; Cape primroses; gloxinia'
   hypernym:
   - 13123895-n
   ili: i104221
@@ -74340,7 +74340,7 @@
   partOfSpeech: n
 12854553-n:
   definition:
-  - "large genus of usually stemless African or Asian herbs: Cape primrose"
+  - 'large genus of usually stemless African or Asian herbs: Cape primrose'
   hypernym:
   - 11599869-n
   ili: i104244
@@ -74428,7 +74428,7 @@
   partOfSpeech: n
 12855956-n:
   definition:
-  - "one species: yellow bells"
+  - 'one species: yellow bells'
   hypernym:
   - 11599869-n
   ili: i104251
@@ -74476,7 +74476,7 @@
   partOfSpeech: n
 12856793-n:
   definition:
-  - "genus of ornamental chiefly California herbs: baby blue-eyes"
+  - 'genus of ornamental chiefly California herbs: baby blue-eyes'
   hypernym:
   - 11599869-n
   ili: i104255
@@ -74827,7 +74827,7 @@
   wikidata: Q158310
 12862446-n:
   definition:
-  - "perennial herbs or subshrubs of especially Mediterranean area: black horehound"
+  - 'perennial herbs or subshrubs of especially Mediterranean area: black horehound'
   hypernym:
   - 11599869-n
   ili: i104281
@@ -74852,7 +74852,7 @@
   partOfSpeech: n
 12862865-n:
   definition:
-  - "small genus of North American herbs: wood mints"
+  - 'small genus of North American herbs: wood mints'
   hypernym:
   - 11599869-n
   ili: i104283
@@ -75089,7 +75089,7 @@
   partOfSpeech: n
 12866903-n:
   definition:
-  - "genus of American herbs and dwarf shrubs of the mint family: dragonheads"
+  - 'genus of American herbs and dwarf shrubs of the mint family: dragonheads'
   hypernym:
   - 11599869-n
   ili: i104302
@@ -75262,7 +75262,7 @@
   partOfSpeech: n
 12869630-n:
   definition:
-  - "genus of Old World herbs: dead nettles; henbits"
+  - 'genus of Old World herbs: dead nettles; henbits'
   hypernym:
   - 11599869-n
   ili: i104316
@@ -76248,8 +76248,8 @@
   partOfSpeech: n
 12885123-n:
   definition:
-  - "large genus of shrubs and subshrubs of the mint family varying greatly in habit:
-    sage"
+  - 'large genus of shrubs and subshrubs of the mint family varying greatly in habit:
+    sage'
   hypernym:
   - 11599869-n
   ili: i104398
@@ -76628,7 +76628,7 @@
   wikidata: Q161748
 12891152-n:
   definition:
-  - "large genus of Old World mints: thyme"
+  - 'large genus of Old World mints: thyme'
   hypernym:
   - 11599869-n
   ili: i104430
@@ -76674,7 +76674,7 @@
   partOfSpeech: n
 12891834-n:
   definition:
-  - "genus of North American aromatic herbs or subshrubs: blue curls"
+  - 'genus of North American aromatic herbs or subshrubs: blue curls'
   hypernym:
   - 11599869-n
   ili: i104434
@@ -76731,7 +76731,7 @@
   partOfSpeech: n
 12892752-n:
   definition:
-  - "carnivorous aquatic or bog plants: genera Utricularia, Pinguicula, and Genlisea"
+  - 'carnivorous aquatic or bog plants: genera Utricularia, Pinguicula, and Genlisea'
   hypernym:
   - 11765052-n
   ili: i104439
@@ -76746,7 +76746,7 @@
   partOfSpeech: n
 12893017-n:
   definition:
-  - "bladderworts: large genus of aquatic carnivorous plants; cosmopolitan in distribution"
+  - 'bladderworts: large genus of aquatic carnivorous plants; cosmopolitan in distribution'
   hypernym:
   - 11765328-n
   ili: i104440
@@ -76768,8 +76768,8 @@
   partOfSpeech: n
 12893458-n:
   definition:
-  - "butterworts: a large genus of almost stemless carnivorous bog plants; Europe
-    and America to Antarctica"
+  - 'butterworts: a large genus of almost stemless carnivorous bog plants; Europe
+    and America to Antarctica'
   hypernym:
   - 11765328-n
   ili: i104442
@@ -76994,8 +76994,8 @@
   partOfSpeech: n
 12897444-n:
   definition:
-  - "type genus of Scrophulariaceae; named for the plants＇ supposed ability to cure
-    scrofula: figworts"
+  - 'type genus of Scrophulariaceae; named for the plants＇ supposed ability to cure
+    scrofula: figworts'
   hypernym:
   - 11599869-n
   ili: i104459
@@ -77236,7 +77236,7 @@
   partOfSpeech: n
 12901723-n:
   definition:
-  - "herbaceous perennials: shellflower"
+  - 'herbaceous perennials: shellflower'
   hypernym:
   - 11599869-n
   ili: i104480
@@ -77411,7 +77411,7 @@
   partOfSpeech: n
 12904683-n:
   definition:
-  - "genus of herbs and subshrubs having showy flowers: spurred snapdragon"
+  - 'genus of herbs and subshrubs having showy flowers: spurred snapdragon'
   hypernym:
   - 11599869-n
   ili: i104494
@@ -77729,7 +77729,7 @@
   partOfSpeech: n
 12910769-n:
   definition:
-  - "widespread genus of herbs with pink or white or blue or purple flowers: speedwell"
+  - 'widespread genus of herbs with pink or white or blue or purple flowers: speedwell'
   hypernym:
   - 11599869-n
   ili: i104520
@@ -77898,7 +77898,7 @@
   partOfSpeech: n
 12913854-n:
   definition:
-  - "type genus of the Solanaceae: nightshade, potato, eggplant, bittersweet"
+  - 'type genus of the Solanaceae: nightshade, potato, eggplant, bittersweet'
   hypernym:
   - 11599869-n
   ili: i104532
@@ -78246,7 +78246,7 @@
   partOfSpeech: n
 12920093-n:
   definition:
-  - "includes some plants often placed in the genus Datura: angel＇s trumpets"
+  - 'includes some plants often placed in the genus Datura: angel＇s trumpets'
   hypernym:
   - 11599869-n
   ili: i104558
@@ -78296,8 +78296,8 @@
   partOfSpeech: n
 12920908-n:
   definition:
-  - "chiefly tropical perennial shrubby plants having many-seeded fruits: sweet and
-    hot peppers"
+  - 'chiefly tropical perennial shrubby plants having many-seeded fruits: sweet and
+    hot peppers'
   hypernym:
   - 11599869-n
   ili: i104562
@@ -78537,7 +78537,7 @@
   wikidata: Q1390368
 12924908-n:
   definition:
-  - "genus of poisonous herbs: henbane"
+  - 'genus of poisonous herbs: henbane'
   hypernym:
   - 11599869-n
   ili: i104580
@@ -78894,8 +78894,8 @@
   wikidata: Q160825
 12930677-n:
   definition:
-  - "hybrids of Petunia axillaris and Petunia integrifolia: a complex group of petunias
-    having single or double flowers in colors from white to purple"
+  - 'hybrids of Petunia axillaris and Petunia integrifolia: a complex group of petunias
+    having single or double flowers in colors from white to purple'
   hypernym:
   - 12930181-n
   ili: i104610
@@ -79019,7 +79019,7 @@
   wikidata: Q7189501
 12932865-n:
   definition:
-  - "herbs of temperate North and South America: cock＇s eggs"
+  - 'herbs of temperate North and South America: cock＇s eggs'
   hypernym:
   - 11599869-n
   ili: i104620
@@ -79145,7 +79145,7 @@
   partOfSpeech: n
 12934808-n:
   definition:
-  - "one species: marmalade bush"
+  - 'one species: marmalade bush'
   hypernym:
   - 11599869-n
   ili: i104631
@@ -79235,7 +79235,7 @@
   partOfSpeech: n
 12936160-n:
   definition:
-  - "used in some classifications: coextensive with the genus Avicennia"
+  - 'used in some classifications: coextensive with the genus Avicennia'
   hypernym:
   - 11586681-n
   ili: i104638
@@ -79289,7 +79289,7 @@
   partOfSpeech: n
 12937116-n:
   definition:
-  - "small genus of southeastern Asian tropics: teak"
+  - 'small genus of southeastern Asian tropics: teak'
   hypernym:
   - 11599869-n
   ili: i104643
@@ -79351,8 +79351,8 @@
   partOfSpeech: n
 12938098-n:
   definition:
-  - "type genus of the Euphorbiaceae: very large genus of diverse plants all having
-    milky juice"
+  - 'type genus of the Euphorbiaceae: very large genus of diverse plants all having
+    milky juice'
   hypernym:
   - 11605791-n
   ili: i104647
@@ -79756,7 +79756,7 @@
   partOfSpeech: n
 12945212-n:
   definition:
-  - "a genus of herb having only one known species: castor-oil plant"
+  - 'a genus of herb having only one known species: castor-oil plant'
   hypernym:
   - 11605791-n
   ili: i104680
@@ -79863,7 +79863,7 @@
   wikidata: Q156538
 12947076-n:
   definition:
-  - "genus of economically important tropical plants: cassava"
+  - 'genus of economically important tropical plants: cassava'
   hypernym:
   - 11605791-n
   ili: i104688
@@ -80107,7 +80107,7 @@
   wikidata: Q101815
 12950804-n:
   definition:
-  - "plants having flowers in umbels: parsley, carrot, anise, caraway, celery, dill"
+  - 'plants having flowers in umbels: parsley, carrot, anise, caraway, celery, dill'
   hypernym:
   - 11587133-n
   ili: i104707
@@ -80261,7 +80261,7 @@
   partOfSpeech: n
 12953292-n:
   definition:
-  - "chervil: of Europe, North Africa and Asia"
+  - 'chervil: of Europe, North Africa and Asia'
   hypernym:
   - 11605791-n
   ili: i104718
@@ -80419,8 +80419,8 @@
   partOfSpeech: n
 12955536-n:
   definition:
-  - "small genus of perennial herbs having deadly poisonous tuberous roots: water
-    hemlock"
+  - 'small genus of perennial herbs having deadly poisonous tuberous roots: water
+    hemlock'
   hypernym:
   - 11605791-n
   ili: i104731
@@ -80457,7 +80457,7 @@
   partOfSpeech: n
 12956217-n:
   definition:
-  - "small genus of highly toxic biennials: hemlock"
+  - 'small genus of highly toxic biennials: hemlock'
   hypernym:
   - 11605791-n
   ili: i104734
@@ -80802,7 +80802,7 @@
   wikidata: Q1137175
 12961538-n:
   definition:
-  - "poisonous herbs: water dropworts"
+  - 'poisonous herbs: water dropworts'
   hypernym:
   - 11605791-n
   ili: i104761
@@ -80964,7 +80964,7 @@
   partOfSpeech: n
 12964062-n:
   definition:
-  - "chiefly American herbs: sanicle"
+  - 'chiefly American herbs: sanicle'
   hypernym:
   - 11605791-n
   ili: i104775
@@ -81069,7 +81069,7 @@
   wikidata: Q3485328
 12965720-n:
   definition:
-  - "perennial of wet and marshy places in the Northern Hemisphere: water parsnips"
+  - 'perennial of wet and marshy places in the Northern Hemisphere: water parsnips'
   hypernym:
   - 11605791-n
   ili: i104784
@@ -81143,8 +81143,8 @@
   wikidata: Q628360
 12966848-n:
   definition:
-  - "a rosid dicot family of the order Umbellales including: genera Aucuba, Cornus,
-    Corokia, Curtisia, Griselinia, Helwingia"
+  - 'a rosid dicot family of the order Umbellales including: genera Aucuba, Cornus,
+    Corokia, Curtisia, Griselinia, Helwingia'
   hypernym:
   - 11587133-n
   ili: i104790
@@ -81172,8 +81172,8 @@
   partOfSpeech: n
 12967338-n:
   definition:
-  - "a rosid dicot genus of the family Cornaceae including: dogwood; cornel: perennial
-    chiefly deciduous shrubs or small trees of temperate regions of Northern Hemisphere"
+  - 'a rosid dicot genus of the family Cornaceae including: dogwood; cornel: perennial
+    chiefly deciduous shrubs or small trees of temperate regions of Northern Hemisphere'
   hypernym:
   - 11605791-n
   ili: i104792
@@ -81476,7 +81476,7 @@
   partOfSpeech: n
 12972225-n:
   definition:
-  - "terrestrial (hygrophytic) or epiphytic ferns: filmy ferns"
+  - 'terrestrial (hygrophytic) or epiphytic ferns: filmy ferns'
   hypernym:
   - 13187236-n
   ili: i104818
@@ -81489,7 +81489,7 @@
   partOfSpeech: n
 12972428-n:
   definition:
-  - "type genus of the Hymenophyllaceae: filmy ferns"
+  - 'type genus of the Hymenophyllaceae: filmy ferns'
   hypernym:
   - 13187976-n
   ili: i104819
@@ -81592,8 +81592,8 @@
   partOfSpeech: n
 12973966-n:
   definition:
-  - "any fern of the genus Osmunda: large ferns with creeping rhizomes; naked sporangia
-    are on modified fronds that resemble flower clusters"
+  - 'any fern of the genus Osmunda: large ferns with creeping rhizomes; naked sporangia
+    are on modified fronds that resemble flower clusters'
   hypernym:
   - 11566165-n
   ili: i104828
@@ -81709,8 +81709,8 @@
   partOfSpeech: n
 12975951-n:
   definition:
-  - "type genus of the Schizaeaceae cosmopolitan especially in tropics; small leptosporangiate
-    ferns: curly grass fern"
+  - 'type genus of the Schizaeaceae cosmopolitan especially in tropics; small leptosporangiate
+    ferns: curly grass fern'
   hypernym:
   - 13187976-n
   ili: i104837
@@ -81958,7 +81958,7 @@
   partOfSpeech: n
 12979681-n:
   definition:
-  - "type genus of the Salviniaceae: water ferns"
+  - 'type genus of the Salviniaceae: water ferns'
   hypernym:
   - 13187976-n
   ili: i104858
@@ -82143,7 +82143,7 @@
   partOfSpeech: n
 12982449-n:
   definition:
-  - "one species: terrestrial fern of southeastern Asia and Australia"
+  - 'one species: terrestrial fern of southeastern Asia and Australia'
   hypernym:
   - 13187976-n
   ili: i104874
@@ -82619,7 +82619,7 @@
   wikidata: Q2584249
 12989642-n:
   definition:
-  - "genus of poisonous fungi having hard-skinned fruiting bodies: false truffles"
+  - 'genus of poisonous fungi having hard-skinned fruiting bodies: false truffles'
   hypernym:
   - 11612597-n
   ili: i104916
@@ -82994,9 +82994,9 @@
   partOfSpeech: n
 12995967-n:
   definition:
-  - "slime molds; organisms having a noncellular and multinucleate creeping vegetative
+  - 'slime molds; organisms having a noncellular and multinucleate creeping vegetative
     phase and a propagative spore-producing stage: comprises Myxomycetes and Acrasiomycetes;
-    in some classifications placed in the kingdom Protoctista"
+    in some classifications placed in the kingdom Protoctista'
   hypernym:
   - 08237812-n
   ili: i104948
@@ -83268,8 +83268,8 @@
   partOfSpeech: n
 13000589-n:
   definition:
-  - "a fungus that attacks living fish and tadpoles and spawn causing white fungus
-    disease: a coating of white hyphae on especially peripheral parts (as fins)"
+  - 'a fungus that attacks living fish and tadpoles and spawn causing white fungus
+    disease: a coating of white hyphae on especially peripheral parts (as fins)'
   hypernym:
   - 13013628-n
   ili: i104970
@@ -83289,8 +83289,8 @@
   partOfSpeech: n
 13000991-n:
   definition:
-  - "order of chiefly parasitic lower fungi: Albuginaceae and Peronosporaceae and
-    Pythiaceae"
+  - 'order of chiefly parasitic lower fungi: Albuginaceae and Peronosporaceae and
+    Pythiaceae'
   hypernym:
   - 11615127-n
   ili: i104972
@@ -83305,7 +83305,7 @@
   wikidata: Q621829
 13001238-n:
   definition:
-  - "parasitic fungi: downy mildews"
+  - 'parasitic fungi: downy mildews'
   hypernym:
   - 11611234-n
   ili: i104973
@@ -83623,7 +83623,7 @@
   wikidata: Q1985688
 13005996-n:
   definition:
-  - "type genus of the Tuberaceae: fungi whose fruiting bodies are typically truffles"
+  - 'type genus of the Tuberaceae: fungi whose fruiting bodies are typically truffles'
   hypernym:
   - 11612597-n
   ili: i105002
@@ -83647,7 +83647,7 @@
   partOfSpeech: n
 13006389-n:
   definition:
-  - "fleshy fungi: coral fungi"
+  - 'fleshy fungi: coral fungi'
   hypernym:
   - 11611234-n
   ili: i105004
@@ -83894,8 +83894,8 @@
   wikidata: Q2104406
 13010222-n:
   definition:
-  - "fruticose lichens having prostrate or erect or pendulous thalli: genera Usnea,
-    Evernia, Ramalina, Alectoria"
+  - 'fruticose lichens having prostrate or erect or pendulous thalli: genera Usnea,
+    Evernia, Ramalina, Alectoria'
   hypernym:
   - 11611234-n
   ili: i105026
@@ -84151,9 +84151,9 @@
   partOfSpeech: n
 13015739-n:
   definition:
-  - "true fungi, eukaryotic heterotrophic walled organisms, distinguished from Myxomycota
+  - 'true fungi, eukaryotic heterotrophic walled organisms, distinguished from Myxomycota
     (funguslike slime molds): comprises subdivisions Mastigomycotina, Zygomycotina,
-    Ascomycotina, Basidiomycotina, Deuteromycotina (imperfect fungi)"
+    Ascomycotina, Basidiomycotina, Deuteromycotina (imperfect fungi)'
   hypernym:
   - 08237812-n
   ili: i105046
@@ -84171,7 +84171,7 @@
   partOfSpeech: n
 13016195-n:
   definition:
-  - "category used in some classifications: coextensive with division Eumycota"
+  - 'category used in some classifications: coextensive with division Eumycota'
   hypernym:
   - 08120743-n
   ili: i105047
@@ -84305,8 +84305,8 @@
   partOfSpeech: n
 13018890-n:
   definition:
-  - "used in some classifications; usually coextensive with order Agaricales: mushrooms,
-    toadstools, agarics, bracket fungi"
+  - 'used in some classifications; usually coextensive with order Agaricales: mushrooms,
+    toadstools, agarics, bracket fungi'
   hypernym:
   - 08120743-n
   ili: i105057
@@ -85128,8 +85128,8 @@
   wikidata: Q146693
 13033947-n:
   definition:
-  - "agarics with white spores that includes several edible and poisonous mushrooms:
-    parasol mushrooms"
+  - 'agarics with white spores that includes several edible and poisonous mushrooms:
+    parasol mushrooms'
   hypernym:
   - 11612597-n
   ili: i105126
@@ -85751,7 +85751,7 @@
   partOfSpeech: n
 13044543-n:
   definition:
-  - "large class of higher fungi coextensive with division Ascomycota: sac fungi"
+  - 'large class of higher fungi coextensive with division Ascomycota: sac fungi'
   hypernym:
   - 08120743-n
   ili: i105179
@@ -85808,7 +85808,7 @@
   partOfSpeech: n
 13045523-n:
   definition:
-  - "class of fungi in which no ascocarps are formed: yeasts and some plant parasites"
+  - 'class of fungi in which no ascocarps are formed: yeasts and some plant parasites'
   hypernym:
   - 08120743-n
   ili: i105184
@@ -85834,8 +85834,8 @@
   partOfSpeech: n
 13045957-n:
   definition:
-  - "family of fungi comprising the typical yeasts: reproduce by budding and ferment
-    carbohydrates"
+  - 'family of fungi comprising the typical yeasts: reproduce by budding and ferment
+    carbohydrates'
   hypernym:
   - 11611234-n
   ili: i105186
@@ -86141,7 +86141,7 @@
   partOfSpeech: n
 13051198-n:
   definition:
-  - "type genus of the Pezizaceae: a variety of cup fungus"
+  - 'type genus of the Pezizaceae: a variety of cup fungus'
   hypernym:
   - 11612597-n
   ili: i105212
@@ -86236,7 +86236,7 @@
   partOfSpeech: n
 13052716-n:
   definition:
-  - "genus of edible fungi: morel"
+  - 'genus of edible fungi: morel'
   hypernym:
   - 11612597-n
   ili: i105220
@@ -86616,8 +86616,8 @@
   wikidata: Q2627281
 13059704-n:
   definition:
-  - "fungi in which the hymenium is enclosed until after spores have matured: puffballs;
-    earth stars; stinkhorn fungi"
+  - 'fungi in which the hymenium is enclosed until after spores have matured: puffballs;
+    earth stars; stinkhorn fungi'
   hypernym:
   - 08120743-n
   ili: i105253
@@ -87958,8 +87958,8 @@
   wikidata: Q3700748
 13083628-n:
   definition:
-  - "type genus of the Dacrymycetaceae: fungi with a bifurcate basidium that lacks
-    septa"
+  - 'type genus of the Dacrymycetaceae: fungi with a bifurcate basidium that lacks
+    septa'
   hypernym:
   - 11612597-n
   ili: i105365
@@ -87970,7 +87970,7 @@
   wikidata: Q1331136
 13083806-n:
   definition:
-  - "rust fungi: parasitic fungi causing rust in plants; sometimes placed in"
+  - 'rust fungi: parasitic fungi causing rust in plants; sometimes placed in'
   hypernym:
   - 11615127-n
   ili: i105366
@@ -88372,8 +88372,8 @@
   partOfSpeech: n
 13090295-n:
   definition:
-  - "type genus of Septobasidiaceae: smooth shelf fungi usually having a well-developed
-    sometimes thick-walled hypobasidium"
+  - 'type genus of Septobasidiaceae: smooth shelf fungi usually having a well-developed
+    sometimes thick-walled hypobasidium'
   hypernym:
   - 11612597-n
   ili: i105400
@@ -89169,7 +89169,7 @@
   partOfSpeech: n
 13104346-n:
   definition:
-  - "green plant having a vascular system: ferns, gymnosperms, angiosperms"
+  - 'green plant having a vascular system: ferns, gymnosperms, angiosperms'
   hypernym:
   - 00017402-n
   ili: i105470
@@ -89193,7 +89193,7 @@
   partOfSpeech: n
 13105239-n:
   definition:
-  - "organisms without vascular tissue: e.g. algae, lichens, fungi, mosses"
+  - 'organisms without vascular tissue: e.g. algae, lichens, fungi, mosses'
   hypernym:
   - 00004475-n
   ili: i105472
@@ -89240,7 +89240,7 @@
   partOfSpeech: n
 13106507-n:
   definition:
-  - "usually used in combination: “liverwort”, “milkwort”, “whorlywort”"
+  - 'usually used in combination: “liverwort”, “milkwort”, “whorlywort”'
   hypernym:
   - 12226211-n
   ili: i105477
@@ -89340,8 +89340,8 @@
   partOfSpeech: n
 13109220-n:
   definition:
-  - "(botany) a natural swelling or enlargement: at the base of the stalk or seta
-    in certain mosses or on the cone scale of certain conifers"
+  - '(botany) a natural swelling or enlargement: at the base of the stalk or seta
+    in certain mosses or on the cone scale of certain conifers'
   domain_topic:
   - 06076105-n
   hypernym:
@@ -89670,9 +89670,9 @@
   partOfSpeech: n
 13114139-n:
   definition:
-  - "a spore-bearing branch or organ: the part of the thallus of a sporophyte that
+  - 'a spore-bearing branch or organ: the part of the thallus of a sporophyte that
     develops spores; in ferns and mosses and liverworts is practically equivalent
-    to the sporophyte"
+    to the sporophyte'
   hypernym:
   - 11696293-n
   ili: i105520
@@ -89970,8 +89970,8 @@
   partOfSpeech: n
 13119407-n:
   definition:
-  - "the woody part of plants: the supporting and water-conducting tissue, consisting
-    primarily of tracheids and vessels"
+  - 'the woody part of plants: the supporting and water-conducting tissue, consisting
+    primarily of tracheids and vessels'
   hypernym:
   - 13117622-n
   ili: i105549
@@ -90547,8 +90547,8 @@
   wikidata: Q186101
 13143123-n:
   definition:
-  - "a semiaquatic plant that grows in soft wet land; most are monocots: sedge, sphagnum,
-    grasses, cattails, etc.; possibly heath"
+  - 'a semiaquatic plant that grows in soft wet land; most are monocots: sedge, sphagnum,
+    grasses, cattails, etc.; possibly heath'
   hypernym:
   - 13142303-n
   ili: i105605
@@ -90736,7 +90736,7 @@
   partOfSpeech: n
 13147067-n:
   definition:
-  - "crop grown for its enlarged roots: e.g. beets, potatoes, turnips"
+  - 'crop grown for its enlarged roots: e.g. beets, potatoes, turnips'
   hypernym:
   - 11550963-n
   ili: i105622
@@ -91382,8 +91382,8 @@
   partOfSpeech: n
 13158449-n:
   definition:
-  - "fruit consisting of many individual small fruits or drupes derived from separate
-    ovaries within a common receptacle: e.g. blackberry, raspberry, pineapple"
+  - 'fruit consisting of many individual small fruits or drupes derived from separate
+    ovaries within a common receptacle: e.g. blackberry, raspberry, pineapple'
   hypernym:
   - 13155706-n
   ili: i105686
@@ -91395,8 +91395,8 @@
   wikidata: Q4692249
 13158728-n:
   definition:
-  - "an indehiscent fruit derived from a single ovary having one or many seeds within
-    a fleshy wall or pericarp: e.g. grape, tomato, cranberry"
+  - 'an indehiscent fruit derived from a single ovary having one or many seeds within
+    a fleshy wall or pericarp: e.g. grape, tomato, cranberry'
   hypernym:
   - 13158186-n
   ili: i105687
@@ -91415,8 +91415,8 @@
   partOfSpeech: n
 13159085-n:
   definition:
-  - "fleshy indehiscent fruit with a single seed: e.g. almond, peach, plum, cherry,
-    elderberry, olive, jujube"
+  - 'fleshy indehiscent fruit with a single seed: e.g. almond, peach, plum, cherry,
+    elderberry, olive, jujube'
   hypernym:
   - 13155706-n
   ili: i105689
@@ -91571,7 +91571,7 @@
   partOfSpeech: n
 13161770-n:
   definition:
-  - "type genus of the Rhamnaceae: buckthorns"
+  - 'type genus of the Rhamnaceae: buckthorns'
   hypernym:
   - 11587862-n
   ili: i105703
@@ -91704,7 +91704,7 @@
   partOfSpeech: n
 13163874-n:
   definition:
-  - "spiny chiefly tropical American and Asiatic shrubs: jujubes"
+  - 'spiny chiefly tropical American and Asiatic shrubs: jujubes'
   hypernym:
   - 11587862-n
   ili: i105714
@@ -92086,7 +92086,7 @@
   partOfSpeech: n
 13169822-n:
   definition:
-  - "type genus of the Piperaceae: large genus of chiefly climbing tropical shrubs"
+  - 'type genus of the Piperaceae: large genus of chiefly climbing tropical shrubs'
   hypernym:
   - 11587862-n
   ili: i105747
@@ -92245,7 +92245,7 @@
   wikidata: Q1075760
 13172345-n:
   definition:
-  - "family of perennial aromatic herbs: genera Saururus, Anemopsis, Houttuynia"
+  - 'family of perennial aromatic herbs: genera Saururus, Anemopsis, Houttuynia'
   hypernym:
   - 11583198-n
   ili: i105760
@@ -92260,7 +92260,7 @@
   partOfSpeech: n
 13172597-n:
   definition:
-  - "type genus of the Saururaceae: lizard＇s-tails"
+  - 'type genus of the Saururaceae: lizard＇s-tails'
   hypernym:
   - 11587862-n
   ili: i105761
@@ -92286,7 +92286,7 @@
   partOfSpeech: n
 13172980-n:
   definition:
-  - "one species: yerba mansa"
+  - 'one species: yerba mansa'
   hypernym:
   - 11587862-n
   ili: i105763
@@ -93346,8 +93346,8 @@
   partOfSpeech: n
 13191184-n:
   definition:
-  - "type genus of Gleicheniaceae: leptosporangiate ferns with sessile sporangia;
-    South Africa to Malaysia and New Zealand"
+  - 'type genus of Gleicheniaceae: leptosporangiate ferns with sessile sporangia;
+    South Africa to Malaysia and New Zealand'
   hypernym:
   - 13187976-n
   ili: i105867
@@ -93466,9 +93466,9 @@
   wikidata: Q2946391
 13193005-n:
   definition:
-  - "ferns: a large family that in some classification systems has been subdivided
+  - 'ferns: a large family that in some classification systems has been subdivided
     into several families (including Aspleniaceae and Blechnaceae and Davalliaceae
-    and Dennstaedtiaceae and Dryopteridaceae and Oleandraceae and Pteridaceae)"
+    and Dennstaedtiaceae and Dryopteridaceae and Oleandraceae and Pteridaceae)'
   hypernym:
   - 13187236-n
   ili: i105877
@@ -93899,8 +93899,8 @@
   partOfSpeech: n
 13200308-n:
   definition:
-  - "one of a number of families into which Polypodiaceae has been subdivided in some
-    classification systems: genus Vittaria"
+  - 'one of a number of families into which Polypodiaceae has been subdivided in some
+    classification systems: genus Vittaria'
   hypernym:
   - 13187236-n
   ili: i105913
@@ -94012,8 +94012,8 @@
   partOfSpeech: n
 13202304-n:
   definition:
-  - "fern of tropical America: from southern United States to West Indies and Mexico
-    to Brazil"
+  - 'fern of tropical America: from southern United States to West Indies and Mexico
+    to Brazil'
   hypernym:
   - 13201432-n
   ili: i105922
@@ -94230,8 +94230,8 @@
   partOfSpeech: n
 13205771-n:
   definition:
-  - "in some classification systems placed in family Polypodiaceae; terrestrial ferns
-    of cosmopolitan distribution mainly in Southern Hemisphere: hard ferns"
+  - 'in some classification systems placed in family Polypodiaceae; terrestrial ferns
+    of cosmopolitan distribution mainly in Southern Hemisphere: hard ferns'
   hypernym:
   - 13187976-n
   ili: i105941
@@ -94298,8 +94298,8 @@
   partOfSpeech: n
 13206896-n:
   definition:
-  - "large tropical ferns: some epiphytic climbers and some terrestrial bog ferns;
-    native to Africa; Asia; Australasia"
+  - 'large tropical ferns: some epiphytic climbers and some terrestrial bog ferns;
+    native to Africa; Asia; Australasia'
   hypernym:
   - 13187976-n
   ili: i105947
@@ -94310,7 +94310,7 @@
   wikidata: Q1328365
 13207098-n:
   definition:
-  - "in some classification systems placed in family Polypodiaceae: chain ferns"
+  - 'in some classification systems placed in family Polypodiaceae: chain ferns'
   hypernym:
   - 13187976-n
   ili: i105948
@@ -94366,8 +94366,8 @@
   wikidata: Q133312
 13208065-n:
   definition:
-  - "type genus of the Cyatheaceae: tree ferns of the tropical rain forest to temperate
-    woodlands"
+  - 'type genus of the Cyatheaceae: tree ferns of the tropical rain forest to temperate
+    woodlands'
   hypernym:
   - 13187976-n
   ili: i105953
@@ -94551,7 +94551,7 @@
   wikidata: Q3410261
 13211116-n:
   definition:
-  - "tree ferns: genera Dicksonia, Cibotium, Culcita, and Thyrsopteris elegans"
+  - 'tree ferns: genera Dicksonia, Cibotium, Culcita, and Thyrsopteris elegans'
   hypernym:
   - 13187236-n
   ili: i105968
@@ -94591,8 +94591,8 @@
   wikidata: Q630002
 13211815-n:
   definition:
-  - "in some classification systems placed in family Cyatheaceae: ornamental tree
-    ferns with coarse gracefully drooping fronds"
+  - 'in some classification systems placed in family Cyatheaceae: ornamental tree
+    ferns with coarse gracefully drooping fronds'
   hypernym:
   - 13187976-n
   ili: i105971
@@ -94615,9 +94615,9 @@
   wikidata: Q2672719
 13212216-n:
   definition:
-  - "includes some plants usually placed in e.g. genus Dicksonia: terrestrial ferns
+  - 'includes some plants usually placed in e.g. genus Dicksonia: terrestrial ferns
     resembling bracken; tropical America; Malaysia to Australia and Polynesia; southwestern
-    Europe and Atlantic islands"
+    Europe and Atlantic islands'
   hypernym:
   - 13187976-n
   ili: i105973
@@ -94871,8 +94871,8 @@
   wikidata: Q28957
 13216445-n:
   definition:
-  - "chiefly small perennial rock ferns: bladder ferns; in some classifications placed
-    in Polypodiaceae"
+  - 'chiefly small perennial rock ferns: bladder ferns; in some classifications placed
+    in Polypodiaceae'
   hypernym:
   - 13187976-n
   ili: i105993
@@ -94958,7 +94958,7 @@
   wikidata: Q5260083
 13217840-n:
   definition:
-  - "one species: delicate fern of foothills of Himalayas"
+  - 'one species: delicate fern of foothills of Himalayas'
   hypernym:
   - 13187976-n
   ili: i106000
@@ -94968,7 +94968,7 @@
   partOfSpeech: n
 13217983-n:
   definition:
-  - "oak ferns: in some classification systems included in genus Thelypteris"
+  - 'oak ferns: in some classification systems included in genus Thelypteris'
   hypernym:
   - 13187976-n
   ili: i106001
@@ -95068,7 +95068,7 @@
   partOfSpeech: n
 13219626-n:
   definition:
-  - "one species: sensitive fern; in some classifications included in Polypodiaceae"
+  - 'one species: sensitive fern; in some classifications included in Polypodiaceae'
   hypernym:
   - 13187976-n
   ili: i106009
@@ -95188,7 +95188,7 @@
   partOfSpeech: n
 13221704-n:
   definition:
-  - "leatherleaf ferns: in some classifications included in genus Polystichum"
+  - 'leatherleaf ferns: in some classifications included in genus Polystichum'
   hypernym:
   - 13187976-n
   ili: i106019
@@ -95351,7 +95351,7 @@
   partOfSpeech: n
 13224303-n:
   definition:
-  - "one species: tree fern of Central and South America"
+  - 'one species: tree fern of Central and South America'
   hypernym:
   - 13187976-n
   ili: i106033
@@ -95399,7 +95399,7 @@
   partOfSpeech: n
 13225000-n:
   definition:
-  - "or family Polypodiaceae: tropical epiphytic or terrestrial ferns"
+  - 'or family Polypodiaceae: tropical epiphytic or terrestrial ferns'
   hypernym:
   - 13187976-n
   ili: i106037
@@ -95545,8 +95545,8 @@
   wikidata: Q2334244
 13227482-n:
   definition:
-  - "cosmopolitan genus of ferns: maidenhair ferns; in some classification systems
-    placed in family Polypodiaceae or Adiantaceae"
+  - 'cosmopolitan genus of ferns: maidenhair ferns; in some classification systems
+    placed in family Polypodiaceae or Adiantaceae'
   hypernym:
   - 13187976-n
   ili: i106048
@@ -95657,8 +95657,8 @@
   partOfSpeech: n
 13229366-n:
   definition:
-  - "small evergreen ferns: lipferns; in some classifications placed in family Polypodiaceae
-    or Adiantaceae"
+  - 'small evergreen ferns: lipferns; in some classifications placed in family Polypodiaceae
+    or Adiantaceae'
   hypernym:
   - 13187976-n
   ili: i106057
@@ -95829,8 +95829,8 @@
   partOfSpeech: n
 13232203-n:
   definition:
-  - "small terrestrial ferns of Old World tropics and subtropics: clawed ferns; sometimes
-    placed in family Cryptogrammataceae"
+  - 'small terrestrial ferns of Old World tropics and subtropics: clawed ferns; sometimes
+    placed in family Cryptogrammataceae'
   hypernym:
   - 13187976-n
   ili: i106072
@@ -96037,8 +96037,8 @@
   partOfSpeech: n
 13235711-n:
   definition:
-  - "constituting the order Marattiales: chiefly tropical eusporangiate ferns with
-    gigantic fronds"
+  - 'constituting the order Marattiales: chiefly tropical eusporangiate ferns with
+    gigantic fronds'
   hypernym:
   - 13187236-n
   ili: i106090
@@ -96053,8 +96053,8 @@
   wikidata: Q178286
 13235961-n:
   definition:
-  - "type genus of the Marattiaceae: ferns having the sporangia fused together in
-    two rows"
+  - 'type genus of the Marattiaceae: ferns having the sporangia fused together in
+    two rows'
   hypernym:
   - 13187976-n
   ili: i106091
@@ -96077,7 +96077,7 @@
   partOfSpeech: n
 13236360-n:
   definition:
-  - "one species: tree fern"
+  - 'one species: tree fern'
   hypernym:
   - 13187976-n
   ili: i106093
@@ -96111,8 +96111,8 @@
   partOfSpeech: n
 13236834-n:
   definition:
-  - "whisk ferns; comprising the family Psilotaceae or Psilotatae: vascular plants
-    with no roots, partial if any leaf differentiation, and rudimentary spore sacs"
+  - 'whisk ferns; comprising the family Psilotaceae or Psilotatae: vascular plants
+    with no roots, partial if any leaf differentiation, and rudimentary spore sacs'
   hypernym:
   - 08120743-n
   ili: i106096
@@ -96200,7 +96200,7 @@
   partOfSpeech: n
 13238392-n:
   definition:
-  - "any plant of the order Psilophytales: a savannah plant"
+  - 'any plant of the order Psilophytales: a savannah plant'
   hypernym:
   - 13104346-n
   ili: i106103
@@ -96221,8 +96221,8 @@
   partOfSpeech: n
 13238661-n:
   definition:
-  - "type genus of the Psilophytaceae: genus of small wiry herbaceous Paleozoic plants
-    with underground rhizomes and apical sporangia"
+  - 'type genus of the Psilophytaceae: genus of small wiry herbaceous Paleozoic plants
+    with underground rhizomes and apical sporangia'
   hypernym:
   - 13187976-n
   ili: i106105
@@ -96305,7 +96305,7 @@
   wikidata: Q5291566
 13239965-n:
   definition:
-  - "sole surviving family of the Equisetales: fern allies"
+  - 'sole surviving family of the Equisetales: fern allies'
   hypernym:
   - 13187236-n
   ili: i106112
@@ -96413,8 +96413,8 @@
   wikidata: Q933847
 13241740-n:
   definition:
-  - "club mosses and related forms: includes Lycopodiales, Isoetales, Selaginellales,
-    and extinct Lepidodendrales; sometimes considered a subdivision of Tracheophyta"
+  - 'club mosses and related forms: includes Lycopodiales, Isoetales, Selaginellales,
+    and extinct Lepidodendrales; sometimes considered a subdivision of Tracheophyta'
   hypernym:
   - 08120743-n
   ili: i106121
@@ -96433,7 +96433,7 @@
   partOfSpeech: n
 13242141-n:
   definition:
-  - "used in some classifications for the class Lycopsida: club mosses"
+  - 'used in some classifications for the class Lycopsida: club mosses'
   hypernym:
   - 08237812-n
   ili: i106122
@@ -96632,7 +96632,7 @@
   partOfSpeech: n
 13245154-n:
   definition:
-  - "lesser club mosses: terrestrial chiefly tropical plants resembling mosses"
+  - 'lesser club mosses: terrestrial chiefly tropical plants resembling mosses'
   hypernym:
   - 13187236-n
   ili: i106139
@@ -96644,8 +96644,8 @@
   partOfSpeech: n
 13245352-n:
   definition:
-  - "type and sole genus of the Selaginellaceae; evergreen moss-like plants: spike
-    moss and little club moss"
+  - 'type and sole genus of the Selaginellaceae; evergreen moss-like plants: spike
+    moss and little club moss'
   hypernym:
   - 13187976-n
   ili: i106140
@@ -96839,8 +96839,8 @@
   wikidata: Q1496479
 13248455-n:
   definition:
-  - "marsh ferns: in some classification systems considered part of genus Dryopteris
-    in family Dryopteridaceae"
+  - 'marsh ferns: in some classification systems considered part of genus Dryopteris
+    in family Dryopteridaceae'
   hypernym:
   - 13187976-n
   ili: i106156
@@ -97013,8 +97013,8 @@
   partOfSpeech: n
 13251319-n:
   definition:
-  - "beech ferns: genus is variously classified: considered alternative name for genus
-    Dryopteris or included in genus Thelypteris"
+  - 'beech ferns: genus is variously classified: considered alternative name for genus
+    Dryopteris or included in genus Thelypteris'
   hypernym:
   - 13187976-n
   ili: i106171
@@ -97186,7 +97186,7 @@
   partOfSpeech: n
 13254446-n:
   definition:
-  - "genus of chiefly North American perennial herbs: silkweed; milkweed"
+  - 'genus of chiefly North American perennial herbs: silkweed; milkweed'
   hypernym:
   - 11587862-n
   ili: i106185

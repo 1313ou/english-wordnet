@@ -2717,8 +2717,8 @@
   partOfSpeech: n
 15183149-n:
   definition:
-  - "in some states of the United States: a legal holiday commemorating the day the
-    state was admitted to the Union"
+  - 'in some states of the United States: a legal holiday commemorating the day the
+    state was admitted to the Union'
   hypernym:
   - 15182185-n
   ili: i116869
@@ -3122,8 +3122,8 @@
   partOfSpeech: n
 15189797-n:
   definition:
-  - "a day of rest and worship: Sunday for most Christians; Saturday for the Jews
-    and a few Christians; Friday for Muslims"
+  - 'a day of rest and worship: Sunday for most Christians; Saturday for the Jews
+    and a few Christians; Friday for Muslims'
   hypernym:
   - 15161999-n
   ili: i116906
@@ -3752,8 +3752,8 @@
   wikidata: Q200966
 15199021-n:
   definition:
-  - "in the Roman calendar: the 15th of March or May or July or October or the 13th
-    of any other month"
+  - 'in the Roman calendar: the 15th of March or May or July or October or the 13th
+    of any other month'
   hypernym:
   - 15182185-n
   ili: i116958
@@ -4650,7 +4650,7 @@
   partOfSpeech: n
 15214817-n:
   definition:
-  - "US: third Sunday in June"
+  - 'US: third Sunday in June'
   hypernym:
   - 15182185-n
   ili: i117036
@@ -4712,7 +4712,7 @@
   partOfSpeech: n
 15215614-n:
   definition:
-  - "US: the 4th Friday in September"
+  - 'US: the 4th Friday in September'
   hypernym:
   - 15182185-n
   ili: i117042
@@ -6320,8 +6320,8 @@
   wikidata: Q217185
 15240066-n:
   definition:
-  - "the fifth month of the civil year: the eleventh month of the ecclesiastical year
-    in the Jewish calendar (in January and February)"
+  - 'the fifth month of the civil year: the eleventh month of the ecclesiastical year
+    in the Jewish calendar (in January and February)'
   hypernym:
   - 15238864-n
   ili: i117181
@@ -9006,8 +9006,8 @@
   partOfSpeech: n
 15282640-n:
   definition:
-  - "one of two divisions into which some games or performances are divided: the two
-    divisions are separated by an interval"
+  - 'one of two divisions into which some games or performances are divided: the two
+    divisions are separated by an interval'
   hypernym:
   - 05876035-n
   ili: i117425
@@ -11132,7 +11132,7 @@
   partOfSpeech: n
 15317860-n:
   definition:
-  - "either of two short watches: from 4-6 pm or 6-8 pm"
+  - 'either of two short watches: from 4-6 pm or 6-8 pm'
   hypernym:
   - 15317579-n
   ili: i117614
@@ -11913,8 +11913,8 @@
   source: plWordNet 4.0
 92443571-n:
   definition:
-  - "the vector difference between the velocities of two bodies : the velocity of
-    a body with respect to another regarded as being at rest."
+  - 'the vector difference between the velocities of two bodies : the velocity of
+    a body with respect to another regarded as being at rest.'
   example:
   - The motion may have a different appearance as viewed from a different reference
     frame, but this can be explained by including the relative velocity of the reference

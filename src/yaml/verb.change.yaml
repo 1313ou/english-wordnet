@@ -3359,7 +3359,7 @@
   partOfSpeech: v
 00180460-v:
   definition:
-  - "remove or withdraw gradually:"
+  - 'remove or withdraw gradually:'
   hypernym:
   - 00173351-v
   ili: i22609
@@ -11253,9 +11253,9 @@
   partOfSpeech: v
 00309557-v:
   definition:
-  - "change (a compound) by increasing the proportion of the electronegative part;
+  - 'change (a compound) by increasing the proportion of the electronegative part;
     or change (an element or ion) from a lower to a higher positive valence: remove
-    one or more electrons from (an atom, ion, or molecule)"
+    one or more electrons from (an atom, ion, or molecule)'
   hypernym:
   - 00126072-v
   ili: i23269
@@ -20854,7 +20854,7 @@
   - 00465234-v
   ili: i24044
   members:
-  - "true"
+  - 'true'
   - true up
   partOfSpeech: v
 00466374-v:
@@ -26458,7 +26458,7 @@
   definition:
   - make into a verb
   example:
-  - "“mouse” has been verbified by computer users"
+  - “mouse” has been verbified by computer users
   hypernym:
   - 00126072-v
   ili: i24517

@@ -8311,8 +8311,8 @@
   partOfSpeech: n
 05763483-n:
   definition:
-  - "in the theories of Jean Piaget: the modification of internal representations
-    in order to accommodate a changing knowledge of reality"
+  - 'in the theories of Jean Piaget: the modification of internal representations
+    in order to accommodate a changing knowledge of reality'
   hypernym:
   - 05761204-n
   ili: i67146
@@ -8321,8 +8321,8 @@
   partOfSpeech: n
 05763711-n:
   definition:
-  - "in the theories of Jean Piaget: the application of a general schema to a particular
-    instance"
+  - 'in the theories of Jean Piaget: the application of a general schema to a particular
+    instance'
   hypernym:
   - 05761204-n
   ili: i67147
@@ -10873,7 +10873,7 @@
   partOfSpeech: n
 05810920-n:
   definition:
-  - "a change in the units or form of an expression:"
+  - 'a change in the units or form of an expression:'
   hypernym:
   - 05810193-n
   ili: i67378
@@ -14632,7 +14632,7 @@
   definition:
   - the first part or section of something
   example:
-  - "“It was a dark and stormy night” is a hackneyed beginning for a story"
+  - “It was a dark and stormy night” is a hackneyed beginning for a story
   hypernym:
   - 05876035-n
   ili: i67712
@@ -14682,7 +14682,7 @@
   - two constituents of a musical composition are melody and harmony
   - the grammatical elements of a sentence
   - a key factor in her success
-  - "humor: an effective ingredient of a speech"
+  - 'humor: an effective ingredient of a speech'
   hypernym:
   - 05876035-n
   ili: i67716
@@ -15236,9 +15236,9 @@
   partOfSpeech: n
 05889039-n:
   definition:
-  - "(physics) two laws governing electric networks in which steady currents flow:
+  - '(physics) two laws governing electric networks in which steady currents flow:
     the sum of all the currents at a point is zero and the sum of the voltage gains
-    and drops around any closed circuit is zero"
+    and drops around any closed circuit is zero'
   domain_topic:
   - 06100457-n
   hypernym:
@@ -15337,9 +15337,9 @@
   partOfSpeech: n
 05891144-n:
   definition:
-  - "(chemistry) the law that states the following principle: the rate of a chemical
+  - '(chemistry) the law that states the following principle: the rate of a chemical
     reaction is directly proportional to the molecular concentrations of the reacting
-    substances"
+    substances'
   domain_topic:
   - 06094057-n
   hypernym:
@@ -23150,8 +23150,8 @@
   partOfSpeech: n
 06038434-n:
   definition:
-  - "the relation between variables when the regression equation is linear: e.g.,
-    y = ax + b"
+  - 'the relation between variables when the regression equation is linear: e.g.,
+    y = ax + b'
   domain_topic:
   - 06027814-n
   hypernym:
@@ -24170,8 +24170,8 @@
   partOfSpeech: n
 06064423-n:
   definition:
-  - "the science or study of drugs: their preparation and properties and uses and
-    effects"
+  - 'the science or study of drugs: their preparation and properties and uses and
+    effects'
   hypernym:
   - 06052606-n
   ili: i68549
@@ -24192,8 +24192,8 @@
   partOfSpeech: n
 06065060-n:
   definition:
-  - "the study of the action of drugs in the body: method and rate of excretion, duration
-    of effect, etc."
+  - 'the study of the action of drugs in the body: method and rate of excretion, duration
+    of effect, etc.'
   hypernym:
   - 06064423-n
   ili: i68551
@@ -26141,9 +26141,9 @@
   partOfSpeech: n
 06121086-n:
   definition:
-  - "the branch of physics that studies the properties of materials in the solid state:
+  - 'the branch of physics that studies the properties of materials in the solid state:
     electrical conduction in crystals of semiconductors and metals; superconductivity;
-    photoconductivity"
+    photoconductivity'
   hypernym:
   - 06100457-n
   ili: i68738
@@ -26489,8 +26489,8 @@
   partOfSpeech: n
 06129336-n:
   definition:
-  - "the branch of geology that studies water on the earth and in the atmosphere:
-    its distribution and uses and conservation"
+  - 'the branch of geology that studies water on the earth and in the atmosphere:
+    its distribution and uses and conservation'
   hypernym:
   - 06127169-n
   ili: i68773
@@ -26570,8 +26570,8 @@
   partOfSpeech: n
 06130720-n:
   definition:
-  - "the branch of geology that studies minerals: their structure and properties and
-    the ways of distinguishing them"
+  - 'the branch of geology that studies minerals: their structure and properties and
+    the ways of distinguishing them'
   hypernym:
   - 06125308-n
   ili: i68781
@@ -26580,8 +26580,8 @@
   partOfSpeech: n
 06130982-n:
   definition:
-  - "the branch of geology that studies rocks: their origin and formation and mineral
-    composition and classification"
+  - 'the branch of geology that studies rocks: their origin and formation and mineral
+    composition and classification'
   hypernym:
   - 06127462-n
   ili: i68782
@@ -27036,8 +27036,8 @@
   partOfSpeech: n
 06144546-n:
   definition:
-  - "the branch of engineering that deals with the interaction of surfaces in relative
-    motion (as in bearings or gears): their design and friction and wear and lubrication"
+  - 'the branch of engineering that deals with the interaction of surfaces in relative
+    motion (as in bearings or gears): their design and friction and wear and lubrication'
   hypernym:
   - 06144167-n
   ili: i68825
@@ -30848,8 +30848,8 @@
   partOfSpeech: n
 06223917-n:
   definition:
-  - "the political doctrine of Machiavelli: any means (however unscrupulous) can be
-    used by a ruler in order to create and maintain his autocratic government"
+  - 'the political doctrine of Machiavelli: any means (however unscrupulous) can be
+    used by a ruler in order to create and maintain his autocratic government'
   hypernym:
   - 06223773-n
   ili: i69186
@@ -31737,9 +31737,9 @@
   partOfSpeech: n
 06240928-n:
   definition:
-  - "system of beliefs and practices including belief in scriptural authority: plain
+  - 'system of beliefs and practices including belief in scriptural authority: plain
     dress, adult baptism, foot washing, restriction of marriage to members of the
-    group"
+    group'
   hypernym:
   - 06238680-n
   ili: i69272
@@ -31835,7 +31835,7 @@
   partOfSpeech: n
 06242653-n:
   definition:
-  - "the doctrines and practices of the Presbyterian Church: based in Calvinism"
+  - 'the doctrines and practices of the Presbyterian Church: based in Calvinism'
   hypernym:
   - 06238680-n
   ili: i69282
@@ -33051,8 +33051,8 @@
     toleration along with Jews and Christians and usually identified with the Mandaeans
     or the Elkesaites.
   example:
-  - "The “olah”, or burnt offering, suppresses the wrong view: Sabianism in the broad
-    sense of belief in astrology, magic, and superstition."
+  - 'The “olah”, or burnt offering, suppresses the wrong view: Sabianism in the broad
+    sense of belief in astrology, magic, and superstition.'
   hypernym:
   - 05957131-n
   members:
@@ -33125,8 +33125,8 @@
     values.
   example:
   - The main results include a necessary and sufficient condition for asymptotic normality
-    of the Winsorized mean under the assumption that rn->∞, sn->∞, rnn−1->0,
-    snn−1->0 and F is convex at infinity.
+    of the Winsorized mean under the assumption that rn->∞, sn->∞, rnn−1->0, snn−1->0
+    and F is convex at infinity.
   hypernym:
   - 06033377-n
   members:
@@ -33209,8 +33209,8 @@
   source: plWordNet 4.0
 92437059-n:
   definition:
-  - "In particle physics, the unified description of two of the four known fundamental
-    interactions of nature: electromagnetism and the weak interaction."
+  - 'In particle physics, the unified description of two of the four known fundamental
+    interactions of nature: electromagnetism and the weak interaction.'
   example:
   - The existence of the electroweak interactions was experimentally established in
     two stages, the first being the discovery of neutral currents in neutrino scattering
@@ -33346,7 +33346,8 @@
   - (Stoic philosophy) a matter having no moral merit or demerit.
   example:
   - Esteem (or reputation, fame, glory) was for Stoics an adiaphoron, and though it
-    could be classed as prolegomenon with a certain “value”, it was only after Diogenes＇ time that they conceded that its “value” was more than instrumental.
+    could be classed as prolegomenon with a certain “value”, it was only after Diogenes＇
+    time that they conceded that its “value” was more than instrumental.
   hypernym:
   - 05844071-n
   members:
@@ -33386,9 +33387,9 @@
   - a philosophy or media theory dedicated to studying what lies beyond the realm
     of metaphysics.
   example:
-  - Of all the French cultural exports over the last 150 years or so, “pataphysics” — the
-    science of imaginary solutions and the laws governing exceptions — has proven to
-    be one of the most durable.
+  - Of all the French cultural exports over the last 150 years or so, “pataphysics”
+    — the science of imaginary solutions and the laws governing exceptions — has proven
+    to be one of the most durable.
   hypernym:
   - 05786951-n
   members:
@@ -33551,12 +33552,12 @@
     all fields of research.
   example:
   - Contemporary ideas from systems theory have grown with diverse areas, exemplified
-    by the work of biologist Ludwig von Bertalanffy, linguist Béla H. Bánáthy,
-    sociologist Talcott Parsons, ecological systems with Howard T. Odum, Eugene Odum
-    and Fritjof Capra, organizational theory and management with individuals such
-    as Peter Senge, interdisciplinary study with areas like Human Resource Development
-    from the work of Richard A. Swanson, and insights from educators such as Debora
-    Hammond and Alfonso Montuori.
+    by the work of biologist Ludwig von Bertalanffy, linguist Béla H. Bánáthy, sociologist
+    Talcott Parsons, ecological systems with Howard T. Odum, Eugene Odum and Fritjof
+    Capra, organizational theory and management with individuals such as Peter Senge,
+    interdisciplinary study with areas like Human Resource Development from the work
+    of Richard A. Swanson, and insights from educators such as Debora Hammond and
+    Alfonso Montuori.
   hypernym:
   - 06005806-n
   members:
@@ -33665,10 +33666,10 @@
   source: plWordNet 4.0
 92440559-n:
   definition:
-  - "a field of theoretically, politically, and empirically engaged cultural analysis
+  - a field of theoretically, politically, and empirically engaged cultural analysis
     that was initially developed by British academics in the late 1950s, ＇60s and
     ＇70s, and has been subsequently taken up and transformed by scholars from many
-    different disciplines around the world."
+    different disciplines around the world.
   example:
   - In fact, in England as well as elsewhere, cultural studies has drawn upon, and
     embodied, an enormously wide range of theoretical positions, from humanism to
@@ -34003,9 +34004,9 @@
   source: plWordNet 4.0
 92443908-n:
   definition:
-  - "belief in a priori principles or reasoning; specifically : the doctrine that
+  - 'belief in a priori principles or reasoning; specifically : the doctrine that
     knowledge rests upon principles that are self-evident to reason or are presupposed
-    by experience in general."
+    by experience in general.'
   example:
   - Nevertheless, the apriorism of both neoclassical and Austrian economics is vulnerable
     to the kind of criticism Dewey used against Kant.
@@ -34135,8 +34136,8 @@
   source: plWordNet 4.0
 92444030-n:
   definition:
-  - "a formal exploration of addictions from a variety of academic and scientific
-    perspectives: sociological, cultural, psychological, anthropological, and psychoanalytic."
+  - 'a formal exploration of addictions from a variety of academic and scientific
+    perspectives: sociological, cultural, psychological, anthropological, and psychoanalytic.'
   example:
   - Experiments psychologists Mark Sobell and Linda Sobell provided powerful momentum
     to the anti-abstinence movement in addiction studies in the 1970s by showing that
@@ -34424,8 +34425,8 @@
   - the art and practice of designing and building military works and maintaining
     lines of military transport and communications.
   example:
-  - "Modern military engineering can be divided into three main tasks or fields: combat
-    engineering, strategic support, and ancillary support."
+  - 'Modern military engineering can be divided into three main tasks or fields: combat
+    engineering, strategic support, and ancillary support.'
   hypernym:
   - 06134474-n
   members:
@@ -34447,9 +34448,9 @@
   source: plWordNet 4.0
 92446333-n:
   definition:
-  - "market research or statistics classifying population groups according to psychological
+  - 'market research or statistics classifying population groups according to psychological
     variables (as attitudes, values, or fears); also: variables or trends identified
-    through such research."
+    through such research.'
   example:
   - Psychographics is often confused with demographics, where historical generations
     may be defined both by demographics, such as the years in which a particular generation

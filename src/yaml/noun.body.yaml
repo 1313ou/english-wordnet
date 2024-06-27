@@ -2869,7 +2869,7 @@
   partOfSpeech: n
 05275611-n:
   definition:
-  - "the soft tissue of the body of a vertebrate: mainly muscle tissue and fat"
+  - 'the soft tissue of the body of a vertebrate: mainly muscle tissue and fat'
   hypernym:
   - 05275047-n
   ili: i64648
@@ -3286,7 +3286,7 @@
   partOfSpeech: n
 05283150-n:
   definition:
-  - "in limbs of vertebrate animals: a long cylindrical bone that contains marrow"
+  - 'in limbs of vertebrate animals: a long cylindrical bone that contains marrow'
   hypernym:
   - 05277400-n
   ili: i64685
@@ -4597,7 +4597,7 @@
   definition:
   - internal organs collectively (especially those in the abdominal cavity)
   example:
-  - "“viscera” is the plural form of “viscus”"
+  - “viscera” is the plural form of “viscus”
   hypernym:
   - 05306228-n
   ili: i64806
@@ -5403,8 +5403,8 @@
   partOfSpeech: n
 05319952-n:
   definition:
-  - "in insects and some crustaceans: composed of many light-sensitive elements each
-    forming a portion of an image"
+  - 'in insects and some crustaceans: composed of many light-sensitive elements each
+    forming a portion of an image'
   hypernym:
   - 05318579-n
   ili: i64874
@@ -11712,7 +11712,7 @@
   domain_topic:
   - 08458195-n
   example:
-  - "“in venter” is legal terminology for “conceived but not yet born”"
+  - “in venter” is legal terminology for “conceived but not yet born”
   hypernym:
   - 05526736-n
   ili: i65460
@@ -12708,8 +12708,8 @@
   partOfSpeech: n
 05450170-n:
   definition:
-  - "the sex chromosome that is present in both sexes: singly in males and doubly
-    in females"
+  - 'the sex chromosome that is present in both sexes: singly in males and doubly
+    in females'
   example:
   - human females normally have two X chromosomes
   hypernym:
@@ -16230,9 +16230,9 @@
   wikidata: Q1365325
 05512782-n:
   definition:
-  - "originates in the thoracic regions of the spinal cord; opposes physiological
+  - 'originates in the thoracic regions of the spinal cord; opposes physiological
     effects of the parasympathetic: reduces digestive secretions; speeds the heart;
-    contracts blood vessels"
+    contracts blood vessels'
   hypernym:
   - 05469891-n
   ili: i65861
@@ -16256,9 +16256,9 @@
   partOfSpeech: n
 05513330-n:
   definition:
-  - "originates in the brain stem and lower part of the spinal cord; opposes physiological
+  - 'originates in the brain stem and lower part of the spinal cord; opposes physiological
     effects of the sympathetic nervous system: stimulates digestive secretions; slows
-    the heart; constricts the pupils; dilates blood vessels"
+    the heart; constricts the pupils; dilates blood vessels'
   hypernym:
   - 05469891-n
   ili: i65863
@@ -18383,8 +18383,8 @@
   partOfSpeech: n
 05548864-n:
   definition:
-  - "the large cranial bone forming the front part of the cranium: includes the upper
-    part of the orbits"
+  - 'the large cranial bone forming the front part of the cranium: includes the upper
+    part of the orbits'
   hypernym:
   - 05284359-n
   ili: i66039
@@ -19572,8 +19572,8 @@
   partOfSpeech: n
 05567877-n:
   definition:
-  - "one of the jointed appendages of an animal used for locomotion or grasping: arm,
-    leg, wing, flipper"
+  - 'one of the jointed appendages of an animal used for locomotion or grasping: arm,
+    leg, wing, flipper'
   hypernym:
   - 05567541-n
   ili: i66135
@@ -20099,8 +20099,8 @@
   partOfSpeech: n
 05576686-n:
   definition:
-  - "any of the 31 pairs of nerves emerging from each side of the spinal cord (each
-    attached to the cord by two roots: ventral and dorsal)"
+  - 'any of the 31 pairs of nerves emerging from each side of the spinal cord (each
+    attached to the cord by two roots: ventral and dorsal)'
   hypernym:
   - 05481998-n
   ili: i66175
@@ -22050,7 +22050,7 @@
   partOfSpeech: n
 05609513-n:
   definition:
-  - "the characteristic parts of a person＇s face: eyes and nose and mouth and chin"
+  - 'the characteristic parts of a person＇s face: eyes and nose and mouth and chin'
   example:
   - an expression of pleasure crossed his features
   - his lineaments were very regular

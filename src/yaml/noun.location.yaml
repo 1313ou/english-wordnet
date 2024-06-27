@@ -13,8 +13,8 @@
   partOfSpeech: n
 08506507-n:
   definition:
-  - "the present location; this place; location, proximal pronoun; demonstrative pronoun,
-    location; quantifier: demonstrative determiner, singular, proximal"
+  - 'the present location; this place; location, proximal pronoun; demonstrative pronoun,
+    location; quantifier: demonstrative determiner, singular, proximal'
   example:
   - where do we go from here?
   hypernym:
@@ -25,9 +25,9 @@
   partOfSpeech: n
 08506637-n:
   definition:
-  - "a location other than here; that place; location, medial pronoun; demonstrative
+  - 'a location other than here; that place; location, medial pronoun; demonstrative
     pronoun, location; quantifier: demonstrative determiner, distal; demonstrative
-    pronoun, location; quantifier: demonstrative determiner, singular, distal"
+    pronoun, location; quantifier: demonstrative determiner, singular, distal'
   example:
   - you can take it from there
   hypernym:
@@ -320,7 +320,7 @@
   partOfSpeech: n
 08511469-n:
   definition:
-  - "the region around the south pole: Antarctica and surrounding waters"
+  - 'the region around the south pole: Antarctica and surrounding waters'
   ili: i81695
   instance_hypernym:
   - 08590805-n
@@ -1232,7 +1232,7 @@
   domain_topic:
   - 00315295-n
   example:
-  - "“on her beam-ends” means heeled over on the side so that the deck is almost vertical"
+  - “on her beam-ends” means heeled over on the side so that the deck is almost vertical
   hypernym:
   - 08527687-n
   ili: i81775
@@ -9507,7 +9507,7 @@
   partOfSpeech: n
 08695263-n:
   definition:
-  - "in law: the jurisdiction where a trial will be held"
+  - 'in law: the jurisdiction where a trial will be held'
   hypernym:
   - 08607925-n
   ili: i82540
@@ -24123,7 +24123,7 @@
   - 08542298-n
   members:
   - The Hague
-  - "'s Gravenhage"
+  - '''s Gravenhage'
   - Den Haag
   partOfSpeech: n
 08970422-n:
@@ -30020,9 +30020,9 @@
   wikidata: Q49042
 09073691-n:
   definition:
-  - "the southeastern region of the United States: South Carolina and Georgia and
+  - 'the southeastern region of the United States: South Carolina and Georgia and
     Alabama and Mississippi and Louisiana; prior to the American Civil War all these
-    states produced cotton and permitted slavery"
+    states produced cotton and permitted slavery'
   ili: i84193
   instance_hypernym:
   - 08591861-n
@@ -30057,8 +30057,8 @@
   partOfSpeech: n
 09074354-n:
   definition:
-  - "the coastal plain of the South: eastern parts of Virginia and North Carolina
-    and South Carolina and Georgia"
+  - 'the coastal plain of the South: eastern parts of Virginia and North Carolina
+    and South Carolina and Georgia'
   ili: i84196
   instance_hypernym:
   - 08591861-n
@@ -30068,8 +30068,8 @@
   partOfSpeech: n
 09074556-n:
   definition:
-  - "the plateau between the coastal plain and the Appalachian Mountains: parts of
-    Virginia and North and South Carolina and Georgia and Alabama"
+  - 'the plateau between the coastal plain and the Appalachian Mountains: parts of
+    Virginia and North and South Carolina and Georgia and Alabama'
   ili: i84197
   instance_hypernym:
   - 08591861-n
@@ -37150,8 +37150,8 @@
   partOfSpeech: n
 09188920-n:
   definition:
-  - "the lowland region of western Europe on the North Sea: Belgium and Luxembourg
-    and the Netherlands"
+  - 'the lowland region of western Europe on the North Sea: Belgium and Luxembourg
+    and the Netherlands'
   ili: i84802
   instance_hypernym:
   - 08591861-n
@@ -38023,8 +38023,8 @@
   partOfSpeech: n
 89497668-n:
   definition:
-  - kingdom and sovereign state consisting of the Netherlands, Aruba, Curacao and Sint
-    Maarten
+  - kingdom and sovereign state consisting of the Netherlands, Aruba, Curacao and
+    Sint Maarten
   hypernym:
   - 08608825-n
   members:

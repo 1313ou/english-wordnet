@@ -2533,8 +2533,8 @@
   partOfSpeech: n
 14652297-n:
   definition:
-  - "a white crystalline double sulfate of aluminum: the potassium double sulfate
-    of aluminum"
+  - 'a white crystalline double sulfate of aluminum: the potassium double sulfate
+    of aluminum'
   hypernym:
   - 14651998-n
   - 15036554-n
@@ -2546,8 +2546,8 @@
   partOfSpeech: n
 14652485-n:
   definition:
-  - "a white crystalline double sulfate of aluminum: the ammonium double sulfate of
-    aluminum"
+  - 'a white crystalline double sulfate of aluminum: the ammonium double sulfate of
+    aluminum'
   hypernym:
   - 14651998-n
   - 15036554-n
@@ -2804,8 +2804,8 @@
   partOfSpeech: n
 14657384-n:
   definition:
-  - "an abundant nonmetallic tetravalent element occurring in three allotropic forms:
-    amorphous carbon and graphite and diamond; occurs in all organic compounds"
+  - 'an abundant nonmetallic tetravalent element occurring in three allotropic forms:
+    amorphous carbon and graphite and diamond; occurs in all organic compounds'
   hypernym:
   - 14651424-n
   ili: i113913
@@ -3567,7 +3567,7 @@
   ili: i113976
   members:
   - nobelium
-  - "No"
+  - 'No'
   - atomic number 102
   partOfSpeech: n
 14672085-n:
@@ -13642,8 +13642,8 @@
   partOfSpeech: n
 14844595-n:
   definition:
-  - "a mixture of two partially miscible liquids A and B produces two conjugate solutions:
-    one of A in B and another of B in A"
+  - 'a mixture of two partially miscible liquids A and B produces two conjugate solutions:
+    one of A in B and another of B in A'
   hypernym:
   - 14613403-n
   ili: i114925
@@ -20977,8 +20977,8 @@
   partOfSpeech: n
 14963583-n:
   definition:
-  - "continuous amorphous matter that tends to flow and to conform to the outline
-    of its container: a liquid or a gas"
+  - 'continuous amorphous matter that tends to flow and to conform to the outline
+    of its container: a liquid or a gas'
   hypernym:
   - 00021007-n
   ili: i115629
@@ -23595,7 +23595,7 @@
   partOfSpeech: n
 15007466-n:
   definition:
-  - "an acid used in fertilizers and soaps: H3PO4"
+  - 'an acid used in fertilizers and soaps: H3PO4'
   hypernym:
   - 14996918-n
   ili: i115880
@@ -25842,7 +25842,8 @@
   partOfSpeech: n
 15045756-n:
   definition:
-  - pad for preliminary or hasty writing or notes or sketches etc.; “scribbling block” is a British term
+  - pad for preliminary or hasty writing or notes or sketches etc.; “scribbling block”
+    is a British term
   hypernym:
   - 15045652-n
   ili: i116098
@@ -31602,10 +31603,10 @@
   - a chemical compound widely used as an abrasive.
   example:
   - source: https://en.wikipedia.org
-    text: "As cubic boron nitride consists of light atoms and is very robust chemically
+    text: 'As cubic boron nitride consists of light atoms and is very robust chemically
       and mechanically, it is one of the popular materials for X-ray membranes: low
       mass results in small X-ray absorption, and good mechanical properties allow
-      usage of thin membranes, thus further reducing the absorption."
+      usage of thin membranes, thus further reducing the absorption.'
   hypernym:
   - 92406518-n
   members:
@@ -31846,8 +31847,8 @@
   source: plWordNet 4.0
 92424810-n:
   definition:
-  - "The name “ecdysteroid” refers to the insect moulting and sex hormones
-    which include ecdysone and its homologues such as 20-hydroxyecdysone."
+  - The name “ecdysteroid” refers to the insect moulting and sex hormones which include
+    ecdysone and its homologues such as 20-hydroxyecdysone.
   example:
   - source: https://en.wikipedia.org
     text: Ecdysteroids also occur in other invertebrates where they can play a different
@@ -32083,9 +32084,9 @@
   - an aqueous suspension of calcium hydroxide, used in tanning as a basic agent.
   example:
   - source: https://en.wikipedia.org
-    text: "After soaking, the hides and skins are taken for liming: treatment with
+    text: 'After soaking, the hides and skins are taken for liming: treatment with
       milk of lime (a basic agent) that may involve the addition of “sharpening agents”
-      (disulfide reducing agents) like sodium sulfide, cyanides, amines etc."
+      (disulfide reducing agents) like sodium sulfide, cyanides, amines etc.'
   - source: https://en.wikipedia.org
     text: When excess calcium hydroxide is added to limewater, a suspension of calcium
       hydroxide particles results, giving it a milky aspect, in which case it has
@@ -32172,10 +32173,10 @@
   - a ceramic material having electrical, optical and magnetic properties, suitable
     for use as insulators for power lines and in electrical components.
   example:
-  - "Examples of electroceramic materials include: ferroelectrics - high dielectric
+  - 'Examples of electroceramic materials include: ferroelectrics - high dielectric
     capacitors, non-volatile memories; ferrites - data and information storage; solid
     electrolytes - energy storage and conversion; piezoelectrics - sonar; semiconducting
-    oxides - environmental monitoring."
+    oxides - environmental monitoring.'
   hypernym:
   - 14604877-n
   members:
@@ -33108,8 +33109,8 @@
   source: plWordNet 4.0
 92464700-n:
   definition:
-  - an isometric hydrocarbon isolated from cardamon and marjoram oils, as well as other
-    natural sources.
+  - an isometric hydrocarbon isolated from cardamon and marjoram oils, as well as
+    other natural sources.
   example:
   - source: https://en.wikipedia.org
     text: α-Terpinene is a perfume and flavoring chemical used in the cosmetics and

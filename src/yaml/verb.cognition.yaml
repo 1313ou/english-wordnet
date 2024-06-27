@@ -2961,8 +2961,8 @@
   partOfSpeech: v
 00643591-v:
   definition:
-  - "multiply (a number) by itself a specified number of times: 8 is 2 raised to the
-    power 3"
+  - 'multiply (a number) by itself a specified number of times: 8 is 2 raised to the
+    power 3'
   domain_topic:
   - 06013397-n
   hypernym:
