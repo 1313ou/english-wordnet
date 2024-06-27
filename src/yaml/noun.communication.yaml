@@ -2121,8 +2121,8 @@
   definition:
   - a word formed from two or more words by omitting or combining some sounds
   example:
-  - '`won''t´ is a contraction of `will not´'
-  - '`o''clock´ is a contraction of `of the clock´'
+  - "`won't´ is a contraction of `will not´"
+  - "`o'clock´ is a contraction of `of the clock´"
   hypernym:
   - 06297048-n
   ili: i69553
@@ -3720,8 +3720,8 @@
   definition:
   - a modifier that has little meaning except to intensify the meaning it modifies
   example:
-  - '`up´ in `finished up´ is an intensifier'
-  - '`honestly´ in `I honestly don''t know´ is an intensifier'
+  - "`up´ in `finished up´ is an intensifier"
+  - "`honestly´ in `I honestly don't know´ is an intensifier"
   hypernym:
   - 06331794-n
   ili: i69701
@@ -12800,8 +12800,8 @@
   domain_topic:
   - 06182505-n
   example:
-  - '`Those girls, they giggle when they see me´ and `Cigarettes, you couldn''t pay
-    me to smoke them´ are examples of topicalization'
+  - "`Those girls, they giggle when they see me´ and `Cigarettes, you couldn't pay
+    me to smoke them´ are examples of topicalization"
   hypernym:
   - 07117611-n
   ili: i70523
@@ -34126,8 +34126,8 @@
   definition:
   - a letter that has two or more pronunciations
   example:
-  - '`c´ is a polyphone because it is pronounced like `k´ in `car´ but like `s´ in
-    `cell´'
+  - "`c´ is a polyphone because it is pronounced like `k´ in `car´ but like `s´ in
+    `cell´"
   hypernym:
   - 06841868-n
   ili: i72460
@@ -34272,8 +34272,8 @@
   partOfSpeech: n
 06855037-n:
   definition:
-  - the mark (`'´) used to indicate the omission of one or more letters from a printed
-    word
+  - "the mark (`'´) used to indicate the omission of one or more letters from a printed
+    word"
   hypernym:
   - 06854415-n
   ili: i72474
@@ -34301,7 +34301,7 @@
   partOfSpeech: n
 06855502-n:
   definition:
-  - either of two punctuation marks (`<´ or `´>) used in computer programming and
+  - either of two punctuation marks (`<´ or `>´) used in computer programming and
     sometimes used to enclose textual material
   hypernym:
   - 06854415-n
@@ -34462,7 +34462,7 @@
   partOfSpeech: n
 06858126-n:
   definition:
-  - a punctuation mark (`⁓´) used in text to indicate the omission of a word
+  - "a punctuation mark (`⁓´) used in text to indicate the omission of a word"
   hypernym:
   - 06854415-n
   ili: i72492
@@ -48739,8 +48739,8 @@
   partOfSpeech: n
 07081916-n:
   definition:
-  - 'the use of closed-class words instead of inflections: e.g., `the father of the
-    bride´ instead of `the bride''s father´'
+  - "the use of closed-class words instead of inflections: e.g., `the father of the
+    bride´ instead of `the bride's father´"
   hypernym:
   - 07080699-n
   ili: i73822
@@ -62237,8 +62237,8 @@
     a PIM) is a type of application software that functions as a personal organizer.
   example:
   - source: https://en.wikipedia.org
-    text: As an information management tool, a PIM tool＇s purpose is to facilitate
-      the recording, tracking, and management of certain types of “personal information”.
+    text: "As an information management tool, a PIM tool＇s purpose is to facilitate
+      the recording, tracking, and management of certain types of `personal information´."
   hypernym:
   - 06581154-n
   members:
@@ -62729,8 +62729,8 @@
   - a poem whose meaning is conveyed through its graphic shape or pattern on the printed
     page.
   example:
-  - '`The Mouse''s Tale´ is a concrete poem by Lewis Carroll which appears in his
-    novel Alice''s Adventures in Wonderland.'
+  - "`The Mouse's Tale´ is a concrete poem by Lewis Carroll which appears in his
+    novel Alice's Adventures in Wonderland."
   hypernym:
   - 06389065-n
   members:
@@ -63231,7 +63231,7 @@
   - a verb form expressing action as single in its occurrence without repetition or
     continuation.
   example:
-  - Semelfactive verbs include  `blink´, `sneeze´, and `knock´.
+  - Semelfactive verbs include `blink´, `sneeze´, and `knock´.
   hypernym:
   - 92462256-n
   members:
@@ -63269,9 +63269,9 @@
   definition:
   - the name of an object which may be perceived by one or more of the five senses.
   example:
-  - '`Kitten´ is an example of a concrete noun. A kitten registers with the five senses:
+  - "`Kitten´ is an example of a concrete noun. A kitten registers with the five senses:
     you can see a kitten, pet its fur, smell its breath, hear it purr and taste its
-    kisses.'
+    kisses."
   hypernym:
   - 06330286-n
   members:
@@ -64076,9 +64076,7 @@
   definition:
   - The name of a Saint taken as a proper name.
   example:
-  - This Native place name was used for a while in parallel with the hagionym Saint-Francois-Xavier
-    (1850s) as well as another ´official´ toponym, Grantown, named after Cuthbert
-    Grant.
+  - "This Native place name was used for a while in parallel with the hagionym Saint-Francois-Xavier (1850s) as well as another `offical´ toponym, Grantown, named after Cuthbert Grant."
   hypernym:
   - 06349648-n
   members:
@@ -64321,7 +64319,7 @@
     or on coins or medals.
   example:
   - One practice was rendering an over-used, formulaic phrase only as a siglum, e.g.
-    RIP for requiescat in pace (`Rest in Peace´), because the long-form written usage
+    RIP for `requiescat in pace´ (`Rest in Peace´), because the long-form written usage
     of the abbreviated phrase, itself, was rare.
   hypernym:
   - 06831828-n
