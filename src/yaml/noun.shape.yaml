@@ -421,7 +421,7 @@
   partOfSpeech: n
 13891452-n:
   definition:
-  - the double curve of the upper lip when considered to resemble Cupid＇s bow
+  - the double curve of the upper lip when considered to resemble Cupid's bow
   hypernym:
   - 13890262-n
   ili: i109805
@@ -821,7 +821,7 @@
   definition:
   - something with a round shape resembling a flat circular plate
   example:
-  - the moon＇s disk hung in a cloudless sky
+  - the moon's disk hung in a cloudless sky
   hypernym:
   - 13888104-n
   ili: i109843
@@ -1512,7 +1512,7 @@
   - something twisted and tight and swollen
   example:
   - their muscles stood out in knots
-  - the old man＇s fists were two great gnarls
+  - the old man's fists were two great gnarls
   - his stomach was in knots
   hypernym:
   - 13889897-n
@@ -2498,7 +2498,7 @@
   definition:
   - a V shape
   example:
-  - the cannibal＇s teeth were filed to sharp points
+  - the cannibal's teeth were filed to sharp points
   hypernym:
   - 13886774-n
   ili: i110001
@@ -2982,7 +2982,7 @@
   example:
   - the huge desert voids
   - the emptiness of outer space
-  - without their support he＇ll be ruling in a vacuum
+  - without their support he'll be ruling in a vacuum
   hypernym:
   - 13933399-n
   ili: i110043
@@ -3642,7 +3642,7 @@
   source: plWordNet 4.0
 92436939-n:
   definition:
-  - A head line is a crease on the palm said to represent the person＇s mind and the
+  - A head line is a crease on the palm said to represent the person's mind and the
     way it works, including learning style, communication style, intellectualism,
     and thirst for knowledge.
   example:
@@ -3673,7 +3673,7 @@
   example:
   - Since every (X , Y) combination will have an indifference curve passing through
     it, we can add a third axis stretching upward from the bottom left corner of the
-    figure measuring the degree to which the individual＇s preferences are satisfied,
+    figure measuring the degree to which the individual's preferences are satisfied,
     and visualize the infinitely many indifference curves as representing a smooth
     surface that rises as the consumption of commodities X and Y increase.
   hypernym:
@@ -3849,7 +3849,7 @@
   - a curve whose equation in Cartesian coordinates is of the form y = a cos x.
   example:
   - The shape of the cosine curve is the same for each full rotation of the angle
-    and so the function is called “periodic”.
+    and so the function is called `periodic´.
   hypernym:
   - 13890262-n
   members:
@@ -3872,7 +3872,7 @@
   - a plane curve that is the graph of the equation y = tan x, where x is an angle.
   example:
   - The shape of the tangent curve is the same for each full rotation of the angle
-    and so the function is called “periodic”.
+    and so the function is called `periodic´.
   hypernym:
   - 13890262-n
   members:

@@ -104,7 +104,7 @@
   partOfSpeech: n
 06264501-n:
   definition:
-  - a message transmitted by means of the sun＇s rays
+  - a message transmitted by means of the sun's rays
   hypernym:
   - 06263820-n
   ili: i69371
@@ -723,7 +723,7 @@
   example:
   - the mail handles billions of items every day
   - he works for the United States mail service
-  - in England they call mail “the post”
+  - in England they call mail `the post´
   hypernym:
   - 06262268-n
   ili: i69425
@@ -1225,7 +1225,7 @@
   example:
   - she reported several anonymous calls
   - he placed a phone call to London
-  - he heard the phone ringing but didn＇t want to take the call
+  - he heard the phone ringing but didn't want to take the call
   hypernym:
   - 06282943-n
   ili: i69471
@@ -1425,8 +1425,8 @@
   partOfSpeech: n
 06286794-n:
   definition:
-  - third-class mail consisting of advertising and often addressed to “resident” or
-    “occupant”
+  - third-class mail consisting of advertising and often addressed to `resident´ or
+    `occupant´
   hypernym:
   - 06286630-n
   ili: i69491
@@ -1619,7 +1619,7 @@
   definition:
   - (computer science) a system of world-wide electronic communication in which a
     computer user can compose a message at one terminal that can be regenerated at
-    the recipient＇s terminal when the recipient logs in
+    the recipient's terminal when the recipient logs in
   domain_topic:
   - 06138021-n
   example:
@@ -1738,7 +1738,7 @@
 06291948-n:
   definition:
   - (electronics) the transmission of a signal by using it to vary a carrier wave;
-    changing the carrier＇s amplitude or frequency or phase
+    changing the carrier's amplitude or frequency or phase
   domain_topic:
   - 06108876-n
   hypernym:
@@ -2043,7 +2043,7 @@
   - a word that expresses a meaning opposed to the meaning of another word, in which
     case the two words are antonyms of each other
   example:
-  - to him the antonym of “gay” was “depressed”
+  - to him the antonym of `gay´ was `depressed´
   hypernym:
   - 06297048-n
   ili: i69547
@@ -2074,9 +2074,9 @@
   definition:
   - a new word formed by joining two others and combining their meanings
   example:
-  - “smog” is a blend of “smoke” and “fog”
-  - “motel” is a portmanteau word made by combining “motor” and “hotel”
-  - “brunch” is a well-known portmanteau
+  - '`smog´ is a blend of `smoke´ and `fog´'
+  - '`motel´ is a portmanteau word made by combining `motor´ and `hotel´'
+  - '`brunch´ is a well-known portmanteau'
   hypernym:
   - 06305222-n
   ili: i69549
@@ -2121,8 +2121,8 @@
   definition:
   - a word formed from two or more words by omitting or combining some sounds
   example:
-  - “won＇t” is a contraction of “will not”
-  - “o＇clock” is a contraction of “of the clock”
+  - '`won''t´ is a contraction of `will not´'
+  - '`o''clock´ is a contraction of `of the clock´'
   hypernym:
   - 06297048-n
   ili: i69553
@@ -2150,7 +2150,7 @@
   domain_topic:
   - 06182505-n
   example:
-  - “electricity” is a derivative of “electric”
+  - '`electricity´ is a derivative of `electric´'
   hypernym:
   - 06297048-n
   ili: i69555
@@ -2170,7 +2170,7 @@
   definition:
   - a word that is considered to be unmentionable
   example:
-  - “failure” is a dirty word to him
+  - '`failure´ is a dirty word to him'
   hypernym:
   - 06297048-n
   ili: i69557
@@ -2277,7 +2277,7 @@
   definition:
   - two words are heteronyms if they are spelled the same way but differ in pronunciation
   example:
-  - the word “bow” is an example of a heteronym
+  - the word `bow´ is an example of a heteronym
   hypernym:
   - 06297048-n
   ili: i69566
@@ -2288,7 +2288,7 @@
   definition:
   - a word that names the whole of which a given word is a part
   example:
-  - “hat” is a holonym for “brim” and “crown”
+  - '`hat´ is a holonym for `brim´ and `crown´'
   hypernym:
   - 06297048-n
   ili: i69567
@@ -2339,7 +2339,7 @@
   partOfSpeech: n
 06304010-n:
   definition:
-  - a word that is composed of parts from different languages (e.g., “monolingual”
+  - a word that is composed of parts from different languages (e.g., `monolingual´
     has a Greek prefix and a Latin root)
   domain_region:
   - 08798733-n
@@ -2355,7 +2355,7 @@
   partOfSpeech: n
 06304241-n:
   definition:
-  - a word borrowed from another language; e.g. “blitz” is a German word borrowed
+  - a word borrowed from another language; e.g. `blitz´ is a German word borrowed
     into modern English
   hypernym:
   - 06297048-n
@@ -2378,7 +2378,7 @@
   definition:
   - a word that names a part of a larger whole
   example:
-  - “brim” and “crown” are meronyms of “hat”
+  - '`brim´ and `crown´ are meronyms of `hat´'
   hypernym:
   - 06297048-n
   ili: i69575
@@ -2402,7 +2402,7 @@
   definition:
   - an anagram that means the opposite of the original word or phrase
   example:
-  - “restful” is the antigram of “fluster”
+  - '`restful´ is the antigram of `fluster´'
   hypernym:
   - 06298291-n
   ili: i69577
@@ -2463,7 +2463,7 @@
   definition:
   - a word serving as the basis for inflected or derived forms
   example:
-  - “pick” is the primitive from which “picket” is derived
+  - '`pick´ is the primitive from which `picket´ is derived'
   hypernym:
   - 06297048-n
   ili: i69583
@@ -2570,9 +2570,9 @@
 06312002-n:
   definition:
   - one of the eight sayings of Jesus at the beginning of the Sermon on the Mount;
-    in Latin each saying begins with “beatus” (blessed)
+    in Latin each saying begins with `beatus´ (blessed)
   example:
-  - her favorite Beatitude is “Blessed are the meek for they shall inherit the earth”
+  - her favorite Beatitude is `Blessed are the meek for they shall inherit the earth´
   hypernym:
   - 07166088-n
   ili: i69592
@@ -2593,7 +2593,7 @@
   definition:
   - an expression introduced into one language by translating it from another language
   example:
-  - “superman” is a calque for the German “Ubermensch”
+  - '`superman´ is a calque for the German `Ubermensch´'
   hypernym:
   - 07166088-n
   ili: i69594
@@ -2613,7 +2613,7 @@
   partOfSpeech: n
 06312782-n:
   definition:
-  - word (such a “some” or “less”) that is used to indicate a part as distinct from
+  - word (such a `some´ or `less´) that is used to indicate a part as distinct from
     a whole
   hypernym:
   - 06297048-n
@@ -2653,7 +2653,7 @@
   partOfSpeech: n
 06313371-n:
   definition:
-  - (grammar) a word that expresses a quantity (as “fifteen” or “many”)
+  - (grammar) a word that expresses a quantity (as `fifteen´ or `many´)
   domain_topic:
   - 06184139-n
   hypernym:
@@ -2664,7 +2664,7 @@
   partOfSpeech: n
 06313532-n:
   definition:
-  - (logic) a word (such as “some” or “all” or “no”) that binds the variables in a
+  - (logic) a word (such as `some´ or `all´ or `no´) that binds the variables in a
     logical proposition
   domain_topic:
   - 06173467-n
@@ -2710,8 +2710,8 @@
   definition:
   - a word introduced because an existing term has become inadequate
   example:
-  - Nobody ever heard of analog clocks until digital clocks became common, so “analog
-    clock” is a retronym
+  - Nobody ever heard of analog clocks until digital clocks became common, so `analog
+    clock´ is a retronym
   hypernym:
   - 06297048-n
   ili: i69605
@@ -2777,7 +2777,7 @@
   definition:
   - a word that denotes a manner of doing something
   example:
-  - “march” is a troponym of “walk”
+  - '`march´ is a troponym of `walk´'
   hypernym:
   - 06297048-n
   ili: i69611
@@ -2799,7 +2799,7 @@
   definition:
   - a unit of spoken language larger than a phoneme
   example:
-  - the word “pocket” has two syllables
+  - the word `pocket´ has two syllables
   hypernym:
   - 06294878-n
   ili: i69613
@@ -2867,7 +2867,7 @@
   partOfSpeech: n
 06316706-n:
   definition:
-  - antonyms that are commonly associated (e.g., “wet” and “dry”)
+  - antonyms that are commonly associated (e.g., `wet´ and `dry´)
   hypernym:
   - 06298695-n
   ili: i69620
@@ -2876,8 +2876,8 @@
   partOfSpeech: n
 06316828-n:
   definition:
-  - antonyms whose opposition is mediated (e.g., the antonymy of “wet” and “parched”
-    is mediated by the similarity of “parched” to “dry”)
+  - antonyms whose opposition is mediated (e.g., the antonymy of `wet´ and `parched´
+    is mediated by the similarity of `parched´ to `dry´)
   hypernym:
   - 06298695-n
   ili: i69621
@@ -2886,8 +2886,8 @@
   partOfSpeech: n
 06317024-n:
   definition:
-  - a minimal unit (as a word or stem) in the lexicon of a language; “go” and “went”
-    and “gone” and “going” are all members of the English lexeme “go”
+  - a minimal unit (as a word or stem) in the lexicon of a language; `go´ and `went´
+    and `gone´ and `going´ are all members of the English lexeme `go´
   hypernym:
   - 06294878-n
   ili: i69622
@@ -2918,7 +2918,7 @@
   definition:
   - a variant phonological representation of a morpheme
   example:
-  - the final sounds of “bets” and “beds” and “horses” and “oxen” are allomorphs of
+  - the final sounds of `bets´ and `beds´ and `horses´ and `oxen´ are allomorphs of
     the English plural morpheme
   hypernym:
   - 06317223-n
@@ -2951,7 +2951,7 @@
   definition:
   - a bound form used only in compounds
   example:
-  - “hemato-” is a combining form in words like “hematology”
+  - '`hemato-´ is a combining form in words like `hematology´'
   hypernym:
   - 06317935-n
   ili: i69628
@@ -3000,7 +3000,7 @@
   definition:
   - the end of a word (a suffix or inflectional ending or final morpheme)
   example:
-  - I don＇t like words that have -ism as an ending
+  - I don't like words that have -ism as an ending
   hypernym:
   - 06317223-n
   ili: i69633
@@ -3208,7 +3208,7 @@
   definition:
   - a word in the genitive case that is used as an attributive adjective
   example:
-  - an example of the attributive genetive is “John＇s” in “John＇s mother”
+  - an example of the attributive genetive is `John's´ in `John's mother´
   hypernym:
   - 06322842-n
   ili: i69652
@@ -3361,8 +3361,8 @@
   definition:
   - a clause introduced by a relative pronoun
   example:
-  - “who visits frequently” is a relative clause in the sentence “John, who visits
-    frequently, is ill”
+  - '`who visits frequently´ is a relative clause in the sentence `John, who visits
+    frequently, is ill´'
   hypernym:
   - 06325134-n
   ili: i69666
@@ -3472,7 +3472,7 @@
   domain_topic:
   - 06173467-n
   example:
-  - “Socrates is a man” predicates manhood of Socrates
+  - '`Socrates is a man´ predicates manhood of Socrates'
   hypernym:
   - 06764688-n
   ili: i69676
@@ -3481,7 +3481,7 @@
   partOfSpeech: n
 06328100-n:
   definition:
-  - an infinitive with an adverb between “to” and the verb (e.g., “to boldly go”)
+  - an infinitive with an adverb between `to´ and the verb (e.g., `to boldly go´)
   hypernym:
   - 06329897-n
   ili: i69677
@@ -3549,7 +3549,7 @@
   partOfSpeech: n
 06329345-n:
   definition:
-  - a noun formed from a verb (such as the “-ing” form of an English verb when used
+  - a noun formed from a verb (such as the `-ing´ form of an English verb when used
     as a noun)
   hypernym:
   - 06331307-n
@@ -3569,7 +3569,7 @@
   partOfSpeech: n
 06329715-n:
   definition:
-  - an auxiliary verb (such as “can” or “will”) that is used to express modality
+  - an auxiliary verb (such as `can´ or `will´) that is used to express modality
   hypernym:
   - 06329506-n
   ili: i69686
@@ -3688,7 +3688,7 @@
   definition:
   - an adjective used as a noun
   example:
-  - “meek” in “blessed are the meek” is an adnoun
+  - '`meek´ in `blessed are the meek´ is an adnoun'
   hypernym:
   - 06331146-n
   ili: i69698
@@ -3720,8 +3720,8 @@
   definition:
   - a modifier that has little meaning except to intensify the meaning it modifies
   example:
-  - “up” in “finished up” is an intensifier
-  - “honestly” in “I honestly don＇t know” is an intensifier
+  - '`up´ in `finished up´ is an intensifier'
+  - '`honestly´ in `I honestly don''t know´ is an intensifier'
   hypernym:
   - 06331794-n
   ili: i69701
@@ -3743,7 +3743,7 @@
 06332925-n:
   definition:
   - an adjective that ascribes to its noun the value of an attribute of that noun
-    (e.g., “a nervous person” or “a musical speaking voice”)
+    (e.g., `a nervous person´ or `a musical speaking voice´)
   hypernym:
   - 06332695-n
   ili: i69703
@@ -3753,8 +3753,8 @@
   partOfSpeech: n
 06333150-n:
   definition:
-  - an adjective that classifies its noun (e.g., “a nervous disease” or “a musical
-    instrument”)
+  - an adjective that classifies its noun (e.g., `a nervous disease´ or `a musical
+    instrument´)
   hypernym:
   - 06332695-n
   ili: i69704
@@ -3789,9 +3789,9 @@
   definition:
   - the comparative form of an adjective or adverb
   example:
-  - “faster” is the comparative of the adjective “fast”
-  - “less famous” is the comparative degree of the adjective “famous”
-  - “more surely” is the comparative of the adverb “surely”
+  - '`faster´ is the comparative of the adjective `fast´'
+  - '`less famous´ is the comparative degree of the adjective `famous´'
+  - '`more surely´ is the comparative of the adverb `surely´'
   hypernym:
   - 06332695-n
   - 06334605-n
@@ -3804,9 +3804,9 @@
   definition:
   - the superlative form of an adjective or adverb
   example:
-  - “fastest” is the superlative of the adjective “fast”
-  - “least famous” is the superlative degree of the adjective “famous”
-  - “most surely” is the superlative of the adverb “surely”
+  - '`fastest´ is the superlative of the adjective `fast´'
+  - '`least famous´ is the superlative degree of the adjective `famous´'
+  - '`most surely´ is the superlative of the adverb `surely´'
   hypernym:
   - 06332695-n
   - 06334605-n
@@ -3829,7 +3829,7 @@
 06334815-n:
   definition:
   - 'a word or phrase apparently modifying an unintended word because of its placement
-    in a sentence: e.g., “when young” in “when young, circuses appeal to all of us”'
+    in a sentence: e.g., `when young´ in `when young, circuses appeal to all of us´'
   hypernym:
   - 06331794-n
   ili: i69710
@@ -3841,8 +3841,8 @@
 06335079-n:
   definition:
   - 'a participle (usually at the beginning of a sentence) apparently modifying a
-    word other than the word intended: e.g., “flying across the country” in “flying
-    across the country the Rockies came into view”'
+    word other than the word intended: e.g., `flying across the country´ in `flying
+    across the country the Rockies came into view´'
   hypernym:
   - 06334815-n
   ili: i69711
@@ -3883,7 +3883,7 @@
   partOfSpeech: n
 06335857-n:
   definition:
-  - a determiner (as “the” in English) that indicates specificity of reference
+  - a determiner (as `the´ in English) that indicates specificity of reference
   hypernym:
   - 06335662-n
   ili: i69715
@@ -3892,7 +3892,7 @@
   partOfSpeech: n
 06335994-n:
   definition:
-  - a determiner (as “a” or “some” in English) that indicates nonspecific reference
+  - a determiner (as `a´ or `some´ in English) that indicates nonspecific reference
   hypernym:
   - 06335662-n
   ili: i69716
@@ -3953,7 +3953,7 @@
   partOfSpeech: n
 06337047-n:
   definition:
-  - a conjunction (like “and” or “or”) that connects two identically constructed grammatical
+  - a conjunction (like `and´ or `or´) that connects two identically constructed grammatical
     constituents
   hypernym:
   - 06336819-n
@@ -3963,7 +3963,7 @@
   partOfSpeech: n
 06337219-n:
   definition:
-  - a conjunction (like “since” or “that” or “who”) that introduces a dependent clause
+  - a conjunction (like `since´ or `that´ or `who´) that introduces a dependent clause
   hypernym:
   - 06336819-n
   ili: i69723
@@ -4016,10 +4016,10 @@
   partOfSpeech: n
 06338254-n:
   definition:
-  - a pronoun or pronominal phrase (as “each other”) that expresses a mutual action
+  - a pronoun or pronominal phrase (as `each other´) that expresses a mutual action
     or relationship between the individuals indicated in the plural subject
   example:
-  - The sentence “They cared for each other” contains a reciprocal pronoun
+  - The sentence `They cared for each other´ contains a reciprocal pronoun
   hypernym:
   - 06336363-n
   ili: i69728
@@ -4028,7 +4028,7 @@
   partOfSpeech: n
 06338544-n:
   definition:
-  - a pronoun (as “that” or “which” or “who”) that introduces a relative clause referring
+  - a pronoun (as `that´ or `which´ or `who´) that introduces a relative clause referring
     to some antecedent
   hypernym:
   - 06336363-n
@@ -4069,7 +4069,7 @@
   partOfSpeech: n
 06339200-n:
   definition:
-  - a personal pronoun compounded with -self to show the agent＇s action affects the
+  - a personal pronoun compounded with -self to show the agent's action affects the
     agent
   hypernym:
   - 06338129-n
@@ -4082,8 +4082,8 @@
   definition:
   - a verb whose agent performs an action that is directed at the agent
   example:
-  - the sentence “he washed” has a reflexive verb
-  - “perjure” is a reflexive verb because you cannot perjure anyone but yourself
+  - the sentence `he washed´ has a reflexive verb
+  - '`perjure´ is a reflexive verb because you cannot perjure anyone but yourself'
   hypernym:
   - 06331562-n
   ili: i69734
@@ -4206,7 +4206,7 @@
   - an English verb followed by one or more particles where the combination behaves
     as a syntactic and semantic unit
   example:
-  - “turn out” is a phrasal verb in the question “how many turned out to vote?”
+  - '`turn out´ is a phrasal verb in the question `how many turned out to vote?´'
   hypernym:
   - 06329055-n
   ili: i69746
@@ -4382,7 +4382,7 @@
   partOfSpeech: n
 06345388-n:
   definition:
-  - an additional name or an epithet appended to a name (as in “Ferdinand the Great”)
+  - an additional name or an epithet appended to a name (as in `Ferdinand the Great´)
   hypernym:
   - 06344646-n
   ili: i69762
@@ -4408,7 +4408,7 @@
   definition:
   - the name derived from a person (real or imaginary)
   example:
-  - Down＇s syndrome is an eponym for the English physician John Down
+  - Down's syndrome is an eponym for the English physician John Down
   hypernym:
   - 06344646-n
   ili: i69764
@@ -4483,7 +4483,7 @@
 06347202-n:
   definition:
   - a family name derived from name of your father or a paternal ancestor (especially
-    with an affix (such as -son in English or O＇- in Irish) added to the name of your
+    with an affix (such as -son in English or O'- in Irish) added to the name of your
     father or a paternal ancestor)
   domain_region:
   - 08878165-n
@@ -4528,7 +4528,7 @@
   definition:
   - slang for something (especially for an illegal drug)
   example:
-  - “smack” is a street name for heroin
+  - '`smack´ is a street name for heroin'
   hypernym:
   - 06344646-n
   - 07171981-n
@@ -4551,7 +4551,7 @@
 06348274-n:
   definition:
   - the name used to identify the members of a family (as distinguished from each
-    member＇s given name)
+    member's given name)
   hypernym:
   - 06344646-n
   ili: i69774
@@ -4563,7 +4563,7 @@
   partOfSpeech: n
 06348481-n:
   definition:
-  - a woman＇s surname before marriage
+  - a woman's surname before marriage
   hypernym:
   - 06348274-n
   ili: i69775
@@ -4612,10 +4612,10 @@
   partOfSpeech: n
 06349063-n:
   definition:
-  - a familiar name for a person (often a shortened version of a person＇s given name)
+  - a familiar name for a person (often a shortened version of a person's given name)
   example:
-  - Joe＇s mother would not use his nickname and always called him Joseph
-  - Henry＇s nickname was Slim
+  - Joe's mother would not use his nickname and always called him Joseph
+  - Henry's nickname was Slim
   hypernym:
   - 06350278-n
   ili: i69780
@@ -4631,7 +4631,7 @@
   definition:
   - a descriptive name for a place or thing
   example:
-  - the nickname for the U.S. Constitution is “Old Ironsides”
+  - the nickname for the U.S. Constitution is `Old Ironsides´
   hypernym:
   - 06344646-n
   ili: i69781
@@ -4681,7 +4681,7 @@
   partOfSpeech: n
 06350023-n:
   definition:
-  - an author＇s pseudonym
+  - an author's pseudonym
   hypernym:
   - 06349648-n
   ili: i69786
@@ -4716,7 +4716,7 @@
   definition:
   - a name of endearment (especially one using a diminutive suffix)
   example:
-  - “Billy” is a hypocorism for “William”
+  - '`Billy´ is a hypocorism for `William´'
   hypernym:
   - 06344646-n
   ili: i69789
@@ -4726,9 +4726,9 @@
   partOfSpeech: n
 06350786-n:
   definition:
-  - 'an identifying appellation signifying status or function: e.g. “Mr.” or “General”'
+  - 'an identifying appellation signifying status or function: e.g. `Mr.´ or `General´'
   example:
-  - the professor didn＇t like his friends to use his formal title
+  - the professor didn't like his friends to use his formal title
   hypernym:
   - 06350278-n
   ili: i69790
@@ -4892,7 +4892,7 @@
   partOfSpeech: n
 06353232-n:
   definition:
-  - a Spanish title or form of address for a man; similar to the English “Mr” or “sir”
+  - a Spanish title or form of address for a man; similar to the English `Mr´ or `sir´
   domain_topic:
   - 06979499-n
   hypernym:
@@ -4905,7 +4905,7 @@
 06353385-n:
   definition:
   - a Spanish title or form of address for a married woman; similar to the English
-    “Mrs” or “madam”
+    `Mrs´ or `madam´
   domain_topic:
   - 06979499-n
   hypernym:
@@ -4918,7 +4918,7 @@
 06353552-n:
   definition:
   - a Spanish title or form of address used to or of an unmarried girl or woman; similar
-    to the English “Miss”
+    to the English `Miss´
   domain_topic:
   - 06979499-n
   hypernym:
@@ -4989,7 +4989,7 @@
   definition:
   - an appellation signifying nobility
   example:
-  - “your majesty” is the appropriate title to use in addressing a king
+  - '`your majesty´ is the appropriate title to use in addressing a king'
   hypernym:
   - 06350278-n
   ili: i69813
@@ -5018,7 +5018,7 @@
   definition:
   - the name of a work of art or literary composition etc.
   example:
-  - he looked for books with the word “jazz” in the title
+  - he looked for books with the word `jazz´ in the title
   - he refused to give titles to his paintings
   - I can never remember movie titles
   hypernym:
@@ -5972,8 +5972,8 @@
   - letters or symbols that are written or imprinted on a surface to represent the
     sounds or words of a language
   example:
-  - he turned the paper over so the writing wouldn＇t show
-  - the doctor＇s writing was illegible
+  - he turned the paper over so the writing wouldn't show
+  - the doctor's writing was illegible
   hypernym:
   - 06360590-n
   ili: i69901
@@ -6052,7 +6052,7 @@
 06372853-n:
   definition:
   - 'an ancient writing system: having alternate lines written in opposite directions;
-    literally “as the ox ploughs”'
+    literally `as the ox ploughs´'
   hypernym:
   - 06362609-n
   ili: i69909
@@ -6166,7 +6166,7 @@
   definition:
   - (usually plural) the collected work of an author
   example:
-  - the idea occurs with increasing frequency in Hemingway＇s writings
+  - the idea occurs with increasing frequency in Hemingway's writings
   exemplifies:
   - 06306016-n
   hypernym:
@@ -6294,7 +6294,7 @@
   definition:
   - a literary composition in the form of a conversation between two people
   example:
-  - he has read Plato＇s Dialogues in the original Greek
+  - he has read Plato's Dialogues in the original Greek
   hypernym:
   - 06375736-n
   ili: i69932
@@ -6741,7 +6741,7 @@
   partOfSpeech: n
 06385864-n:
   definition:
-  - a literary genre that presents a fictional character＇s sequence of thoughts in
+  - a literary genre that presents a fictional character's sequence of thoughts in
     the form of a monologue
   hypernym:
   - 06388195-n
@@ -6752,7 +6752,7 @@
   wikidata: Q466163
 06386031-n:
   definition:
-  - a literary genre that reveals a character＇s thoughts and feeling as they develop
+  - a literary genre that reveals a character's thoughts and feeling as they develop
     by means of a long soliloquy
   hypernym:
   - 06388195-n
@@ -6974,8 +6974,8 @@
   definition:
   - a witty satiric verse containing two rhymed couplets and mentioning a famous person
   example:
-  - “The president is George W. Bush, Who is happy to sit on his tush, While sending
-    his armies to fight, For anything he thinks is right” is a clerihew
+  - '`The president is George W. Bush, Who is happy to sit on his tush, While sending
+    his armies to fight, For anything he thinks is right´ is a clerihew'
   hypernym:
   - 06393492-n
   ili: i69998
@@ -7044,7 +7044,7 @@
   partOfSpeech: n
 06391344-n:
   definition:
-  - a long narrative poem telling of a hero＇s deeds
+  - a long narrative poem telling of a hero's deeds
   hypernym:
   - 06389065-n
   ili: i70004
@@ -7419,7 +7419,7 @@
   wikidata: Q1320248
 06397077-n:
   definition:
-  - (Roman Catholic Church) a Latin versicle meaning “lift up your hearts”
+  - (Roman Catholic Church) a Latin versicle meaning `lift up your hearts´
   domain_topic:
   - 08100476-n
   hypernym:
@@ -7551,7 +7551,7 @@
   partOfSpeech: n
 06399181-n:
   definition:
-  - a short line of text that a web site puts on your computer＇s hard drive when you
+  - a short line of text that a web site puts on your computer's hard drive when you
     access the web site
   hypernym:
   - 06399623-n
@@ -7582,7 +7582,7 @@
   - the words of something written
   example:
   - there were more than a thousand words of text
-  - they handed out the printed text of the mayor＇s speech
+  - they handed out the printed text of the mayor's speech
   - he wants to reconstruct the original text
   hypernym:
   - 06376912-n
@@ -8233,7 +8233,7 @@
   definition:
   - a passage selected from a larger work
   example:
-  - he presented excerpts from William James＇ philosophical writings
+  - he presented excerpts from William James' philosophical writings
   hypernym:
   - 06411914-n
   ili: i70117
@@ -8505,7 +8505,7 @@
   partOfSpeech: n
 06416550-n:
   definition:
-  - a person＇s own signature
+  - a person's own signature
   hypernym:
   - 06416225-n
   ili: i70143
@@ -8646,7 +8646,7 @@
   partOfSpeech: n
 06418737-n:
   definition:
-  - something written by one＇s own hand
+  - something written by one's own hand
   hypernym:
   - 06374360-n
   ili: i70157
@@ -8817,7 +8817,7 @@
   partOfSpeech: n
 06421580-n:
   definition:
-  - a composition intended to indicate a student＇s progress during a school term
+  - a composition intended to indicate a student's progress during a school term
   hypernym:
   - 06421395-n
   ili: i70173
@@ -9177,7 +9177,7 @@
   partOfSpeech: n
 06427434-n:
   definition:
-  - a student＇s book or booklet containing problems with spaces for solving them
+  - a student's book or booklet containing problems with spaces for solving them
   hypernym:
   - 06422547-n
   ili: i70208
@@ -9589,7 +9589,7 @@
 06434131-n:
   definition:
   - a manual containing instruction in sexual techniques; intended to enhance the
-    reader＇s sexual life
+    reader's sexual life
   hypernym:
   - 06433328-n
   ili: i70248
@@ -9745,7 +9745,7 @@
   partOfSpeech: n
 06437074-n:
   definition:
-  - a card on which are printed the person＇s name and business affiliation
+  - a card on which are printed the person's name and business affiliation
   hypernym:
   - 06489042-n
   ili: i70262
@@ -9777,7 +9777,7 @@
   partOfSpeech: n
 06437630-n:
   definition:
-  - the number of a particular individual＇s Social Security account
+  - the number of a particular individual's Social Security account
   domain_region:
   - 09067337-n
   hypernym:
@@ -9917,7 +9917,7 @@
   definition:
   - the omission that is made when an editorial change shortens a written passage
   example:
-  - an editor＇s deletions frequently upset young authors
+  - an editor's deletions frequently upset young authors
   - both parties agreed on the excision of the proposed clause
   hypernym:
   - 06439501-n
@@ -10067,7 +10067,7 @@
   partOfSpeech: n
 06442826-n:
   definition:
-  - (Hinduism) the sacred “song of God” composed about 200 BC and incorporated into
+  - (Hinduism) the sacred `song of God´ composed about 200 BC and incorporated into
     the Mahabharata (a Sanskrit epic); contains a discussion between Krishna and the
     Indian hero Arjuna on human nature and the purpose of life
   domain_topic:
@@ -10124,7 +10124,7 @@
 06444046-n:
   definition:
   - 'the first book of the Old Testament: tells of Creation; Adam and Eve; the Fall
-    of Man; Cain and Abel; Noah and the flood; God＇s covenant with Abraham; Abraham
+    of Man; Cain and Abel; Noah and the flood; God''s covenant with Abraham; Abraham
     and Isaac; Jacob and Esau; Joseph and his brothers'
   ili: i70294
   instance_hypernym:
@@ -10307,7 +10307,7 @@
   partOfSpeech: n
 06447853-n:
   definition:
-  - an Old Testament book telling of a rabbi＇s efforts in the 5th century BC to reconstitute
+  - an Old Testament book telling of a rabbi's efforts in the 5th century BC to reconstitute
     Jewish law and worship in Jerusalem after the Babylonian Captivity
   ili: i70310
   instance_hypernym:
@@ -10341,8 +10341,8 @@
   wikidata: Q131068
 06448609-n:
   definition:
-  - a book in the Old Testament containing Job＇s pleas to God about his afflictions
-    and God＇s reply
+  - a book in the Old Testament containing Job's pleas to God about his afflictions
+    and God's reply
   ili: i70313
   instance_hypernym:
   - 06406508-n
@@ -10397,7 +10397,7 @@
   partOfSpeech: n
 06449796-n:
   definition:
-  - an Old Testament book consisting of Isaiah＇s prophecies
+  - an Old Testament book consisting of Isaiah's prophecies
   ili: i70318
   instance_hypernym:
   - 06406508-n
@@ -10428,7 +10428,7 @@
   partOfSpeech: n
 06450418-n:
   definition:
-  - an Old Testament book containing Ezekiel＇s prophecies of the downfall of Jerusalem
+  - an Old Testament book containing Ezekiel's prophecies of the downfall of Jerusalem
     and Judah and their subsequent restoration
   ili: i70321
   instance_hypernym:
@@ -10452,7 +10452,7 @@
   partOfSpeech: n
 06450923-n:
   definition:
-  - an Old Testament book telling Hosea＇s prophecies
+  - an Old Testament book telling Hosea's prophecies
   ili: i70323
   instance_hypernym:
   - 06406508-n
@@ -10462,7 +10462,7 @@
   partOfSpeech: n
 06451078-n:
   definition:
-  - an Old Testament book telling Joel＇s prophecies
+  - an Old Testament book telling Joel's prophecies
   ili: i70324
   instance_hypernym:
   - 06406508-n
@@ -10472,7 +10472,7 @@
   partOfSpeech: n
 06451230-n:
   definition:
-  - an Old Testament book telling Amos＇s prophecies
+  - an Old Testament book telling Amos's prophecies
   ili: i70325
   instance_hypernym:
   - 06406508-n
@@ -10482,7 +10482,7 @@
   partOfSpeech: n
 06451382-n:
   definition:
-  - an Old Testament book telling Obadiah＇s prophecies; the shortest book in the Christian
+  - an Old Testament book telling Obadiah's prophecies; the shortest book in the Christian
     Bible
   ili: i70326
   instance_hypernym:
@@ -10516,7 +10516,7 @@
   partOfSpeech: n
 06451983-n:
   definition:
-  - an Old Testament book telling Nahum＇s prophecy of the fall of Nineveh
+  - an Old Testament book telling Nahum's prophecy of the fall of Nineveh
   ili: i70329
   instance_hypernym:
   - 06406508-n
@@ -10526,7 +10526,7 @@
   partOfSpeech: n
 06452159-n:
   definition:
-  - an Old Testament book telling Habakkuk＇s prophecies
+  - an Old Testament book telling Habakkuk's prophecies
   ili: i70330
   instance_hypernym:
   - 06406508-n
@@ -10610,7 +10610,7 @@
   partOfSpeech: n
 06453643-n:
   definition:
-  - one of the four Gospels in the New Testament; contains details of Jesus＇s birth
+  - one of the four Gospels in the New Testament; contains details of Jesus's birth
     and early life
   ili: i70337
   instance_hypernym:
@@ -10635,8 +10635,8 @@
   partOfSpeech: n
 06454075-n:
   definition:
-  - a New Testament book describing the development of the early church from Christ＇s
-    Ascension to Paul＇s sojourn at Rome
+  - a New Testament book describing the development of the early church from Christ's
+    Ascension to Paul's sojourn at Rome
   ili: i70339
   instance_hypernym:
   - 06406508-n
@@ -10738,7 +10738,7 @@
   partOfSpeech: n
 06456629-n:
   definition:
-  - a New Testament book containing Saint Paul＇s first epistle to the Thessalonians
+  - a New Testament book containing Saint Paul's first epistle to the Thessalonians
   ili: i70348
   instance_hypernym:
   - 06454286-n
@@ -10750,7 +10750,7 @@
   wikidata: Q131115
 06456884-n:
   definition:
-  - a New Testament book containing Saint Paul＇s second epistle to the Thessalonians
+  - a New Testament book containing Saint Paul's second epistle to the Thessalonians
   ili: i70349
   instance_hypernym:
   - 06454286-n
@@ -10761,7 +10761,7 @@
   partOfSpeech: n
 06457143-n:
   definition:
-  - a New Testament book containing Saint Paul＇s first epistle to Timothy; contains
+  - a New Testament book containing Saint Paul's first epistle to Timothy; contains
     advice on pastoral matters
   ili: i70350
   instance_hypernym:
@@ -10774,7 +10774,7 @@
   wikidata: Q131180
 06457399-n:
   definition:
-  - a New Testament book containing Saint Paul＇s second epistle to Timothy; contains
+  - a New Testament book containing Saint Paul's second epistle to Timothy; contains
     advice on pastoral matters
   ili: i70351
   instance_hypernym:
@@ -10787,7 +10787,7 @@
   wikidata: Q131489
 06457659-n:
   definition:
-  - a New Testament book containing Saint Paul＇s epistle to Titus; contains advice
+  - a New Testament book containing Saint Paul's epistle to Titus; contains advice
     on pastoral matters
   ili: i70352
   instance_hypernym:
@@ -11188,7 +11188,7 @@
 06465519-n:
   definition:
   - the collection of books of the Gospels, Acts of the Apostles, the Pauline and
-    other epistles, and Revelation; composed soon after Christ＇s death; the second
+    other epistles, and Revelation; composed soon after Christ's death; the second
     half of the Christian Bible
   hypernym:
   - 06556133-n
@@ -11228,7 +11228,7 @@
 06466808-n:
   definition:
   - the four books in the New Testament (Matthew, Mark, Luke, and John) that tell
-    the story of Christ＇s life and teachings
+    the story of Christ's life and teachings
   hypernym:
   - 06441260-n
   ili: i70381
@@ -11241,7 +11241,7 @@
   partOfSpeech: n
 06467167-n:
   definition:
-  - the first three Gospels which describe events in Christ＇s life from a similar
+  - the first three Gospels which describe events in Christ's life from a similar
     point of view
   hypernym:
   - 06441260-n
@@ -11383,7 +11383,7 @@
   partOfSpeech: n
 06469466-n:
   definition:
-  - (Roman Catholic Church) the Lord＇s Prayer in Latin; translates as “our father”
+  - (Roman Catholic Church) the Lord's Prayer in Latin; translates as `our father´
   domain_topic:
   - 08100476-n
   ili: i70396
@@ -11455,7 +11455,7 @@
   definition:
   - an Apocryphal book consisting of text added to the Book of Daniel, it consists
     of three separate narratives, that of Bel, that of the dragon, and that of Daniel
-    in the lion＇s den
+    in the lion's den
   ili: i70401
   instance_hypernym:
   - 06406508-n
@@ -11566,7 +11566,7 @@
   partOfSpeech: n
 06472596-n:
   definition:
-  - an Apocryphal book describing the life of Judas Maccabaeus, tells about the Jews＇
+  - an Apocryphal book describing the life of Judas Maccabaeus, tells about the Jews'
     revolt against Antiochus IV Epiphanes and concludes with the defeat of the Syrian
     general Nicanor in 161 BC by Judas Maccabeus
   ili: i70411
@@ -11743,7 +11743,7 @@
 06475694-n:
   definition:
   - one of two classical Hindu epics telling of the banishment of Rama from his kingdom
-    and the abduction of his wife by a demon and Rama＇s restoration to the throne
+    and the abduction of his wife by a demon and Rama's restoration to the throne
   ili: i70426
   instance_hypernym:
   - 06475017-n
@@ -11762,7 +11762,7 @@
   partOfSpeech: n
 06476089-n:
   definition:
-  - (from the Sanskrit word for “knowledge”) any of the most ancient sacred writings
+  - (from the Sanskrit word for `knowledge´) any of the most ancient sacred writings
     of Hinduism written in early Sanskrit; traditionally believed to comprise the
     Samhitas, the Brahmanas, the Aranyakas, and the Upanishads
   domain_topic:
@@ -11886,7 +11886,7 @@
   wikidata: Q6113985
 06478150-n:
   definition:
-  - (Sanskrit) literally a “sacred utterance” in Vedism; one of a collection of orally
+  - (Sanskrit) literally a `sacred utterance´ in Vedism; one of a collection of orally
     transmitted poetic hymns
   domain_topic:
   - 06246956-n
@@ -12072,7 +12072,7 @@
   partOfSpeech: n
 06481268-n:
   definition:
-  - a summary list; as in e.g. “a news roundup”
+  - a summary list; as in e.g. `a news roundup´
   example:
   - a news roundup
   hypernym:
@@ -12223,7 +12223,7 @@
   partOfSpeech: n
 06484495-n:
   definition:
-  - an equating verb (such as “be” or “become”) that links the subject with the complement
+  - an equating verb (such as `be´ or `become´) that links the subject with the complement
     of a sentence
   hypernym:
   - 06331562-n
@@ -12318,7 +12318,7 @@
   partOfSpeech: n
 06485960-n:
   definition:
-  - a questionnaire that is supposed to yield a description of a person＇s personality
+  - a questionnaire that is supposed to yield a description of a person's personality
     traits
   example:
   - a personality inventory is a direct test of personality, as contrasted with a
@@ -12358,7 +12358,7 @@
   partOfSpeech: n
 06486978-n:
   definition:
-  - a self-report personality inventory based on Hans Eysenck＇s factor analysis of
+  - a self-report personality inventory based on Hans Eysenck's factor analysis of
     personality which assumes three basic factors (the two most important being extraversion
     to introversion and neuroticism)
   hypernym:
@@ -12530,7 +12530,7 @@
   partOfSpeech: n
 06489870-n:
   definition:
-  - a card certifying the bearer＇s right to use the library
+  - a card certifying the bearer's right to use the library
   hypernym:
   - 06489042-n
   ili: i70499
@@ -12540,7 +12540,7 @@
   partOfSpeech: n
 06490002-n:
   definition:
-  - a card certifying the bearer＇s right to purchase rationed goods
+  - a card certifying the bearer's right to purchase rationed goods
   hypernym:
   - 06489042-n
   ili: i70500
@@ -12549,7 +12549,7 @@
   partOfSpeech: n
 06490123-n:
   definition:
-  - a copy of the official document giving details of a person＇s birth
+  - a copy of the official document giving details of a person's birth
   hypernym:
   - 06483016-n
   ili: i70501
@@ -12594,7 +12594,7 @@
   partOfSpeech: n
 06490875-n:
   definition:
-  - a certificate saying that a departing ship＇s company is healthy (to be presented
+  - a certificate saying that a departing ship's company is healthy (to be presented
     at the next port of arrival)
   hypernym:
   - 06483016-n
@@ -12800,8 +12800,8 @@
   domain_topic:
   - 06182505-n
   example:
-  - “Those girls, they giggle when they see me” and “Cigarettes, you couldn＇t pay
-    me to smoke them” are examples of topicalization
+  - '`Those girls, they giggle when they see me´ and `Cigarettes, you couldn''t pay
+    me to smoke them´ are examples of topicalization'
   hypernym:
   - 07117611-n
   ili: i70523
@@ -12874,7 +12874,7 @@
 06497282-n:
   definition:
   - (law) the calendar of a court; the list of cases to be tried or a summary of the
-    court＇s activities
+    court's activities
   domain_topic:
   - 08458195-n
   hypernym:
@@ -12915,7 +12915,7 @@
   definition:
   - the schedule of programs for a particular period
   example:
-  - the network＇s fall lineup
+  - the network's fall lineup
   hypernym:
   - 06497731-n
   members:
@@ -13474,7 +13474,7 @@
   partOfSpeech: n
 06506364-n:
   definition:
-  - (bookkeeping) a listing on the company＇s records
+  - (bookkeeping) a listing on the company's records
   domain_topic:
   - 00620470-n
   example:
@@ -13626,7 +13626,7 @@
   partOfSpeech: n
 06508615-n:
   definition:
-  - a list of names of officers and men in a military unit or ship＇s company
+  - a list of names of officers and men in a military unit or ship's company
   domain_topic:
   - 08215965-n
   hypernym:
@@ -14030,7 +14030,7 @@
 06515542-n:
   definition:
   - a collection of papers containing detailed information about a particular person
-    or subject (usually a person＇s record)
+    or subject (usually a person's record)
   hypernym:
   - 06514369-n
   ili: i70630
@@ -14101,7 +14101,7 @@
   partOfSpeech: n
 06516653-n:
   definition:
-  - the written evidence of someone＇s activities
+  - the written evidence of someone's activities
   example:
   - this paper trail consisted mainly of electronically stored information
   hypernym:
@@ -14112,7 +14112,7 @@
   partOfSpeech: n
 06516829-n:
   definition:
-  - a card recording an employee＇s starting and quitting times each work day
+  - a card recording an employee's starting and quitting times each work day
   hypernym:
   - 06514369-n
   ili: i70638
@@ -14260,7 +14260,7 @@
   definition:
   - a message that helps you remember something
   example:
-  - he ignored his wife＇s reminders
+  - he ignored his wife's reminders
   hypernym:
   - 06611268-n
   ili: i70652
@@ -14605,7 +14605,7 @@
 06524315-n:
   definition:
   - a resolution passed by both houses of Congress which becomes legally binding when
-    signed by the Chief Executive (or passed over the Chief Executive＇s veto)
+    signed by the Chief Executive (or passed over the Chief Executive's veto)
   domain_region:
   - 09067337-n
   domain_topic:
@@ -14775,7 +14775,7 @@
   partOfSpeech: n
 06527045-n:
   definition:
-  - part of a patient＇s medical history in which questions are asked in an attempt
+  - part of a patient's medical history in which questions are asked in an attempt
     to find out whether the patient has hereditary tendencies toward particular diseases
   hypernym:
   - 06526871-n
@@ -14820,7 +14820,7 @@
   partOfSpeech: n
 06527818-n:
   definition:
-  - an account of the series of events making up a person＇s life
+  - an account of the series of events making up a person's life
   hypernym:
   - 06526084-n
   ili: i70703
@@ -14860,7 +14860,7 @@
   partOfSpeech: n
 06528486-n:
   definition:
-  - an account of the author＇s personal experiences
+  - an account of the author's personal experiences
   hypernym:
   - 06528078-n
   ili: i70707
@@ -15457,7 +15457,7 @@
   partOfSpeech: n
 06538802-n:
   definition:
-  - an authorization to sell a company＇s goods or services in a particular place
+  - an authorization to sell a company's goods or services in a particular place
   hypernym:
   - 06538610-n
   ili: i70765
@@ -15561,7 +15561,7 @@
   partOfSpeech: n
 06540548-n:
   definition:
-  - a sale of property by the sheriff under authority of a court＇s writ of execution
+  - a sale of property by the sheriff under authority of a court's writ of execution
     in order satisfy an unpaid obligation
   hypernym:
   - 06539842-n
@@ -15661,7 +15661,7 @@
   definition:
   - a repeated order for the same merchandise
   example:
-  - he＇s the one who sends out all the new orders and reorders
+  - he's the one who sends out all the new orders and reorders
   hypernym:
   - 06541210-n
   ili: i70784
@@ -15681,7 +15681,7 @@
   partOfSpeech: n
 06542577-n:
   definition:
-  - a depositor＇s order to a bank to refuse payment on a check
+  - a depositor's order to a bank to refuse payment on a check
   hypernym:
   - 06541210-n
   ili: i70786
@@ -15700,7 +15700,7 @@
   wikidata: Q425779
 06542780-n:
   definition:
-  - a legal instrument authorizing someone to act as the grantor＇s agent
+  - a legal instrument authorizing someone to act as the grantor's agent
   domain_topic:
   - 08458195-n
   hypernym:
@@ -15994,7 +15994,7 @@
 06547971-n:
   definition:
   - a legal expression in the United States Constitution that allows the Senate to
-    constrain the President＇s powers of appointment and treaty-making
+    constrain the President's powers of appointment and treaty-making
   domain_topic:
   - 08458195-n
   hypernym:
@@ -16474,7 +16474,7 @@
   partOfSpeech: n
 06555772-n:
   definition:
-  - a document stating the facts and points of law of a client＇s case
+  - a document stating the facts and points of law of a client's case
   domain_topic:
   - 08458195-n
   hypernym:
@@ -16498,7 +16498,7 @@
   partOfSpeech: n
 06556133-n:
   definition:
-  - a legal document declaring a person＇s wishes regarding the disposal of their property
+  - a legal document declaring a person's wishes regarding the disposal of their property
     when they die
   domain_topic:
   - 08458195-n
@@ -16626,7 +16626,7 @@
   partOfSpeech: n
 06558252-n:
   definition:
-  - a legal document proving a person＇s right to property
+  - a legal document proving a person's right to property
   domain_topic:
   - 08458195-n
   hypernym:
@@ -16783,7 +16783,7 @@
   partOfSpeech: n
 06560662-n:
   definition:
-  - document giving the tax collector information about the taxpayer＇s tax liability
+  - document giving the tax collector information about the taxpayer's tax liability
   example:
   - his gross income was enough that he had to file a tax return
   hypernym:
@@ -16993,8 +16993,8 @@
   wikidata: Q1911852
 06564107-n:
   definition:
-  - an opinion that agrees with the court＇s disposition of the case but is written
-    to express a particular judge＇s reasoning
+  - an opinion that agrees with the court's disposition of the case but is written
+    to express a particular judge's reasoning
   domain_topic:
   - 08458195-n
   hypernym:
@@ -17005,7 +17005,7 @@
   partOfSpeech: n
 06564311-n:
   definition:
-  - an opinion that disagrees with the court＇s disposition of the case
+  - an opinion that disagrees with the court's disposition of the case
   domain_topic:
   - 08458195-n
   hypernym:
@@ -17017,8 +17017,8 @@
   wikidata: Q1092720
 06564461-n:
   definition:
-  - the opinion joined by a majority of the court (generally known simply as “the
-    opinion”)
+  - the opinion joined by a majority of the court (generally known simply as `the
+    opinion´)
   domain_topic:
   - 08458195-n
   hypernym:
@@ -17141,7 +17141,7 @@
 06566666-n:
   definition:
   - an extraordinary writ commanding an official to perform a ministerial act that
-    the law recognizes as an absolute duty and not a matter for the official＇s discretion;
+    the law recognizes as an absolute duty and not a matter for the official's discretion;
     used only when all other judicial remedies fail
   domain_topic:
   - 08458195-n
@@ -17273,7 +17273,7 @@
   partOfSpeech: n
 06568683-n:
   definition:
-  - a writ issued by authority of law; usually compels the defendant＇s attendance
+  - a writ issued by authority of law; usually compels the defendant's attendance
     in a civil suit; failure to appear results in a default judgment against the defendant
   domain_topic:
   - 08458195-n
@@ -17302,7 +17302,7 @@
   definition:
   - a writ issued by a court at the request of one of the parties to a suit; it requires
     a witness to bring to court or to a deposition any relevant documents under the
-    witness＇s control
+    witness's control
   domain_topic:
   - 08458195-n
   hypernym:
@@ -17327,7 +17327,7 @@
   partOfSpeech: n
 06569818-n:
   definition:
-  - a court order to an employer to withhold all or part of an employee＇s wages and
+  - a court order to an employer to withhold all or part of an employee's wages and
     to send the money to the court or to the person who won a lawsuit against the
     employee
   domain_topic:
@@ -17458,10 +17458,10 @@
   partOfSpeech: n
 06572245-n:
   definition:
-  - the principal pleading by the defendant in response to plaintiff＇s complaint;
-    in criminal law it consists of the defendant＇s plea of “guilty” or “not guilty”
+  - the principal pleading by the defendant in response to plaintiff's complaint;
+    in criminal law it consists of the defendant's plea of `guilty´ or `not guilty´
     (or nolo contendere); in civil law it must contain denials of all allegations
-    in the plaintiff＇s complaint that the defendant hopes to controvert and it can
+    in the plaintiff's complaint that the defendant hopes to controvert and it can
     contain affirmative defenses or counterclaims
   domain_topic:
   - 08458195-n
@@ -17485,7 +17485,7 @@
   partOfSpeech: n
 06572930-n:
   definition:
-  - (law) an answer of “no contest” by a defendant who does not admit guilt but that
+  - (law) an answer of `no contest´ by a defendant who does not admit guilt but that
     subjects him to conviction
   domain_topic:
   - 06551169-n
@@ -17498,7 +17498,7 @@
   partOfSpeech: n
 06573129-n:
   definition:
-  - (law) a defendant＇s answer by a factual matter (as distinguished from a demurrer)
+  - (law) a defendant's answer by a factual matter (as distinguished from a demurrer)
   domain_topic:
   - 08458195-n
   hypernym:
@@ -17509,7 +17509,7 @@
   partOfSpeech: n
 06573334-n:
   definition:
-  - a plaintiff＇s reply to a defendant＇s plea
+  - a plaintiff's reply to a defendant's plea
   domain_topic:
   - 08458195-n
   hypernym:
@@ -17522,7 +17522,7 @@
   definition:
   - a plea that delays the action without settling the cause of action; it can challenge
     the jurisdiction or claim disability of the defendant etc. (such defenses are
-    usually raised in the defendant＇s answer)
+    usually raised in the defendant's answer)
   domain_topic:
   - 08458195-n
   hypernym:
@@ -17596,7 +17596,7 @@
   partOfSpeech: n
 06574793-n:
   definition:
-  - (law) any pleading that attacks the legal sufficiency of the opponent＇s pleadings
+  - (law) any pleading that attacks the legal sufficiency of the opponent's pleadings
   domain_topic:
   - 08458195-n
   hypernym:
@@ -17607,7 +17607,7 @@
   partOfSpeech: n
 06574984-n:
   definition:
-  - (law) a pleading by the defendant in reply to a plaintiff＇s surrejoinder
+  - (law) a pleading by the defendant in reply to a plaintiff's surrejoinder
   domain_topic:
   - 08458195-n
   hypernym:
@@ -17619,7 +17619,7 @@
   partOfSpeech: n
 06575159-n:
   definition:
-  - (law) a pleading made by a plaintiff in reply to the defendant＇s plea or answer
+  - (law) a pleading made by a plaintiff in reply to the defendant's plea or answer
   domain_topic:
   - 08458195-n
   hypernym:
@@ -17630,7 +17630,7 @@
   partOfSpeech: n
 06575315-n:
   definition:
-  - (law) a pleading made by a defendant in response to the plaintiff＇s replication
+  - (law) a pleading made by a defendant in response to the plaintiff's replication
   domain_topic:
   - 08458195-n
   hypernym:
@@ -17652,7 +17652,7 @@
   partOfSpeech: n
 06575631-n:
   definition:
-  - (law) a pleading by the plaintiff in reply to the defendant＇s rebutter
+  - (law) a pleading by the plaintiff in reply to the defendant's rebutter
   domain_topic:
   - 08458195-n
   hypernym:
@@ -17664,7 +17664,7 @@
   partOfSpeech: n
 06575792-n:
   definition:
-  - (law) a pleading by the plaintiff in reply to the defendant＇s rejoinder
+  - (law) a pleading by the plaintiff in reply to the defendant's rejoinder
   domain_topic:
   - 08458195-n
   hypernym:
@@ -17997,7 +17997,7 @@
   partOfSpeech: n
 06582823-n:
   definition:
-  - a Java application; an application program that uses the client＇s web browser
+  - a Java application; an application program that uses the client's web browser
     to provide a user interface
   hypernym:
   - 06582286-n
@@ -18007,7 +18007,7 @@
   partOfSpeech: n
 06582981-n:
   definition:
-  - an application that divides the user＇s display into two or more windows that can
+  - an application that divides the user's display into two or more windows that can
     be scrolled independently
   hypernym:
   - 06582286-n
@@ -18464,7 +18464,7 @@
   partOfSpeech: n
 06590092-n:
   definition:
-  - a tagging program whose labels indicate a word＇s part of speech
+  - a tagging program whose labels indicate a word's part of speech
   hypernym:
   - 06589761-n
   ili: i71022
@@ -18524,7 +18524,7 @@
 06591081-n:
   definition:
   - a widely used search engine that uses text-matching techniques to find web pages
-    that are important and relevant to a user＇s search
+    that are important and relevant to a user's search
   ili: i71028
   instance_hypernym:
   - 06590830-n
@@ -18909,7 +18909,7 @@
 06597379-n:
   definition:
   - a set of instructions inserted into a program that are designed to execute (or
-    “explode”) if a particular condition is satisfied; when exploded it may delete
+    `explode´) if a particular condition is satisfied; when exploded it may delete
     or corrupt data, or print a spurious message, or have other harmful effects
   example:
   - a disgruntled employee planted a logic bomb
@@ -19055,8 +19055,8 @@
   partOfSpeech: n
 06600156-n:
   definition:
-  - computer software that obtains information from a user＇s computer without the
-    user＇s knowledge or consent
+  - computer software that obtains information from a user's computer without the
+    user's knowledge or consent
   hypernym:
   - 06578068-n
   ili: i71077
@@ -19074,8 +19074,8 @@
   wikidata: Q14001
 06600420-n:
   definition:
-  - specialized programs that reside permanently in the computer＇s main memory and
-    control the processing of user＇s programs
+  - specialized programs that reside permanently in the computer's main memory and
+    control the processing of user's programs
   hypernym:
   - 06578068-n
   ili: i71078
@@ -19137,7 +19137,7 @@
   partOfSpeech: n
 06601633-n:
   definition:
-  - a database management system that allows strings of text (“objects”) to be processed
+  - a database management system that allows strings of text (`objects´) to be processed
     as a complex network of nodes that are linked together in an arbitrary way
   hypernym:
   - 06601432-n
@@ -19308,7 +19308,7 @@
   partOfSpeech: n
 06604625-n:
   definition:
-  - concept album compiling a performer＇s work or work supporting some worthy cause
+  - concept album compiling a performer's work or work supporting some worthy cause
   hypernym:
   - 06604359-n
   ili: i71100
@@ -19598,7 +19598,7 @@
   definition:
   - one of a series published periodically
   example:
-  - she found an old issue of the magazine in her dentist＇s waiting room
+  - she found an old issue of the magazine in her dentist's waiting room
   hypernym:
   - 06605500-n
   ili: i71128
@@ -19620,7 +19620,7 @@
   definition:
   - an issue of a newspaper
   example:
-  - he read it in yesterday＇s edition of the Times
+  - he read it in yesterday's edition of the Times
   hypernym:
   - 06609182-n
   ili: i71129
@@ -19760,7 +19760,7 @@
   definition:
   - the subject matter of a conversation or discussion
   example:
-  - he didn＇t want to discuss that subject
+  - he didn't want to discuss that subject
   - it was a very sensitive topic
   - his letters were always on the theme of love
   hypernym:
@@ -20040,7 +20040,7 @@
   partOfSpeech: n
 06617096-n:
   definition:
-  - an ambiguous grammatical construction; e.g., “they are flying planes” can mean
+  - an ambiguous grammatical construction; e.g., `they are flying planes´ can mean
     either that someone is flying planes or that something is flying planes
   hypernym:
   - 06616672-n
@@ -20125,8 +20125,8 @@
   definition:
   - a subtle difference in meaning or opinion or attitude
   example:
-  - without understanding the finer nuances you can＇t enjoy the humor
-  - don＇t argue about shades of meaning
+  - without understanding the finer nuances you can't enjoy the humor
+  - don't argue about shades of meaning
   hypernym:
   - 06613680-n
   ili: i71176
@@ -20272,7 +20272,7 @@
   definition:
   - nonsense; foolish talk
   example:
-  - that＇s a crock
+  - that's a crock
   hypernym:
   - 06619692-n
   ili: i71189
@@ -20379,7 +20379,7 @@
   definition:
   - senseless talk
   example:
-  - don＇t give me that stuff
+  - don't give me that stuff
   exemplifies:
   - 07171981-n
   hypernym:
@@ -20652,7 +20652,7 @@
   partOfSpeech: n
 06625801-n:
   definition:
-  - the representation of another person＇s words in a speech
+  - the representation of another person's words in a speech
   hypernym:
   - 06625409-n
   ili: i71221
@@ -20729,7 +20729,7 @@
   definition:
   - the principal (full-length) film in a program at a movie theater
   example:
-  - the feature tonight is “Casablanca”
+  - the feature tonight is `Casablanca´
   hypernym:
   - 06626039-n
   ili: i71227
@@ -21043,7 +21043,7 @@
   definition:
   - a program devoted to current events, often using interviews and commentary
   example:
-  - we watch the 7 o＇clock news every night
+  - we watch the 7 o'clock news every night
   hypernym:
   - 06631935-n
   ili: i71258
@@ -21056,7 +21056,7 @@
   definition:
   - a program that is broadcast again
   example:
-  - she likes to watch “I love Lucy” reruns
+  - she likes to watch `I love Lucy´ reruns
   hypernym:
   - 06631935-n
   ili: i71259
@@ -21595,7 +21595,7 @@
   partOfSpeech: n
 06640323-n:
   definition:
-  - a card sent or given (as to a sweetheart) on Saint Valentine＇s Day
+  - a card sent or given (as to a sweetheart) on Saint Valentine's Day
   hypernym:
   - 06639957-n
   ili: i71312
@@ -21748,7 +21748,7 @@
   partOfSpeech: n
 06643134-n:
   definition:
-  - (usually plural) a polite expression of desire for someone＇s welfare
+  - (usually plural) a polite expression of desire for someone's welfare
   example:
   - give him my kind regards
   - my best wishes
@@ -21852,7 +21852,7 @@
   partOfSpeech: n
 06644604-n:
   definition:
-  - grasping and shaking a person＇s hand (as to acknowledge an introduction or to
+  - grasping and shaking a person's hand (as to acknowledge an introduction or to
     agree on a contract)
   domain_topic:
   - 06532935-n
@@ -21968,7 +21968,7 @@
   partOfSpeech: n
 06646199-n:
   definition:
-  - an expression of sympathy with another＇s grief
+  - an expression of sympathy with another's grief
   example:
   - they sent their condolences
   hypernym:
@@ -22030,7 +22030,7 @@
 06647629-n:
   definition:
   - misinformation resulting from the recirculation into the source country of disinformation
-    previously planted abroad by that country＇s intelligence service
+    previously planted abroad by that country's intelligence service
   hypernym:
   - 06647485-n
   ili: i71350
@@ -22112,7 +22112,7 @@
   definition:
   - a compilation of the known facts regarding something or someone
   example:
-  - Al Smith used to say, “Let＇s look at the record”
+  - Al Smith used to say, `Let's look at the record´
   - his name is in all the record books
   hypernym:
   - 06648784-n
@@ -22304,8 +22304,8 @@
   partOfSpeech: n
 06652665-n:
   definition:
-  - a measure of someone＇s weight in relation to height; to calculate one＇s BMI, multiply
-    one＇s weight in pounds and divide that by the square of one＇s height in inches;
+  - a measure of someone's weight in relation to height; to calculate one's BMI, multiply
+    one's weight in pounds and divide that by the square of one's height in inches;
     overweight is a BMI greater than 25; obese is a BMI greater than 30
   hypernym:
   - 06652323-n
@@ -22538,7 +22538,7 @@
   partOfSpeech: n
 06656646-n:
   definition:
-  - biometric identification obtained by examining a person＇s unique sequence of DNA
+  - biometric identification obtained by examining a person's unique sequence of DNA
     base pairs; often used for evidence in criminal law cases
   hypernym:
   - 06435918-n
@@ -22549,7 +22549,7 @@
   partOfSpeech: n
 06656868-n:
   definition:
-  - biometric identification by scanning a person＇s face and matching it against a
+  - biometric identification by scanning a person's face and matching it against a
     library of known faces
   domain_topic:
   - 00761047-n
@@ -22576,7 +22576,7 @@
   partOfSpeech: n
 06657421-n:
   definition:
-  - biometric identification by automatically scanning a person＇s fingerprints electronically
+  - biometric identification by automatically scanning a person's fingerprints electronically
   hypernym:
   - 06435918-n
   ili: i71397
@@ -22640,7 +22640,7 @@
   partOfSpeech: n
 06658386-n:
   definition:
-  - biometric identification by automatically scanning a person＇s signature and matching
+  - biometric identification by automatically scanning a person's signature and matching
     it electronically against a library of known signatures
   hypernym:
   - 06435918-n
@@ -22662,7 +22662,7 @@
 06658785-n:
   definition:
   - biometric identification by electronically recording and graphically representing
-    a person＇s voice
+    a person's voice
   example:
   - voiceprints are uniquely characteristic of individual speakers
   hypernym:
@@ -22698,7 +22698,7 @@
   definition:
   - an indication that something has been present
   example:
-  - there wasn＇t a trace of evidence for the claim
+  - there wasn't a trace of evidence for the claim
   - a tincture of condescension
   hypernym:
   - 06810027-n
@@ -23553,7 +23553,7 @@
   partOfSpeech: n
 06674492-n:
   definition:
-  - a foreign policy of staying out of other countries＇ disputes
+  - a foreign policy of staying out of other countries' disputes
   hypernym:
   - 06673687-n
   ili: i71489
@@ -23602,7 +23602,7 @@
   partOfSpeech: n
 06675267-n:
   definition:
-  - President Truman＇s policy of providing economic and military aid to any country
+  - President Truman's policy of providing economic and military aid to any country
     threatened by communism or totalitarian ideology
   hypernym:
   - 06673687-n
@@ -23632,7 +23632,7 @@
   partOfSpeech: n
 06675763-n:
   definition:
-  - a government＇s policy controlling foreign trade
+  - a government's policy controlling foreign trade
   hypernym:
   - 06673687-n
   ili: i71497
@@ -23797,7 +23797,7 @@
   wikidata: Q42283
 06678357-n:
   definition:
-  - a common way to make software available; users are allowed to log in as “guest”
+  - a common way to make software available; users are allowed to log in as `guest´
     without a password and copy whatever has been made available
   hypernym:
   - 06678115-n
@@ -24503,7 +24503,7 @@
   definition:
   - availability in printed form
   example:
-  - we＇ve got to get that story into print
+  - we've got to get that story into print
   - his book is no longer in print
   hypernym:
   - 04726275-n
@@ -24710,7 +24710,7 @@
   - a short account of the news
   example:
   - the report of his speech
-  - the story was on the 11 o＇clock news
+  - the story was on the 11 o'clock news
   - the account of his speech that was given on the evening news made the governor
     furious
   hypernym:
@@ -25040,7 +25040,7 @@
   definition:
   - formal and explicit approval
   example:
-  - a Democrat usually gets the union＇s endorsement
+  - a Democrat usually gets the union's endorsement
   hypernym:
   - 06699481-n
   ili: i71627
@@ -25138,7 +25138,7 @@
   partOfSpeech: n
 06701870-n:
   definition:
-  - (law) tacit approval of someone＇s wrongdoing
+  - (law) tacit approval of someone's wrongdoing
   domain_topic:
   - 08458195-n
   hypernym:
@@ -25389,7 +25389,7 @@
   definition:
   - a victory cheer
   example:
-  - let＇s give the team a big hurrah
+  - let's give the team a big hurrah
   hypernym:
   - 06705317-n
   ili: i71658
@@ -25502,7 +25502,7 @@
 06707541-n:
   definition:
   - a formal recommendation by a former employer to a potential future employer describing
-    the person＇s qualifications and dependability
+    the person's qualifications and dependability
   example:
   - requests for character references are all too often answered evasively
   hypernym:
@@ -25708,7 +25708,7 @@
   partOfSpeech: n
 06711403-n:
   definition:
-  - a bachelor＇s degree in arts and sciences
+  - a bachelor's degree in arts and sciences
   hypernym:
   - 06711015-n
   ili: i71687
@@ -25720,7 +25720,7 @@
   partOfSpeech: n
 06711538-n:
   definition:
-  - a bachelor＇s degree in library science
+  - a bachelor's degree in library science
   hypernym:
   - 06711015-n
   ili: i71688
@@ -25730,7 +25730,7 @@
   partOfSpeech: n
 06711665-n:
   definition:
-  - a bachelor＇s degree in nursing
+  - a bachelor's degree in nursing
   hypernym:
   - 06711015-n
   ili: i71689
@@ -25740,7 +25740,7 @@
   partOfSpeech: n
 06711775-n:
   definition:
-  - a bachelor＇s degree in religion
+  - a bachelor's degree in religion
   hypernym:
   - 06711015-n
   ili: i71690
@@ -25751,7 +25751,7 @@
   wikidata: Q2085288
 06711878-n:
   definition:
-  - a bachelor＇s degree in literature
+  - a bachelor's degree in literature
   hypernym:
   - 06711015-n
   ili: i71691
@@ -25761,7 +25761,7 @@
   partOfSpeech: n
 06711988-n:
   definition:
-  - (a British degree) a bachelor＇s degree in medicine
+  - (a British degree) a bachelor's degree in medicine
   domain_region:
   - 08879115-n
   hypernym:
@@ -25773,7 +25773,7 @@
   partOfSpeech: n
 06712129-n:
   definition:
-  - a bachelor＇s degree in music
+  - a bachelor's degree in music
   hypernym:
   - 06711015-n
   ili: i71693
@@ -25784,7 +25784,7 @@
   wikidata: Q4838815
 06712228-n:
   definition:
-  - a bachelor＇s degree in naval science
+  - a bachelor's degree in naval science
   hypernym:
   - 06711015-n
   ili: i71694
@@ -25794,7 +25794,7 @@
   partOfSpeech: n
 06712342-n:
   definition:
-  - a bachelor＇s degree in science
+  - a bachelor's degree in science
   hypernym:
   - 06711015-n
   ili: i71695
@@ -25805,7 +25805,7 @@
   partOfSpeech: n
 06712448-n:
   definition:
-  - a bachelor＇s degree in architecture
+  - a bachelor's degree in architecture
   hypernym:
   - 06711015-n
   ili: i71696
@@ -25815,7 +25815,7 @@
   partOfSpeech: n
 06712574-n:
   definition:
-  - a bachelor＇s degree in engineering
+  - a bachelor's degree in engineering
   hypernym:
   - 06711015-n
   ili: i71697
@@ -25824,7 +25824,7 @@
   partOfSpeech: n
 06712689-n:
   definition:
-  - a bachelor＇s degree in theology
+  - a bachelor's degree in theology
   hypernym:
   - 06711015-n
   ili: i71698
@@ -25870,7 +25870,7 @@
   partOfSpeech: n
 06713210-n:
   definition:
-  - an academic degree higher than a bachelor＇s degree but lower than a doctor＇s degree
+  - an academic degree higher than a bachelor's degree but lower than a doctor's degree
   hypernym:
   - 06710094-n
   ili: i71702
@@ -25890,7 +25890,7 @@
   wikidata: Q611694
 06713764-n:
   definition:
-  - a master＇s degree in arts and sciences
+  - a master's degree in arts and sciences
   hypernym:
   - 06713210-n
   ili: i71704
@@ -25912,7 +25912,7 @@
   partOfSpeech: n
 06714014-n:
   definition:
-  - a master＇s degree in teaching
+  - a master's degree in teaching
   hypernym:
   - 06713210-n
   ili: i71706
@@ -25922,7 +25922,7 @@
   partOfSpeech: n
 06714122-n:
   definition:
-  - a master＇s degree in business
+  - a master's degree in business
   hypernym:
   - 06713210-n
   ili: i71707
@@ -25933,7 +25933,7 @@
   partOfSpeech: n
 06714258-n:
   definition:
-  - a master＇s degree in religion
+  - a master's degree in religion
   hypernym:
   - 06713210-n
   ili: i71708
@@ -25944,7 +25944,7 @@
   wikidata: Q1907864
 06714359-n:
   definition:
-  - a master＇s degree in education
+  - a master's degree in education
   hypernym:
   - 06713210-n
   ili: i71709
@@ -25955,7 +25955,7 @@
   wikidata: Q2787220
 06714461-n:
   definition:
-  - a master＇s degree in fine arts
+  - a master's degree in fine arts
   hypernym:
   - 06713210-n
   ili: i71710
@@ -25965,7 +25965,7 @@
   partOfSpeech: n
 06714563-n:
   definition:
-  - a master＇s degree in literature
+  - a master's degree in literature
   hypernym:
   - 06713210-n
   ili: i71711
@@ -25975,7 +25975,7 @@
   partOfSpeech: n
 06714669-n:
   definition:
-  - a master＇s degree in library science
+  - a master's degree in library science
   hypernym:
   - 06713210-n
   ili: i71712
@@ -25985,7 +25985,7 @@
   partOfSpeech: n
 06714783-n:
   definition:
-  - a master＇s degree in questions of public concern
+  - a master's degree in questions of public concern
   hypernym:
   - 06713210-n
   ili: i71713
@@ -25994,7 +25994,7 @@
   partOfSpeech: n
 06714902-n:
   definition:
-  - a master＇s degree in science
+  - a master's degree in science
   hypernym:
   - 06713210-n
   ili: i71714
@@ -26007,7 +26007,7 @@
   wikidata: Q950900
 06715010-n:
   definition:
-  - a master＇s degree in engineering
+  - a master's degree in engineering
   hypernym:
   - 06713210-n
   ili: i71715
@@ -26016,7 +26016,7 @@
   partOfSpeech: n
 06715121-n:
   definition:
-  - a master＇s degree in theology
+  - a master's degree in theology
   hypernym:
   - 06713210-n
   ili: i71716
@@ -26036,7 +26036,7 @@
   partOfSpeech: n
 06715651-n:
   definition:
-  - a doctor＇s degree in dental medicine
+  - a doctor's degree in dental medicine
   hypernym:
   - 06715221-n
   ili: i71718
@@ -26046,7 +26046,7 @@
   partOfSpeech: n
 06715765-n:
   definition:
-  - a doctor＇s degree in dental surgery
+  - a doctor's degree in dental surgery
   hypernym:
   - 06715221-n
   ili: i71719
@@ -26056,7 +26056,7 @@
   partOfSpeech: n
 06715877-n:
   definition:
-  - a doctor＇s degree in religion
+  - a doctor's degree in religion
   hypernym:
   - 06715221-n
   ili: i71720
@@ -26066,7 +26066,7 @@
   partOfSpeech: n
 06715976-n:
   definition:
-  - a doctor＇s degree in education
+  - a doctor's degree in education
   hypernym:
   - 06715221-n
   ili: i71721
@@ -26078,7 +26078,7 @@
   wikidata: Q837184
 06716084-n:
   definition:
-  - a doctor＇s degree in medicine
+  - a doctor's degree in medicine
   hypernym:
   - 06715221-n
   ili: i71722
@@ -26089,7 +26089,7 @@
   wikidata: Q913404
 06716183-n:
   definition:
-  - a doctor＇s degree in music
+  - a doctor's degree in music
   hypernym:
   - 06715221-n
   ili: i71723
@@ -26100,7 +26100,7 @@
   partOfSpeech: n
 06716285-n:
   definition:
-  - a doctor＇s degree in musical arts
+  - a doctor's degree in musical arts
   hypernym:
   - 06715221-n
   ili: i71724
@@ -26110,7 +26110,7 @@
   partOfSpeech: n
 06716395-n:
   definition:
-  - a doctor＇s degree in optometry
+  - a doctor's degree in optometry
   hypernym:
   - 06715221-n
   ili: i71725
@@ -26120,7 +26120,7 @@
   partOfSpeech: n
 06716496-n:
   definition:
-  - doctor＇s degree in osteopathy
+  - doctor's degree in osteopathy
   hypernym:
   - 06715221-n
   ili: i71726
@@ -26130,7 +26130,7 @@
   partOfSpeech: n
 06716597-n:
   definition:
-  - a doctor＇s degree with a special disciplinary focus
+  - a doctor's degree with a special disciplinary focus
   hypernym:
   - 06715221-n
   ili: i71727
@@ -26169,7 +26169,7 @@
   partOfSpeech: n
 06717129-n:
   definition:
-  - a doctor＇s degree in preventive medicine
+  - a doctor's degree in preventive medicine
   hypernym:
   - 06715221-n
   ili: i71731
@@ -26179,7 +26179,7 @@
   partOfSpeech: n
 06717245-n:
   definition:
-  - a doctor＇s degree in theology
+  - a doctor's degree in theology
   hypernym:
   - 06715221-n
   ili: i71732
@@ -26189,7 +26189,7 @@
   partOfSpeech: n
 06717345-n:
   definition:
-  - a doctor＇s degree in theology in the pontifical university system of the Catholic
+  - a doctor's degree in theology in the pontifical university system of the Catholic
     church
   example:
   - STD is from the Latin Sanctae Theologiae Doctor
@@ -26342,7 +26342,7 @@
   definition:
   - an official recognition of merit
   example:
-  - although he didn＇t win the prize he did get special mention
+  - although he didn't win the prize he did get special mention
   hypernym:
   - 06709228-n
   ili: i71747
@@ -26378,8 +26378,8 @@
   partOfSpeech: n
 06720117-n:
   definition:
-  - the highest U.S. military decoration awarded for bravery and valor in action “above
-    and beyond the call of duty”
+  - the highest U.S. military decoration awarded for bravery and valor in action `above
+    and beyond the call of duty´
   hypernym:
   - 06719615-n
   ili: i71750
@@ -26623,7 +26623,7 @@
   example:
   - Clinton directed his fire at the Republican Party
   - the government has come under attack
-  - don＇t give me any flak
+  - don't give me any flak
   hypernym:
   - 06723485-n
   ili: i71774
@@ -26821,7 +26821,7 @@
   definition:
   - a lengthy rebuke
   example:
-  - a good lecture was my father＇s idea of discipline
+  - a good lecture was my father's idea of discipline
   - the teacher gave him a talking to
   hypernym:
   - 06724794-n
@@ -26864,7 +26864,7 @@
   partOfSpeech: n
 06727491-n:
   definition:
-  - (often used with “pay”) a formal expression of esteem
+  - (often used with `pay´) a formal expression of esteem
   example:
   - he paid his respects to the mayor
   hypernym:
@@ -27049,7 +27049,7 @@
   - a disparaging remark
   example:
   - in the 19th century any reference to female sexuality was considered a vile aspersion
-  - it is difficult for a woman to understand a man＇s sensitivity to any slur on his
+  - it is difficult for a woman to understand a man's sensitivity to any slur on his
     virility
   hypernym:
   - 06730109-n
@@ -27060,7 +27060,7 @@
   partOfSpeech: n
 06731706-n:
   definition:
-  - a slur on someone＇s race or language
+  - a slur on someone's race or language
   hypernym:
   - 06731387-n
   ili: i71813
@@ -27099,7 +27099,7 @@
   partOfSpeech: n
 06732328-n:
   definition:
-  - a false accusation of an offense or a malicious misrepresentation of someone＇s
+  - a false accusation of an offense or a malicious misrepresentation of someone's
     words or actions
   hypernym:
   - 06730109-n
@@ -27114,7 +27114,7 @@
   partOfSpeech: n
 06732723-n:
   definition:
-  - an attack intended to ruin someone＇s reputation
+  - an attack intended to ruin someone's reputation
   hypernym:
   - 06732328-n
   ili: i71818
@@ -27190,9 +27190,9 @@
   partOfSpeech: n
 06733830-n:
   definition:
-  - an epithet that can be used to smear someone＇s reputation
+  - an epithet that can be used to smear someone's reputation
   example:
-  - he used the smear word “communist” for everyone who disagreed with him
+  - he used the smear word `communist´ for everyone who disagreed with him
   hypernym:
   - 06733713-n
   ili: i71825
@@ -27257,7 +27257,7 @@
   definition:
   - an impudent or insolent rejoinder
   example:
-  - don＇t give me any of your sass
+  - don't give me any of your sass
   hypernym:
   - 07214582-n
   ili: i71831
@@ -27273,7 +27273,7 @@
   definition:
   - a message (spoken or written) that is introduced or inserted
   example:
-  - with the help of his friend＇s interpolations his story was eventually told
+  - with the help of his friend's interpolations his story was eventually told
   - with many insertions in the margins
   hypernym:
   - 06611268-n
@@ -27333,7 +27333,7 @@
   - a true statement
   example:
   - he told the truth
-  - he thought of answering with the truth but he knew they wouldn＇t believe it
+  - he thought of answering with the truth but he knew they wouldn't believe it
   hypernym:
   - 06735202-n
   ili: i71837
@@ -27368,7 +27368,7 @@
   domain_topic:
   - 06173467-n
   example:
-  - “I always lie” is a paradox because if it is true it must be false
+  - '`I always lie´ is a paradox because if it is true it must be false'
   hypernym:
   - 07221547-n
   ili: i71840
@@ -27577,7 +27577,7 @@
 06741080-n:
   definition:
   - an amendment to the Constitution of the United States that imposes restrictions
-    on the government＇s prosecution of persons accused of crimes; mandates due process
+    on the government's prosecution of persons accused of crimes; mandates due process
     of law and prohibits self-incrimination and double jeopardy; requires just compensation
     if private property is taken for public use
   domain_topic:
@@ -27692,7 +27692,7 @@
   - an assertion that something is true or factual
   example:
   - his claim that he was innocent
-  - evidence contradicted the government＇s claims
+  - evidence contradicted the government's claims
   hypernym:
   - 06742248-n
   ili: i71868
@@ -27821,7 +27821,7 @@
   definition:
   - an assertion offering firsthand authentication of a fact
   example:
-  - according to his own testimony he can＇t do it
+  - according to his own testimony he can't do it
   hypernym:
   - 06742248-n
   ili: i71880
@@ -28117,7 +28117,7 @@
   partOfSpeech: n
 06750507-n:
   definition:
-  - (bridge) a bid that is higher than your opponent＇s bid (especially when your partner
+  - (bridge) a bid that is higher than your opponent's bid (especially when your partner
     has not bid at all and your bid exceeds the value of your hand)
   domain_topic:
   - 00491580-n
@@ -28143,7 +28143,7 @@
   definition:
   - a brief statement
   example:
-  - he didn＇t say a word about it
+  - he didn't say a word about it
   hypernym:
   - 06735202-n
   ili: i71908
@@ -28485,9 +28485,9 @@
   - a definition in which the term is used by embedding it in a larger expression
     containing its explanation
   example:
-  - a contextual definition of “legal duty” might be “X has a legal duty to do Y means
+  - a contextual definition of `legal duty´ might be `X has a legal duty to do Y means
     that X is required to do Y by a contract relationship that would be upheld in
-    a court of law”
+    a court of law´
   hypernym:
   - 06757091-n
   ili: i71938
@@ -28537,7 +28537,7 @@
   definition:
   - the act of giving a new definition
   example:
-  - words like “conservative” require periodic redefinition
+  - words like `conservative´ require periodic redefinition
   - she provided a redefinition of his duties
   hypernym:
   - 06757091-n
@@ -28651,7 +28651,7 @@
   definition:
   - an announcement containing information about an event
   example:
-  - you didn＇t give me enough notice
+  - you didn't give me enough notice
   - an obituary notice
   - a notice of sale
   hypernym:
@@ -28676,7 +28676,7 @@
   partOfSpeech: n
 06760847-n:
   definition:
-  - a notice of someone＇s death; usually includes a short biography
+  - a notice of someone's death; usually includes a short biography
   hypernym:
   - 06760383-n
   ili: i71955
@@ -28700,7 +28700,7 @@
   - an announcement of the events that will occur as part of a theatrical or sporting
     event
   example:
-  - you can＇t tell the players without a program
+  - you can't tell the players without a program
   hypernym:
   - 06759293-n
   ili: i71957
@@ -28712,7 +28712,7 @@
   definition:
   - a theatrical program
   example:
-  - he couldn＇t find her name on the playbill
+  - he couldn't find her name on the playbill
   hypernym:
   - 06498711-n
   - 06761180-n
@@ -28753,7 +28753,7 @@
   partOfSpeech: n
 06762182-n:
   definition:
-  - the practice of predicting people＇s futures (usually for payment)
+  - the practice of predicting people's futures (usually for payment)
   hypernym:
   - 06761683-n
   ili: i71962
@@ -28762,7 +28762,7 @@
   partOfSpeech: n
 06762308-n:
   definition:
-  - a prediction of someone＇s future based on the relative positions of the planets
+  - a prediction of someone's future based on the relative positions of the planets
   hypernym:
   - 06761683-n
   ili: i71963
@@ -29365,7 +29365,7 @@
   definition:
   - a hypocritical display of sorrow; false or insincere weeping
   example:
-  - the secretaries wept crocodile tears over the manager＇s dilemma
+  - the secretaries wept crocodile tears over the manager's dilemma
   - politicians shed crocodile tears over the plight of the unemployed
   hypernym:
   - 06772787-n
@@ -29377,7 +29377,7 @@
   definition:
   - something intended to misrepresent the true nature of an activity
   example:
-  - he wasn＇t sick — it was just a subterfuge
+  - he wasn't sick — it was just a subterfuge
   - the holding company was just a blind
   hypernym:
   - 06770936-n
@@ -29446,7 +29446,7 @@
   definition:
   - an intentionally noncommittal or ambiguous statement
   example:
-  - when you say “maybe” you are just hedging
+  - when you say `maybe´ you are just hedging
   hypernym:
   - 06773810-n
   ili: i72025
@@ -29470,7 +29470,7 @@
   - the part of a contract that contains reservations and qualifications that are
     often printed in small type
   example:
-  - don＇t sign a contract without reading the fine print
+  - don't sign a contract without reading the fine print
   hypernym:
   - 06775091-n
   ili: i72027
@@ -29551,7 +29551,7 @@
   definition:
   - a short note recognizing a source of information or of a quoted passage
   example:
-  - the student＇s essay failed to list several important citations
+  - the student's essay failed to list several important citations
   - the acknowledgments are usually printed at the front of a book
   - the article includes mention of similar clinical cases
   hypernym:
@@ -29741,7 +29741,7 @@
   partOfSpeech: n
 06780078-n:
   definition:
-  - C. Northcote Parkinson＇s cynical observation that the number of subordinates in
+  - C. Northcote Parkinson's cynical observation that the number of subordinates in
     an organization will increase linearly regardless of the amount of work to be
     done
   ili: i72050
@@ -29752,7 +29752,7 @@
   partOfSpeech: n
 06780303-n:
   definition:
-  - C. Northcote Parkinson＇s cynical observation that work will expand so as to fill
+  - C. Northcote Parkinson's cynical observation that work will expand so as to fill
     the time available for its completion
   ili: i72051
   instance_hypernym:
@@ -29786,7 +29786,7 @@
   - an aggressive remark directed at a person like a missile and intended to have
     a telling effect
   example:
-  - his parting shot was “drop dead”
+  - his parting shot was `drop dead´
   - she threw shafts of sarcasm
   - she takes a dig at me every chance she gets
   hypernym:
@@ -29885,7 +29885,7 @@
   partOfSpeech: n
 06782369-n:
   definition:
-  - a printer＇s error; to be corrected
+  - a printer's error; to be corrected
   hypernym:
   - 06782183-n
   ili: i72063
@@ -29939,7 +29939,7 @@
   definition:
   - the statement (oral or written) of an exchange of promises
   example:
-  - they had an agreement that they would not interfere in each other＇s business
+  - they had an agreement that they would not interfere in each other's business
   - there was an understanding between management and the workers
   hypernym:
   - 06735202-n
@@ -30145,7 +30145,7 @@
   partOfSpeech: n
 06786993-n:
   definition:
-  - the peace treaty that ended the Thirty Years＇ War in 1648
+  - the peace treaty that ended the Thirty Years' War in 1648
   ili: i72087
   instance_hypernym:
   - 06786777-n
@@ -30382,7 +30382,7 @@
   - he knows a million gags
   - thanks for the laugh
   - he laughed unpleasantly at his own jest
-  - even a schoolboy＇s jape is supposed to have some ascertainable point
+  - even a schoolboy's jape is supposed to have some ascertainable point
   hypernym:
   - 06788939-n
   ili: i72108
@@ -30521,7 +30521,7 @@
   partOfSpeech: n
 06793148-n:
   definition:
-  - a composition that imitates or misrepresents somebody＇s style, usually in a humorous
+  - a composition that imitates or misrepresents somebody's style, usually in a humorous
     way
   hypernym:
   - 06792908-n
@@ -30551,7 +30551,7 @@
   partOfSpeech: n
 06793739-n:
   definition:
-  - verbal wit or mockery (often at another＇s expense but not to be taken seriously)
+  - verbal wit or mockery (often at another's expense but not to be taken seriously)
   example:
   - he became a figure of fun
   - he said it in sport
@@ -30762,7 +30762,7 @@
   - a particularly baffling problem that is said to have a correct solution
   example:
   - he loved to solve chessmate puzzles
-  - that＇s a real puzzler
+  - that's a real puzzler
   hypernym:
   - 06796860-n
   ili: i72140
@@ -31397,7 +31397,7 @@
   definition:
   - an individual instance of a type of symbol
   example:
-  - the word “error” contains three tokens of “r”
+  - the word `error´ contains three tokens of `r´
   hypernym:
   - 06819327-n
   ili: i72197
@@ -31409,7 +31409,7 @@
   definition:
   - all of the tokens of the same symbol
   example:
-  - the word “element” contains five different types of character
+  - the word `element´ contains five different types of character
   hypernym:
   - 06819327-n
   ili: i72198
@@ -31524,7 +31524,7 @@
   partOfSpeech: n
 06811045-n:
   definition:
-  - anything that accompanies X and is regarded as an indication of X＇s existence
+  - anything that accompanies X and is regarded as an indication of X's existence
   hypernym:
   - 06810027-n
   ili: i72208
@@ -31800,7 +31800,7 @@
   definition:
   - a vague indication
   example:
-  - he caught only a glimpse of the professor＇s meaning
+  - he caught only a glimpse of the professor's meaning
   hypernym:
   - 06810027-n
   ili: i72235
@@ -32146,7 +32146,7 @@
   partOfSpeech: n
 06820979-n:
   definition:
-  - a goat＇s horn filled with grain and flowers and fruit symbolizing prosperity
+  - a goat's horn filled with grain and flowers and fruit symbolizing prosperity
   hypernym:
   - 05773412-n
   ili: i72268
@@ -32348,7 +32348,7 @@
   definition:
   - a character indicating a relation between quantities
   example:
-  - don＇t forget the minus sign
+  - don't forget the minus sign
   hypernym:
   - 06821578-n
   ili: i72288
@@ -32639,7 +32639,7 @@
 06829413-n:
   definition:
   - a system of notation for dance movements that uses symbols to represent points
-    on a dancer＇s body and the direction of the dancer＇s movement and the tempo and
+    on a dancer's body and the direction of the dancer's movement and the tempo and
     the dynamics
   hypernym:
   - 06829303-n
@@ -32732,7 +32732,7 @@
   partOfSpeech: n
 06831175-n:
   definition:
-  - a mark shaped like an arrowhead; used to mark convicts＇ clothing
+  - a mark shaped like an arrowhead; used to mark convicts' clothing
   hypernym:
   - 06830640-n
   ili: i72324
@@ -32764,7 +32764,7 @@
   definition:
   - a mark indicating that something has been noted or completed etc.
   example:
-  - as he called the role he put a check mark by each student＇s name
+  - as he called the role he put a check mark by each student's name
   hypernym:
   - 06830640-n
   ili: i72327
@@ -32789,7 +32789,7 @@
   partOfSpeech: n
 06832423-n:
   definition:
-  - a variant form of a grapheme, as “m” or “M” or a handwritten version of that grapheme
+  - a variant form of a grapheme, as `m´ or `M´ or a handwritten version of that grapheme
   hypernym:
   - 06831828-n
   ili: i72329
@@ -33107,7 +33107,7 @@
   partOfSpeech: n
 06837807-n:
   definition:
-  - the characters that were once kept in bottom half of a compositor＇s type case
+  - the characters that were once kept in bottom half of a compositor's type case
   hypernym:
   - 06831828-n
   ili: i72358
@@ -33321,7 +33321,7 @@
   partOfSpeech: n
 06841249-n:
   definition:
-  - a sign (“%”) used to indicate that the number preceding it should be understood
+  - a sign (`%´) used to indicate that the number preceding it should be understood
     as a proportion multiplied by 100
   hypernym:
   - 06831828-n
@@ -33397,7 +33397,7 @@
 06843888-n:
   definition:
   - 'two successive letters (especially two letters used to represent a single sound:
-    “sh” in “shoe”)'
+    `sh´ in `shoe´)'
   hypernym:
   - 06841868-n
   ili: i72384
@@ -33407,7 +33407,7 @@
   partOfSpeech: n
 06844047-n:
   definition:
-  - the first letter of a word (especially a person＇s name)
+  - the first letter of a word (especially a person's name)
   example:
   - he refused to put the initials FRS after his name
   hypernym:
@@ -33674,7 +33674,7 @@
   - the 26th letter of the Roman alphabet
   example:
   - the British call Z zed and the Scots call it ezed but Americans call it zee
-  - he doesn＇t know A from izzard
+  - he doesn't know A from izzard
   hypernym:
   - 06841868-n
   ili: i72411
@@ -34126,8 +34126,8 @@
   definition:
   - a letter that has two or more pronunciations
   example:
-  - “c” is a polyphone because it is pronounced like “k” in “car” but like “s” in
-    “cell”
+  - '`c´ is a polyphone because it is pronounced like `k´ in `car´ but like `s´ in
+    `cell´'
   hypernym:
   - 06841868-n
   ili: i72460
@@ -34224,7 +34224,7 @@
   - a single written symbol that represents an entire word or phrase without indicating
     its pronunciation
   example:
-  - “7” is a logogram that is pronounced “seven” in English and “nanatsu” in Japanese
+  - '`7´ is a logogram that is pronounced `seven´ in English and `nanatsu´ in Japanese'
   hypernym:
   - 06853698-n
   ili: i72469
@@ -34263,7 +34263,7 @@
   partOfSpeech: n
 06854923-n:
   definition:
-  - a punctuation mark (“&”) used to represent conjunction (and)
+  - a punctuation mark (`&´) used to represent conjunction (and)
   hypernym:
   - 06854415-n
   ili: i72473
@@ -34272,7 +34272,7 @@
   partOfSpeech: n
 06855037-n:
   definition:
-  - the mark (“'”) used to indicate the omission of one or more letters from a printed
+  - the mark (`'´) used to indicate the omission of one or more letters from a printed
     word
   hypernym:
   - 06854415-n
@@ -34282,7 +34282,7 @@
   partOfSpeech: n
 06855215-n:
   definition:
-  - either of two punctuation marks (“{” or “}”) used to enclose textual material
+  - either of two punctuation marks (`{´ or `}´) used to enclose textual material
   hypernym:
   - 06854415-n
   ili: i72475
@@ -34291,7 +34291,7 @@
   partOfSpeech: n
 06855340-n:
   definition:
-  - either of two punctuation marks (“[” or “]”) used to enclose textual material
+  - either of two punctuation marks (`[´ or `]´) used to enclose textual material
   hypernym:
   - 06854415-n
   ili: i72476
@@ -34301,7 +34301,7 @@
   partOfSpeech: n
 06855502-n:
   definition:
-  - either of two punctuation marks (“<” or “”>) used in computer programming and
+  - either of two punctuation marks (`<´ or `´>) used in computer programming and
     sometimes used to enclose textual material
   hypernym:
   - 06854415-n
@@ -34312,7 +34312,7 @@
   partOfSpeech: n
 06855710-n:
   definition:
-  - a punctuation mark (“:”) used after a word introducing a series or an example
+  - a punctuation mark (`:´) used after a word introducing a series or an example
     or an explanation (or after the salutation of a business letter)
   hypernym:
   - 06854415-n
@@ -34322,7 +34322,7 @@
   partOfSpeech: n
 06855902-n:
   definition:
-  - a punctuation mark (“,”) used to indicate the separation of elements within the
+  - a punctuation mark (`,´) used to indicate the separation of elements within the
     grammatical structure of a sentence
   hypernym:
   - 06854415-n
@@ -34332,7 +34332,7 @@
   partOfSpeech: n
 06856067-n:
   definition:
-  - a punctuation mark (“!”) used after an exclamation
+  - a punctuation mark (`!´) used after an exclamation
   hypernym:
   - 06854415-n
   ili: i72480
@@ -34342,7 +34342,7 @@
   partOfSpeech: n
 06856198-n:
   definition:
-  - a punctuation mark (“-”) used between parts of a compound word or between the
+  - a punctuation mark (`-´) used between parts of a compound word or between the
     syllables of a word when the word is divided at the end of a line of text
   hypernym:
   - 06854415-n
@@ -34353,7 +34353,7 @@
   partOfSpeech: n
 06856443-n:
   definition:
-  - either of two punctuation marks “(” or “)” used to enclose textual material
+  - either of two punctuation marks `(´ or `)´ used to enclose textual material
   hypernym:
   - 06854415-n
   ili: i72482
@@ -34362,7 +34362,7 @@
   partOfSpeech: n
 06856570-n:
   definition:
-  - a punctuation mark (“.”) placed at the end of a declarative sentence to indicate
+  - a punctuation mark (`.´) placed at the end of a declarative sentence to indicate
     a full stop or after abbreviations
   example:
   - in England they call a period a stop
@@ -34378,7 +34378,7 @@
   partOfSpeech: n
 06856888-n:
   definition:
-  - (usually plural) one of a series of points (“…”) indicating that something has
+  - (usually plural) one of a series of points (`…´) indicating that something has
     been omitted or that the sentence is incomplete
   exemplifies:
   - 06306016-n
@@ -34390,7 +34390,7 @@
   partOfSpeech: n
 06857090-n:
   definition:
-  - a punctuation mark (“?”) placed at the end of a sentence to indicate a question
+  - a punctuation mark (`?´) placed at the end of a sentence to indicate a question
   hypernym:
   - 06854415-n
   ili: i72485
@@ -34438,7 +34438,7 @@
   partOfSpeech: n
 06857789-n:
   definition:
-  - a punctuation mark (“;”) used to connect independent clauses; indicates a closer
+  - a punctuation mark (`;´) used to connect independent clauses; indicates a closer
     relation than does a period
   hypernym:
   - 06854415-n
@@ -34448,7 +34448,7 @@
   partOfSpeech: n
 06857953-n:
   definition:
-  - a punctuation mark (“/”) used to separate related items of information
+  - a punctuation mark (`/´) used to separate related items of information
   hypernym:
   - 06854415-n
   ili: i72491
@@ -34462,7 +34462,7 @@
   partOfSpeech: n
 06858126-n:
   definition:
-  - a punctuation mark (“⁓”) used in text to indicate the omission of a word
+  - a punctuation mark (`⁓´) used in text to indicate the omission of a word
   hypernym:
   - 06854415-n
   ili: i72492
@@ -34521,7 +34521,7 @@
   partOfSpeech: n
 06864792-n:
   definition:
-  - a formally registered symbol (“™”) identifying the manufacturer or distributor
+  - a formally registered symbol (`™´) identifying the manufacturer or distributor
     of a product
   exemplifies:
   - 92433720-n
@@ -34568,7 +34568,7 @@
   partOfSpeech: n
 06868613-n:
   definition:
-  - an identification of a publisher; a publisher＇s name along with the date and address
+  - an identification of a publisher; a publisher's name along with the date and address
     and edition that is printed at the bottom of the title page
   example:
   - the book was published under a distinguished imprint
@@ -34594,7 +34594,7 @@
   definition:
   - a stamp affixed to a document (as to attest to its authenticity or to seal it)
   example:
-  - the warrant bore the sheriff＇s seal
+  - the warrant bore the sheriff's seal
   hypernym:
   - 06868257-n
   ili: i72503
@@ -36171,7 +36171,7 @@
   - expression without words
   example:
   - tears are an expression of grief
-  - the pulse is a reflection of the heart＇s condition
+  - the pulse is a reflection of the heart's condition
   hypernym:
   - 06892230-n
   ili: i72655
@@ -36252,7 +36252,7 @@
 06894848-n:
   definition:
   - bundle of rods containing an ax with the blade protruding; in ancient Rome it
-    was a symbol of a magistrate＇s power; in modern Italy it is a symbol of fascism
+    was a symbol of a magistrate's power; in modern Italy it is a symbol of fascism
   hypernym:
   - 06893714-n
   ili: i72663
@@ -36309,7 +36309,7 @@
   - an emblem (a small piece of plastic or cloth or metal) that signifies your status
     (rank or membership or affiliation etc.)
   example:
-  - they checked everyone＇s badge before letting them in
+  - they checked everyone's badge before letting them in
   hypernym:
   - 06893714-n
   ili: i72668
@@ -36517,7 +36517,7 @@
   definition:
   - a generic term for any identifying characteristic
   example:
-  - that tax bill had the senator＇s fingerprints all over it
+  - that tax bill had the senator's fingerprints all over it
   hypernym:
   - 06898133-n
   ili: i72687
@@ -36526,7 +36526,7 @@
   partOfSpeech: n
 06899705-n:
   definition:
-  - using speech characteristics or dialect to identify a speaker＇s race or religion
+  - using speech characteristics or dialect to identify a speaker's race or religion
     or social class
   hypernym:
   - 06898133-n
@@ -36536,7 +36536,7 @@
   partOfSpeech: n
 06899868-n:
   definition:
-  - recording a person＇s behavior and analyzing psychological characteristics in order
+  - recording a person's behavior and analyzing psychological characteristics in order
     to predict or assess their ability in a certain sphere or to identify a particular
     group of people
   hypernym:
@@ -37531,7 +37531,7 @@
 06915685-n:
   definition:
   - a popular programming language that is relatively easy to learn; an acronym for
-    beginner＇s all-purpose symbolic instruction code; no longer in general use
+    beginner's all-purpose symbolic instruction code; no longer in general use
   hypernym:
   - 06911128-n
   ili: i72788
@@ -37613,7 +37613,7 @@
   partOfSpeech: n
 06917524-n:
   definition:
-  - one＇s native language; the language learned by children and passed from one generation
+  - one's native language; the language learned by children and passed from one generation
     to the next
   hypernym:
   - 06916947-n
@@ -39013,7 +39013,7 @@
   partOfSpeech: n
 06935166-n:
   definition:
-  - the Yuman language spoken by the Akwa＇ala
+  - the Yuman language spoken by the Akwa'ala
   hypernym:
   - 06934822-n
   ili: i72929
@@ -39616,7 +39616,7 @@
   partOfSpeech: n
 06941785-n:
   definition:
-  - the language of the Khalkha that is the official language of the Mongolian People＇s
+  - the language of the Khalkha that is the official language of the Mongolian People's
     Republic
   hypernym:
   - 06941616-n
@@ -40567,7 +40567,7 @@
   wikidata: Q35465
 06953363-n:
   definition:
-  - a language of Australian aborigines, spoken in Australia＇s Northern Territory
+  - a language of Australian aborigines, spoken in Australia's Northern Territory
   hypernym:
   - 06953052-n
   ili: i73066
@@ -41053,7 +41053,7 @@
   partOfSpeech: n
 06961158-n:
   definition:
-  - the approved pronunciation of British English; originally based on the King＇s
+  - the approved pronunciation of British English; originally based on the King's
     English as spoken at public schools and at Oxford and Cambridge Universities (and
     widely accepted elsewhere in Britain); until recently it was the pronunciation
     of English used in British broadcasting
@@ -42062,7 +42062,7 @@
   definition:
   - the language of educated people in ancient Rome
   example:
-  - There＇s a distinct difference in pronunciation between Classical Latin and Ecclesiastical
+  - There's a distinct difference in pronunciation between Classical Latin and Ecclesiastical
     Latin
   hypernym:
   - 06975340-n
@@ -42263,7 +42263,7 @@
   partOfSpeech: n
 06978970-n:
   definition:
-  - the medieval dialects of Langue d＇oc (southern France)
+  - the medieval dialects of Langue d'oc (southern France)
   hypernym:
   - 06978186-n
   ili: i73219
@@ -43752,7 +43752,7 @@
   partOfSpeech: n
 06998150-n:
   definition:
-  - a Chadic language spoken in Chad, in Mayo-Kebbi Est Region, Mont d＇Illi department,
+  - a Chadic language spoken in Chad, in Mayo-Kebbi Est Region, Mont d'Illi department,
     south of Fianga, near Lake Tikem
   hypernym:
   - 06998552-n
@@ -45151,7 +45151,7 @@
   partOfSpeech: n
 07019828-n:
   definition:
-  - the theater as a profession (usually “the stage”)
+  - the theater as a profession (usually `the stage´)
   example:
   - an early movie simply showed a long kiss by two actors of the contemporary stage
   hypernym:
@@ -45420,7 +45420,7 @@
   partOfSpeech: n
 07024325-n:
   definition:
-  - an actor＇s line that immediately precedes and serves as a reminder for some action
+  - an actor's line that immediately precedes and serves as a reminder for some action
     or speech
   hypernym:
   - 07023937-n
@@ -45519,8 +45519,8 @@
   definition:
   - persuasive but insincere talk that is usually intended to deceive or impress
   example:
-  - “let me show you my etchings” is a rather worn line
-  - he has a smooth line but I didn＇t fall for it
+  - '`let me show you my etchings´ is a rather worn line'
+  - he has a smooth line but I didn't fall for it
   - that salesman must have practiced his fast line of talk
   hypernym:
   - 07259785-n
@@ -45669,7 +45669,7 @@
   partOfSpeech: n
 07028356-n:
   definition:
-  - a gesture of greeting or elation; one person＇s upraised palm slaps the upraised
+  - a gesture of greeting or elation; one person's upraised palm slaps the upraised
     palm of another person
   hypernym:
   - 06889359-n
@@ -46285,7 +46285,7 @@
 07042284-n:
   definition:
   - a melodic phrase that accompanies the reappearance of a person or situation (as
-    in Wagner＇s operas)
+    in Wagner's operas)
   hypernym:
   - 07041860-n
   ili: i73588
@@ -46783,7 +46783,7 @@
 07050292-n:
   definition:
   - the first words of a medieval Latin hymn describing the Last Judgment (literally
-    “day of wrath”)
+    `day of wrath´)
   ili: i73634
   instance_hypernym:
   - 07049616-n
@@ -46825,8 +46825,8 @@
   partOfSpeech: n
 07050805-n:
   definition:
-  - (Luke) the canticle of the Virgin Mary (from Luke 1:46 beginning “Magnificat anima
-    mea Dominum”)
+  - (Luke) the canticle of the Virgin Mary (from Luke 1:46 beginning `Magnificat anima
+    mea Dominum´)
   domain_topic:
   - 06453643-n
   ili: i73638
@@ -47555,7 +47555,7 @@
   partOfSpeech: n
 07062685-n:
   definition:
-  - a composition intended to develop one aspect of the performer＇s technique
+  - a composition intended to develop one aspect of the performer's technique
   example:
   - a study in spiccato bowing
   hypernym:
@@ -48332,7 +48332,7 @@
   partOfSpeech: n
 07074002-n:
   definition:
-  - music of general appeal to teenagers; a bland watered-down version of rock＇n＇roll
+  - music of general appeal to teenagers; a bland watered-down version of rock'n'roll
     with more rhythm and harmony and an emphasis on romantic love
   hypernym:
   - 07073295-n
@@ -48571,7 +48571,7 @@
 07078355-n:
   definition:
   - a combination of blues and jazz that was developed in the United States by Black
-    musicians; an important precursor of rock ＇n＇ roll
+    musicians; an important precursor of rock 'n' roll
   hypernym:
   - 07073295-n
   - 07039073-n
@@ -48596,7 +48596,7 @@
   - a genre of popular music originating in the 1950s; a blend of black rhythm-and-blues
     with white country-and-western
   example:
-  - rock is a generic term for the range of styles that evolved out of rock＇n＇roll.
+  - rock is a generic term for the range of styles that evolved out of rock'n'roll.
   hypernym:
   - 07073295-n
   ili: i73810
@@ -48739,8 +48739,8 @@
   partOfSpeech: n
 07081916-n:
   definition:
-  - 'the use of closed-class words instead of inflections: e.g., “the father of the
-    bride” instead of “the bride＇s father”'
+  - 'the use of closed-class words instead of inflections: e.g., `the father of the
+    bride´ instead of `the bride''s father´'
   hypernym:
   - 07080699-n
   ili: i73822
@@ -48783,7 +48783,7 @@
   definition:
   - an artistic device or effect
   example:
-  - the architect＇s brilliant conceit was to build the house around the tree
+  - the architect's brilliant conceit was to build the house around the tree
   hypernym:
   - 07082884-n
   ili: i73826
@@ -48866,7 +48866,7 @@
   definition:
   - a want of animation or brilliance
   example:
-  - the almost self-conscious flatness of Hemingway＇s style
+  - the almost self-conscious flatness of Hemingway's style
   hypernym:
   - 07080699-n
   ili: i73834
@@ -49048,7 +49048,7 @@
   partOfSpeech: n
 07087111-n:
   definition:
-  - the expression of one＇s individuality (usually through creative activities)
+  - the expression of one's individuality (usually through creative activities)
   hypernym:
   - 07080699-n
   ili: i73851
@@ -49230,7 +49230,7 @@
   partOfSpeech: n
 07096765-n:
   definition:
-  - the quality of a person＇s voice
+  - the quality of a person's voice
   example:
   - he began in a conversational tone
   - he spoke in a nervous tone of voice
@@ -49448,7 +49448,7 @@
   definition:
   - the arrangement of spoken words alternating stressed and unstressed elements
   example:
-  - the rhythm of Frost＇s poetry
+  - the rhythm of Frost's poetry
   hypernym:
   - 07097924-n
   - 05947694-n
@@ -49484,7 +49484,7 @@
   partOfSpeech: n
 07101164-n:
   definition:
-  - the first beat of a musical measure (as the conductor＇s arm moves downward)
+  - the first beat of a musical measure (as the conductor's arm moves downward)
   hypernym:
   - 07100710-n
   ili: i73891
@@ -49598,7 +49598,7 @@
   definition:
   - a distinctive spoken or written expression
   example:
-  - John＇s succinct turn of phrase persuaded her that it would not be a good idea
+  - John's succinct turn of phrase persuaded her that it would not be a good idea
   hypernym:
   - 07080699-n
   ili: i73902
@@ -49752,7 +49752,7 @@
   definition:
   - using more words than necessary
   example:
-  - plenoasms such as “a tiny little child”
+  - plenoasms such as `a tiny little child´
   hypernym:
   - 07103943-n
   ili: i73916
@@ -49763,7 +49763,7 @@
   definition:
   - useless and pointless repetition
   example:
-  - to say that something is “adequate enough” is a tautology
+  - to say that something is `adequate enough´ is a tautology
   hypernym:
   - 07104913-n
   ili: i73917
@@ -49776,7 +49776,7 @@
   domain_topic:
   - 06173467-n
   example:
-  - the statement “he is brave or he is not brave” is a tautology
+  - the statement `he is brave or he is not brave´ is a tautology
   hypernym:
   - 06736815-n
   ili: i73918
@@ -49796,7 +49796,7 @@
   definition:
   - abbreviation of a word by omitting the final sound or sounds
   example:
-  - the British get “pud” from “pudding” by apocope
+  - the British get `pud´ from `pudding´ by apocope
   hypernym:
   - 07105779-n
   ili: i73920
@@ -49819,8 +49819,8 @@
   - a word formed from the initial letters of the several words in the name and pronounced
     as one word
   example:
-  - “NATO” is an initialism for North Atlantic Treaty Organization
-  - the word “scuba” is an acronym for s(elf)-c(ontained) u(nderwater) b(reathing)
+  - '`NATO´ is an initialism for North Atlantic Treaty Organization'
+  - the word `scuba´ is an acronym for s(elf)-c(ontained) u(nderwater) b(reathing)
     a(pparatus)
   hypernym:
   - 06301417-n
@@ -50021,7 +50021,7 @@
   wikidata: Q465509
 07110182-n:
   definition:
-  - a metrical unit with unstressed-stressed-unstressed syllables (e.g., “remember”)
+  - a metrical unit with unstressed-stressed-unstressed syllables (e.g., `remember´)
   hypernym:
   - 07109509-n
   ili: i73940
@@ -50136,7 +50136,7 @@
   - use of the same consonant at the beginning of each stressed syllable in a line
     of verse
   example:
-  - initial rhyme such as “around the rock the ragged rascal ran”
+  - initial rhyme such as `around the rock the ragged rascal ran´
   hypernym:
   - 07111327-n
   ili: i73952
@@ -50172,7 +50172,7 @@
   definition:
   - a two-syllable rhyme
   example:
-  - “ended” and “blended” form a double rhyme
+  - '`ended´ and `blended´ form a double rhyme'
   hypernym:
   - 07111327-n
   ili: i73955
@@ -50200,7 +50200,7 @@
   partOfSpeech: n
 07112759-n:
   definition:
-  - an imperfect rhyme (e.g., “love” and “move”)
+  - an imperfect rhyme (e.g., `love´ and `move´)
   hypernym:
   - 07111327-n
   ili: i73958
@@ -50323,7 +50323,7 @@
   definition:
   - repetition of a word in a different case or inflection in the same sentence
   example:
-  - polyptoton such as “my own heart＇s heart”
+  - polyptoton such as `my own heart's heart´
   hypernym:
   - 07113937-n
   ili: i73970
@@ -50425,8 +50425,8 @@
   partOfSpeech: n
 07116700-n:
   definition:
-  - 'strained or paradoxical use of words either in error (as “blatant” to mean “flagrant”)
-    or deliberately (as in a mixed metaphor: “blind mouths”)'
+  - 'strained or paradoxical use of words either in error (as `blatant´ to mean `flagrant´)
+    or deliberately (as in a mixed metaphor: `blind mouths´)'
   hypernym:
   - 07112859-n
   ili: i73981
@@ -50476,7 +50476,7 @@
   definition:
   - an exclamatory rhetorical device
   example:
-  - exclamation such as “O tempore! O mores”
+  - exclamation such as `O tempore! O mores´
   hypernym:
   - 07112859-n
   ili: i73986
@@ -50496,7 +50496,7 @@
 07117772-n:
   definition:
   - a substitution of part of speech or gender or number or tense etc. (e.g., editorial
-    “we” for “I”)
+    `we´ for `I´)
   hypernym:
   - 07112859-n
   ili: i73988
@@ -50507,7 +50507,7 @@
   definition:
   - immediate rephrasing for intensification or justification
   example:
-  - epanorthosis such as “Seems, madam! Nay, it is”
+  - epanorthosis such as `Seems, madam! Nay, it is´
   hypernym:
   - 07112859-n
   ili: i73989
@@ -50535,7 +50535,7 @@
   partOfSpeech: n
 07118337-n:
   definition:
-  - reversal of the syntactic relation of two words (as in “her beauty＇s face”)
+  - reversal of the syntactic relation of two words (as in `her beauty's face´)
   hypernym:
   - 07112859-n
   ili: i73992
@@ -50544,7 +50544,7 @@
   partOfSpeech: n
 07118468-n:
   definition:
-  - reversal of normal word order (as in “cheese I love”)
+  - reversal of normal word order (as in `cheese I love´)
   hypernym:
   - 07112859-n
   ili: i73993
@@ -50562,7 +50562,7 @@
   partOfSpeech: n
 07118686-n:
   definition:
-  - use of a series of parallel clauses (as in “I came, I saw, I conquered”)
+  - use of a series of parallel clauses (as in `I came, I saw, I conquered´)
   hypernym:
   - 07112859-n
   ili: i73995
@@ -50571,7 +50571,7 @@
   partOfSpeech: n
 07118815-n:
   definition:
-  - reversal of normal order of two words or sentences etc. (as in “bred and born”)
+  - reversal of normal order of two words or sentences etc. (as in `bred and born´)
   hypernym:
   - 07112859-n
   ili: i73996
@@ -50583,7 +50583,7 @@
   - understatement for rhetorical effect (especially when expressing an affirmative
     by negating its contrary)
   example:
-  - saying “I was not a little upset” when you mean “I was very upset” is an example
+  - saying `I was not a little upset´ when you mean `I was very upset´ is an example
     of litotes
   hypernym:
   - 07112859-n
@@ -50616,7 +50616,7 @@
   partOfSpeech: n
 07119578-n:
   definition:
-  - juxtaposing words having a common derivation (as in “sense and sensibility”)
+  - juxtaposing words having a common derivation (as in `sense and sensibility´)
   hypernym:
   - 07112859-n
   ili: i74000
@@ -50626,7 +50626,7 @@
 07119711-n:
   definition:
   - using several conjunctions in close succession, especially where some might be
-    omitted (as in “he ran and jumped and laughed for joy”)
+    omitted (as in `he ran and jumped and laughed for joy´)
   hypernym:
   - 07112859-n
   ili: i74001
@@ -50717,8 +50717,8 @@
 07121768-n:
   definition:
   - a metaphor that has occurred so often that it has become a new meaning of the
-    expression (e.g., “he is a snake” may once have been a metaphor but after years
-    of use it has died and become a new sense of the word “snake”)
+    expression (e.g., `he is a snake´ may once have been a metaphor but after years
+    of use it has died and become a new sense of the word `snake´)
   hypernym:
   - 07121485-n
   ili: i74010
@@ -50747,7 +50747,7 @@
 07122361-n:
   definition:
   - substituting the name of an attribute or feature for the name of the thing itself
-    (as in “they counted heads”)
+    (as in `they counted heads´)
   hypernym:
   - 07120141-n
   ili: i74013
@@ -50765,7 +50765,7 @@
   partOfSpeech: n
 07122695-n:
   definition:
-  - conjoining contradictory terms (as in “deafening silence”)
+  - conjoining contradictory terms (as in `deafening silence´)
   hypernym:
   - 07120141-n
   ili: i74015
@@ -50785,7 +50785,7 @@
 07122967-n:
   definition:
   - a figure of speech that expresses a resemblance between things of different kinds
-    (usually formed with “like” or “as”)
+    (usually formed with `like´ or `as´)
   hypernym:
   - 07120141-n
   ili: i74017
@@ -50813,10 +50813,10 @@
   partOfSpeech: n
 07123492-n:
   definition:
-  - use of a verb with two or more complements, playing on the verb＇s polysemy, for
+  - use of a verb with two or more complements, playing on the verb's polysemy, for
     humorous effect
   example:
-  - “Mr. Pickwick took his hat and his leave” is an example of zeugma
+  - '`Mr. Pickwick took his hat and his leave´ is an example of zeugma'
   hypernym:
   - 07120141-n
   ili: i74020
@@ -51124,7 +51124,7 @@
 07129243-n:
   definition:
   - a semivowel produced with the tongue near the palate (like the initial sound in
-    the English word “yeast”)
+    the English word `yeast´)
   hypernym:
   - 07129117-n
   ili: i74048
@@ -51314,7 +51314,7 @@
   definition:
   - the insertion of a vowel or consonant into a word to make its pronunciation easier
   example:
-  - the insertion of a vowel in the plural of the word “bush” is epenthesis
+  - the insertion of a vowel in the plural of the word `bush´ is epenthesis
   hypernym:
   - 07146562-n
   ili: i74066
@@ -51379,7 +51379,7 @@
 07133698-n:
   definition:
   - a composite speech sound consisting of a stop and a fricative articulated at the
-    same point (as “ch” in “chair” and “j” in “joy”)
+    same point (as `ch´ in `chair´ and `j´ in `joy´)
   hypernym:
   - 07130392-n
   ili: i74072
@@ -51420,7 +51420,7 @@
   partOfSpeech: n
 07134351-n:
   definition:
-  - a frictionless continuant that is not a nasal consonant (especially “l” and “r”)
+  - a frictionless continuant that is not a nasal consonant (especially `l´ and `r´)
   hypernym:
   - 07129729-n
   ili: i74076
@@ -51431,7 +51431,7 @@
   definition:
   - a doubled or long consonant
   example:
-  - the “n” in “thinness” is a geminate
+  - the `n´ in `thinness´ is a geminate
   hypernym:
   - 07129729-n
   ili: i74077
@@ -51599,7 +51599,7 @@
   - a loud outcry of protest or complaint
   example:
   - the announcement of the election recount caused a lot of noise
-  - whatever it was he didn＇t like it and he was going to let them know by making
+  - whatever it was he didn't like it and he was going to let them know by making
     as loud a noise as he could
   hypernym:
   - 07135232-n
@@ -51880,7 +51880,7 @@
   partOfSpeech: n
 07142159-n:
   definition:
-  - a loud laugh suggestive of a hen＇s cackle
+  - a loud laugh suggestive of a hen's cackle
   hypernym:
   - 07141714-n
   ili: i74115
@@ -52138,7 +52138,7 @@
   definition:
   - distinctive manner of oral expression
   example:
-  - he couldn＇t suppress his contemptuous accent
+  - he couldn't suppress his contemptuous accent
   - she had a very clear speech pattern
   hypernym:
   - 07143654-n
@@ -52199,7 +52199,7 @@
   partOfSpeech: n
 07147437-n:
   definition:
-  - (phonology) the loss of sounds from within a word (as in “fo＇c＇sle” for “forecastle”)
+  - (phonology) the loss of sounds from within a word (as in `fo'c'sle´ for `forecastle´)
   domain_topic:
   - 06187166-n
   hypernym:
@@ -52234,7 +52234,7 @@
   definition:
   - an expression that is difficult to articulate clearly
   example:
-  - “rubber baby buggy bumper” is a tongue twister
+  - '`rubber baby buggy bumper´ is a tongue twister'
   hypernym:
   - 07166088-n
   ili: i74149
@@ -52243,10 +52243,10 @@
   partOfSpeech: n
 07148185-n:
   definition:
-  - the articulation of a consonant (especially the consonant “r”) with a rapid flutter
+  - the articulation of a consonant (especially the consonant `r´) with a rapid flutter
     of the tongue against the palate or uvula
   example:
-  - he pronounced his R＇s with a distinct trill
+  - he pronounced his R's with a distinct trill
   hypernym:
   - 07146562-n
   ili: i74150
@@ -52369,7 +52369,7 @@
   definition:
   - an exchange of ideas via conversation
   example:
-  - let＇s have more work and less talk around here
+  - let's have more work and less talk around here
   hypernym:
   - 07148409-n
   ili: i74161
@@ -52433,8 +52433,8 @@
   definition:
   - empty rhetoric or insincere or exaggerated talk
   example:
-  - that＇s a lot of wind
-  - don＇t give me any of that jazz
+  - that's a lot of wind
+  - don't give me any of that jazz
   hypernym:
   - 07150442-n
   ili: i74167
@@ -52550,7 +52550,7 @@
 07153212-n:
   definition:
   - a report of a discourse in which deictic terms are modified appropriately (e.g.,
-    “he said "I am a fool"” would be modified to “he said he is a fool”)
+    `he said "I am a fool"´ would be modified to `he said he is a fool´)
   hypernym:
   - 07232584-n
   ili: i74177
@@ -52590,7 +52590,7 @@
   partOfSpeech: n
 07154024-n:
   definition:
-  - discussion; (“talk about” is a less formal alternative for “discussion of”)
+  - discussion; (`talk about´ is a less formal alternative for `discussion of´)
   example:
   - his poetry contains much talk about love and anger
   hypernym:
@@ -52828,7 +52828,7 @@
 07158158-n:
   definition:
   - (law) a courtroom conference between the lawyers and the judge that is held out
-    of the jury＇s hearing
+    of the jury's hearing
   domain_topic:
   - 08458195-n
   hypernym:
@@ -52949,7 +52949,7 @@
   partOfSpeech: n
 07160216-n:
   definition:
-  - a meeting for execution of a group＇s functions
+  - a meeting for execution of a group's functions
   example:
   - it was the opening session of the legislature
   hypernym:
@@ -53147,7 +53147,7 @@
   - the explicit and formal acknowledgement of a government or of the national independence
     of a country
   example:
-  - territorial disputes were resolved in Guatemala＇s recognition of Belize in 1991
+  - territorial disputes were resolved in Guatemala's recognition of Belize in 1991
   hypernym:
   - 07163281-n
   ili: i74232
@@ -53159,7 +53159,7 @@
   - international negotiations conducted by a mediator who frequently flies back and
     forth between the negotiating parties
   example:
-  - Kissinger＇s shuttle diplomacy in the Middle East
+  - Kissinger's shuttle diplomacy in the Middle East
   hypernym:
   - 07163281-n
   ili: i74233
@@ -53169,7 +53169,7 @@
 07164290-n:
   definition:
   - negotiations between the United States and the Union of Soviet Socialist Republics
-    opened in 1969 in Helsinki designed to limit both countries＇ stock of nuclear
+    opened in 1969 in Helsinki designed to limit both countries' stock of nuclear
     weapons
   ili: i74234
   instance_hypernym:
@@ -53333,7 +53333,7 @@
   definition:
   - a commonly repeated word or phrase
   example:
-  - she repeated “So pleased with how it＇s going” at intervals like a mantra
+  - she repeated `So pleased with how it's going´ at intervals like a mantra
   hypernym:
   - 07166967-n
   ili: i74250
@@ -53345,7 +53345,7 @@
   - a slogan used to rally support for a cause
   example:
   - a cry to arms
-  - our watchword will be “democracy”
+  - our watchword will be `democracy´
   hypernym:
   - 07166967-n
   ili: i74251
@@ -53517,7 +53517,7 @@
   partOfSpeech: n
 07170239-n:
   definition:
-  - an adult＇s imitation of the speech of a young child
+  - an adult's imitation of the speech of a young child
   hypernym:
   - 07169789-n
   ili: i74267
@@ -53621,7 +53621,7 @@
   definition:
   - a characteristic language of a particular group (as among thieves)
   example:
-  - they don＇t speak our lingo
+  - they don't speak our lingo
   hypernym:
   - 07169789-n
   ili: i74277
@@ -53821,7 +53821,7 @@
   definition:
   - a proposal offered for acceptance or rejection
   example:
-  - it was a suggestion we couldn＇t refuse
+  - it was a suggestion we couldn't refuse
   hypernym:
   - 07176845-n
   ili: i74295
@@ -53864,7 +53864,7 @@
 07178032-n:
   definition:
   - the second presentation of a bill in a legislature; to approve its general principles
-    (Britain) or to discuss a committee＇s report and take a vote (US)
+    (Britain) or to discuss a committee's report and take a vote (US)
   hypernym:
   - 07182066-n
   ili: i74299
@@ -53979,7 +53979,7 @@
   partOfSpeech: n
 07180061-n:
   definition:
-  - a bid to buy all of a person＇s holdings
+  - a bid to buy all of a person's holdings
   hypernym:
   - 07179737-n
   ili: i74309
@@ -54205,7 +54205,7 @@
   definition:
   - a formal statement of a command or injunction to do something
   example:
-  - the judge＇s charge to the jury
+  - the judge's charge to the jury
   hypernym:
   - 07182782-n
   ili: i74329
@@ -54305,7 +54305,7 @@
   definition:
   - an interpretation that removes obstacles to understanding
   example:
-  - the professor＇s clarification helped her to understand the textbook
+  - the professor's clarification helped her to understand the textbook
   hypernym:
   - 07185404-n
   ili: i74339
@@ -54766,7 +54766,7 @@
   - an accommodation in which both sides make concessions
   example:
   - the newly elected congressmen rejected a compromise because they considered it
-    “business as usual”
+    `business as usual´
   hypernym:
   - 07192097-n
   ili: i74381
@@ -55192,7 +55192,7 @@
   definition:
   - a colloquial expression for invitation
   example:
-  - he didn＇t get no invite to the party
+  - he didn't get no invite to the party
   hypernym:
   - 07200808-n
   ili: i74419
@@ -55313,7 +55313,7 @@
   partOfSpeech: n
 07203345-n:
   definition:
-  - a man＇s courting of a woman; seeking the affections of a woman (usually with the
+  - a man's courting of a woman; seeking the affections of a woman (usually with the
     hope of marriage)
   example:
   - it was a brief and intense courtship
@@ -55378,7 +55378,7 @@
   partOfSpeech: n
 07204439-n:
   definition:
-  - prayers proclaiming God＇s anger against sinners; read in the Church of England
+  - prayers proclaiming God's anger against sinners; read in the Church of England
     on Ash Wednesday
   hypernym:
   - 07203790-n
@@ -55419,7 +55419,7 @@
   partOfSpeech: n
 07204950-n:
   definition:
-  - a prayer asking God＇s help as part of a religious service
+  - a prayer asking God's help as part of a religious service
   hypernym:
   - 07203790-n
   ili: i74440
@@ -55664,7 +55664,7 @@
   partOfSpeech: n
 07209159-n:
   definition:
-  - (law) a pretrial interrogation of a witness; usually conducted in a lawyer＇s office
+  - (law) a pretrial interrogation of a witness; usually conducted in a lawyer's office
   domain_topic:
   - 08458195-n
   hypernym:
@@ -55835,7 +55835,7 @@
   wikidata: Q907666
 07212549-n:
   definition:
-  - an intensive examination testing a student＇s proficiency in some special field
+  - an intensive examination testing a student's proficiency in some special field
     of knowledge
   example:
   - she took her comps in English literature
@@ -55849,7 +55849,7 @@
   partOfSpeech: n
 07212779-n:
   definition:
-  - examination to determine a candidate＇s preparation for a course of studies
+  - examination to determine a candidate's preparation for a course of studies
   hypernym:
   - 07211681-n
   ili: i74479
@@ -56002,7 +56002,7 @@
   partOfSpeech: n
 07215081-n:
   definition:
-  - an infant＇s repetition of sounds uttered by others
+  - an infant's repetition of sounds uttered by others
   hypernym:
   - 07214950-n
   ili: i74493
@@ -56020,7 +56020,7 @@
   partOfSpeech: n
 07215352-n:
   definition:
-  - lots thrown to determine God＇s answers to yes-no questions
+  - lots thrown to determine God's answers to yes-no questions
   hypernym:
   - 07215187-n
   ili: i74495
@@ -56072,7 +56072,7 @@
   definition:
   - the act of describing distinctive characteristics or essential features
   example:
-  - the media＇s characterization of Al Gore as a nerd
+  - the media's characterization of Al Gore as a nerd
   hypernym:
   - 07216025-n
   ili: i74500
@@ -56110,7 +56110,7 @@
   partOfSpeech: n
 07217051-n:
   definition:
-  - a word picture of a person＇s appearance and character
+  - a word picture of a person's appearance and character
   hypernym:
   - 07216464-n
   ili: i74503
@@ -56176,7 +56176,7 @@
   partOfSpeech: n
 07218273-n:
   definition:
-  - one chap＇s arbitrary assertion
+  - one chap's arbitrary assertion
   hypernym:
   - 07217786-n
   ili: i74509
@@ -56303,7 +56303,7 @@
   definition:
   - a grammatically substandard but emphatic negative
   example:
-  - double negative such as “I don＇t never go”
+  - double negative such as `I don't never go´
   hypernym:
   - 07219571-n
   ili: i74521
@@ -56314,7 +56314,7 @@
   definition:
   - an affirmative constructed from two negatives
   example:
-  - double negative such as “a not unwelcome outcome”
+  - double negative such as `a not unwelcome outcome´
   hypernym:
   - 07218356-n
   ili: i74522
@@ -56409,7 +56409,7 @@
   domain_topic:
   - 06173467-n
   example:
-  - the statement “he is brave and he is not brave” is a contradiction
+  - the statement `he is brave and he is not brave´ is a contradiction
   hypernym:
   - 06769118-n
   ili: i74531
@@ -56449,7 +56449,7 @@
   partOfSpeech: n
 07222340-n:
   definition:
-  - (law) a voluntary repudiation of a person＇s legal claim to something
+  - (law) a voluntary repudiation of a person's legal claim to something
   domain_topic:
   - 08458195-n
   hypernym:
@@ -56460,7 +56460,7 @@
   partOfSpeech: n
 07222520-n:
   definition:
-  - refusal to acknowledge as one＇s own
+  - refusal to acknowledge as one's own
   hypernym:
   - 07222070-n
   ili: i74536
@@ -56529,7 +56529,7 @@
   partOfSpeech: n
 07223749-n:
   definition:
-  - (law) a formal objection to an opponent＇s pleadings
+  - (law) a formal objection to an opponent's pleadings
   domain_topic:
   - 08458195-n
   hypernym:
@@ -56542,7 +56542,7 @@
   partOfSpeech: n
 07223965-n:
   definition:
-  - (law) the difference of one judge＇s opinion from that of the majority
+  - (law) the difference of one judge's opinion from that of the majority
   domain_topic:
   - 08458195-n
   example:
@@ -56754,7 +56754,7 @@
   - notification of something, usually in advance
   example:
   - they gave little warning of their arrival
-  - she had only had four days＇ warning before leaving Berlin
+  - she had only had four days' warning before leaving Berlin
   hypernym:
   - 07227084-n
   ili: i74562
@@ -57108,7 +57108,7 @@
   - information in some unspecified form
   example:
   - it was stuff I had heard before
-  - there＇s good stuff in that book
+  - there's good stuff in that book
   hypernym:
   - 06646883-n
   ili: i74595
@@ -57196,7 +57196,7 @@
   partOfSpeech: n
 07234960-n:
   definition:
-  - a written evaluation of a student＇s scholarship and deportment
+  - a written evaluation of a student's scholarship and deportment
   example:
   - his father signed his report card
   hypernym:
@@ -57248,7 +57248,7 @@
     presented in writing or drama or cinema or as a radio or television program
   example:
   - his narrative was interesting
-  - Disney＇s stories entertain adults as well as children
+  - Disney's stories entertain adults as well as children
   hypernym:
   - 06611268-n
   ili: i74608
@@ -57635,7 +57635,7 @@
   definition:
   - a statement intended to inspire confidence
   example:
-  - the President＇s assurances were not respected
+  - the President's assurances were not respected
   hypernym:
   - 06735202-n
   ili: i74643
@@ -58559,7 +58559,7 @@
   definition:
   - a type of oratory used to eulogize or condemn a person or group of people
   example:
-  - Pericles＇ funeral oration for Athenians killed in the Peloponnesian War is a famous
+  - Pericles' funeral oration for Athenians killed in the Peloponnesian War is a famous
     example of epideictic oratory
   hypernym:
   - 07255865-n
@@ -59052,7 +59052,7 @@
   partOfSpeech: n
 07265536-n:
   definition:
-  - an advertisement that offers something free in order to arouse customers＇ interest
+  - an advertisement that offers something free in order to arouse customers' interest
   hypernym:
   - 07263469-n
   ili: i74776
@@ -59061,7 +59061,7 @@
   partOfSpeech: n
 07265671-n:
   definition:
-  - the advertisement of a star＇s name at the top of a theatrical poster
+  - the advertisement of a star's name at the top of a theatrical poster
   hypernym:
   - 07263469-n
   ili: i74777
@@ -59105,7 +59105,7 @@
   definition:
   - encouragement in the form of cheers from spectators
   example:
-  - it＇s all over but the shouting
+  - it's all over but the shouting
   hypernym:
   - 06704187-n
   ili: i74781
@@ -59514,7 +59514,7 @@
   partOfSpeech: n
 07273813-n:
   definition:
-  - a surveyor＇s mark on a permanent object of predetermined position and elevation
+  - a surveyor's mark on a permanent object of predetermined position and elevation
     used as a reference point
   hypernym:
   - 07273000-n
@@ -59546,7 +59546,7 @@
   partOfSpeech: n
 07274278-n:
   definition:
-  - a fixed line on a ship＇s compass indicating its heading
+  - a fixed line on a ship's compass indicating its heading
   hypernym:
   - 07273000-n
   ili: i74821
@@ -59639,7 +59639,7 @@
   partOfSpeech: n
 07275968-n:
   definition:
-  - (baseball) a measure of a pitcher＇s effectiveness; calculated as the average number
+  - (baseball) a measure of a pitcher's effectiveness; calculated as the average number
     of earned runs allowed by the pitcher for every nine innings pitched
   domain_topic:
   - 00472688-n
@@ -59652,7 +59652,7 @@
   partOfSpeech: n
 07276210-n:
   definition:
-  - a measure of a student＇s academic achievement at a college or university; calculated
+  - a measure of a student's academic achievement at a college or university; calculated
     by dividing the total number of grade points received by the total number attempted
   hypernym:
   - 07275291-n
@@ -59948,7 +59948,7 @@
   definition:
   - a flag that serves as a warning signal
   example:
-  - we didn＇t swim at the beach because the red flag was up
+  - we didn't swim at the beach because the red flag was up
   hypernym:
   - 06888144-n
   - 06816015-n
@@ -60266,7 +60266,7 @@
   definition:
   - a distinguishing symbol
   example:
-  - the owner＇s mark was on all the sheep
+  - the owner's mark was on all the sheep
   hypernym:
   - 06819327-n
   ili: i74890
@@ -60636,8 +60636,8 @@
   partOfSpeech: n
 07290947-n:
   definition:
-  - a computer user＇s instruction (not part of a program) that calls for action by
-    the computer＇s executive program
+  - a computer user's instruction (not part of a program) that calls for action by
+    the computer's executive program
   hypernym:
   - 06799486-n
   ili: i74926
@@ -60863,7 +60863,7 @@
   - a request for something to be made, supplied, or served
   example:
   - I gave the waiter my order
-  - the company＇s products were in such demand that they got more orders than their
+  - the company's products were in such demand that they got more orders than their
     call center could handle
   hypernym:
   - 07199985-n
@@ -60902,7 +60902,7 @@
   partOfSpeech: n
 07295129-n:
   definition:
-  - an instrumental composition that doesn＇t adhere to rules for any specific musical
+  - an instrumental composition that doesn't adhere to rules for any specific musical
     form and is played with improvisation
   hypernym:
   - 07051211-n
@@ -61098,7 +61098,7 @@
   partOfSpeech: n
 80475027-n:
   definition:
-  - English orthography used in Canada (characterized by “analyze”, “centre”, “useable”)
+  - English orthography used in Canada (characterized by `analyze´, `centre´, `useable´)
   hypernym:
   - 06364852-n
   members:
@@ -61157,7 +61157,7 @@
   partOfSpeech: n
 84746436-n:
   definition:
-  - English orthography used in Australia (characterized by “analyse”, “centre”, “usable”)
+  - English orthography used in Australia (characterized by `analyse´, `centre´, `usable´)
   hypernym:
   - 06364852-n
   members:
@@ -61177,7 +61177,7 @@
 86712636-n:
   definition:
   - English orthography used in the UK, Ireland and most of the Commonwealth (characterized
-    by “analyse”, “centre” and “useable”)
+    by `analyse´, `centre´ and `useable´)
   hypernym:
   - 06364852-n
   members:
@@ -61196,8 +61196,8 @@
   partOfSpeech: n
 87027384-n:
   definition:
-  - English orthography used in the United States (characterized by “analyze”, “center”,
-    “usable”)
+  - English orthography used in the United States (characterized by `analyze´, `center´,
+    `usable´)
   hypernym:
   - 06364852-n
   members:
@@ -61335,7 +61335,7 @@
   wikidata: Q20474
 90004381-n:
   definition:
-  - a sign made by a fan, usually with the target＇s name on it
+  - a sign made by a fan, usually with the target's name on it
   hypernym:
   - 06806088-n
   members:
@@ -61400,7 +61400,7 @@
   source: Colloquial WordNet
 90011161-n:
   definition:
-  - An expression meaning “praise God” in Arabic
+  - An expression meaning `praise God´ in Arabic
   hypernym:
   - 06642524-n
   members:
@@ -61485,7 +61485,7 @@
   definition:
   - A subgenre of alternative rock typified by significant use of guitar distortion,
     feedback, obscured vocals and the blurring of component musical parts into indistinguishable
-    “walls of sound”
+    `walls of sound´
   hypernym:
   - 07073295-n
   members:
@@ -61538,7 +61538,7 @@
   - a meter of poetry consisting of three iambic units per line.
   example:
   - In the dramatic forms of tragedy and comedy, iambic trimeter was used mainly for
-    the verses “spoken” by a character, that is, the dialogue rather than the choral
+    the verses `spoken´ by a character, that is, the dialogue rather than the choral
     passages.
   hypernym:
   - 07109509-n
@@ -61635,7 +61635,7 @@
   - The characteristic quality of poetry that is marked by departure from the subject,
     course, or idea at hand; or by an exploration of a different or unrelated concern.
   example:
-  - Eighteenth-century writers, says Stabler, were never “lost” in their digressiveness
+  - Eighteenth-century writers, says Stabler, were never `lost´ in their digressiveness
     and used it as a method of supporting their concepts.
   hypernym:
   - 07080699-n
@@ -61823,7 +61823,7 @@
   - a production where two or more different production companies are working together,
     for example in a film production.
   example:
-  - The show was a co-production between the United Kingdom＇s BBC and Germany＇s ZDF
+  - The show was a co-production between the United Kingdom's BBC and Germany's ZDF
     broadcasters.
   hypernym:
   - 06626039-n
@@ -61836,7 +61836,7 @@
   - a puzzle set by somebody using chess pieces on a chess board, that presents the
     solver with a particular task to be achieved.
   example:
-  - The sequel to Alice＇s Adventure＇s in Wonderland was designed to be a playable,
+  - The sequel to Alice's Adventure's in Wonderland was designed to be a playable,
     albeit whimsical chess problem.
   hypernym:
   - 06797496-n
@@ -61944,7 +61944,7 @@
   example:
   - title Composition Concrete refers in part to the musique concrete of the French-American
     composer Edgar Varese, who taped sounds and then edited and reorganized them,
-    and in part to Davis＇s own style.
+    and in part to Davis's own style.
   hypernym:
   - 07034009-n
   members:
@@ -62057,10 +62057,10 @@
   source: plWordNet 4.0
 92444678-n:
   definition:
-  - A direct mate with the stipulation “White to move and checkmate Black in no more
-    than n moves against any defence” where n is greater than 3.
+  - A direct mate with the stipulation `White to move and checkmate Black in no more
+    than n moves against any defence´ where n is greater than 3.
   example:
-  - This week＇s problem is a more-mover by a composer better known for his endgame
+  - This week's problem is a more-mover by a composer better known for his endgame
     study and theory work.
   hypernym:
   - 92444677-n
@@ -62070,8 +62070,8 @@
   source: plWordNet 4.0
 92444679-n:
   definition:
-  - A problem with the stipulation “White to move and checkmate Black in two moves
-    against any defence”.
+  - A problem with the stipulation `White to move and checkmate Black in two moves
+    against any defence´.
   example:
   - Although, if he was consistent, perhaps he should have said that a three-mover
     would be three times as difficult as a two-mover.
@@ -62083,8 +62083,8 @@
   source: plWordNet 4.0
 92444680-n:
   definition:
-  - A problem with the stipulation “White to move and checkmate Black in no more than
-    three moves against any defence”.
+  - A problem with the stipulation `White to move and checkmate Black in no more than
+    three moves against any defence´.
   example:
   - Accordingly, the solver usually takes it for granted that a three-mover has a
     threat, unless the setting definitely suggests a block position.
@@ -62122,7 +62122,7 @@
 92445789-n:
   definition:
   - a broad genre consisting of descriptive accounts, also known as travelogues or
-    itineraries, telling about an individual or a group＇s encounter with a new place,
+    itineraries, telling about an individual or a group's encounter with a new place,
     peoples and cultures.
   example:
   - The first wave of travel literature in the century following Columbus recounted
@@ -62139,9 +62139,9 @@
     appeal not only to children, but to a wide range of ages.
   example:
   - According to Bazalgette and Staples, a fine example of a family film is Honey,
-    I Shrunk the Kids (1989), which if it was a European children＇s film with a similar
-    plot, the title would be Sis, Dad Shrunk Us, explaining that European children＇s
-    films are told from the child＇s perspective, portraying the story through the
+    I Shrunk the Kids (1989), which if it was a European children's film with a similar
+    plot, the title would be Sis, Dad Shrunk Us, explaining that European children's
+    films are told from the child's perspective, portraying the story through the
     various emotions and experiences of the child.
   hypernym:
   - 06626039-n
@@ -62166,11 +62166,11 @@
   definition:
   - (linguistics) The characteristic of a noun, in some languages, that is dependent
     on its unliving or non-sentient nature; this characteristic affects grammatical
-    features (it can modify verbs used with the noun, affect the noun＇s declension
+    features (it can modify verbs used with the noun, affect the noun's declension
     etc.).
   example:
-  - In other words, the inanimacy of a head noun like “evidence” appeared not to penetrate
-    the syntactic analysis of the verb “examined”.
+  - In other words, the inanimacy of a head noun like `evidence´ appeared not to penetrate
+    the syntactic analysis of the verb `examined´.
   hypernym:
   - 06320373-n
   members:
@@ -62251,7 +62251,7 @@
   definition:
   - A personal information manager developed by Corel; no longer in use.
   example:
-  - I＇ve been using CorelCENTRAL for a few years and I agree that it＇s a disaster.
+  - I've been using CorelCENTRAL for a few years and I agree that it's a disaster.
   instance_hypernym:
   - 92447870-n
   members:
@@ -62329,7 +62329,7 @@
   - a dramatized, purely acoustic performance, broadcast on radio or published on
     audio media, such as tape or CD.
   example:
-  - An important turning point in radio drama came when Schenectady, New York＇s WGY,
+  - An important turning point in radio drama came when Schenectady, New York's WGY,
     after a successful tryout on August 3, 1922, began weekly studio broadcasts of
     full-length stage plays in September 1922, using music, sound effects and a regular
     troupe of actors, The WGY Players.
@@ -62399,7 +62399,7 @@
   source: plWordNet 4.0
 92459480-n:
   definition:
-  - an official letter in which one＇s achievements are recognized and honored.
+  - an official letter in which one's achievements are recognized and honored.
   hypernym:
   - 06636668-n
   members:
@@ -62573,7 +62573,7 @@
   definition:
   - a symbol that represents peace, in the form of three lines within a circle.
   example:
-  - In the 1950s the “peace sign” as it is known today, was designed as the logo for
+  - In the 1950s the `peace sign´ as it is known today, was designed as the logo for
     the British Campaign for Nuclear Disarmament and adopted by anti-war and counterculture
     activists in the United States and elsewhere.
   hypernym:
@@ -62602,7 +62602,7 @@
   example:
   - The allegoresis of secular texts had been largely neglected since Fulgentius (sixth
     century), and was only reprised in the diffuse commentary tradition on Martianus
-    that preceded Eriugena＇s study of that text.
+    that preceded Eriugena's study of that text.
   hypernym:
   - 07185404-n
   members:
@@ -62636,7 +62636,7 @@
   example:
   - The sotadic metre or sotadic verse, which has been classified by ancient and modern
     scholars as a form of ionic metre, is one that reads backwards and forwards the
-    same, as “llewd did I live, and evil I did dwell”.
+    same, as `llewd did I live, and evil I did dwell´.
   hypernym:
   - 06389065-n
   members:
@@ -62671,12 +62671,12 @@
 92460868-n:
   definition:
   - a large subgenre of trance music, named for the feeling which listeners claim
-    to get (often described as a “rush”).
+    to get (often described as a `rush´).
   example:
   - Instead of the darker tone of Goa, uplifting trance uses similar chord progressions
-    as progressive trance, but tracks＇ chord progressions usually rest on a major
+    as progressive trance, but tracks' chord progressions usually rest on a major
     chord, and the balance between major and minor chords in a progression will determine
-    how “happy” or “sad” the progression sounds.
+    how `happy´ or `sad´ the progression sounds.
   hypernym:
   - 92460865-n
   members:
@@ -62690,7 +62690,7 @@
   example:
   - The en dash is commonly used to indicate a closed range of values — a range with
     clearly defined and finite upper and lower boundaries — roughly signifying what
-    might otherwise be communicated by the word “through”.
+    might otherwise be communicated by the word `through´.
   hypernym:
   - 06856198-n
   members:
@@ -62729,8 +62729,8 @@
   - a poem whose meaning is conveyed through its graphic shape or pattern on the printed
     page.
   example:
-  - “The Mouse＇s Tale” is a concrete poem by Lewis Carroll which appears in his novel
-    Alice＇s Adventures in Wonderland.
+  - '`The Mouse''s Tale´ is a concrete poem by Lewis Carroll which appears in his
+    novel Alice''s Adventures in Wonderland.'
   hypernym:
   - 06389065-n
   members:
@@ -62743,7 +62743,7 @@
     and using electronic instruments such as guitars and synthesizers.
   example:
   - Jazz Fusion incorporates elements of different genres while maintaining an element
-    that is distinctly “jazz”.
+    that is distinctly `jazz´.
   hypernym:
   - 07076737-n
   members:
@@ -62766,7 +62766,7 @@
 92460923-n:
   definition:
   - a type of operatic soprano voice that has the limpidity and easy high notes of
-    a lyric soprano, yet can be “pushed” on to achieve dramatic climaxes without strain.
+    a lyric soprano, yet can be `pushed´ on to achieve dramatic climaxes without strain.
   example:
   - The more dramatic sister of the lyric soprano is the spinto soprano, not quite
     a full-on dramatic soprano, but possessing a combination of qualities of both
@@ -62799,7 +62799,7 @@
     environment that can interpret (rather than compile) and automate the execution
     of tasks that could alternatively be executed one-by-one by a human operator.
   example:
-  - HTML is a scripting language, and it＇s the underlying language used on the web.
+  - HTML is a scripting language, and it's the underlying language used on the web.
   hypernym:
   - 06911128-n
   members:
@@ -62812,7 +62812,7 @@
   - a piece of music composed for the Hungarian Csárdás dance.
   example:
   - 'The Csárdás is characterized by a variation in tempo: it starts out slowly (lassú)
-    and ends in a very fast tempo (friss, literally “fresh”).'
+    and ends in a very fast tempo (friss, literally `fresh´).'
   hypernym:
   - 07068473-n
   members:
@@ -62853,7 +62853,7 @@
   - medieval drama, based on incidents in the Bible and performed in churches on holy
     days, usually in Latin and often chanted.
   example:
-  - The liturgical drama of the Elx Mystery Play (Misteri d＇Elx) has its origins in
+  - The liturgical drama of the Elx Mystery Play (Misteri d'Elx) has its origins in
     the 13th or 15th century.
   hypernym:
   - 06387777-n
@@ -62909,8 +62909,8 @@
   - In their present form in the Roman Rite, the Improperia are a series of three
     couplets, sung antiphonally by cantors and followed by alternate Greek and Latin
     responses from the two halves of the choir; and nine other lines sung by the cantors,
-    with the full choir responding after each with the refrain “Popule meus, quid
-    feci tibi? …”
+    with the full choir responding after each with the refrain `Popule meus, quid
+    feci tibi? …´
   hypernym:
   - 07046732-n
   members:
@@ -62919,9 +62919,9 @@
   source: plWordNet 4.0
 92461171-n:
   definition:
-  - A thesis submitted for a master＇s degree.
+  - A thesis submitted for a master's degree.
   example:
-  - The term graduate thesis is sometimes used to refer to both master＇s theses and
+  - The term graduate thesis is sometimes used to refer to both master's theses and
     doctoral dissertations.
   hypernym:
   - 06420728-n
@@ -62947,12 +62947,12 @@
   definition:
   - a meaningless chant or expression used in conjuring or incantation.
   example:
-  - This claim is substantiated by the fact that in the Netherlands, the words “Hocus
-    pocus” are usually accompanied by the additional words “pilatus pas”, and this
+  - This claim is substantiated by the fact that in the Netherlands, the words `Hocus
+    pocus´ are usually accompanied by the additional words `pilatus pas´, and this
     is said to be based on a post-Reformation parody of the traditional Catholic ritual
     of transubstantiation during mass, being a Dutch corruption of the Latin words
-    “Hoc est corpus”, meaning “this is (my) body”, and the credo “sub Pontio Pilato
-    passus et sepultus est”, meaning “under Pontius Pilate he suffered and was buried”.
+    `Hoc est corpus´, meaning `this is (my) body´, and the credo `sub Pontio Pilato
+    passus et sepultus est´, meaning `under Pontius Pilate he suffered and was buried´.
   hypernym:
   - 07174442-n
   members:
@@ -62988,7 +62988,7 @@
   definition:
   - Etiquette practiced or advocated in electronic communication over a computer network.
   example:
-  - I know there is a UK political blog war going on at the moment about “netiquette”
+  - I know there is a UK political blog war going on at the moment about `netiquette´
     and lies and spin and deceit, and I have not wanted to join in.
   hypernym:
   - 06677590-n
@@ -63054,7 +63054,7 @@
   definition:
   - in cartooning, a rounded outline containing words.
   example:
-  - Speech bubbles are used not only to include a character＇s words, but also emotions,
+  - Speech bubbles are used not only to include a character's words, but also emotions,
     voice inflections and unspecified language.
   hypernym:
   - 06399623-n
@@ -63069,7 +63069,7 @@
   - a type of consonant in some languages, e.g., Hausa, produced by sudden release
     of pressure from the glottis.
   example:
-  - The vast majority of ejective consonants noted in the world＇s languages consists
+  - The vast majority of ejective consonants noted in the world's languages consists
     of stops or affricates, and all ejective consonants are obstruents.
   hypernym:
   - 07129729-n
@@ -63150,8 +63150,8 @@
     the alveolar ridge.
   example:
   - The sibilant postalveolars (i.e. fricatives and affricates) are sometimes called
-    “hush consonants” because they include the sound of English “Shhh!” (as distinguished
-    from the “hiss” consonant [s], as in “Ssss!”).
+    `hush consonants´ because they include the sound of English `Shhh!´ (as distinguished
+    from the `hiss´ consonant [s], as in `Ssss!´).
   hypernym:
   - 07129729-n
   members:
@@ -63179,8 +63179,8 @@
   - the tense that is used to refer to events, actions, and conditions that are happening
     all the time, or exist now.
   example:
-  - The sentences “I live in Madrid”, “She doesn＇t like cheese”, and “I think you＇re
-    wrong” are all in the present simple.
+  - The sentences `I live in Madrid´, `She doesn't like cheese´, and `I think you're
+    wrong´ are all in the present simple.
   hypernym:
   - 06340727-n
   members:
@@ -63231,7 +63231,7 @@
   - a verb form expressing action as single in its occurrence without repetition or
     continuation.
   example:
-  - Semelfactive verbs include  “blink”, “sneeze”, and “knock”.
+  - Semelfactive verbs include  `blink´, `sneeze´, and `knock´.
   hypernym:
   - 92462256-n
   members:
@@ -63269,7 +63269,7 @@
   definition:
   - the name of an object which may be perceived by one or more of the five senses.
   example:
-  - '“Kitten” is an example of a concrete noun. A kitten registers with the five senses:
+  - '`Kitten´ is an example of a concrete noun. A kitten registers with the five senses:
     you can see a kitten, pet its fur, smell its breath, hear it purr and taste its
     kisses.'
   hypernym:
@@ -63318,8 +63318,8 @@
   - That state of an adverb indicating simple quality, without comparison or relation
     to increase or diminution.
   example:
-  - An example using a positive-degree adverb that doesn＇t end in -ly would be the
-    adverb “fast” in the sentence, “She drove fast”.
+  - An example using a positive-degree adverb that doesn't end in -ly would be the
+    adverb `fast´ in the sentence, `She drove fast´.
   hypernym:
   - 06333461-n
   members:
@@ -63331,7 +63331,7 @@
   definition:
   - An adverb that describes how the action of a verb is carried out.
   example:
-  - Adverbs of manner (like “desperately”) can modify verbs directly.
+  - Adverbs of manner (like `desperately´) can modify verbs directly.
   hypernym:
   - 06334605-n
   members:
@@ -63436,7 +63436,7 @@
 92462515-n:
   definition:
   - The Cyrillic letter Ь/ь, which in Old Church Slavonic represented a short (or
-    “reduced”) front vowel, and in modern languages serves to denote a soft (palatalized)
+    `reduced´) front vowel, and in modern languages serves to denote a soft (palatalized)
     consonant.
   example:
   - The yers in weak position were lost, although not in some instances before palatalizing
@@ -63566,7 +63566,7 @@
   definition:
   - a poetic phrase, utterance, etc.
   example:
-  - Just as “hath” is a poeticism in Keats and an unmarked form for Shakespeare, “sogebided”
+  - Just as `hath´ is a poeticism in Keats and an unmarked form for Shakespeare, `sogebided´
     may have been a poeticism to Alfred and an unmarked form for Qedmon.
   hypernym:
   - 06297048-n
@@ -63578,7 +63578,7 @@
   definition:
   - an extreme form of tragicomedy.
   example:
-  - The Suicide of Solitude, a “tragifarce” production, is currently being performed
+  - The Suicide of Solitude, a `tragifarce´ production, is currently being performed
     by the local theatre troupe at Rochford Winery in Healesville.
   hypernym:
   - 07029911-n
@@ -63615,7 +63615,7 @@
   - (often plural) a subtitle whose text is irreversibly merged in original video
     frames.
   example:
-  - Also, since you＇re not really encoding the video itself, the quality of the subbed
+  - Also, since you're not really encoding the video itself, the quality of the subbed
     version is a lot better for softsubs than hardsubs.
   hypernym:
   - 06358958-n
@@ -63626,7 +63626,7 @@
   source: plWordNet 4.0
 92463023-n:
   definition:
-  - gentle humour at one＇s own expense.
+  - gentle humour at one's own expense.
   example:
   - His letter home has a touch of self-mockery.
   hypernym:
@@ -63649,7 +63649,7 @@
   source: plWordNet 4.0
 92463146-n:
   definition:
-  - an expression of hope for someone＇s future happiness or welfare.
+  - an expression of hope for someone's future happiness or welfare.
   example:
   - We sent our best wishes for a speedy recovery.
   hypernym:
@@ -63661,7 +63661,7 @@
 92463148-n:
   definition:
   - the words (as sincerely yours) that conventionally come immediately before the
-    signature of a letter and express the sender＇s regard for the receiver.
+    signature of a letter and express the sender's regard for the receiver.
   example:
   - Although a complimentary close is not required, it is almost standard in professional
     emails.
@@ -63711,7 +63711,7 @@
   source: plWordNet 4.0
 92463196-n:
   definition:
-  - a name of a “minor” or small natural feature (e.g., a field, path, bridge, ditch,
+  - a name of a `minor´ or small natural feature (e.g., a field, path, bridge, ditch,
     etc.).
   example:
   - Larrain is the name of a farmhouse in Astigarraga (Gipuzkoa) and a microtoponym
@@ -63754,7 +63754,7 @@
     product development activities.
   example:
   - Smart investors want marketing information about what consumers want to view and
-    the public＇s opinion.
+    the public's opinion.
   hypernym:
   - 06646883-n
   members:
@@ -63874,7 +63874,7 @@
   definition:
   - (phonetics) Any vowel sound produced in the front of the mouth.
   example:
-  - Examples of front vowels include “a” in “man” and “e” in “gel”.
+  - Examples of front vowels include `a´ in `man´ and `e´ in `gel´.
   hypernym:
   - 07127258-n
   members:
@@ -63885,7 +63885,7 @@
   definition:
   - (phonetics) Any vowel sound produced in the back of the mouth.
   example:
-  - Examples of back vowels include “u” in “rule” and “o” in “pole”.
+  - Examples of back vowels include `u´ in `rule´ and `o´ in `pole´.
   hypernym:
   - 07127258-n
   members:
@@ -64077,7 +64077,7 @@
   - The name of a Saint taken as a proper name.
   example:
   - This Native place name was used for a while in parallel with the hagionym Saint-Francois-Xavier
-    (1850s) as well as another ”official” toponym, Grantown, named after Cuthbert
+    (1850s) as well as another ´official´ toponym, Grantown, named after Cuthbert
     Grant.
   hypernym:
   - 06349648-n
@@ -64089,7 +64089,7 @@
   definition:
   - a clitic that is associated with a following word.
   example:
-  - The indefinite article “a” is a proclitic, a word that wants to merge phonologically
+  - The indefinite article `a´ is a proclitic, a word that wants to merge phonologically
     with the word that follows it.
   hypernym:
   - 92460927-n
@@ -64126,10 +64126,10 @@
 92463890-n:
   definition:
   - the use in a text of different tones or viewpoints, whose interaction or contradiction
-    is important to the text＇s interpretation.
+    is important to the text's interpretation.
   example:
-  - What caught my eye about this is that it bears interesting relation to Bakhtin＇s
-    concept of the dialogism of the “living word” — in fact, capitalize that “w” and
+  - What caught my eye about this is that it bears interesting relation to Bakhtin's
+    concept of the dialogism of the `living word´ — in fact, capitalize that `w´ and
     it would be downright eerie.
   hypernym:
   - 07112859-n
@@ -64168,7 +64168,7 @@
   - a sentence that is an exclamation, a general or striking comment, or a succinct
     summary of what has previously been said.
   example:
-  - In Chaucer＇s The Reeve＇s Tale, the Reeve drives home his story of a cheating Miller
+  - In Chaucer's The Reeve's Tale, the Reeve drives home his story of a cheating Miller
     by summarizing the tale that he has told in an epiphonema.
   hypernym:
   - 07112859-n
@@ -64220,7 +64220,7 @@
   definition:
   - an adverbial that describes when the action of a verb is carried out.
   example:
-  - An adverb phrase that answers the question “when?” is called a temporal adverbial.
+  - An adverb phrase that answers the question `when?´ is called a temporal adverbial.
   hypernym:
   - 06335348-n
   members:
@@ -64282,8 +64282,8 @@
   - (grammar) a pronoun having no specific referent, such as someone, anybody, or
     nothing.
   example:
-  - In “many disagree with his views” the word “many” functions as an indefinite pronoun,
-    while in “many people disagree with his views” it functions as a quantifier.
+  - In `many disagree with his views´ the word `many´ functions as an indefinite pronoun,
+    while in `many people disagree with his views´ it functions as a quantifier.
   hypernym:
   - 06336363-n
   members:
@@ -64321,7 +64321,7 @@
     or on coins or medals.
   example:
   - One practice was rendering an over-used, formulaic phrase only as a siglum, e.g.
-    RIP for requiescat in pace (“Rest in Peace”), because the long-form written usage
+    RIP for requiescat in pace (`Rest in Peace´), because the long-form written usage
     of the abbreviated phrase, itself, was rare.
   hypernym:
   - 06831828-n
@@ -64333,7 +64333,7 @@
   definition:
   - an act of describing oneself.
   example:
-  - His self-description as an “experimenter” puts him shoulder-to-shoulder with William
+  - His self-description as an `experimenter´ puts him shoulder-to-shoulder with William
     James and John Dewey.
   hypernym:
   - 07216025-n
@@ -64432,9 +64432,9 @@
 92464557-n:
   definition:
   - The subject of a sentence that expresses the actual agent of an expressed or implied
-    action (as father in “it is your father speaking”) or that is the thing about
-    which something is otherwise predicated (as to do right in “it is sometimes hard
-    to do right”).
+    action (as father in `it is your father speaking´) or that is the thing about
+    which something is otherwise predicated (as to do right in `it is sometimes hard
+    to do right´).
   example:
   - The notion of a logical subject can be made more precise in terms of a definition
     of reference, for something is a logical subject only if it is a referent of a
@@ -64451,9 +64451,9 @@
     subject in normal English word order and anticipates a subsequent word or phrase
     that specifies the actual substantive content.
   example:
-  - In the sentence “the bear was killed by the hunter”, the topicalized goal of the
-    action (“the bear”) is the grammatical subject of the passive sentence and is
-    acted upon by the agent (“the hunter”), which is the logical, but not the grammatical,
+  - In the sentence `the bear was killed by the hunter´, the topicalized goal of the
+    action (`the bear´) is the grammatical subject of the passive sentence and is
+    acted upon by the agent (`the hunter´), which is the logical, but not the grammatical,
     subject of the passive sentence.
   hypernym:
   - 06320921-n
@@ -64512,7 +64512,7 @@
   - a word or line of verse of seven syllables.
   example:
   - On the other hand, this heptasyllable is not merely common in the Saturnian but
-    obviously the “regular” or “normal” form of the longer cola.
+    obviously the `regular´ or `normal´ form of the longer cola.
   hypernym:
   - 06396351-n
   members:
@@ -64563,7 +64563,7 @@
   - a constructed language designed for aesthetic pleasure.
   example:
   - By far the largest group of artistic languages are fictional languages (sometimes
-    also referred to as “professional artlangs”), intended to be the languages of
+    also referred to as `professional artlangs´), intended to be the languages of
     a fictional world, and often designed with the intent of giving more depth and
     an appearance of plausibility to the fictional worlds with which they are associated,
     and to have their characters communicate in a fashion which is both alien and
@@ -64591,13 +64591,13 @@
   definition:
   - 'A rhetorical figure resulting from a reverted arrangement in the last clause
     of a sentence of the two principal words of the clause preceding; inversion of
-    the members of an antithesis: as, “A poem is a speaking picture; a picture a mute
-    poem”.'
+    the members of an antithesis: as, `A poem is a speaking picture; a picture a mute
+    poem´.'
   example:
-  - I am not of Paracelsus＇s mind, that boldly delivers a receipt to make a man without
+  - I am not of Paracelsus's mind, that boldly delivers a receipt to make a man without
     conjunction; yet cannot but wonder at the multitude of heads that do deny traduction,
     having no other arguments to confirm their belief than that rhetorical sentence
-    and antimetathesis of Augustine, “creando infunditur, infundendo creatur”.
+    and antimetathesis of Augustine, `creando infunditur, infundendo creatur´.
   hypernym:
   - 07112859-n
   members:
@@ -64646,7 +64646,7 @@
   source: plWordNet 4.0
 92467010-n:
   definition:
-  - any software program that runs on a user＇s local computer and accesses data stored
+  - any software program that runs on a user's local computer and accesses data stored
     on a remote computer.
   example:
   - Your Web browser is a client program that has requested a service from a server;
@@ -64705,7 +64705,7 @@
   - A lengthy, formal treatise written by a candidate for the doctoral degree at a
     university.
   example:
-  - The term graduate thesis is sometimes used to refer to both master＇s theses and
+  - The term graduate thesis is sometimes used to refer to both master's theses and
     doctoral dissertations.
   hypernym:
   - 06420728-n
@@ -64724,7 +64724,7 @@
   source: plWordNet 4.0
 92470531-n:
   definition:
-  - a song associated with the dance “The Twist” and the associated cultural craze.
+  - a song associated with the dance `The Twist´ and the associated cultural craze.
   example:
   - There was Twist merchandise and memorabilia sold in those times, and many other
     music artists recorded twist songs.
@@ -64739,7 +64739,7 @@
   - a praying against evil, against others, or oneself; a prayer for the removal of
     some evil.
   example:
-  - Cicero＇s defence of Milo is in essence a deprecatio.
+  - Cicero's defence of Milo is in essence a deprecatio.
   hypernym:
   - 06723485-n
   members:
@@ -64787,7 +64787,7 @@
   definition:
   - an indication of satisfaction or approval.
   example:
-  - The phrase “two thumbs up” has come to be used as an indication of very high quality
+  - The phrase `two thumbs up´ has come to be used as an indication of very high quality
     or unanimity of praise.
   hypernym:
   - 06699481-n
@@ -64799,8 +64799,8 @@
   definition:
   - a chain letter sent through email messages.
   example:
-  - There are many forms of chain email that threaten death or the taking of one＇s
-    soul by telling tales of others＇ deaths, such as the Katu Lata Kulu chain email,
+  - There are many forms of chain email that threaten death or the taking of one's
+    soul by telling tales of others' deaths, such as the Katu Lata Kulu chain email,
     stating that if it is not forwarded, the receivers of the message will be killed
     by the spirit.
   hypernym:
@@ -64814,7 +64814,7 @@
   - jazz performed with a regular beat, moderate tempo, lack of improvisation, and
     an emphasis on warm tone and clearly outlined melody.
   example:
-  - The combination of Basie＇s sweet jazz and Eckstine＇s low-down blues sensibilities
+  - The combination of Basie's sweet jazz and Eckstine's low-down blues sensibilities
     meshed well.
   hypernym:
   - 07076737-n
