@@ -3872,7 +3872,7 @@
   - suddenly
   example:
   - source: Swift
-    text: Presto! begone! ＇tis here again
+    text: Presto! begone! 'tis here again
   ili: i18508
   members:
   - presto
@@ -5613,7 +5613,7 @@
   example:
   - no one can live forever
   - source: P.P.Bliss
-    text: brightly beams our Father＇s mercy from his lighthouse evermore
+    text: brightly beams our Father's mercy from his lighthouse evermore
   ili: i18678
   members:
   - everlastingly
@@ -29809,7 +29809,7 @@
   - positively
   example:
   - source: Charles Dickens
-    text: a regular right-down bad ＇un
+    text: a regular right-down bad 'un
   ili: i21199
   members:
   - right-down
