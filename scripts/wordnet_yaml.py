@@ -86,9 +86,7 @@ def synset_from_yaml(wn, props, id, lex_name):
     if "ili" not in props:
         ss.add_definition(Definition(props["definition"][0]), True)
     for example in props.get("example", []):
-        if example is None:
-            print(f"Invalid example {ss.id}")
-        elif isinstance(example, str):
+        if isinstance(example, str):
             ss.add_example(Example(example))
         else:
             ss.add_example(Example(example["text"], example["source"]))
@@ -101,12 +99,10 @@ def synset_from_yaml(wn, props, id, lex_name):
     return ss
 
 def entry_for_synset(wn, ss, lemma):
-    entries = wn.entry_by_lemma(lemma)
-    if entries:
-        for e in wn.entry_by_lemma(lemma):
-            for s in wn.entry_by_id(e).senses:
-                if s.synset == ss.id:
-                    return e
+    for e in wn.entry_by_lemma(lemma):
+        for s in wn.entry_by_id(e).senses:
+            if s.synset == ss.id:
+                return e
     print("Could not find %s referring to %s" % (lemma, ss.id))
     return ""
 
