@@ -32359,7 +32359,9 @@ entry word:
 entryphone:
   n:
     sense:
-    - id: 'entryphone%1:06:01::'
+    - exemplifies:
+      - 'trademark%1:10:00::'
+      id: 'entryphone%1:06:01::'
       synset: 92448672-n
 entryway:
   n:
@@ -43250,7 +43252,7 @@ evocation:
   n:
     sense:
     - derivation:
-      - 'evoke%2:32:01::'
+      - 'evoke%2:29:03::'
       id: 'evocation%1:09:00::'
       synset: 05777830-n
     - derivation:
@@ -43267,7 +43269,7 @@ evocative:
     sense:
     - derivation:
       - 'evoke%2:37:00::'
-      - 'evoke%2:32:01::'
+      - 'evoke%2:29:03::'
       id: evocative%5:00:00:mindful:00
       synset: 01984733-s
 evoke:
@@ -43323,10 +43325,10 @@ evoke:
       - 'evocation%1:09:00::'
       event:
       - 'evocation%1:09:00::'
-      id: 'evoke%2:32:01::'
+      id: 'evoke%2:29:03::'
       subcat:
       - vtii
-      synset: 00932330-v
+      synset: 00022092-v
 evoked:
   a:
     sense:
