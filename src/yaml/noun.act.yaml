@@ -19627,8 +19627,6 @@
 00379104-n:
   definition:
   - malicious burning to destroy property
-  example:
-  - The British term for arson is ‘fire-raising’.
   hypernym:
   - 00378877-n
   ili: i37396
@@ -19637,6 +19635,8 @@
   - incendiarism
   - fire-raising
   partOfSpeech: n
+  usage:
+  - The British term for arson is ‘fire-raising’.
 00379287-n:
   definition:
   - the act of setting something on fire

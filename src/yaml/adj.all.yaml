@@ -12857,6 +12857,8 @@
   partOfSpeech: s
   similar:
   - 00189224-a
+  usage:
+  - ‘slumbery’ is archaic
 00190999-s:
   definition:
   - still asleep
@@ -13889,7 +13891,6 @@
   domain_region:
   - 08910324-n
   example:
-  - ‘blate’ is a Scottish term for bashful.
   - They considered themselves a tough outfit and weren't bashful about letting anybody
     know it.
   ili: i1100
@@ -13899,6 +13900,8 @@
   partOfSpeech: s
   similar:
   - 00205669-a
+  usage:
+  - ‘blate’ is a Scottish term for bashful.
 00206083-a:
   also:
   - 00250587-a
@@ -17067,6 +17070,8 @@
   partOfSpeech: s
   similar:
   - 00245359-a
+  usage:
+  - ‘swart’ is archaic
 00246619-s:
   definition:
   - having dark hairs mixed with grey or white
@@ -19235,6 +19240,8 @@
   partOfSpeech: s
   similar:
   - 00273948-a
+  usage:
+  - ‘gloomful’ is archaic
 00276851-s:
   definition:
   - without illumination
@@ -19505,6 +19512,8 @@
   partOfSpeech: s
   similar:
   - 00279417-a
+  usage:
+  - ‘glistering’ is an archaic term
 00281111-s:
   definition:
   - small and round and shiny like a shiny bead or button
@@ -28732,6 +28741,8 @@
   partOfSpeech: s
   similar:
   - 00407944-a
+  usage:
+  - ‘braw’ is a Scottish word
 00408497-s:
   definition:
   - (used especially of clothes) marked by conspicuous display
@@ -41680,14 +41691,14 @@
 00598545-s:
   definition:
   - having no interruptions
-  example:
-  - ‘continual’ is often used interchangeably with ‘continuous’.
   ili: i3306
   members:
   - continual
   partOfSpeech: s
   similar:
   - 00597095-a
+  usage:
+  - ‘continual’ is often used interchangeably with ‘continuous’.
 00598687-s:
   definition:
   - relentless and indefatigable in pursuit or as if in pursuit
@@ -44155,6 +44166,8 @@
   partOfSpeech: s
   similar:
   - 00632838-a
+  usage:
+  - ‘corporate’ is an archaic term
 00633568-s:
   definition:
   - having a new body
@@ -49569,7 +49582,6 @@
   definition:
   - having little elasticity; hence easily cracked or fractured or snapped
   example:
-  - ‘brickle’ and ‘brickly’ are dialectal.
   - brittle bones
   - Glass is brittle.
   ili: i3933
@@ -49580,6 +49592,8 @@
   partOfSpeech: s
   similar:
   - 00711461-a
+  usage:
+  - ‘brickle’ and ‘brickly’ are dialectal.
 00712182-s:
   definition:
   - easily broken into small fragments or reduced to powder
@@ -62887,12 +62901,12 @@
 00911705-a:
   definition:
   - of or the nature of euphemism
-  example:
-  - ‘peepee’ is a common euphemistic term.
   ili: i4973
   members:
   - euphemistic
   partOfSpeech: a
+  usage:
+  - ‘peepee’ is a common euphemistic term.
 00911851-a:
   definition:
   - of or the nature of dysphemism
@@ -74518,6 +74532,8 @@
   partOfSpeech: s
   similar:
   - 01072500-a
+  usage:
+  - ‘corrupt’ is archaic
 01074514-s:
   definition:
   - in an advanced state of decomposition and having a foul odor
@@ -75649,6 +75665,8 @@
   partOfSpeech: s
   similar:
   - 01086845-a
+  usage:
+  - ‘ladened’ is not current usage
 01089537-s:
   definition:
   - loaded past capacity
@@ -106618,6 +106636,8 @@
   partOfSpeech: s
   similar:
   - 01529895-a
+  usage:
+  - ‘take-away’ is chiefly British
 01530599-a:
   definition:
   - not portable; not easily moved or transported
@@ -120689,6 +120709,8 @@
   partOfSpeech: s
   similar:
   - 01732158-a
+  usage:
+  - ‘agone’ is an archaic word for ‘ago’
 01732846-s:
   definition:
   - belonging to times long past especially of the historical period before the fall
@@ -123511,7 +123533,6 @@
   - belonging to or on behalf of a specified person (especially yourself); preceded
     by a possessive
   example:
-  - ‘ain’ is Scottish.
   - for your own use
   - Do your own thing.
   - She makes her own clothes.
@@ -123522,6 +123543,8 @@
   partOfSpeech: s
   similar:
   - 01771841-a
+  usage:
+  - ‘ain’ is Scottish
 01773481-s:
   definition:
   - pointedly referring to or concerning a person's individual personality or intimate
@@ -133623,6 +133646,8 @@
   partOfSpeech: s
   similar:
   - 01918064-a
+  usage:
+  - ‘house-trained’ is chiefly British
 01918864-s:
   definition:
   - (of children) trained to use the toilet
@@ -141290,8 +141315,6 @@
 02030538-s:
   definition:
   - lacking funds
-  example:
-  - ‘skint’ is a British slang term.
   ili: i11084
   members:
   - broke
@@ -141302,6 +141325,8 @@
   partOfSpeech: s
   similar:
   - 02030204-a
+  usage:
+  - ‘skint’ is a British slang term.
 02030681-s:
   definition:
   - poor enough to need help from others
@@ -142336,6 +142361,8 @@
   partOfSpeech: s
   similar:
   - 02045115-a
+  usage:
+  - ‘buirdly’ is a Scottish term
 02045828-s:
   definition:
   - having a bone structure that is massive in contrast with the surrounding flesh
@@ -152921,8 +152948,6 @@
 02193977-s:
   definition:
   - used of a single unit or thing; not two or more
-  example:
-  - ‘ane’ is Scottish.
   ili: i12006
   members:
   - one
@@ -152932,6 +152957,8 @@
   partOfSpeech: s
   similar:
   - 02191250-a
+  usage:
+  - ‘ane’ is Scottish.
 02194109-s:
   definition:
   - being one more than one
@@ -170367,6 +170394,8 @@
   partOfSpeech: s
   similar:
   - 02429932-a
+  usage:
+  - ‘scotch’ is used only informally
 02430607-s:
   definition:
   - thrifty in small matters only
@@ -171167,8 +171196,6 @@
 02441240-s:
   definition:
   - physically and mentally fatigued
-  example:
-  - ‘aweary’ is archaic.
   ili: i13465
   members:
   - aweary
@@ -171176,6 +171203,8 @@
   partOfSpeech: s
   similar:
   - 02440540-a
+  usage:
+  - ‘aweary’ is archaic.
 02441374-s:
   definition:
   - tired to the point of exhaustion
@@ -178452,14 +178481,14 @@
 02540879-s:
   definition:
   - providing coolness
-  example:
-  - ‘caller’ is a Scottish term as in ‘a caller breeze’.
   ili: i14035
   members:
   - caller
   partOfSpeech: s
   similar:
   - 02540350-a
+  usage:
+  - ‘caller’ is a Scottish term as in ‘a caller breeze’.
 02541025-s:
   definition:
   - cooled in advance
@@ -181540,6 +181569,8 @@
   partOfSpeech: s
   similar:
   - 02583261-a
+  usage:
+  - ‘bosky’ is a literary term
 02584146-s:
   definition:
   - covered with brambles and ferns and other undergrowth

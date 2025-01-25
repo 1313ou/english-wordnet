@@ -1701,8 +1701,6 @@
 08535244-n:
   definition:
   - a place where taxis park while awaiting customers
-  example:
-  - In England the place where taxis wait to be hired is called a ‘taxi rank’.
   hypernym:
   - 08671281-n
   ili: i81816
@@ -1711,6 +1709,8 @@
   - taxistand
   - taxi rank
   partOfSpeech: n
+  usage:
+  - In England the place where taxis wait to be hired is called a ‘taxi rank’.
 08535449-n:
   definition:
   - a site where people on holiday can pitch a tent

@@ -6546,8 +6546,6 @@
 13368252-n:
   definition:
   - insurance paid to named beneficiaries when the insured person dies
-  example:
-  - In England they call life insurance ‘life assurance’.
   hypernym:
   - 13365819-n
   ili: i106846
@@ -6555,6 +6553,8 @@
   - life insurance
   - life assurance
   partOfSpeech: n
+  usage:
+  - In England they call life insurance ‘life assurance’.
 13368504-n:
   definition:
   - life insurance for a specified amount which is payable to the insured person at
