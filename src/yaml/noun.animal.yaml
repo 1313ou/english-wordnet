@@ -69686,8 +69686,6 @@
 02414726-n:
   definition:
   - uncastrated adult male sheep
-  example:
-  - A British term is ‘tup’.
   hypernym:
   - 02414351-n
   ili: i48293
@@ -69697,6 +69695,8 @@
   mero_part:
   - 01328058-n
   partOfSpeech: n
+  usage:
+  - A British term is ‘tup’.
 02414856-n:
   definition:
   - male sheep especially a castrated one
