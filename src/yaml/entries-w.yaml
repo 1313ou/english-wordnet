@@ -10263,6 +10263,9 @@ waste:
       - 'water%1:27:00::'
       - 'waste%2:38:00::'
       - 'waste%2:40:01::'
+      derivation:
+      - 'waste%2:38:00::'
+      - 'waste%2:40:01::'
       id: 'waste%1:27:00::'
       synset: 14880414-n
     - collocation:
