@@ -4579,7 +4579,7 @@
   - paramecium
   - paramecia
   partOfSpeech: n
-  wikidata: Q7135166
+  wikidata: Q199456
 01398811-n:
   definition:
   - protozoa having four membranous ciliary organelles
@@ -6422,7 +6422,9 @@
   - Plasmodium vivax
   - malaria parasite
   partOfSpeech: n
-  wikidata: Q311376
+  wikidata:
+  - Q311376
+  - Q130948
 01427248-n:
   definition:
   - bird parasites
@@ -7808,7 +7810,7 @@
   - John Dory
   - Zeus faber
   partOfSpeech: n
-  wikidata: Q6229838
+  wikidata: Q7045
 01455829-n:
   definition:
   - boarfishes
@@ -9974,7 +9976,9 @@
   mero_member:
   - 01490147-n
   partOfSpeech: n
-  wikidata: Q574070
+  wikidata:
+  - Q574070
+  - Q578852
 01490147-n:
   definition:
   - shallow-water shark with sharp jagged teeth found on both sides of Atlantic; sometimes
@@ -11248,7 +11252,8 @@
   - 01505702-n
   ili: i43226
   members:
-  - Ibero-mesornis
+  - ibero-mesornis
+  - iberomesornis
   partOfSpeech: n
 01519906-n:
   definition:
@@ -12277,7 +12282,7 @@
   - crossbill
   - Loxia curvirostra
   partOfSpeech: n
-  wikidata: Q339517
+  wikidata: Q26552
 01536675-n:
   definition:
   - bullfinches
@@ -12580,7 +12585,7 @@
   - yellow bunting
   - Emberiza citrinella
   partOfSpeech: n
-  wikidata: Q1588177
+  wikidata: Q26205
 01541003-n:
   definition:
   - common in Russia and Siberia
@@ -12819,7 +12824,7 @@
   members:
   - cardinal
   - cardinal grosbeak
-  - Richmondena Cardinalis
+  - Richmondena cardinalis
   - Cardinalis cardinalis
   - redbird
   partOfSpeech: n
@@ -13381,7 +13386,7 @@
   - wood pewee
   - Contopus virens
   partOfSpeech: n
-  wikidata: Q868932
+  wikidata: Q606809
 01552282-n:
   definition:
   - small flycatcher of western North America
@@ -13792,7 +13797,7 @@
   members:
   - scissortail
   - scissortailed flycatcher
-  - Muscivora-forficata
+  - Muscivora forficata
   partOfSpeech: n
 01558227-n:
   definition:
@@ -14702,7 +14707,7 @@
   - yellowbird
   - Dendroica petechia
   partOfSpeech: n
-  wikidata: Q754042
+  wikidata: Q21962227
 01571701-n:
   definition:
   - black-and-white North American wood warbler having an orange-and-black head and
@@ -14715,7 +14720,9 @@
   - Blackburnian warbler
   - Dendroica fusca
   partOfSpeech: n
-  wikidata: Q1410964
+  wikidata:
+  - Q1410964
+  - Q27075919
 01571903-n:
   definition:
   - common warbler of western North America
@@ -17549,7 +17556,7 @@
   ili: i43766
   members:
   - marsh harrier
-  - Circus Aeruginosus
+  - Circus aeruginosus
   partOfSpeech: n
 01612741-n:
   definition:
@@ -23543,7 +23550,7 @@
   - hadrosaurus
   - duck-billed dinosaur
   partOfSpeech: n
-  wikidata: Q271841
+  wikidata: Q14511
 01708888-n:
   definition:
   - genus of large duck-billed dinosaurs; late Cretaceous
@@ -24022,7 +24029,7 @@
   - tyrannosaurus
   - Tyrannosaurus rex
   partOfSpeech: n
-  wikidata: Q14332
+  wikidata: Q13098211
 01716700-n:
   definition:
   - carnivorous dinosaur of North America; late Jurassic
@@ -29024,7 +29031,7 @@
   - sage hen
   - Centrocercus urophasianus
   partOfSpeech: n
-  wikidata: Q7399126
+  wikidata: Q747372
 01800408-n:
   definition:
   - ruffed grouse
@@ -29650,7 +29657,7 @@
   - blue peafowl
   - Pavo cristatus
   partOfSpeech: n
-  wikidata: Q3641130
+  wikidata: Q61865
 01809108-n:
   definition:
   - peafowl of southeast Asia
@@ -32816,7 +32823,6 @@
   - bluebill
   - broadbill
   partOfSpeech: n
-  wikidata: Q601997
 01854214-n:
   definition:
   - large scaup of North America having a greenish iridescence on the head of the
@@ -38945,7 +38951,9 @@
   mero_member:
   - 01957157-n
   partOfSpeech: n
-  wikidata: Q1152770
+  wikidata:
+  - Q1152770
+  - Q213228
 01957157-n:
   definition:
   - deep-water wormlike mollusks lacking calcareous plates on the body but having
@@ -40069,7 +40077,7 @@
   members:
   - paper nautilus
   - nautilus
-  - Argonaut
+  - argonaut
   - Argonauta argo
   partOfSpeech: n
 01973507-n:
@@ -43760,7 +43768,7 @@
   ili: i46017
   members:
   - black turnstone
-  - Arenaria-Melanocephala
+  - Arenaria melanocephala
   partOfSpeech: n
 02028184-n:
   definition:
@@ -43825,7 +43833,9 @@
   - surfbird
   - Aphriza virgata
   partOfSpeech: n
-  wikidata: Q1274741
+  wikidata:
+  - Q1274741
+  - Q28070835
 02029452-n:
   definition:
   - a genus of Scolopacidae, comprising the common sandpiper and the spotted sandpiper
@@ -44008,7 +44018,7 @@
   ili: i46037
   members:
   - curlew sandpiper
-  - Calidris Ferruginea
+  - Calidris ferruginea
   partOfSpeech: n
   wikidata: Q62345
 02031897-n:
@@ -46156,7 +46166,7 @@
   - giant fulmar
   - Macronectes giganteus
   partOfSpeech: n
-  wikidata: Q598979
+  wikidata: Q276185
 02062669-n:
   definition:
   - fulmars
@@ -47368,7 +47378,7 @@
   ili: i46326
   members:
   - South American sea lion
-  - Otaria Byronia
+  - Otaria byronia
   partOfSpeech: n
 02081088-n:
   definition:
@@ -48239,7 +48249,7 @@
   ili: i46406
   members:
   - Ibizan hound
-  - Ibizan Podenco
+  - Ibizan podenco
   partOfSpeech: n
   wikidata: Q37755
 02094119-n:
@@ -48349,7 +48359,9 @@
   - American pit bull terrier
   - pit bull terrier
   partOfSpeech: n
-  wikidata: Q37688
+  wikidata:
+  - Q37688
+  - Q1144318
 02096299-n:
   definition:
   - a light terrier groomed to resemble a lamb
@@ -48429,7 +48441,9 @@
   - rat terrier
   - ratter
   partOfSpeech: n
-  wikidata: Q38431
+  wikidata:
+  - Q38431
+  - Q2132945
 02097373-n:
   definition:
   - a breed of short-haired rat terrier with a black-and-tan coat that was developed
@@ -51056,7 +51070,7 @@
   members:
   - ice bear
   - polar bear
-  - Ursus Maritimus
+  - Ursus maritimus
   - Thalarctos maritimus
   partOfSpeech: n
 02136892-n:
@@ -54307,7 +54321,7 @@
   - louse
   - sucking louse
   partOfSpeech: n
-  wikidata: Q26870
+  wikidata: Q6481228
 02186766-n:
   definition:
   - 'true lice: human lice and related forms'
@@ -55371,7 +55385,7 @@
   - sheep ked
   - sheep-tick
   - sheep tick
-  - Melophagus Ovinus
+  - Melophagus ovinus
   partOfSpeech: n
 02202004-n:
   definition:
@@ -68312,7 +68326,7 @@
   members:
   - common zebra
   - Burchell's zebra
-  - Equus Burchelli
+  - Equus burchelli
   partOfSpeech: n
 02394025-n:
   definition:
@@ -68688,7 +68702,7 @@
   - babirusa
   - babiroussa
   - babirussa
-  - Babyrousa Babyrussa
+  - Babyrousa babyrussa
   partOfSpeech: n
 02399622-n:
   definition:
@@ -71114,7 +71128,7 @@
   - whitetail
   - white-tailed deer
   - whitetail deer
-  - Odocoileus Virginianus
+  - Odocoileus virginianus
   partOfSpeech: n
 02435157-n:
   definition:
@@ -71407,7 +71421,7 @@
   ili: i48446
   members:
   - napu
-  - Tragulus Javanicus
+  - Tragulus javanicus
   partOfSpeech: n
 02439145-n:
   definition:
@@ -76820,7 +76834,7 @@
   - horned pout
   - hornpout
   - pout
-  - Ameiurus Melas
+  - Ameiurus melas
   partOfSpeech: n
 02522103-n:
   definition:
@@ -78828,7 +78842,7 @@
   - monkfish
   - lotte
   - allmouth
-  - Lophius Americanus
+  - Lophius americanus
   mero_part:
   - 07795723-n
   partOfSpeech: n
@@ -79563,7 +79577,7 @@
   - white seabass
   - Lates calcarifer
   partOfSpeech: n
-  wikidata: Q1188144
+  wikidata: Q74411
 02563454-n:
   definition:
   - pikes; pickerels; muskellunges
@@ -84981,7 +84995,7 @@
   - duckbill
   - Polyodon spathula
   partOfSpeech: n
-  wikidata: Q858011
+  wikidata: Q827142
 02642416-n:
   definition:
   - a genus of Polyodontidae
