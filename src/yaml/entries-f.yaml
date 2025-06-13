@@ -2356,11 +2356,6 @@ First Lateran Council:
     sense:
     - id: 'first_lateran_council%1:14:00::'
       synset: 08332372-n
-First Lord of the Treasury:
-  n:
-    sense:
-    - id: 'first_lord_of_the_treasury%1:18:00::'
-      synset: 10747110-n
 First Marquess Cornwallis:
   n:
     sense:
@@ -4186,7 +4181,7 @@ Fraxinus:
     sense:
     - id: 'fraxinus%1:20:00::'
       synset: 12323866-n
-Fraxinus Americana:
+Fraxinus americana:
   n:
     sense:
     - id: 'fraxinus_americana%1:20:00::'
@@ -5189,11 +5184,6 @@ Frigga:
     sense:
     - id: 'frigga%1:18:00::'
       synset: 09603695-n
-Frigid Zone:
-  n:
-    sense:
-    - id: 'frigid_zone%1:15:00::'
-      synset: 08590805-n
 Frimaire:
   n:
     sense:
@@ -36674,6 +36664,11 @@ first light:
     sense:
     - id: 'first_light%1:28:00::'
       synset: 15193837-n
+first lord of the Treasury:
+  n:
+    sense:
+    - id: 'first_lord_of_the_treasury%1:18:00::'
+      synset: 10747110-n
 first mate:
   n:
     sense:
@@ -50930,106 +50925,6 @@ food:
       id: 'food%1:03:00::'
       synset: 00021445-n
     - collocation:
-      - 'absorb%2:35:00::'
-      - 'absorb%2:35:01::'
-      - 'absorb%2:43:00::'
-      - 'avoid%2:34:00::'
-      - 'bake%2:30:00::'
-      - 'bar%1:06:04::'
-      - 'bar%1:06:05::'
-      - 'basket%1:06:00::'
-      - 'beg%2:40:00::'
-      - 'benefit%1:07:00::'
-      - 'bird%1:13:00::'
-      - 'bread%1:13:00::'
-      - 'breakfast%1:13:00::'
-      - 'bring%2:38:00::'
-      - 'cabaret%1:06:00::'
-      - 'can%1:06:00::'
-      - 'canister%1:06:00::'
-      - 'chef%1:18:01::'
-      - 'chew%2:34:00::'
-      - 'chicken%1:13:00::'
-      - 'constipate%2:29:00::'
-      - 'continental_breakfast%1:13:00::'
-      - 'convoy%1:14:00::'
-      - 'cook%1:18:00::'
-      - 'cook%2:36:00::'
-      - 'cook%2:36:01::'
-      - 'corn%1:13:00::'
-      - 'diet%1:04:00::'
-      - 'diet%1:13:00::'
-      - 'dietician%1:18:00::'
-      - 'dish%1:06:00::'
-      - 'dish%1:13:00::'
-      - 'eat%2:34:01::'
-      - 'elevator%1:06:00::'
-      - 'equip%2:40:00::'
-      - 'fat%1:27:00::'
-      - 'feed%2:34:04::'
-      - 'film%1:06:02::'
-      - 'food_processor%1:06:00::'
-      - 'game%1:05:00::'
-      - 'game%1:13:00::'
-      - 'gelatin%1:13:02::'
-      - 'give%2:34:00::'
-      - 'hate%2:37:00::'
-      - 'hen%1:13:00::'
-      - 'hunger%1:26:00::'
-      - 'hunt%2:33:00::'
-      - 'industry%1:14:00::'
-      - 'intake%1:04:00::'
-      - 'kilocalorie%1:23:00::'
-      - 'kitchen%1:06:00::'
-      - 'knife%1:06:00::'
-      - 'meet%2:34:00::'
-      - 'mouth%1:08:01::'
-      - 'mouth%1:18:00::'
-      - 'neck%1:13:00::'
-      - 'nourishment%1:04:00::'
-      - 'nutrition%1:22:00::'
-      - 'party%1:11:00::'
-      - 'party%1:14:00::'
-      - 'pastry%1:13:00::'
-      - 'patty%1:13:03::'
-      - 'piece%1:13:00::'
-      - 'plant%1:03:00::'
-      - 'poisoning%1:26:00::'
-      - 'preparation%1:04:03::'
-      - 'preserve%2:30:00::'
-      - 'provide%2:34:00::'
-      - 'public_house%1:06:00::'
-      - 'recipe%1:10:00::'
-      - 'refrigerate%2:30:01::'
-      - 'refrigerator%1:06:00::'
-      - 'regale%2:34:00::'
-      - 'restaurant%1:06:00::'
-      - 'rice%1:13:00::'
-      - 'search%2:39:00::'
-      - 'seed%1:20:02::'
-      - 'serve%2:34:01::'
-      - 'side%1:13:00::'
-      - 'sleep%1:26:00::'
-      - 'sleep%1:26:02::'
-      - 'source%1:15:00::'
-      - 'starvation%1:04:00::'
-      - 'starve%2:34:00::'
-      - 'starve%2:34:02::'
-      - 'stock%2:40:01::'
-      - 'stomach%1:08:00::'
-      - 'stomach%1:12:00::'
-      - 'supply%1:23:00::'
-      - 'thaw%1:22:00::'
-      - 'vegetable%1:20:00::'
-      - 'water%1:27:00::'
-      - 'substance%1:03:01::'
-      - 'supply%1:04:00::'
-      - 'swallow%2:34:00::'
-      - 'trim%2:36:00::'
-      - 'vomit%2:29:00::'
-      id: 'food%1:13:00::'
-      synset: 07571428-n
-    - collocation:
       - 'book%1:10:00::'
       - 'intellectual%1:18:00::'
       - 'literature%1:09:00::'
@@ -63708,6 +63603,11 @@ frigid:
       - 'frigidity%1:07:00::'
       id: frigid%5:00:00:cold:02
       synset: 01261336-s
+frigid zone:
+  n:
+    sense:
+    - id: 'frigid_zone%1:15:00::'
+      synset: 08590805-n
 frigidity:
   n:
     sense:

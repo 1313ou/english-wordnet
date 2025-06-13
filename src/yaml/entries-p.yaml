@@ -2290,13 +2290,6 @@ Parks:
     sense:
     - id: 'parks%1:18:00::'
       synset: 11243386-n
-Parliamentarian:
-  n:
-    pronunciation:
-    - value: ˌpɑː(ɹ)ləmənˈtɛəɹiən
-    sense:
-    - id: 'parliamentarian%1:18:01::'
-      synset: 10420136-n
 Parmelia:
   n:
     sense:
@@ -5728,21 +5721,6 @@ Phanerozoic eon:
     sense:
     - id: 'phanerozoic_eon%1:28:00::'
       synset: 15149100-n
-Pharaoh:
-  n:
-    pronunciation:
-    - value: ˈfæɹoʊ
-      variety: US
-    sense:
-    - derivation:
-      - 'pharaonic%3:01:00::'
-      id: 'pharaoh%1:18:00::'
-      synset: 10440761-n
-Pharaoh of Egypt:
-  n:
-    sense:
-    - id: 'pharaoh_of_egypt%1:18:00::'
-      synset: 10440761-n
 Pharaoh's chicken:
   n:
     sense:
@@ -5751,11 +5729,7 @@ Pharaoh's chicken:
 Pharaonic:
   a:
     sense:
-    - derivation:
-      - 'pharaoh%1:18:00::'
-      id: 'pharaonic%3:01:00::'
-      pertainym:
-      - 'pharaoh%1:18:00::'
+    - id: 'pharaonic%3:01:00::'
       synset: 02787620-a
 Pharisee:
   n:
@@ -7511,11 +7485,6 @@ Pietism:
       - 'pietistic%3:01:00::'
       id: 'pietism%1:14:00::'
       synset: 08492733-n
-Pigmy:
-  n:
-    sense:
-    - id: 'pigmy%1:18:00::'
-      synset: 10516074-n
 Pike's Peak:
   n:
     sense:
@@ -8734,14 +8703,6 @@ Plantago virginica:
     sense:
     - id: 'plantago_virginica%1:20:00::'
       synset: 12621028-n
-Plantation:
-  n:
-    pronunciation:
-    - value: plænˈteɪʃən
-      variety: US
-    sense:
-    - id: 'plantation%1:14:00::'
-      synset: 08391700-n
 Plantation walking horse:
   n:
     sense:
@@ -9855,14 +9816,6 @@ Poitou-Charentes:
     sense:
     - id: 'poitou-charentes%1:15:00::'
       synset: 08963997-n
-Poivrade:
-  n:
-    pronunciation:
-    - value: pwavɹɑːd
-      variety: GB
-    sense:
-    - id: 'poivrade%1:13:00::'
-      synset: 07855288-n
 Pokomo:
   n:
     sense:
@@ -11842,14 +11795,6 @@ President:
     - value: ˈpɹɛzɨdənt
     sense:
     - derivation:
-      - 'presidential%3:01:00::'
-      - 'presidentship%1:04:00::'
-      - 'presidency%1:28:00::'
-      - 'presidency%1:04:00::'
-      - 'preside%2:41:00::'
-      id: 'president%1:18:04::'
-      synset: 10486961-n
-    - derivation:
       - 'presidentship%1:04:00::'
       - 'presidency%1:28:00::'
       - 'presidency%1:04:00::'
@@ -12104,15 +12049,8 @@ President Wilson:
 President of the United States:
   n:
     sense:
-    - id: 'president_of_the_united_states%1:18:00::'
-      synset: 10486961-n
     - id: 'president_of_the_united_states%1:04:00::'
       synset: 00598380-n
-Presidential Directive:
-  n:
-    sense:
-    - id: 'presidential_directive%1:10:00::'
-      synset: 07184933-n
 Presidents' Day:
   n:
     sense:
@@ -12128,13 +12066,6 @@ Pressburg:
     sense:
     - id: 'pressburg%1:15:00::'
       synset: 08777096-n
-Pretender:
-  n:
-    sense:
-    - derivation:
-      - 'pretend%2:40:03::'
-      id: 'pretender%1:18:02::'
-      synset: 10489564-n
 Pretoria:
   n:
     sense:
@@ -12237,13 +12168,6 @@ Primaxin:
     sense:
     - id: 'primaxin%1:06:00::'
       synset: 04008894-n
-Prime Minister:
-  n:
-    pronunciation:
-    - value: ˈpraɪmɪnɪstə(r)
-    sense:
-    - id: 'prime_minister%1:18:01::'
-      synset: 09926654-n
 Prime meridian:
   n:
     sense:
@@ -14683,11 +14607,6 @@ Puritanism:
     sense:
     - id: 'puritanism%1:09:00::'
       synset: 06242789-n
-    - derivation:
-      - puritanical%5:00:00:nonindulgent:00
-      - 'puritanical%3:01:00::'
-      id: 'puritanism%1:07:00::'
-      synset: 04646948-n
 Purkinje:
   n:
     sense:
@@ -14807,13 +14726,6 @@ Pygmalion:
     sense:
     - id: 'pygmalion%1:18:00::'
       synset: 09577830-n
-Pygmy:
-  n:
-    pronunciation:
-    - value: pɪɡmiː
-    sense:
-    - id: 'pygmy%1:18:00::'
-      synset: 10516074-n
 Pygopodidae:
   n:
     sense:
@@ -25111,6 +25023,8 @@ parliamentarian:
     sense:
     - id: 'parliamentarian%1:18:00::'
       synset: 10420008-n
+    - id: 'parliamentarian%1:18:01::'
+      synset: 10420136-n
 parliamentary:
   a:
     pronunciation:
@@ -46429,11 +46343,21 @@ phantom orchid:
     sense:
     - id: 'phantom_orchid%1:20:00::'
       synset: 12081047-n
+pharaoh:
+  n:
+    sense:
+    - id: 'pharaoh%1:18:00::'
+      synset: 10440761-n
 pharaoh ant:
   n:
     sense:
     - id: 'pharaoh_ant%1:05:00::'
       synset: 02222707-n
+pharaoh of Egypt:
+  n:
+    sense:
+    - id: 'pharaoh_of_egypt%1:18:00::'
+      synset: 10440761-n
 pharaoh's ant:
   n:
     sense:
@@ -53541,6 +53465,8 @@ pigmy:
     sense:
     - id: 'pigmy%1:18:01::'
       synset: 10516211-n
+    - id: 'pigmy%1:18:02::'
+      synset: 10516074-n
 pigmy talinum:
   n:
     sense:
@@ -61120,6 +61046,8 @@ plantation:
       - 'conifer%1:20:00::'
       id: 'plantation%1:06:00::'
       synset: 03468764-n
+    - id: 'plantation%1:14:01::'
+      synset: 08391700-n
 plantation owner:
   n:
     sense:
@@ -69579,6 +69507,11 @@ poitrine d'agneau:
     sense:
     - id: 'poitrine_d''agneau%1:13:00::'
       synset: 07683225-n
+poivrade:
+  n:
+    sense:
+    - id: 'poivrade%1:13:00::'
+      synset: 07855288-n
 poke:
   n:
     pronunciation:
@@ -88942,12 +88875,11 @@ preside:
       - 'judge%1:18:00::'
       - 'meeting%1:14:00::'
       derivation:
-      - 'president%1:04:04::'
-      - 'president%1:18:00::'
-      - 'president%1:18:01::'
-      - 'president%1:18:02::'
       - 'president%1:18:03::'
-      - 'president%1:18:04::'
+      - 'president%1:18:02::'
+      - 'president%1:18:01::'
+      - 'president%1:18:00::'
+      - 'president%1:04:04::'
       id: 'preside%2:41:00::'
       subcat:
       - via
@@ -88959,7 +88891,6 @@ presidency:
     - value: ˈpɹɛzɪdənsi
     sense:
     - derivation:
-      - 'president%1:18:04::'
       - 'president%1:04:04::'
       - 'president%1:18:03::'
       - 'president%1:18:02::'
@@ -88975,13 +88906,12 @@ presidency:
       - 'nominate%2:41:02::'
       - 'race%1:11:01::'
       derivation:
-      - 'president%1:04:04::'
-      - 'president%1:18:00::'
-      - 'president%1:18:01::'
-      - 'president%1:18:02::'
-      - 'president%1:18:03::'
-      - 'president%1:18:04::'
       - 'presidential%3:01:00::'
+      - 'president%1:04:04::'
+      - 'president%1:18:03::'
+      - 'president%1:18:02::'
+      - 'president%1:18:01::'
+      - 'president%1:18:00::'
       id: 'presidency%1:04:00::'
       synset: 00597922-n
 president:
@@ -89156,13 +89086,19 @@ president:
       - 'presidentship%1:04:00::'
       id: 'president%1:18:02::'
       synset: 10488335-n
+    - id: 'president%1:18:05::'
+      synset: 10486961-n
+president of the United States:
+  n:
+    sense:
+    - id: 'president_of_the_united_states%1:18:01::'
+      synset: 10486961-n
 presidential:
   a:
     pronunciation:
     - value: pɹɛzɪˈdɛnʃ(ə)l
     sense:
     - derivation:
-      - 'president%1:18:04::'
       - 'presidency%1:04:00::'
       - 'president%1:18:02::'
       - 'president%1:18:01::'
@@ -89175,6 +89111,11 @@ presidential:
       - 'unpresidential%3:00:00::'
       id: 'presidential%3:00:00::'
       synset: 00757025-a
+presidential directive:
+  n:
+    sense:
+    - id: 'presidential_directive%1:10:00::'
+      synset: 07184933-n
 presidential term:
   n:
     sense:
@@ -89191,7 +89132,6 @@ presidentship:
   n:
     sense:
     - derivation:
-      - 'president%1:18:04::'
       - 'president%1:04:04::'
       - 'president%1:18:03::'
       - 'president%1:18:02::'
@@ -90364,15 +90304,12 @@ pretend:
       - via
       - vtai
       synset: 01725433-v
-    - agent:
-      - 'pretender%1:18:02::'
-      collocation:
+    - collocation:
       - 'right%1:07:00::'
       - 'title%1:10:03::'
       derivation:
-      - 'pretender%1:18:02::'
-      - 'pretense%1:07:00::'
       - 'pretension%1:10:00::'
+      - 'pretense%1:07:00::'
       event:
       - 'pretension%1:10:00::'
       id: 'pretend%2:40:03::'
@@ -90414,6 +90351,8 @@ pretender:
       synset: 10221154-n
     - id: 'pretender%1:18:01::'
       synset: 10215212-n
+    - id: 'pretender%1:18:02::'
+      synset: 10489564-n
 pretending:
   n:
     sense:
@@ -92760,6 +92699,8 @@ prime minister:
     sense:
     - id: 'prime_minister%1:18:00::'
       synset: 09926439-n
+    - id: 'prime_minister%1:18:01::'
+      synset: 09926654-n
 prime mover:
   n:
     sense:
@@ -113927,9 +113868,7 @@ puritanical:
     - value: pjɚ.ɪˈtæn.ɪ.kl̩
       variety: US
     sense:
-    - derivation:
-      - 'puritanism%1:07:00::'
-      id: 'puritanical%3:01:00::'
+    - id: 'puritanical%3:01:00::'
       pertainym:
       - 'puritan%1:18:00::'
       - 'puritanism%1:09:00::'
@@ -113940,7 +113879,6 @@ puritanical:
       synset: 01886245-s
     - derivation:
       - 'puritan%1:18:00::'
-      - 'puritanism%1:07:00::'
       id: puritanical%5:00:00:nonindulgent:00
       synset: 01303318-s
 puritanically:
@@ -113950,6 +113888,11 @@ puritanically:
       pertainym:
       - puritanical%5:00:00:proper:00
       synset: 00436397-r
+puritanism:
+  n:
+    sense:
+    - id: 'puritanism%1:07:01::'
+      synset: 04646948-n
 purity:
   n:
     pronunciation:
@@ -117263,6 +117206,8 @@ pygmy:
     sense:
     - id: 'pygmy%1:18:01::'
       synset: 10516211-n
+    - id: 'pygmy%1:18:02::'
+      synset: 10516074-n
 pygmy chimpanzee:
   n:
     sense:
