@@ -642,6 +642,11 @@ ASCII text file:
     sense:
     - id: 'ascii_text_file%1:10:00::'
       synset: 06523233-n
+ASD:
+  n:
+    sense:
+    - id: 'asd%1:09:00::'
+      synset: 05905605-n
 ASEAN:
   n:
     sense:
@@ -6464,10 +6469,10 @@ Alistair Cooke:
     sense:
     - id: 'alistair_cooke%1:18:00::'
       synset: 10928508-n
-Alka-seltzer:
+Alka-Seltzer:
   n:
     sense:
-    - id: 'alka-seltzer%1:27:00::'
+    - id: 'alka-seltzer%1:27:01::'
       synset: 14801083-n
 Alkeran:
   n:
@@ -6892,16 +6897,16 @@ Alnus serrulata:
     sense:
     - id: 'alnus_serrulata%1:20:00::'
       synset: 12306417-n
-Alnus veridis:
-  n:
-    sense:
-    - id: 'alnus_veridis%1:20:00::'
-      synset: 12306585-n
 Alnus veridis crispa:
   n:
     sense:
     - id: 'alnus_veridis_crispa%1:20:00::'
       synset: 12306714-n
+Alnus viridis:
+  n:
+    sense:
+    - id: 'alnus_viridis%1:20:00::'
+      synset: 12306585-n
 Alnus vulgaris:
   n:
     sense:
@@ -7399,6 +7404,11 @@ Amaethon:
     sense:
     - id: 'amaethon%1:18:00::'
       synset: 09530771-n
+Aman:
+  n:
+    sense:
+    - id: 'aman%1:14:00::'
+      synset: 08363213-n
 Amandine Aurore Lucie Dupin:
   n:
     sense:
@@ -8662,11 +8672,6 @@ American widgeon:
     sense:
     - id: 'american_widgeon%1:05:00::'
       synset: 01851481-n
-American wistaria:
-  n:
-    sense:
-    - id: 'american_wistaria%1:20:00::'
-      synset: 12601644-n
 American wisteria:
   n:
     sense:
@@ -10233,10 +10238,10 @@ Angelo Correr:
     sense:
     - id: 'angelo_correr%1:18:00::'
       synset: 11034446-n
-Angelo Guiseppe Roncalli:
+Angelo Giuseppe Roncalli:
   n:
     sense:
-    - id: 'angelo_guiseppe_roncalli%1:18:00::'
+    - id: 'angelo_giuseppe_roncalli%1:18:00::'
       synset: 11106597-n
 Angelus:
   n:
@@ -12336,11 +12341,6 @@ Aporocactus flagelliformis:
     sense:
     - id: 'aporocactus_flagelliformis%1:20:00::'
       synset: 11863910-n
-Apostelic Father:
-  n:
-    sense:
-    - id: 'apostelic_father%1:18:00::'
-      synset: 09818636-n
 Apostle:
   n:
     sense:
@@ -12369,6 +12369,11 @@ Apostle of the Gentiles:
     sense:
     - id: 'apostle_of_the_gentiles%1:18:00::'
       synset: 11245651-n
+Apostolic Father:
+  n:
+    sense:
+    - id: 'apostolic_father%1:18:00::'
+      synset: 09818636-n
 Apostolic Palace:
   n:
     sense:
@@ -13563,6 +13568,11 @@ Arctictis bintourong:
     sense:
     - id: 'arctictis_bintourong%1:05:00::'
       synset: 02138755-n
+Arctictis binturong:
+  n:
+    sense:
+    - id: 'arctictis_binturong%1:05:00::'
+      synset: 02138755-n
 Arctiidae:
   n:
     sense:
@@ -13668,6 +13678,11 @@ Ardea:
     sense:
     - id: 'ardea%1:05:00::'
       synset: 02010970-n
+Ardea herodia:
+  n:
+    sense:
+    - id: 'ardea_herodia%1:05:00::'
+      synset: 02011151-n
 Ardea herodius:
   n:
     sense:
@@ -14493,6 +14508,16 @@ Arlington:
     sense:
     - id: 'arlington%1:15:00::'
       synset: 09165624-n
+Arlêng:
+  n:
+    sense:
+    - id: 'arlêng%1:10:00::'
+      synset: 86620955-n
+Arlêng language:
+  n:
+    sense:
+    - id: 'arlêng_language%1:10:00::'
+      synset: 86620955-n
 Armadillidiidae:
   n:
     sense:
@@ -14974,11 +14999,6 @@ Artemis pontica:
     sense:
     - id: 'artemis_pontica%1:20:00::'
       synset: 11951463-n
-Artemis spinescens:
-  n:
-    sense:
-    - id: 'artemis_spinescens%1:20:00::'
-      synset: 11951604-n
 Artemisia abrotanum:
   n:
     sense:
@@ -15039,6 +15059,11 @@ Artemisia maritima:
     sense:
     - id: 'artemisia_maritima%1:20:00::'
       synset: 12034824-n
+Artemisia spinescens:
+  n:
+    sense:
+    - id: 'artemisia_spinescens%1:20:00::'
+      synset: 11951604-n
 Artemisia stelleriana:
   n:
     sense:
@@ -16099,10 +16124,10 @@ Asparagus asparagoides:
     sense:
     - id: 'asparagus_asparagoides%1:20:00::'
       synset: 12462057-n
-Asparagus officinales:
+Asparagus officinalis:
   n:
     sense:
-    - id: 'asparagus_officinales%1:20:00::'
+    - id: 'asparagus_officinalis%1:20:00::'
       synset: 12461688-n
 Asparagus plumosus:
   n:
@@ -16206,6 +16231,11 @@ Aspidistra elatio:
   n:
     sense:
     - id: 'aspidistra_elatio%1:20:00::'
+      synset: 12463828-n
+Aspidistra elatior:
+  n:
+    sense:
+    - id: 'aspidistra_elatior%1:20:00::'
       synset: 12463828-n
 Aspidophoroides:
   n:
@@ -17338,6 +17368,11 @@ Atrovent:
       - 'trade_name%1:10:00::'
       id: 'atrovent%1:06:00::'
       synset: 03589280-n
+Atsina:
+  n:
+    sense:
+    - id: 'atsina%1:10:00::'
+      synset: 88945708-n
 Atsugewi:
   n:
     sense:
@@ -17472,7 +17507,22 @@ Audrey Hepburn:
   n:
     sense:
     - id: 'audrey_hepburn%1:18:01::'
-      synset: 11063975-n
+      synset: 81259478-n
+Audrey Kathleen Hepburn:
+  n:
+    sense:
+    - id: 'audrey_kathleen_hepburn%1:18:00::'
+      synset: 81259478-n
+Audrey Kathleen Ruston:
+  n:
+    sense:
+    - id: 'audrey_kathleen_ruston%1:18:00::'
+      synset: 81259478-n
+Audrey Ruston:
+  n:
+    sense:
+    - id: 'audrey_ruston%1:18:00::'
+      synset: 81259478-n
 Audubon:
   n:
     sense:
@@ -18321,6 +18371,11 @@ Avena sativa:
     sense:
     - id: 'avena_sativa%1:20:00::'
       synset: 12130602-n
+Avena sterilis:
+  n:
+    sense:
+    - id: 'avena_sterilis%1:20:00::'
+      synset: 12130992-n
 Avene sterilis:
   n:
     sense:
@@ -29874,6 +29929,8 @@ actinon:
     sense:
     - id: 'actinon%1:27:00::'
       synset: 14608290-n
+    - id: 'actinon%1:27:01::'
+      synset: 84103597-n
 actinopod:
   n:
     sense:
@@ -36140,6 +36197,11 @@ aerial ladder truck:
     sense:
     - id: 'aerial_ladder_truck%1:06:00::'
       synset: 03638143-n
+aerial mosaic:
+  n:
+    sense:
+    - id: 'aerial_mosaic%1:06:00::'
+      synset: 03793437-n
 aerial torpedo:
   n:
     sense:
@@ -40317,8 +40379,6 @@ ague:
       synset: 14088814-n
     - id: 'ague%1:26:01::'
       synset: 14363867-n
-    - id: 'ague%1:10:00::'
-      synset: 06835460-n
 ague grass:
   n:
     sense:
@@ -40538,6 +40598,11 @@ aigrette:
     sense:
     - id: 'aigrette%1:06:00::'
       synset: 02687941-n
+aigu:
+  n:
+    sense:
+    - id: 'aigu%1:10:00::'
+      synset: 06835460-n
 aiguillette:
   n:
     sense:
@@ -51906,10 +51971,10 @@ amyl alcohol:
     sense:
     - id: 'amyl_alcohol%1:27:00::'
       synset: 14768877-n
-amyl nitrate:
+amyl nitrite:
   n:
     sense:
-    - id: 'amyl_nitrate%1:06:00::'
+    - id: 'amyl_nitrite%1:06:00::'
       synset: 02709775-n
 amylaceous:
   a:
@@ -54723,9 +54788,7 @@ anesthetize:
     - value: əˈnɛs.θə.taɪz
       variety: US
     sense:
-    - antonym:
-      - 'bring_to%2:29:00::'
-      derivation:
+    - derivation:
       - 'anesthetic%1:06:00::'
       exemplifies:
       - 'american_spelling%1:10:01::'
@@ -57078,6 +57141,11 @@ annon:
     sense:
     - id: 'annon%1:13:00::'
       synset: 07777587-n
+annona:
+  n:
+    sense:
+    - id: 'annona%1:13:01::'
+      synset: 07777587-n
 annotate:
   v:
     sense:
@@ -57359,11 +57427,6 @@ annually:
       synset: 00082087-r
     - id: 'annually%4:02:01::'
       synset: 00252039-r
-annualry:
-  n:
-    sense:
-    - id: 'annualry%1:08:00::'
-      synset: 05575122-n
 annuitant:
   n:
     sense:
@@ -57427,6 +57490,11 @@ annular scotoma:
     sense:
     - id: 'annular_scotoma%1:26:00::'
       synset: 14580018-n
+annulary:
+  n:
+    sense:
+    - id: 'annulary%1:08:00::'
+      synset: 05575122-n
 annulate:
   a:
     sense:
@@ -60664,11 +60732,6 @@ antinode:
       - 'node%1:15:01::'
       id: 'antinode%1:15:00::'
       synset: 08515760-n
-antinomasia:
-  n:
-    sense:
-    - id: 'antinomasia%1:10:00::'
-      synset: 07116223-n
 antinomian:
   a:
     pronunciation:
@@ -61512,6 +61575,11 @@ antlion fly:
     sense:
     - id: 'antlion_fly%1:05:00::'
       synset: 02266673-n
+antonomasia:
+  n:
+    sense:
+    - id: 'antonomasia%1:10:00::'
+      synset: 07116223-n
 antonym:
   n:
     pronunciation:
@@ -68772,11 +68840,6 @@ arete:
     sense:
     - id: 'arete%1:17:00::'
       synset: 09228397-n
-areteria cervicalis:
-  n:
-    sense:
-    - id: 'areteria_cervicalis%1:08:00::'
-      synset: 05349468-n
 arethusa:
   n:
     sense:
@@ -69163,11 +69226,6 @@ aria:
     sense:
     - id: 'aria%1:10:00::'
       synset: 07063554-n
-arial mosaic:
-  n:
-    sense:
-    - id: 'arial_mosaic%1:06:00::'
-      synset: 03793437-n
 arid:
   a:
     pronunciation:
@@ -71475,6 +71533,11 @@ arteria cerebri:
     sense:
     - id: 'arteria_cerebri%1:08:00::'
       synset: 05348754-n
+arteria cervicalis:
+  n:
+    sense:
+    - id: 'arteria_cervicalis%1:08:00::'
+      synset: 05349468-n
 arteria choroidea:
   n:
     sense:
@@ -71560,11 +71623,21 @@ arteria gastrica breves:
     sense:
     - id: 'arteria_gastrica_breves%1:08:00::'
       synset: 05353739-n
+arteria gastrica dextra:
+  n:
+    sense:
+    - id: 'arteria_gastrica_dextra%1:08:00::'
+      synset: 05353331-n
 arteria gastrica sinistra:
   n:
     sense:
     - id: 'arteria_gastrica_sinistra%1:08:00::'
       synset: 05353526-n
+arteria glutea:
+  n:
+    sense:
+    - id: 'arteria_glutea%1:08:00::'
+      synset: 05353954-n
 arteria glutes:
   n:
     sense:
@@ -71575,16 +71648,16 @@ arteria hepatica:
     sense:
     - id: 'arteria_hepatica%1:08:00::'
       synset: 05354133-n
+arteria ilealis:
+  n:
+    sense:
+    - id: 'arteria_ilealis%1:08:00::'
+      synset: 05354262-n
 arteria ileocolica:
   n:
     sense:
     - id: 'arteria_ileocolica%1:08:00::'
       synset: 05354440-n
-arteria ileum:
-  n:
-    sense:
-    - id: 'arteria_ileum%1:08:00::'
-      synset: 05354262-n
 arteria iliaca:
   n:
     sense:
@@ -78181,11 +78254,6 @@ atenolol:
     sense:
     - id: 'atenolol%1:06:00::'
       synset: 02754787-n
-ateria gastrica dextra:
-  n:
-    sense:
-    - id: 'ateria_gastrica_dextra%1:08:00::'
-      synset: 05353331-n
 athanor:
   n:
     pronunciation:
@@ -83237,6 +83305,16 @@ autism:
       - autistic%5:00:00:ill:01
       id: 'autism%1:09:00::'
       synset: 05905605-n
+autism spectrum condition:
+  n:
+    sense:
+    - id: 'autism_spectrum_condition%1:09:00::'
+      synset: 05905605-n
+autism spectrum disorder:
+  n:
+    sense:
+    - id: 'autism_spectrum_disorder%1:09:00::'
+      synset: 05905605-n
 autistic:
   a:
     pronunciation:
@@ -83247,6 +83325,11 @@ autistic:
       - 'autism%1:09:00::'
       id: autistic%5:00:00:ill:01
       synset: 02553648-s
+autistic disorder:
+  n:
+    sense:
+    - id: 'autistic_disorder%1:09:00::'
+      synset: 85211648-n
 auto:
   n:
     sense:

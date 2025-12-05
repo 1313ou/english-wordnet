@@ -7052,7 +7052,7 @@
   ili: i65023
   members:
   - cervical artery
-  - areteria cervicalis
+  - arteria cervicalis
   partOfSpeech: n
 05349618-n:
   definition:
@@ -7282,7 +7282,7 @@
   ili: i65046
   members:
   - right gastric artery
-  - ateria gastrica dextra
+  - arteria gastrica dextra
   partOfSpeech: n
 05353526-n:
   definition:
@@ -7316,6 +7316,7 @@
   members:
   - gluteal artery
   - arteria glutes
+  - arteria glutea
   partOfSpeech: n
 05354133-n:
   definition:
@@ -7336,7 +7337,7 @@
   members:
   - ileal artery
   - intestinal artery
-  - arteria ileum
+  - arteria ilealis
   partOfSpeech: n
 05354440-n:
   definition:
@@ -8139,7 +8140,7 @@
   ili: i65127
   members:
   - central vein of retina
-  - vena centrales retinae
+  - vena centralis retinae
   partOfSpeech: n
 05368428-n:
   definition:
@@ -9656,6 +9657,7 @@
   - gallbladder
   - gall bladder
   partOfSpeech: n
+  wikidata: Q64386
 05392706-n:
   definition:
   - the upper region of the abdomen just below the lowest ribs on either side of the
@@ -9688,6 +9690,7 @@
   - 05394371-n
   - 05431418-n
   partOfSpeech: n
+  wikidata: Q9368
 05393482-n:
   definition:
   - any of the many tiny canals that contain blood vessels and connective tissue and
@@ -9762,6 +9765,7 @@
   - 05394738-n
   - 05492966-n
   partOfSpeech: n
+  wikidata: Q9618
 05394738-n:
   definition:
   - a duct connecting the pancreas with the intestine
@@ -9789,6 +9793,7 @@
   - 05395302-n
   - 05536028-n
   partOfSpeech: n
+  wikidata: Q7886
 05395185-n:
   definition:
   - lung tissue densely packed with alveoli
@@ -10493,6 +10498,7 @@
   mero_substance:
   - 05410492-n
   partOfSpeech: n
+  wikidata: Q7873
 05407788-n:
   definition:
   - blood found in arteries
@@ -11269,6 +11275,7 @@
   members:
   - histamine
   partOfSpeech: n
+  wikidata: Q61233
 05422274-n:
   definition:
   - a potent substance that acts like a hormone and is found in many bodily tissues
@@ -16432,8 +16439,8 @@
   - 05244178-n
   ili: i65879
   members:
-  - pulmonary plexis
   - plexus pulmonalis
+  - pulmonary plexus
   partOfSpeech: n
 05516185-n:
   definition:
@@ -18330,6 +18337,7 @@
   - 05553673-n
   - 05618489-n
   partOfSpeech: n
+  wikidata: Q13147
 05548040-n:
   definition:
   - the dome of the skull
@@ -20020,7 +20028,8 @@
   ili: i66167
   members:
   - ring finger
-  - annualry
+  - leech finger
+  - annulary
   partOfSpeech: n
 05575237-n:
   definition:
@@ -22438,7 +22447,7 @@
   - 05615618-n
   ili: i66381
   members:
-  - hematopoeitic stem cell
+  - hematopoietic stem cell
   partOfSpeech: n
 05615961-n:
   definition:

@@ -5447,6 +5447,7 @@
   members:
   - extraterrestrial object
   - estraterrestrial body
+  - extraterrestrial body
   partOfSpeech: n
 09300819-n:
   definition:
@@ -6990,8 +6991,8 @@
   - 09248053-n
   ili: i85524
   members:
-  - high sea
   - international waters
+  - high seas
   partOfSpeech: n
 09325914-n:
   definition:
@@ -7817,6 +7818,7 @@
   - isle
   - islet
   partOfSpeech: n
+  wikidata: Q207524
 09342510-n:
   definition:
   - a relatively narrow strip of land (with water on both sides) connecting two larger
@@ -11318,7 +11320,6 @@
   instance_hypernym:
   - 09311541-n
   members:
-  - 4.5-Inch Beach Barrage Rocket
   - Old Faithful
   partOfSpeech: n
   wikidata: Q858794
@@ -15186,6 +15187,7 @@
   - strait
   - sound
   partOfSpeech: n
+  wikidata: Q37901
 09469540-n:
   definition:
   - the strait separating Vancouver Island from the Canadian mainland
@@ -15292,7 +15294,7 @@
   ili: i86259
   members:
   - strange quark
-  - squark
+  - s quark
   partOfSpeech: n
 09471239-n:
   definition:

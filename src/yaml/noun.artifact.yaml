@@ -2571,7 +2571,7 @@
   - 04530199-n
   ili: i49989
   members:
-  - amyl nitrate
+  - amyl nitrite
   partOfSpeech: n
 02709895-n:
   definition:
@@ -5876,6 +5876,7 @@
   - avenue
   - boulevard
   partOfSpeech: n
+  wikidata: Q7543083
 02766609-n:
   definition:
   - a building where birds are kept
@@ -7429,6 +7430,7 @@
   mero_part:
   - 04531126-n
   partOfSpeech: n
+  wikidata: Q18761864
 02791044-n:
   definition:
   - long strip of cloth or paper used for decoration or advertising
@@ -15761,6 +15763,7 @@
   - 04594951-n
   - 08573247-n
   partOfSpeech: n
+  wikidata: Q41176
 02918159-n:
   definition:
   - a block of material used in construction work
@@ -16913,6 +16916,7 @@
   members:
   - cabana
   partOfSpeech: n
+  wikidata: Q3649129
 02934801-n:
   definition:
   - a spot that is open late at night and that provides entertainment (as singers
@@ -21049,6 +21053,7 @@
   members:
   - ceramic
   partOfSpeech: n
+  wikidata: Q45621
 03001214-n:
   definition:
   - utensils made from ceramic material
@@ -23265,6 +23270,7 @@
   mero_part:
   - 03034865-n
   partOfSpeech: n
+  wikidata: Q1578
 03034865-n:
   definition:
   - small part of a cigarette that is left after smoking
@@ -26156,6 +26162,7 @@
   members:
   - commissary
   partOfSpeech: n
+  wikidata: Q16558882
 03080627-n:
   definition:
   - a snack bar in a film studio
@@ -26272,6 +26279,7 @@
   - community center
   - civic center
   partOfSpeech: n
+  wikidata: Q77115
 03082674-n:
   definition:
   - switch for reversing the direction of an electric current
@@ -28719,6 +28727,7 @@
   - 03611560-n
   - 04603819-n
   partOfSpeech: n
+  wikidata: Q939726
 03125691-n:
   definition:
   - the residence of a sovereign or nobleman
@@ -33081,6 +33090,7 @@
   - die
   - dice
   partOfSpeech: n
+  wikidata: Q45089
 03195970-n:
   definition:
   - a small container (open at one end) in which dice are shaken by hand and from
@@ -34184,6 +34194,7 @@
   - dish washer
   - dishwashing machine
   partOfSpeech: n
+  wikidata: Q186263
 03212783-n:
   definition:
   - a low-sudsing detergent designed for use in dishwashers
@@ -34724,6 +34735,7 @@
   - dockage
   - docking facility
   partOfSpeech: n
+  wikidata: Q124282
 03221894-n:
   definition:
   - an enclosure in a court of law where the defendant sits during the trial
@@ -35271,6 +35283,7 @@
   - residence hall
   - hall
   - student residence
+  - student lodging
   partOfSpeech: n
 03229811-n:
   definition:
@@ -37011,6 +37024,7 @@
   members:
   - dubbing
   partOfSpeech: n
+  wikidata: Q187657
 03257774-n:
   definition:
   - a heavy cotton fabric of plain weave; used for clothing and tents
@@ -40896,8 +40910,6 @@
   - fanjet
   - fan-jet
   - fanjet engine
-  - turbojet
-  - turbojet engine
   - turbofan
   - turbofan engine
   mero_part:
@@ -40914,7 +40926,6 @@
   - fanjet
   - fan-jet
   - turbofan
-  - turbojet
   mero_part:
   - 03326048-n
   partOfSpeech: n
@@ -40972,6 +40983,7 @@
   - 03327781-n
   - 03328156-n
   partOfSpeech: n
+  wikidata: Q131596
 03327515-n:
   definition:
   - a building on a farm
@@ -41666,6 +41678,7 @@
   members:
   - field house
   partOfSpeech: n
+  wikidata: Q5447073
 03338555-n:
   definition:
   - a building for indoor sports
@@ -44899,7 +44912,7 @@
   members:
   - foremast
   partOfSpeech: n
-  wikidata: Q639250
+  wikidata: Q538850
 03387815-n:
   definition:
   - a carpenter's plane intermediate between a jack plane and a jointer plane
@@ -47662,6 +47675,7 @@
   - 03526239-n
   - 03687813-n
   partOfSpeech: n
+  wikidata: Q53060
 03432566-n:
   definition:
   - a computer circuit with several inputs but only one output that can be activated
@@ -50358,6 +50372,7 @@
   mero_part:
   - 03346242-n
   partOfSpeech: n
+  wikidata: Q6607
 03472728-n:
   definition:
   - a plectrum used to pluck a guitar
@@ -55073,7 +55088,6 @@
   members:
   - hostel
   - youth hostel
-  - student lodging
   partOfSpeech: n
 03546876-n:
   definition:
@@ -58255,6 +58269,7 @@
   - blue jeans
   - denim
   partOfSpeech: n
+  wikidata: Q83363
 03600138-n:
   definition:
   - a car suitable for traveling over rough terrain
@@ -59432,18 +59447,6 @@
   - 14886904-n
   partOfSpeech: n
   wikidata: Q409192
-03617587-n:
-  definition:
-  - nonsteroidal anti-inflammatory (trade name Torodal) that is given only orally
-  hypernym:
-  - 03834005-n
-  ili: i55354
-  members:
-  - ketorolac
-  - Torodal
-  mero_substance:
-  - 14623348-n
-  partOfSpeech: n
 03617768-n:
   definition:
   - nonsteroidal anti-inflammatory drug (trade names Acular and Toradol) that is administered
@@ -59455,6 +59458,7 @@
   - ketorolac tromethamine
   - Acular
   - Toradol
+  - ketorolac
   mero_substance:
   - 14623348-n
   partOfSpeech: n
@@ -66121,6 +66125,7 @@
   - manakin
   - form
   partOfSpeech: n
+  wikidata: Q855680
 03723595-n:
   definition:
   - a diuretic (trade name Osmitrol) used to promote the excretion of urine
@@ -67687,7 +67692,7 @@
   - 03055525-n
   ili: i56143
   members:
-  - man's clothing
+  - men's clothing
   partOfSpeech: n
 03751977-n:
   definition:
@@ -67808,6 +67813,7 @@
   mero_part:
   - 03754377-n
   partOfSpeech: n
+  wikidata: Q57334497
 03753947-n:
   definition:
   - a drug (trade name Purinethol) that interferes with the metabolism of purine and
@@ -67961,6 +67967,7 @@
   mero_part:
   - 07581023-n
   partOfSpeech: n
+  wikidata: Q443767
 03756760-n:
   definition:
   - waist-length jacket tapering to a point at the back; worn by officers in the mess
@@ -68158,6 +68165,7 @@
   - shabu
   - trash
   partOfSpeech: n
+  wikidata: Q191924
 03760205-n:
   definition:
   - antihistamine used to treat allergic responses (as rhinitis or dermatitis or pruritus)
@@ -68861,6 +68869,7 @@
   - millinery
   - hat shop
   partOfSpeech: n
+  wikidata: Q663375
 03772135-n:
   definition:
   - corrugated edge of a coin
@@ -70259,8 +70268,8 @@
   ili: i56382
   members:
   - mosaic
-  - arial mosaic
   - photomosaic
+  - aerial mosaic
   partOfSpeech: n
 03793580-n:
   definition:
@@ -71025,6 +71034,7 @@
   - mural
   - wall painting
   partOfSpeech: n
+  wikidata: Q219423
 03805398-n:
   definition:
   - a bed that can be folded or swung into a cabinet when not being used
@@ -72433,6 +72443,7 @@
   members:
   - newsstand
   partOfSpeech: n
+  wikidata: Q1528905
 03828307-n:
   definition:
   - reflecting telescope in which the image is viewed through an eyepiece perpendicular
@@ -74407,6 +74418,7 @@
   - 03935052-n
   - 04334462-n
   partOfSpeech: n
+  wikidata: Q281460
 03859941-n:
   definition:
   - a sheer stiff muslin
@@ -75215,6 +75227,7 @@
   - over-the-counter market
   - OTC market
   partOfSpeech: n
+  wikidata: Q66320
 03872233-n:
   definition:
   - trade name for an oral contraceptive containing 30mcg ethinylestradiol and 1.5
@@ -77476,6 +77489,7 @@
   mero_substance:
   - 03907152-n
   partOfSpeech: n
+  wikidata: Q3328263
 03907057-n:
   definition:
   - large and often sumptuous tent
@@ -79053,6 +79067,7 @@
   - picture
   - pic
   partOfSpeech: n
+  wikidata: Q125191
 03932172-n:
   definition:
   - an existing photograph licensed for a specific use
@@ -79528,6 +79543,7 @@
   - 02867933-n
   - 08667966-n
   partOfSpeech: n
+  wikidata: Q863454
 03940209-n:
   definition:
   - a support for two adjacent bridge spans
@@ -81463,6 +81479,7 @@
   - 03318547-n
   - 07286647-n
   partOfSpeech: n
+  wikidata: Q47883
 03970789-n:
   definition:
   - a portable enclosure in which babies may be left to play
@@ -82242,6 +82259,7 @@
   - patrol wagon
   - wagon
   - black Maria
+  - Black Maria
   partOfSpeech: n
 03984488-n:
   definition:
@@ -82639,7 +82657,7 @@
   partOfSpeech: n
 03990172-n:
   definition:
-  - a container of stimulant drug (amyl nitrate or butyl nitrite)
+  - a container of stimulant drug (amyl nitrite or butyl nitrite)
   hypernym:
   - 04327264-n
   ili: i57552
@@ -82997,6 +83015,7 @@
   - post exchange
   - PX
   partOfSpeech: n
+  wikidata: Q10901124
 03995911-n:
   definition:
   - a hole dug in the ground to hold a fence post
@@ -87686,6 +87705,7 @@
   - recreational facility
   - recreation facility
   partOfSpeech: n
+  wikidata: Q30313989
 04072384-n:
   definition:
   - a motorized wheeled vehicle used for camping or other recreational activities
@@ -89577,6 +89597,7 @@
   mero_substance:
   - 03906828-n
   partOfSpeech: n
+  wikidata: Q34442
 04103827-n:
   definition:
   - a bed supporting a road
@@ -91631,7 +91652,7 @@
   members:
   - sailcloth
   partOfSpeech: n
-  wikidata: Q3300040
+  wikidata: Q1570101
 04135920-n:
   definition:
   - a vessel that is powered by the wind; often having several masts
@@ -94716,6 +94737,7 @@
   members:
   - settlement house
   partOfSpeech: n
+  wikidata: Q101224664
 04185123-n:
   definition:
   - one of four playing cards in a deck with seven pips on the face
@@ -100949,6 +100971,7 @@
   ili: i59306
   members:
   - spicemill
+  - spice mill
   partOfSpeech: n
 04282294-n:
   definition:
@@ -101798,6 +101821,7 @@
   members:
   - spring
   partOfSpeech: n
+  wikidata: Q102836
 04295671-n:
   definition:
   - a balance that measure weight by the tension on a helical spring
@@ -104763,6 +104787,7 @@
   mero_substance:
   - 03906828-n
   partOfSpeech: n
+  wikidata: Q79007
 04342347-n:
   definition:
   - the part of a thoroughfare between the sidewalks; the part of the thoroughfare
@@ -105196,6 +105221,7 @@
   members:
   - student union
   partOfSpeech: n
+  wikidata: Q7627808
 04350997-n:
   definition:
   - a farm where horses are bred
@@ -109630,6 +109656,7 @@
   - terminus
   - depot
   partOfSpeech: n
+  wikidata: Q67183571
 04420286-n:
   definition:
   - a contact on an electrical device (such as a battery) at which electric current
@@ -112742,6 +112769,7 @@
   members:
   - toyshop
   partOfSpeech: n
+  wikidata: Q1318959
 04469553-n:
   definition:
   - a doll that resembles a soldier
@@ -112966,6 +112994,7 @@
   members:
   - trading card
   partOfSpeech: n
+  wikidata: Q1067203
 04473168-n:
   definition:
   - a road junction at which traffic streams circularly around a central island
@@ -114347,6 +114376,7 @@
   members:
   - trombone
   partOfSpeech: n
+  wikidata: Q8350
 04494832-n:
   definition:
   - a painting rendered in such great detail as to deceive the viewer concerning its
@@ -114919,6 +114949,7 @@
   members:
   - tumble-dryer
   - tumble drier
+  - tumble dryer
   partOfSpeech: n
 04504167-n:
   definition:
@@ -115963,7 +115994,7 @@
   instance_hypernym:
   - 04518297-n
   members:
-  - University of West Virginia
+  - West Virginia University
   partOfSpeech: n
   wikidata: Q115376
 04520727-n:
@@ -117943,6 +117974,7 @@
   - walkway
   - paseo
   partOfSpeech: n
+  wikidata: Q17087190
 04552591-n:
   definition:
   - an enclosing framework on casters or wheels; helps babies learn to walk
@@ -118521,6 +118553,7 @@
   - automatic washer
   - washing machine
   partOfSpeech: n
+  wikidata: Q124441
 04562157-n:
   definition:
   - seal consisting of a flat disk placed to prevent leakage
@@ -121227,7 +121260,7 @@
   - 03055525-n
   ili: i61228
   members:
-  - woman's clothing
+  - women's clothing
   partOfSpeech: n
 04604393-n:
   definition:
@@ -121563,6 +121596,7 @@
   mero_part:
   - 03689034-n
   partOfSpeech: n
+  wikidata: Q628858
 04610120-n:
   definition:
   - room where work is done
@@ -122502,7 +122536,7 @@
   members:
   - oxidation pond
   - stabilization pond
-  - waster stabilization lagoon
+  - water stabilization lagoon
   partOfSpeech: n
 83682579-n:
   definition:
@@ -122625,6 +122659,16 @@
   - ballista
   - bolt thrower
   partOfSpeech: n
+87889633-n:
+  definition:
+  - rocket developed and used by the United States Navy during World War II
+  instance_hypernym:
+  - 04106523-n
+  members:
+  - Old Faithful
+  - 4.5-Inch Beach Barrage Rocket
+  partOfSpeech: n
+  wikidata: Q4637253
 88117138-n:
   definition:
   - content across multiple platforms and media channels with the goal of creating
@@ -122675,6 +122719,15 @@
   - 03187746-n
   members:
   - glowstick
+  - lightstick
+  partOfSpeech: n
+88496593-n:
+  definition:
+  - an airplane propelled by a turbojet engine
+  hypernym:
+  - 03601053-n
+  members:
+  - turbojet
   partOfSpeech: n
 88571022-n:
   definition:
@@ -122713,6 +122766,16 @@
   - CFL
   - energy-saving light bulb
   - energy-saving light
+  partOfSpeech: n
+89448260-n:
+  definition:
+  - a jet engine in which all the air passes through the compressor, combustion chamber,
+    and turbine before being expelled to produce thrust
+  hypernym:
+  - 03601478-n
+  members:
+  - turbojet
+  - turbojet engine
   partOfSpeech: n
 90000271-n:
   definition:
@@ -122775,16 +122838,6 @@
   - 04431553-n
   members:
   - everything
-  partOfSpeech: n
-  source: Colloquial WordNet
-90005661-n:
-  definition:
-  - A portable rod used for illumination.
-  hypernym:
-  - 03670692-n
-  - 04324971-n
-  members:
-  - lightstick
   partOfSpeech: n
   source: Colloquial WordNet
 90006111-n:
@@ -124205,7 +124258,7 @@
   hypernym:
   - 03117803-n
   members:
-  - eyeshadow pallete
+  - eyeshadow palette
   mero_part:
   - 03314632-n
   partOfSpeech: n

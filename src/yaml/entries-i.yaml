@@ -1188,10 +1188,10 @@ Illecebrum:
     sense:
     - id: 'illecebrum%1:20:00::'
       synset: 11831387-n
-Illecebrum verticullatum:
+Illecebrum verticillatum:
   n:
     sense:
-    - id: 'illecebrum_verticullatum%1:20:00::'
+    - id: 'illecebrum_verticillatum%1:20:00::'
       synset: 11831528-n
 Illicium:
   n:
@@ -4092,6 +4092,11 @@ Isurus glaucus:
     sense:
     - id: 'isurus_glaucus%1:05:00::'
       synset: 01487203-n
+Isurus oxyrhinchus:
+  n:
+    sense:
+    - id: 'isurus_oxyrhinchus%1:05:00::'
+      synset: 01486926-n
 Isurus oxyrhincus:
   n:
     sense:
@@ -14809,6 +14814,11 @@ in so far:
     sense:
     - id: 'in_so_far%4:02:00::'
       synset: 00099509-r
+in so far as:
+  r:
+    sense:
+    - id: 'in_so_far_as%4:02:00::'
+      synset: 00099509-r
 in someone's way:
   r:
     sense:
@@ -23465,6 +23475,8 @@ infantile autism:
     sense:
     - id: 'infantile_autism%1:09:00::'
       synset: 05905862-n
+    - id: 'infantile_autism%1:09:01::'
+      synset: 85211648-n
 infantile fixation:
   n:
     sense:
@@ -23475,6 +23487,11 @@ infantile paralysis:
     sense:
     - id: 'infantile_paralysis%1:26:00::'
       synset: 14163658-n
+infantile psychosis:
+  n:
+    sense:
+    - id: 'infantile_psychosis%1:09:00::'
+      synset: 85211648-n
 infantilism:
   n:
     pronunciation:
@@ -24549,7 +24566,7 @@ inflammatory bowel disease:
   n:
     sense:
     - id: 'inflammatory_bowel_disease%1:26:00::'
-      synset: 14364496-n
+      synset: 85119734-n
 inflammatory disease:
   n:
     sense:

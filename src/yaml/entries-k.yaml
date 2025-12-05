@@ -678,6 +678,21 @@ Kannada-speaking:
     sense:
     - id: kannada-speaking%5:00:00:communicative:00
       synset: 00500769-s
+Kanner syndrome:
+  n:
+    sense:
+    - id: 'kanner_syndrome%1:09:00::'
+      synset: 85211648-n
+Kanner's autism:
+  n:
+    sense:
+    - id: 'kanner''s_autism%1:09:00::'
+      synset: 85211648-n
+Kanner's syndrome:
+  n:
+    sense:
+    - id: 'kanner''s_syndrome%1:09:00::'
+      synset: 85211648-n
 Kansa:
   n:
     sense:
@@ -840,6 +855,16 @@ Karbala:
     sense:
     - id: 'karbala%1:15:00::'
       synset: 08934346-n
+Karbi:
+  n:
+    sense:
+    - id: 'karbi%1:10:00::'
+      synset: 86620955-n
+Karbi language:
+  n:
+    sense:
+    - id: 'karbi_language%1:10:00::'
+      synset: 86620955-n
 Karel Capek:
   n:
     sense:
@@ -2635,7 +2660,7 @@ King's English:
   n:
     sense:
     - id: 'king''s_english%1:10:00::'
-      synset: 06961022-n
+      synset: 06961158-n
 Kingdom of Belgium:
   n:
     sense:
@@ -2958,12 +2983,12 @@ Kiswahili:
   n:
     sense:
     - id: 'kiswahili%1:10:00::'
-      synset: 07006307-n
+      synset: 07008452-n
 Kiswahili language:
   n:
     sense:
     - id: 'kiswahili_language%1:10:01::'
-      synset: 07006307-n
+      synset: 07008452-n
 Kit Carson:
   n:
     sense:
@@ -4210,10 +4235,10 @@ Kurdistan:
       synset: 09061465-n
     - id: 'kurdistan%1:06:00::'
       synset: 03634391-n
-Kurdistan Labor Pary:
+Kurdistan Labor Party:
   n:
     sense:
-    - id: 'kurdistan_labor_pary%1:14:00::'
+    - id: 'kurdistan_labor_party%1:14:00::'
       synset: 08046661-n
 Kurdistan Workers Party:
   n:
@@ -4734,6 +4759,8 @@ kala-azar:
     sense:
     - id: 'kala-azar%1:26:00::'
       synset: 14204531-n
+    - id: 'kala-azar%1:26:01::'
+      synset: 14201559-n
 kalansuwa:
   n:
     sense:
@@ -6755,7 +6782,7 @@ ketorolac:
       variety: US
     sense:
     - id: 'ketorolac%1:06:00::'
-      synset: 03617587-n
+      synset: 03617768-n
 ketorolac tromethamine:
   n:
     sense:

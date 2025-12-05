@@ -1101,6 +1101,7 @@
   - netherworld
   - Scheol
   - underworld
+  - Sheol
   mero_part:
   - 09209606-n
   - 09271630-n
@@ -2327,6 +2328,7 @@
   members:
   - inefficiency
   partOfSpeech: n
+  wikidata: Q115098150
 05656961-n:
   definition:
   - something that demonstrates a lack of professional competency
@@ -8054,6 +8056,7 @@
   members:
   - fashion
   partOfSpeech: n
+  wikidata: Q12684
 05758945-n:
   definition:
   - the style in which a garment is cut
@@ -8226,6 +8229,7 @@
   members:
   - education
   partOfSpeech: n
+  wikidata: Q8434
 05761951-n:
   definition:
   - learning (of values or attitudes etc.) that is incorporated within yourself
@@ -9482,7 +9486,7 @@
   members:
   - onomancy
   partOfSpeech: n
-  wikidata: Q2024568
+  wikidata: Q55293
 05785827-n:
   definition:
   - telling fortunes by lines on the palm of the hand
@@ -10065,6 +10069,7 @@
   members:
   - determination
   partOfSpeech: n
+  wikidata: Q12778120
 05796718-n:
   definition:
   - making decisions on the basis of what seems best instead of following some single
@@ -16107,15 +16112,18 @@
   partOfSpeech: n
 05905605-n:
   definition:
-  - (psychiatry) an abnormal absorption with the self; marked by communication disorders
-    and short attention span and inability to treat others as people
+  - a spectrum disorder marked by characteristics such as social communication, sensory
+    processing differences, focused interests, and repetitive behaviors
   domain_topic:
   - 06065477-n
   hypernym:
-  - 14327487-n
+  - 14075885-n
   ili: i67835
   members:
   - autism
+  - autism spectrum disorder
+  - ASD
+  - autism spectrum condition
   partOfSpeech: n
 05905862-n:
   definition:
@@ -16365,6 +16373,7 @@
   members:
   - activism
   partOfSpeech: n
+  wikidata: Q203764
 05910608-n:
   definition:
   - a policy of promoting oneself at the expense of others; used especially of national
@@ -17162,6 +17171,7 @@
   members:
   - feng shui
   partOfSpeech: n
+  wikidata: Q170537
 05924749-n:
   definition:
   - an idea that is suggested
@@ -19255,6 +19265,7 @@
   - Qabbalah
   - Qabbala
   partOfSpeech: n
+  wikidata: Q123006
 05963233-n:
   definition:
   - the doctrines of the Kabbalah
@@ -20044,6 +20055,7 @@
   members:
   - feminism
   partOfSpeech: n
+  wikidata: Q7252
 05976761-n:
   definition:
   - the power associated with a juju
@@ -20687,6 +20699,7 @@
   - witchcraft
   - witchery
   partOfSpeech: n
+  wikidata: Q259745
 05988321-n:
   definition:
   - a magical spell
@@ -21820,6 +21833,7 @@
   - math
   - maths
   partOfSpeech: n
+  wikidata: Q395
 06013012-n:
   definition:
   - the branches of mathematics that study and develop the principles of mathematics
@@ -23627,6 +23641,7 @@
   - biology
   - biological science
   partOfSpeech: n
+  wikidata: Q420
 06050997-n:
   definition:
   - the application of the principles of the natural sciences to medicine
@@ -23780,6 +23795,7 @@
   members:
   - anesthesiology
   partOfSpeech: n
+  wikidata: Q615057
 06056059-n:
   definition:
   - the branch of medical science that studies the blood and lymph vessels and their
@@ -24003,6 +24019,7 @@
   - gynecology
   - gynaecology
   partOfSpeech: n
+  wikidata: Q1221899
 06060665-n:
   definition:
   - the branch of medicine that deals with diseases of the blood and blood-forming
@@ -24491,6 +24508,7 @@
   - otorhinolaryngology
   - otolaryngology
   partOfSpeech: n
+  wikidata: Q189553
 06072622-n:
   definition:
   - the branch of medical science that deals with serums; especially with blood serums
@@ -24532,6 +24550,7 @@
   members:
   - surgery
   partOfSpeech: n
+  wikidata: Q40821
 06073656-n:
   definition:
   - the branch of medical science concerned with disorders or deformities of the spine
@@ -24749,6 +24768,7 @@
   - bionomics
   - environmental science
   partOfSpeech: n
+  wikidata: Q7150
 06080976-n:
   definition:
   - the branch of biology that studies the formation and early development of living
@@ -24780,6 +24800,7 @@
   members:
   - forestry
   partOfSpeech: n
+  wikidata: Q38112
 06081695-n:
   definition:
   - the branch of forestry dealing with the development and care of forests
@@ -24789,6 +24810,7 @@
   members:
   - silviculture
   partOfSpeech: n
+  wikidata: Q720362
 06081825-n:
   definition:
   - the branch of zoology that studies insects
@@ -25142,6 +25164,7 @@
   members:
   - biochemistry
   partOfSpeech: n
+  wikidata: Q7094
 06089780-n:
   definition:
   - the branch of biochemistry dealing with the chemical nature and biological activity
@@ -25289,6 +25312,7 @@
   - chemistry
   - chemical science
   partOfSpeech: n
+  wikidata: Q2329
 06098583-n:
   definition:
   - the chemistry of compounds containing carbon (originally defined as the chemistry
@@ -26719,6 +26743,7 @@
   mero_part:
   - 06133966-n
   partOfSpeech: n
+  wikidata: Q12271
 06133966-n:
   definition:
   - the science of architecture
@@ -26872,6 +26897,7 @@
   members:
   - civil engineering
   partOfSpeech: n
+  wikidata: Q77590
 06137324-n:
   definition:
   - the branch of civil engineering dealing with the use and control of water in motion
@@ -26881,6 +26907,7 @@
   members:
   - hydraulic engineering
   partOfSpeech: n
+  wikidata: Q1130265
 06137475-n:
   definition:
   - the branch of engineering science that studies the uses of electricity and the
@@ -26893,6 +26920,7 @@
   - electrical engineering
   - EE
   partOfSpeech: n
+  wikidata: Q43035
 06137758-n:
   definition:
   - (often plural) the branch of electrical engineering concerned with the technology
@@ -26918,6 +26946,7 @@
   - computer science
   - computing
   partOfSpeech: n
+  wikidata: Q21198
 06142175-n:
   definition:
   - (computing) a discrete item that provides a description of virtually anything
@@ -27026,6 +27055,7 @@
   - information technology
   - IT
   partOfSpeech: n
+  wikidata: Q11661
 06144167-n:
   definition:
   - the branch of engineering that deals with the design and construction and operation
@@ -27036,6 +27066,7 @@
   members:
   - mechanical engineering
   partOfSpeech: n
+  wikidata: Q101333
 06144350-n:
   definition:
   - the branch of engineering that deals with things smaller than 100 nanometers (especially
@@ -27125,6 +27156,7 @@
   - psychology
   - psychological science
   partOfSpeech: n
+  wikidata: Q9418
 06147210-n:
   definition:
   - the branch of psychology concerned with abnormal behavior
@@ -27449,6 +27481,7 @@
   mero_part:
   - 06178050-n
   partOfSpeech: n
+  wikidata: Q23404
 06153532-n:
   definition:
   - the branch of anthropology that studies prehistoric people and their cultures
@@ -27459,6 +27492,7 @@
   - archeology
   - archaeology
   partOfSpeech: n
+  wikidata: Q23498
 06154213-n:
   definition:
   - archeology of the ancient Assyrians
@@ -27699,6 +27733,7 @@
   - political science
   - government
   partOfSpeech: n
+  wikidata: Q36442
 06158199-n:
   definition:
   - the study of the effects of economic geography on the powers of the state
@@ -27847,6 +27882,7 @@
   mero_part:
   - 06177868-n
   partOfSpeech: n
+  wikidata: Q21201
 06161412-n:
   definition:
   - the scientific study of crime and criminal behavior and law enforcement
@@ -28030,6 +28066,7 @@
   members:
   - interior design
   partOfSpeech: n
+  wikidata: Q179232
 06165130-n:
   definition:
   - the discipline that studies the English language and literature
@@ -28039,6 +28076,7 @@
   members:
   - English
   partOfSpeech: n
+  wikidata: Q27968
 06165265-n:
   definition:
   - the discipline that records and interprets past events involving human beings
@@ -28069,6 +28107,7 @@
   members:
   - art history
   partOfSpeech: n
+  wikidata: Q50637
 06165867-n:
   definition:
   - the branch of art history that studies visual images and their symbolic meaning
@@ -28708,6 +28747,7 @@
   members:
   - library science
   partOfSpeech: n
+  wikidata: Q199655
 06180756-n:
   definition:
   - the humanistic study of language and literature
@@ -28718,6 +28758,7 @@
   - linguistics
   - philology
   partOfSpeech: n
+  wikidata: Q40634
 06180981-n:
   definition:
   - the branch of philology that is devoted to the study of dialects
@@ -28805,6 +28846,7 @@
   members:
   - linguistics
   partOfSpeech: n
+  wikidata: Q8162
 06184139-n:
   definition:
   - the branch of linguistics that deals with syntax and morphology (and sometimes
@@ -29173,6 +29215,7 @@
   - theology
   - divinity
   partOfSpeech: n
+  wikidata: Q34178
 06192473-n:
   definition:
   - the branch of theology that is concerned with angels
@@ -31817,6 +31860,7 @@
   members:
   - Anabaptism
   partOfSpeech: n
+  wikidata: Q165580
 06242201-n:
   definition:
   - any of various doctrines closely related to Anabaptism
@@ -32128,6 +32172,7 @@
   members:
   - Jainism
   partOfSpeech: n
+  wikidata: Q9232
 06250061-n:
   definition:
   - the doctrines of a monotheistic religion founded in northern India in the 16th
@@ -32754,6 +32799,23 @@
   - 06206319-n
   members:
   - dogmatism
+  partOfSpeech: n
+85211648-n:
+  definition:
+  - formerly used for autism spectrum disorder with significant disability and symptoms
+    starting in early childhood
+  hypernym:
+  - 05905605-n
+  members:
+  - classic autism
+  - classical autism
+  - childhood autism
+  - autistic disorder
+  - infantile autism
+  - infantile psychosis
+  - Kanner's autism
+  - Kanner's syndrome
+  - Kanner syndrome
   partOfSpeech: n
 87126997-n:
   definition:
@@ -34011,7 +34073,7 @@
   - 05742504-n
   - 13480525-n
   members:
-  - defensive attribition
+  - defensive attribution
   partOfSpeech: n
   source: plWordNet 4.0
 92443811-n:
@@ -34944,7 +35006,7 @@
   hypernym:
   - 92437044-n
   members:
-  - Utraqiusm
+  - Utraquism
   partOfSpeech: n
   source: plWordNet 4.0
 92450209-n:

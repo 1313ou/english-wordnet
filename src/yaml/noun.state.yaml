@@ -1334,6 +1334,7 @@
   members:
   - congestion
   - over-crowding
+  - overcrowding
   partOfSpeech: n
 13967966-n:
   definition:
@@ -2682,6 +2683,7 @@
   - employment
   - employ
   partOfSpeech: n
+  wikidata: Q656365
 13991755-n:
   definition:
   - the state of being unemployed or not having a job
@@ -4178,6 +4180,7 @@
   members:
   - freedom of the seas
   partOfSpeech: n
+  wikidata: Q3566048
 14017633-n:
   attribute:
   - 00729216-a
@@ -7107,8 +7110,8 @@
   ili: i110740
   members:
   - erectile dysfunction
-  - male erecticle dysfunction
   - ED
+  - male erectile dysfunction
   partOfSpeech: n
 14068829-n:
   definition:
@@ -7274,7 +7277,7 @@
   - 14069684-n
   ili: i110755
   members:
-  - entopic pregnancy
+  - eutopic pregnancy
   partOfSpeech: n
 14071616-n:
   definition:
@@ -7699,9 +7702,9 @@
   partOfSpeech: n
 14079762-n:
   definition:
-  - a condition (mostly in boys) characterized by behavioral and learning disorders
+  - a condition characterized by hyperactivity, impulsivity, and emotional dysregulation
   hypernym:
-  - 14327487-n
+  - 14075885-n
   ili: i110794
   members:
   - attention deficit disorder
@@ -9281,10 +9284,10 @@
   wikidata: Q12135
 14107773-n:
   definition:
-  - a psychiatric disorder usually noted during early school years; characterized
-    by impaired social relations and by repetitive patterns of behavior
+  - formerly used for autism spectrum disorder with relatively unimpaired speech skills
+    and intelligence
   hypernym:
-  - 14107272-n
+  - 05905605-n
   ili: i110943
   members:
   - Asperger's syndrome
@@ -9688,7 +9691,7 @@
   ili: i110981
   members:
   - Friedreich's ataxia
-  - herediatry spinal ataxia
+  - hereditary spinal ataxia
   partOfSpeech: n
 14115239-n:
   definition:
@@ -11842,6 +11845,7 @@
   - dandy fever
   - breakbone fever
   partOfSpeech: n
+  wikidata: Q30953
 14153481-n:
   definition:
   - an infection of the intestines marked by severe diarrhea
@@ -14214,9 +14218,7 @@
   - fascioliasis
   - fasciolosis
   partOfSpeech: n
-  wikidata:
-  - Q719656
-  - Q6972442
+  wikidata: Q6972442
 14199385-n:
   definition:
   - infestation with the large intestinal fluke Fasciolopsis buski; common in eastern
@@ -14331,6 +14333,7 @@
   - leishmaniasis
   - leishmaniosis
   - kala azar
+  - kala-azar
   partOfSpeech: n
 14201808-n:
   definition:
@@ -21731,7 +21734,7 @@
   - a serious chronic and progressive inflammation of the ileum producing frequent
     bouts of diarrhea with abdominal pain and nausea and fever and weight loss
   hypernym:
-  - 14364496-n
+  - 85119734-n
   ili: i112128
   members:
   - regional enteritis
@@ -21743,7 +21746,7 @@
   - recurrent abdominal pain and diarrhea (often alternating with periods of constipation);
     often associated with emotional stress
   hypernym:
-  - 14364496-n
+  - 85119734-n
   ili: i112129
   members:
   - irritable bowel syndrome
@@ -21768,7 +21771,7 @@
   - a serious chronic inflammatory disease of the large intestine and rectum characterized
     by recurrent episodes of abdominal pain and fever and chills and profuse diarrhea
   hypernym:
-  - 14364496-n
+  - 85119734-n
   ili: i112131
   members:
   - ulcerative colitis
@@ -23641,7 +23644,7 @@
   members:
   - subacute bacterial endocarditis
   partOfSpeech: n
-  wikidata: Q7630703
+  wikidata: Q2271749
 14362792-n:
   definition:
   - inflammation of the myocardium (the muscular tissue of the heart)
@@ -23782,7 +23785,6 @@
   ili: i112324
   members:
   - colitis
-  - inflammatory bowel disease
   partOfSpeech: n
 14364658-n:
   definition:
@@ -27026,7 +27028,7 @@
   ili: i112644
   members:
   - mass hysteria
-  - epidemic hysertia
+  - epidemic hysteria
   partOfSpeech: n
 14415723-n:
   definition:
@@ -29217,6 +29219,7 @@
   - paygrade
   - rating
   partOfSpeech: n
+  wikidata: Q56019
 14455063-n:
   definition:
   - the rank of a flag officer
@@ -33499,8 +33502,8 @@
   members:
   - chromosomal aberration
   - chromosomal anomaly
-  - chrosomal abnormality
-  - chromosonal disorder
+  - chromosomal disorder
+  - chromosomal abnormality
   partOfSpeech: n
 14528007-n:
   definition:
@@ -38078,6 +38081,14 @@
   - Wuhan flu
   - coronavirus
   - corona
+  partOfSpeech: n
+85119734-n:
+  definition:
+  - a disease causing chronic inflammation of the intestines
+  hypernym:
+  - 14093842-n
+  members:
+  - inflammatory bowel disease
   partOfSpeech: n
 85935644-n:
   definition:
